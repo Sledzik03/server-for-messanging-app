@@ -11,26 +11,26 @@ import tkinter as tk
 root = tk.Tk()
 root.title("Serwer Super Żerom")
 root.geometry("800x600")
-server = socket.gethostbyname(socket.gethostname())
-port = 5555
-
-s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 teraz = datetime.datetime.now()
 godzina = int(teraz.strftime("%H"))
 minuta = int(teraz.strftime("%M"))
 sekunda = int(teraz.strftime(("%S")))
 log = open(f"logs\log{godzina}_{minuta}_{sekunda}.txt", "w", encoding='utf-8')
+def start_server():
+    server = socket.gethostbyname(socket.gethostname())
+    port = 5555
+    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    try:
+        s.bind((server, port))
+    except socket.error as e:
+        str(e)
+    s.listen(25)
+    print("Czekanie na połączenie. Server działa")
 
-try:
-    s.bind((server, port))
 
-except socket.error as e:
-    str(e)
-
-s.listen(25)
-
-print("Czekanie na połączenie. Server działa")
-
+start_button = tk.Button(root,text="start serwera")
+start_button.configure(command=start_server())
+start_button.pack()
 def to_int(str):
     str = int(str)
     return str
