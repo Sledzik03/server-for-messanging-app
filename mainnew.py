@@ -7,7 +7,9 @@ from _thread import *
 #from Crypto.Cipher import AES
 import tkinter as tk
 
-
+server = socket.gethostbyname(socket.gethostname())
+port = 5555
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 root = tk.Tk()
 root.title("Serwer Super Żerom")
 root.geometry("800x600")
@@ -17,14 +19,12 @@ minuta = int(teraz.strftime("%M"))
 sekunda = int(teraz.strftime(("%S")))
 log = open(f"logs\log{godzina}_{minuta}_{sekunda}.txt", "w", encoding='utf-8')
 def start_server():
-    server = socket.gethostbyname(socket.gethostname())
-    port = 5555
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     try:
         s.bind((server, port))
     except socket.error as e:
         str(e)
     s.listen(25)
+
     print("Czekanie na połączenie. Server działa")
 
 
