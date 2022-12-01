@@ -1,0 +1,3143 @@
+otrzymano : ping + 84518 
+wysłano :  + 84518 
+otrzymano : ping + 84519 
+wysłano :  + 84519 
+otrzymano : ping + 85917 
+wysłano :  + 85917 
+otrzymano : ping + 85917 
+wysłano :  + 85917 
+otrzymano : ('msg_pisior', 'dawid') + 85924 
+wysłano :  + 85924 
+otrzymano : ping + 91050 
+wysłano :  + 91050 
+otrzymano : ping + 91050 
+wysłano :  + 91050 
+otrzymano : ping + 91056 
+wysłano : ('0', '0') + 91056 
+otrzymano : pingping + 91056 
+wysłano : ('0', '0') + 91056 
+otrzymano : ping + 91056 
+wysłano : ('0', '0') + 91056 
+otrzymano : ping + 91056 
+wysłano : ('0', '0') + 91056 
+otrzymano : ping + 91056 
+wysłano : ('0', '0') + 91056 
+otrzymano : ping + 91057 
+wysłano : ('0', '0') + 91057 
+otrzymano : ping + 91057 
+wysłano : ('0', '0') + 91057 
+otrzymano : ping + 91057 
+wysłano : ('0', '0') + 91057 
+otrzymano : ping + 91057 
+wysłano : ('0', '0') + 91057 
+otrzymano : ping + 91057 
+wysłano : ('0', '0') + 91057 
+otrzymano : ping + 91058 
+wysłano : ('0', '0') + 91058 
+otrzymano : ping + 91058 
+wysłano : ('0', '0') + 91058 
+otrzymano : ping + 91058 
+wysłano : ('0', '0') + 91058 
+otrzymano : ping + 91058 
+wysłano : ('0', '0') + 91058 
+otrzymano : ping + 91059 
+wysłano : ('0', '0') + 91059 
+otrzymano : ping + 91059 
+wysłano : ('0', '0') + 91059 
+otrzymano : ping + 91059 
+wysłano : ('0', '0') + 91059 
+otrzymano : ping + 91059 
+wysłano : ('0', '0') + 91059 
+otrzymano : ping + 91059 
+wysłano : ('0', '0') + 91059 
+otrzymano : ping + 91100 
+wysłano : ('0', '0') + 91100 
+otrzymano : ping + 91100 
+wysłano : ('0', '0') + 91100 
+otrzymano : ping + 91100 
+wysłano : ('0', '0') + 91100 
+otrzymano : ping + 91100 
+wysłano : ('0', '0') + 91100 
+otrzymano : ping + 91100 
+wysłano : ('0', '0') + 91100 
+otrzymano : ping + 91101 
+wysłano : ('0', '0') + 91101 
+otrzymano : ping + 91101 
+wysłano : ('0', '0') + 91101 
+otrzymano : ping + 91101 
+wysłano : ('0', '0') + 91101 
+otrzymano : ping + 91101 
+wysłano : ('0', '0') + 91101 
+otrzymano : ping + 91101 
+wysłano : ('0', '0') + 91101 
+otrzymano : ('msg_czesc§zuzia', 'dawid') + 91102 
+wysłano : ('0', '0') + 91102 
+otrzymano : ping + 91102 
+wysłano : ('0', '0') + 91102 
+otrzymano : ping + 91102 
+wysłano : ('0', '0') + 91102 
+otrzymano : ping + 91102 
+wysłano : ('0', '0') + 91102 
+otrzymano : ping + 91102 
+wysłano : ('0', '0') + 91102 
+otrzymano : ping + 91103 
+wysłano : ('0', '0') + 91103 
+otrzymano : ping + 91103 
+wysłano : ('0', '0') + 91103 
+otrzymano : ping + 91103 
+wysłano : ('0', '0') + 91103 
+otrzymano : ping + 91103 
+wysłano : ('0', '0') + 91103 
+otrzymano : ping + 91103 
+wysłano : ('0', '0') + 91103 
+otrzymano : ping + 91104 
+wysłano : ('0', '0') + 91104 
+otrzymano : ping + 91104 
+wysłano : ('0', '0') + 91104 
+otrzymano : ping + 91104 
+wysłano : ('0', '0') + 91104 
+otrzymano : ping + 91104 
+wysłano : ('0', '0') + 91104 
+otrzymano : ping + 91104 
+wysłano : ('0', '0') + 91104 
+otrzymano : ping + 91105 
+wysłano : ('0', '0') + 91105 
+otrzymano : ping + 91105 
+wysłano : ('0', '0') + 91105 
+otrzymano : ping + 91105 
+wysłano : ('0', '0') + 91105 
+otrzymano : ping + 91105 
+wysłano : ('0', '0') + 91105 
+otrzymano : ping + 91105 
+wysłano : ('0', '0') + 91105 
+otrzymano : ping + 91106 
+wysłano : ('0', '0') + 91106 
+otrzymano : ping + 91106 
+wysłano : ('0', '0') + 91106 
+otrzymano : ping + 91106 
+wysłano : ('0', '0') + 91106 
+otrzymano : ping + 91106 
+wysłano : ('0', '0') + 91106 
+otrzymano : ping + 91106 
+wysłano : ('0', '0') + 91106 
+otrzymano : ping + 91107 
+wysłano : ('0', '0') + 91107 
+otrzymano : ping + 91107 
+wysłano : ('0', '0') + 91107 
+otrzymano : ping + 91107 
+wysłano : ('0', '0') + 91107 
+otrzymano : ping + 91107 
+wysłano : ('0', '0') + 91107 
+otrzymano : ping + 91107 
+wysłano : ('0', '0') + 91107 
+otrzymano : ping + 91108 
+wysłano : ('0', '0') + 91108 
+otrzymano : ping + 91108 
+wysłano : ('0', '0') + 91108 
+otrzymano : ('msg_czesc§dawid', 'zuzia') + 91108 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91108 
+otrzymano : ping + 91108 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91108 
+otrzymano : ping + 91108 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91108 
+otrzymano : ping + 91108 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91108 
+otrzymano : ping + 91108 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91108 
+otrzymano : ping + 91108 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91108 
+otrzymano : ping + 91108 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91108 
+otrzymano : ping + 91109 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91109 
+otrzymano : ping + 91109 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91109 
+otrzymano : ping + 91109 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91109 
+otrzymano : ping + 91109 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91109 
+otrzymano : ping + 91109 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91109 
+otrzymano : ping + 91109 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91109 
+otrzymano : ping + 91109 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91109 
+otrzymano : ping + 91109 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91109 
+otrzymano : ping + 91109 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91109 
+otrzymano : ping + 91110 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91110 
+otrzymano : ping + 91110 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91110 
+otrzymano : ping + 91110 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91110 
+otrzymano : ping + 91110 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91110 
+otrzymano : ping + 91110 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91110 
+otrzymano : ping + 91110 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91110 
+otrzymano : ping + 91110 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91110 
+otrzymano : ping + 91110 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91110 
+otrzymano : ping + 91110 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91110 
+otrzymano : ping + 91110 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91110 
+otrzymano : ping + 91111 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91111 
+otrzymano : ping + 91111 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91111 
+otrzymano : ping + 91111 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91111 
+otrzymano : ping + 91111 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91111 
+otrzymano : ping + 91111 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91111 
+otrzymano : ping + 91111 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91111 
+otrzymano : ping + 91111 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91111 
+otrzymano : ping + 91111 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91111 
+otrzymano : ping + 91111 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91111 
+otrzymano : ping + 91112 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91112 
+otrzymano : ping + 91112 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91112 
+otrzymano : ping + 91112 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91112 
+otrzymano : ping + 91112 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91112 
+otrzymano : ping + 91112 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91112 
+otrzymano : ping + 91112 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91112 
+otrzymano : ping + 91112 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91112 
+otrzymano : ping + 91112 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91112 
+otrzymano : ping + 91112 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91112 
+otrzymano : ping + 91112 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91112 
+otrzymano : ping + 91113 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91113 
+otrzymano : ping + 91113 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91113 
+otrzymano : ping + 91113 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91113 
+otrzymano : ping + 91113 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91113 
+otrzymano : ping + 91113 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91113 
+otrzymano : ping + 91113 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91113 
+otrzymano : ping + 91113 
+wysłano : ('msg_czesc§dawid', 'zuzia') + 91113 
+otrzymano : ('msg_hej', 'zuziaping') + 91113 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91113 
+otrzymano : ping + 91113 
+wysłano : ('msg_hej', 'zuziaping') + 91113 
+otrzymano : ping + 91113 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91113 
+otrzymano : ping + 91114 
+wysłano : ('msg_hej', 'zuziaping') + 91114 
+otrzymano : ping + 91114 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91114 
+otrzymano : ping + 91114 
+wysłano : ('msg_hej', 'zuziaping') + 91114 
+otrzymano : ping + 91114 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91114 
+otrzymano : ping + 91114 
+wysłano : ('msg_hej', 'zuziaping') + 91114 
+otrzymano : ping + 91114 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91114 
+otrzymano : ping + 91114 
+wysłano : ('msg_hej', 'zuziaping') + 91114 
+otrzymano : ping + 91114 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91114 
+otrzymano : ping + 91114 
+wysłano : ('msg_hej', 'zuziaping') + 91114 
+otrzymano : ping + 91114 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91114 
+otrzymano : ping + 91115 
+wysłano : ('msg_hej', 'zuziaping') + 91115 
+otrzymano : ping + 91115 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91115 
+otrzymano : ping + 91115 
+wysłano : ('msg_hej', 'zuziaping') + 91115 
+otrzymano : ping + 91115 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91115 
+otrzymano : ping + 91115 
+wysłano : ('msg_hej', 'zuziaping') + 91115 
+otrzymano : ping + 91115 
+wysłano : ('msg_czesc§zuzia', 'dawid') + 91115 
+otrzymano : ('msg_co§tam', 'dawid') + 91115 
+wysłano : ('msg_hej', 'zuziaping') + 91115 
+otrzymano : ping + 91115 
+wysłano : ('msg_co§tam', 'dawid') + 91115 
+otrzymano : ping + 91115 
+wysłano : ('msg_hej', 'zuziaping') + 91115 
+otrzymano : ping + 91115 
+wysłano : ('msg_co§tam', 'dawid') + 91115 
+otrzymano : ping + 91116 
+wysłano : ('msg_hej', 'zuziaping') + 91116 
+otrzymano : ping + 91116 
+wysłano : ('msg_co§tam', 'dawid') + 91116 
+otrzymano : ping + 91116 
+wysłano : ('msg_hej', 'zuziaping') + 91116 
+otrzymano : ping + 91116 
+wysłano : ('msg_co§tam', 'dawid') + 91116 
+otrzymano : ping + 91116 
+wysłano : ('msg_hej', 'zuziaping') + 91116 
+otrzymano : ping + 91116 
+wysłano : ('msg_co§tam', 'dawid') + 91116 
+otrzymano : ping + 91116 
+wysłano : ('msg_hej', 'zuziaping') + 91116 
+otrzymano : ping + 91116 
+wysłano : ('msg_co§tam', 'dawid') + 91116 
+otrzymano : ping + 91116 
+wysłano : ('msg_hej', 'zuziaping') + 91116 
+otrzymano : ping + 91116 
+wysłano : ('msg_co§tam', 'dawid') + 91116 
+otrzymano : ping + 91117 
+wysłano : ('msg_hej', 'zuziaping') + 91117 
+otrzymano : ping + 91117 
+wysłano : ('msg_co§tam', 'dawid') + 91117 
+otrzymano : ping + 91117 
+wysłano : ('msg_hej', 'zuziaping') + 91117 
+otrzymano : ping + 91117 
+wysłano : ('msg_co§tam', 'dawid') + 91117 
+otrzymano : ping + 91117 
+wysłano : ('msg_hej', 'zuziaping') + 91117 
+otrzymano : ping + 91117 
+wysłano : ('msg_co§tam', 'dawid') + 91117 
+otrzymano : ping + 91117 
+wysłano : ('msg_hej', 'zuziaping') + 91117 
+otrzymano : ping + 91117 
+wysłano : ('msg_co§tam', 'dawid') + 91117 
+otrzymano : ping + 91117 
+wysłano : ('msg_hej', 'zuziaping') + 91117 
+otrzymano : ping + 91117 
+wysłano : ('msg_co§tam', 'dawid') + 91117 
+otrzymano : ping + 91118 
+wysłano : ('msg_hej', 'zuziaping') + 91118 
+otrzymano : ('msg_spoko', 'zuziaping') + 91118 
+wysłano : ('msg_co§tam', 'dawid') + 91118 
+otrzymano : ping + 91118 
+wysłano : ('msg_spoko', 'zuziaping') + 91118 
+otrzymano : ping + 91118 
+wysłano : ('msg_co§tam', 'dawid') + 91118 
+otrzymano : ping + 91118 
+wysłano : ('msg_spoko', 'zuziaping') + 91118 
+otrzymano : ping + 91118 
+wysłano : ('msg_co§tam', 'dawid') + 91118 
+otrzymano : ping + 91118 
+wysłano : ('msg_spoko', 'zuziaping') + 91118 
+otrzymano : ping + 91118 
+wysłano : ('msg_co§tam', 'dawid') + 91118 
+otrzymano : ping + 91118 
+wysłano : ('msg_spoko', 'zuziaping') + 91118 
+otrzymano : ping + 91118 
+wysłano : ('msg_co§tam', 'dawid') + 91118 
+otrzymano : ping + 91119 
+wysłano : ('msg_spoko', 'zuziaping') + 91119 
+otrzymano : ping + 91119 
+wysłano : ('msg_co§tam', 'dawid') + 91119 
+otrzymano : ping + 91119 
+wysłano : ('msg_spoko', 'zuziaping') + 91119 
+otrzymano : ping + 91119 
+wysłano : ('msg_co§tam', 'dawid') + 91119 
+otrzymano : ping + 91119 
+wysłano : ('msg_spoko', 'zuziaping') + 91119 
+otrzymano : ping + 91119 
+wysłano : ('msg_co§tam', 'dawid') + 91119 
+otrzymano : ping + 91119 
+wysłano : ('msg_spoko', 'zuziaping') + 91119 
+otrzymano : ping + 91119 
+wysłano : ('msg_co§tam', 'dawid') + 91119 
+otrzymano : ping + 91119 
+wysłano : ('msg_spoko', 'zuziaping') + 91119 
+otrzymano : ping + 91119 
+wysłano : ('msg_co§tam', 'dawid') + 91119 
+otrzymano : ping + 91120 
+wysłano : ('msg_spoko', 'zuziaping') + 91120 
+otrzymano : ping + 91120 
+wysłano : ('msg_co§tam', 'dawid') + 91120 
+otrzymano : ping + 91120 
+wysłano : ('msg_spoko', 'zuziaping') + 91120 
+otrzymano : ('msg_a§tam', 'zuziaping') + 91120 
+wysłano : ('msg_co§tam', 'dawid') + 91120 
+otrzymano : ping + 91120 
+wysłano : ('msg_a§tam', 'zuziaping') + 91120 
+otrzymano : ping + 91120 
+wysłano : ('msg_co§tam', 'dawid') + 91120 
+otrzymano : ping + 91120 
+wysłano : ('msg_a§tam', 'zuziaping') + 91120 
+otrzymano : ping + 91120 
+wysłano : ('msg_co§tam', 'dawid') + 91120 
+otrzymano : ping + 91120 
+wysłano : ('msg_a§tam', 'zuziaping') + 91120 
+otrzymano : ping + 91121 
+wysłano : ('msg_co§tam', 'dawid') + 91121 
+otrzymano : ping + 91121 
+wysłano : ('msg_a§tam', 'zuziaping') + 91121 
+otrzymano : ping + 91121 
+wysłano : ('msg_co§tam', 'dawid') + 91121 
+otrzymano : ping + 91121 
+wysłano : ('msg_a§tam', 'zuziaping') + 91121 
+otrzymano : ping + 91121 
+wysłano : ('msg_co§tam', 'dawid') + 91121 
+otrzymano : ping + 91121 
+wysłano : ('msg_a§tam', 'zuziaping') + 91121 
+otrzymano : ping + 91121 
+wysłano : ('msg_co§tam', 'dawid') + 91121 
+otrzymano : ping + 91121 
+wysłano : ('msg_a§tam', 'zuziaping') + 91121 
+otrzymano : ping + 91121 
+wysłano : ('msg_co§tam', 'dawid') + 91121 
+otrzymano : ping + 91121 
+wysłano : ('msg_a§tam', 'zuziaping') + 91121 
+otrzymano : ping + 91122 
+wysłano : ('msg_co§tam', 'dawid') + 91122 
+otrzymano : ping + 91122 
+wysłano : ('msg_a§tam', 'zuziaping') + 91122 
+otrzymano : ping + 91122 
+wysłano : ('msg_co§tam', 'dawid') + 91122 
+otrzymano : ping + 91122 
+wysłano : ('msg_a§tam', 'zuziaping') + 91122 
+otrzymano : ping + 91122 
+wysłano : ('msg_co§tam', 'dawid') + 91122 
+otrzymano : ping + 91122 
+wysłano : ('msg_a§tam', 'zuziaping') + 91122 
+otrzymano : ping + 91122 
+wysłano : ('msg_co§tam', 'dawid') + 91122 
+otrzymano : ping + 91122 
+wysłano : ('msg_a§tam', 'zuziaping') + 91122 
+otrzymano : ping + 91122 
+wysłano : ('msg_co§tam', 'dawid') + 91122 
+otrzymano : ping + 91123 
+wysłano : ('msg_a§tam', 'zuziaping') + 91123 
+otrzymano : ping + 91123 
+wysłano : ('msg_co§tam', 'dawid') + 91123 
+otrzymano : ping + 91123 
+wysłano : ('msg_a§tam', 'zuziaping') + 91123 
+otrzymano : ping + 91123 
+wysłano : ('msg_co§tam', 'dawid') + 91123 
+otrzymano : ping + 91123 
+wysłano : ('msg_a§tam', 'zuziaping') + 91123 
+otrzymano : ping + 91123 
+wysłano : ('msg_co§tam', 'dawid') + 91123 
+otrzymano : ping + 91123 
+wysłano : ('msg_a§tam', 'zuziaping') + 91123 
+otrzymano : ping + 91123 
+wysłano : ('msg_co§tam', 'dawid') + 91123 
+otrzymano : ping + 91123 
+wysłano : ('msg_a§tam', 'zuziaping') + 91123 
+otrzymano : ping + 91123 
+wysłano : ('msg_co§tam', 'dawid') + 91123 
+otrzymano : ping + 91124 
+wysłano : ('msg_a§tam', 'zuziaping') + 91124 
+otrzymano : ping + 91124 
+wysłano : ('msg_co§tam', 'dawid') + 91124 
+otrzymano : ping + 91124 
+wysłano : ('msg_a§tam', 'zuziaping') + 91124 
+otrzymano : ping + 91124 
+wysłano : ('msg_co§tam', 'dawid') + 91124 
+otrzymano : ping + 91124 
+wysłano : ('msg_a§tam', 'zuziaping') + 91124 
+otrzymano : ping + 91124 
+wysłano : ('msg_co§tam', 'dawid') + 91124 
+otrzymano : ping + 91124 
+wysłano : ('msg_a§tam', 'zuziaping') + 91124 
+otrzymano : ping + 91124 
+wysłano : ('msg_co§tam', 'dawid') + 91124 
+otrzymano : ping + 91124 
+wysłano : ('msg_a§tam', 'zuziaping') + 91124 
+otrzymano : ping + 91124 
+wysłano : ('msg_co§tam', 'dawid') + 91124 
+otrzymano : ping + 91125 
+wysłano : ('msg_a§tam', 'zuziaping') + 91125 
+otrzymano : ping + 91125 
+wysłano : ('msg_co§tam', 'dawid') + 91125 
+otrzymano : ping + 91125 
+wysłano : ('msg_a§tam', 'zuziaping') + 91125 
+otrzymano : ping + 91125 
+wysłano : ('msg_co§tam', 'dawid') + 91125 
+otrzymano : ping + 91125 
+wysłano : ('msg_a§tam', 'zuziaping') + 91125 
+otrzymano : ping + 91125 
+wysłano : ('msg_co§tam', 'dawid') + 91125 
+otrzymano : ping + 91125 
+wysłano : ('msg_a§tam', 'zuziaping') + 91125 
+otrzymano : ping + 91125 
+wysłano : ('msg_co§tam', 'dawid') + 91125 
+otrzymano : ping + 91125 
+wysłano : ('msg_a§tam', 'zuziaping') + 91125 
+otrzymano : ping + 91125 
+wysłano : ('msg_co§tam', 'dawid') + 91125 
+otrzymano : ping + 91126 
+wysłano : ('msg_a§tam', 'zuziaping') + 91126 
+otrzymano : ping + 91126 
+wysłano : ('msg_co§tam', 'dawid') + 91126 
+otrzymano : ping + 91126 
+wysłano : ('msg_a§tam', 'zuziaping') + 91126 
+otrzymano : ping + 91126 
+wysłano : ('msg_co§tam', 'dawid') + 91126 
+otrzymano : ping + 91126 
+wysłano : ('msg_a§tam', 'zuziaping') + 91126 
+otrzymano : ping + 91126 
+wysłano : ('msg_co§tam', 'dawid') + 91126 
+otrzymano : ping + 91126 
+wysłano : ('msg_a§tam', 'zuziaping') + 91126 
+otrzymano : ping + 91126 
+wysłano : ('msg_co§tam', 'dawid') + 91126 
+otrzymano : ping + 91126 
+wysłano : ('msg_a§tam', 'zuziaping') + 91126 
+otrzymano : ping + 91126 
+wysłano : ('msg_co§tam', 'dawid') + 91126 
+otrzymano : ping + 91127 
+wysłano : ('msg_a§tam', 'zuziaping') + 91127 
+otrzymano : ping + 91127 
+wysłano : ('msg_co§tam', 'dawid') + 91127 
+otrzymano : ping + 91127 
+wysłano : ('msg_a§tam', 'zuziaping') + 91127 
+otrzymano : ping + 91127 
+wysłano : ('msg_co§tam', 'dawid') + 91127 
+otrzymano : ping + 91127 
+wysłano : ('msg_a§tam', 'zuziaping') + 91127 
+otrzymano : ping + 91127 
+wysłano : ('msg_co§tam', 'dawid') + 91127 
+otrzymano : ping + 91127 
+wysłano : ('msg_a§tam', 'zuziaping') + 91127 
+otrzymano : ping + 91127 
+wysłano : ('msg_co§tam', 'dawid') + 91127 
+otrzymano : ping + 91127 
+wysłano : ('msg_a§tam', 'zuziaping') + 91127 
+otrzymano : ping + 91127 
+wysłano : ('msg_co§tam', 'dawid') + 91127 
+otrzymano : ping + 91128 
+wysłano : ('msg_a§tam', 'zuziaping') + 91128 
+otrzymano : ping + 91128 
+wysłano : ('msg_co§tam', 'dawid') + 91128 
+otrzymano : ping + 91128 
+wysłano : ('msg_a§tam', 'zuziaping') + 91128 
+otrzymano : ping + 91128 
+wysłano : ('msg_co§tam', 'dawid') + 91128 
+otrzymano : ping + 91128 
+wysłano : ('msg_a§tam', 'zuziaping') + 91128 
+otrzymano : ping + 91128 
+wysłano : ('msg_co§tam', 'dawid') + 91128 
+otrzymano : ping + 91128 
+wysłano : ('msg_a§tam', 'zuziaping') + 91128 
+otrzymano : ping + 91128 
+wysłano : ('msg_co§tam', 'dawid') + 91128 
+otrzymano : ping + 91128 
+wysłano : ('msg_a§tam', 'zuziaping') + 91128 
+otrzymano : ping + 91128 
+wysłano : ('msg_co§tam', 'dawid') + 91128 
+otrzymano : ping + 91129 
+wysłano : ('msg_a§tam', 'zuziaping') + 91129 
+otrzymano : ping + 91129 
+wysłano : ('msg_co§tam', 'dawid') + 91129 
+otrzymano : ping + 91129 
+wysłano : ('msg_a§tam', 'zuziaping') + 91129 
+otrzymano : ping + 91129 
+wysłano : ('msg_co§tam', 'dawid') + 91129 
+otrzymano : ping + 91129 
+wysłano : ('msg_a§tam', 'zuziaping') + 91129 
+otrzymano : ping + 91129 
+wysłano : ('msg_co§tam', 'dawid') + 91129 
+otrzymano : ping + 91129 
+wysłano : ('msg_a§tam', 'zuziaping') + 91129 
+otrzymano : ping + 91129 
+wysłano : ('msg_co§tam', 'dawid') + 91129 
+otrzymano : ping + 91129 
+wysłano : ('msg_a§tam', 'zuziaping') + 91129 
+otrzymano : ping + 91129 
+wysłano : ('msg_co§tam', 'dawid') + 91129 
+otrzymano : ping + 91130 
+wysłano : ('msg_a§tam', 'zuziaping') + 91130 
+otrzymano : ping + 91130 
+wysłano : ('msg_co§tam', 'dawid') + 91130 
+otrzymano : ping + 91130 
+wysłano : ('msg_a§tam', 'zuziaping') + 91130 
+otrzymano : ping + 91130 
+wysłano : ('msg_co§tam', 'dawid') + 91130 
+otrzymano : ping + 91130 
+wysłano : ('msg_a§tam', 'zuziaping') + 91130 
+otrzymano : ping + 91130 
+wysłano : ('msg_co§tam', 'dawid') + 91130 
+otrzymano : ping + 91130 
+wysłano : ('msg_a§tam', 'zuziaping') + 91130 
+otrzymano : ping + 91130 
+wysłano : ('msg_co§tam', 'dawid') + 91130 
+otrzymano : ping + 91130 
+wysłano : ('msg_a§tam', 'zuziaping') + 91130 
+otrzymano : ping + 91130 
+wysłano : ('msg_co§tam', 'dawid') + 91130 
+otrzymano : ping + 91131 
+wysłano : ('msg_a§tam', 'zuziaping') + 91131 
+otrzymano : ping + 91131 
+wysłano : ('msg_co§tam', 'dawid') + 91131 
+otrzymano : ping + 91131 
+wysłano : ('msg_a§tam', 'zuziaping') + 91131 
+otrzymano : ping + 91131 
+wysłano : ('msg_co§tam', 'dawid') + 91131 
+otrzymano : ping + 91131 
+wysłano : ('msg_a§tam', 'zuziaping') + 91131 
+otrzymano : ping + 91131 
+wysłano : ('msg_co§tam', 'dawid') + 91131 
+otrzymano : ping + 91131 
+wysłano : ('msg_a§tam', 'zuziaping') + 91131 
+otrzymano : ping + 91131 
+wysłano : ('msg_co§tam', 'dawid') + 91131 
+otrzymano : ping + 91131 
+wysłano : ('msg_a§tam', 'zuziaping') + 91131 
+otrzymano : ping + 91132 
+wysłano : ('msg_co§tam', 'dawid') + 91132 
+otrzymano : ping + 91132 
+wysłano : ('msg_a§tam', 'zuziaping') + 91132 
+otrzymano : ping + 91132 
+wysłano : ('msg_co§tam', 'dawid') + 91132 
+otrzymano : ping + 91132 
+wysłano : ('msg_a§tam', 'zuziaping') + 91132 
+otrzymano : ping + 91132 
+wysłano : ('msg_co§tam', 'dawid') + 91132 
+otrzymano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91132 
+wysłano : ('msg_a§tam', 'zuziaping') + 91132 
+otrzymano : ping + 91132 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91132 
+otrzymano : ping + 91132 
+wysłano : ('msg_a§tam', 'zuziaping') + 91132 
+otrzymano : ping + 91132 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91132 
+otrzymano : ping + 91132 
+wysłano : ('msg_a§tam', 'zuziaping') + 91132 
+otrzymano : ping + 91133 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91133 
+otrzymano : ping + 91133 
+wysłano : ('msg_a§tam', 'zuziaping') + 91133 
+otrzymano : ping + 91133 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91133 
+otrzymano : ping + 91133 
+wysłano : ('msg_a§tam', 'zuziaping') + 91133 
+otrzymano : ping + 91133 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91133 
+otrzymano : ping + 91133 
+wysłano : ('msg_a§tam', 'zuziaping') + 91133 
+otrzymano : ping + 91133 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91133 
+otrzymano : ping + 91133 
+wysłano : ('msg_a§tam', 'zuziaping') + 91133 
+otrzymano : ping + 91133 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91133 
+otrzymano : ping + 91134 
+wysłano : ('msg_a§tam', 'zuziaping') + 91134 
+otrzymano : ping + 91134 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91134 
+otrzymano : ping + 91134 
+wysłano : ('msg_a§tam', 'zuziaping') + 91134 
+otrzymano : ping + 91134 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91134 
+otrzymano : ping + 91134 
+wysłano : ('msg_a§tam', 'zuziaping') + 91134 
+otrzymano : ping + 91134 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91134 
+otrzymano : ping + 91134 
+wysłano : ('msg_a§tam', 'zuziaping') + 91134 
+otrzymano : ping + 91134 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91134 
+otrzymano : ping + 91134 
+wysłano : ('msg_a§tam', 'zuziaping') + 91134 
+otrzymano : ('msg_zegnam', 'zuzia') + 91134 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91134 
+otrzymano : ping + 91135 
+wysłano : ('msg_zegnam', 'zuzia') + 91135 
+otrzymano : ping + 91135 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91135 
+otrzymano : ping + 91135 
+wysłano : ('msg_zegnam', 'zuzia') + 91135 
+otrzymano : ping + 91135 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91135 
+otrzymano : ping + 91135 
+wysłano : ('msg_zegnam', 'zuzia') + 91135 
+otrzymano : ping + 91135 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91135 
+otrzymano : ping + 91135 
+wysłano : ('msg_zegnam', 'zuzia') + 91135 
+otrzymano : ping + 91135 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91135 
+otrzymano : ping + 91135 
+wysłano : ('msg_zegnam', 'zuzia') + 91135 
+otrzymano : ping + 91135 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91135 
+otrzymano : ping + 91136 
+wysłano : ('msg_zegnam', 'zuzia') + 91136 
+otrzymano : ping + 91136 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91136 
+otrzymano : ping + 91136 
+wysłano : ('msg_zegnam', 'zuzia') + 91136 
+otrzymano : ping + 91136 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91136 
+otrzymano : ping + 91136 
+wysłano : ('msg_zegnam', 'zuzia') + 91136 
+otrzymano : ping + 91136 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91136 
+otrzymano : ping + 91136 
+wysłano : ('msg_zegnam', 'zuzia') + 91136 
+otrzymano : ping + 91136 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91136 
+otrzymano : ping + 91136 
+wysłano : ('msg_zegnam', 'zuzia') + 91136 
+otrzymano : ping + 91136 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91136 
+otrzymano : ping + 91137 
+wysłano : ('msg_zegnam', 'zuzia') + 91137 
+otrzymano : ping + 91137 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91137 
+otrzymano : ping + 91137 
+wysłano : ('msg_zegnam', 'zuzia') + 91137 
+otrzymano : ping + 91137 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91137 
+otrzymano : ping + 91137 
+wysłano : ('msg_zegnam', 'zuzia') + 91137 
+otrzymano : ping + 91137 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91137 
+otrzymano : ping + 91137 
+wysłano : ('msg_zegnam', 'zuzia') + 91137 
+otrzymano : ping + 91137 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91137 
+otrzymano : ping + 91137 
+wysłano : ('msg_zegnam', 'zuzia') + 91137 
+otrzymano : ping + 91137 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91137 
+otrzymano : ping + 91138 
+wysłano : ('msg_zegnam', 'zuzia') + 91138 
+otrzymano : ping + 91138 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91138 
+otrzymano : ping + 91138 
+wysłano : ('msg_zegnam', 'zuzia') + 91138 
+otrzymano : ping + 91138 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91138 
+otrzymano : ping + 91138 
+wysłano : ('msg_zegnam', 'zuzia') + 91138 
+otrzymano : ping + 91138 
+wysłano : ('msg_wszystko§super§pozdrawiam§serdecznie', 'dawidping') + 91138 
+otrzymano : ('msg_nie§czekaj', 'dawidping') + 91138 
+wysłano : ('msg_zegnam', 'zuzia') + 91138 
+otrzymano : ping + 91138 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91138 
+otrzymano : ping + 91138 
+wysłano : ('msg_zegnam', 'zuzia') + 91138 
+otrzymano : ping + 91138 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91138 
+otrzymano : ping + 91139 
+wysłano : ('msg_zegnam', 'zuzia') + 91139 
+otrzymano : ping + 91139 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91139 
+otrzymano : ping + 91139 
+wysłano : ('msg_zegnam', 'zuzia') + 91139 
+otrzymano : ping + 91139 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91139 
+otrzymano : ping + 91139 
+wysłano : ('msg_zegnam', 'zuzia') + 91139 
+otrzymano : ping + 91139 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91139 
+otrzymano : ping + 91139 
+wysłano : ('msg_zegnam', 'zuzia') + 91139 
+otrzymano : ping + 91139 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91139 
+otrzymano : ping + 91139 
+wysłano : ('msg_zegnam', 'zuzia') + 91139 
+otrzymano : ping + 91139 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91139 
+otrzymano : ping + 91140 
+wysłano : ('msg_zegnam', 'zuzia') + 91140 
+otrzymano : ping + 91140 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91140 
+otrzymano : ping + 91140 
+wysłano : ('msg_zegnam', 'zuzia') + 91140 
+otrzymano : ping + 91140 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91140 
+otrzymano : ping + 91140 
+wysłano : ('msg_zegnam', 'zuzia') + 91140 
+otrzymano : ping + 91140 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91140 
+otrzymano : ping + 91140 
+wysłano : ('msg_zegnam', 'zuzia') + 91140 
+otrzymano : ping + 91140 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91140 
+otrzymano : ping + 91140 
+wysłano : ('msg_zegnam', 'zuzia') + 91140 
+otrzymano : ping + 91140 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91140 
+otrzymano : ping + 91141 
+wysłano : ('msg_zegnam', 'zuzia') + 91141 
+otrzymano : ping + 91141 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91141 
+otrzymano : ping + 91141 
+wysłano : ('msg_zegnam', 'zuzia') + 91141 
+otrzymano : ping + 91141 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91141 
+otrzymano : ping + 91141 
+wysłano : ('msg_zegnam', 'zuzia') + 91141 
+otrzymano : ping + 91141 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91141 
+otrzymano : ping + 91141 
+wysłano : ('msg_zegnam', 'zuzia') + 91141 
+otrzymano : ping + 91141 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91141 
+otrzymano : ping + 91141 
+wysłano : ('msg_zegnam', 'zuzia') + 91141 
+otrzymano : ping + 91141 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91141 
+otrzymano : ping + 91142 
+wysłano : ('msg_zegnam', 'zuzia') + 91142 
+otrzymano : ping + 91142 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91142 
+otrzymano : ping + 91142 
+wysłano : ('msg_zegnam', 'zuzia') + 91142 
+otrzymano : ping + 91142 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91142 
+otrzymano : ping + 91142 
+wysłano : ('msg_zegnam', 'zuzia') + 91142 
+otrzymano : ('msg_no', 'zuzia') + 91142 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91142 
+otrzymano : ping + 91142 
+wysłano : ('msg_no', 'zuzia') + 91142 
+otrzymano : ping + 91142 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91142 
+otrzymano : ping + 91142 
+wysłano : ('msg_no', 'zuzia') + 91142 
+otrzymano : ping + 91143 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91143 
+otrzymano : ping + 91143 
+wysłano : ('msg_no', 'zuzia') + 91143 
+otrzymano : ping + 91143 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91143 
+otrzymano : ping + 91143 
+wysłano : ('msg_no', 'zuzia') + 91143 
+otrzymano : ping + 91143 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91143 
+otrzymano : ping + 91143 
+wysłano : ('msg_no', 'zuzia') + 91143 
+otrzymano : ping + 91143 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91143 
+otrzymano : ping + 91143 
+wysłano : ('msg_no', 'zuzia') + 91143 
+otrzymano : ping + 91143 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91143 
+otrzymano : ping + 91144 
+wysłano : ('msg_no', 'zuzia') + 91144 
+otrzymano : ping + 91144 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91144 
+otrzymano : ping + 91144 
+wysłano : ('msg_no', 'zuzia') + 91144 
+otrzymano : ping + 91144 
+wysłano : ('msg_nie§czekaj', 'dawidping') + 91144 
+otrzymano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91144 
+wysłano : ('msg_no', 'zuzia') + 91144 
+otrzymano : ping + 91144 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91144 
+otrzymano : ping + 91144 
+wysłano : ('msg_no', 'zuzia') + 91144 
+otrzymano : ping + 91144 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91144 
+otrzymano : ping + 91144 
+wysłano : ('msg_no', 'zuzia') + 91144 
+otrzymano : ping + 91144 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91144 
+otrzymano : ping + 91145 
+wysłano : ('msg_no', 'zuzia') + 91145 
+otrzymano : ping + 91145 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91145 
+otrzymano : ping + 91145 
+wysłano : ('msg_no', 'zuzia') + 91145 
+otrzymano : ping + 91145 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91145 
+otrzymano : ping + 91145 
+wysłano : ('msg_no', 'zuzia') + 91145 
+otrzymano : ping + 91145 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91145 
+otrzymano : ping + 91145 
+wysłano : ('msg_no', 'zuzia') + 91145 
+otrzymano : ping + 91145 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91145 
+otrzymano : ping + 91145 
+wysłano : ('msg_no', 'zuzia') + 91145 
+otrzymano : ping + 91145 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91145 
+otrzymano : ping + 91146 
+wysłano : ('msg_no', 'zuzia') + 91146 
+otrzymano : ping + 91146 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91146 
+otrzymano : ping + 91146 
+wysłano : ('msg_no', 'zuzia') + 91146 
+otrzymano : ping + 91146 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91146 
+otrzymano : ping + 91146 
+wysłano : ('msg_no', 'zuzia') + 91146 
+otrzymano : ping + 91146 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91146 
+otrzymano : ping + 91146 
+wysłano : ('msg_no', 'zuzia') + 91146 
+otrzymano : ping + 91146 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91146 
+otrzymano : ping + 91146 
+wysłano : ('msg_no', 'zuzia') + 91146 
+otrzymano : ('msg_no', 'zuziaping') + 91146 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91146 
+otrzymano : ping + 91147 
+wysłano : ('msg_no', 'zuziaping') + 91147 
+otrzymano : ping + 91147 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91147 
+otrzymano : ping + 91147 
+wysłano : ('msg_no', 'zuziaping') + 91147 
+otrzymano : ping + 91147 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91147 
+otrzymano : ping + 91147 
+wysłano : ('msg_no', 'zuziaping') + 91147 
+otrzymano : ping + 91147 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91147 
+otrzymano : ping + 91147 
+wysłano : ('msg_no', 'zuziaping') + 91147 
+otrzymano : ping + 91147 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91147 
+otrzymano : ping + 91147 
+wysłano : ('msg_no', 'zuziaping') + 91147 
+otrzymano : ping + 91147 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91147 
+otrzymano : ping + 91148 
+wysłano : ('msg_no', 'zuziaping') + 91148 
+otrzymano : ping + 91148 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91148 
+otrzymano : ping + 91148 
+wysłano : ('msg_no', 'zuziaping') + 91148 
+otrzymano : ping + 91148 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91148 
+otrzymano : ping + 91148 
+wysłano : ('msg_no', 'zuziaping') + 91148 
+otrzymano : ping + 91148 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91148 
+otrzymano : ping + 91148 
+wysłano : ('msg_no', 'zuziaping') + 91148 
+otrzymano : ping + 91148 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91148 
+otrzymano : ping + 91148 
+wysłano : ('msg_no', 'zuziaping') + 91148 
+otrzymano : ping + 91148 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91148 
+otrzymano : ping + 91149 
+wysłano : ('msg_no', 'zuziaping') + 91149 
+otrzymano : ('msg_czarne§top', 'zuziaping') + 91149 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91149 
+otrzymano : ping + 91149 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91149 
+otrzymano : ping + 91149 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91149 
+otrzymano : ping + 91149 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91149 
+otrzymano : ping + 91149 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91149 
+otrzymano : ping + 91149 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91149 
+otrzymano : ping + 91149 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91149 
+otrzymano : ping + 91149 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91149 
+otrzymano : ping + 91149 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91149 
+otrzymano : ping + 91150 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91150 
+otrzymano : ping + 91150 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91150 
+otrzymano : ping + 91150 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91150 
+otrzymano : ping + 91150 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91150 
+otrzymano : ping + 91150 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91150 
+otrzymano : ping + 91150 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91150 
+otrzymano : ping + 91150 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91150 
+otrzymano : ping + 91150 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91150 
+otrzymano : ping + 91150 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91150 
+otrzymano : ping + 91150 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91150 
+otrzymano : ping + 91151 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91151 
+otrzymano : ping + 91151 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91151 
+otrzymano : ping + 91151 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91151 
+otrzymano : ping + 91151 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91151 
+otrzymano : ping + 91151 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91151 
+otrzymano : ping + 91151 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91151 
+otrzymano : ping + 91151 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91151 
+otrzymano : ping + 91151 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91151 
+otrzymano : ping + 91151 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91151 
+otrzymano : ping + 91151 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91151 
+otrzymano : ping + 91152 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91152 
+otrzymano : ping + 91152 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91152 
+otrzymano : ping + 91152 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91152 
+otrzymano : ping + 91152 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91152 
+otrzymano : ping + 91152 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91152 
+otrzymano : ping + 91152 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91152 
+otrzymano : ping + 91152 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91152 
+otrzymano : ping + 91152 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91152 
+otrzymano : ping + 91152 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91152 
+otrzymano : ping + 91152 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91152 
+otrzymano : ping + 91153 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91153 
+otrzymano : ping + 91153 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91153 
+otrzymano : ping + 91153 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91153 
+otrzymano : ping + 91153 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91153 
+otrzymano : ping + 91153 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91153 
+otrzymano : ping + 91153 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91153 
+otrzymano : ping + 91153 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91153 
+otrzymano : ping + 91153 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91153 
+otrzymano : ping + 91154 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91154 
+otrzymano : ping + 91154 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91154 
+otrzymano : ping + 91154 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91154 
+otrzymano : ping + 91154 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91154 
+otrzymano : ping + 91154 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91154 
+otrzymano : ping + 91154 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91154 
+otrzymano : ping + 91154 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91154 
+otrzymano : ping + 91154 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91154 
+otrzymano : ping + 91154 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91154 
+otrzymano : ping + 91154 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91154 
+otrzymano : ping + 91155 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91155 
+otrzymano : ping + 91155 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91155 
+otrzymano : ping + 91155 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91155 
+otrzymano : ping + 91155 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91155 
+otrzymano : ping + 91155 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91155 
+otrzymano : ping + 91155 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91155 
+otrzymano : ping + 91155 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91155 
+otrzymano : ping + 91155 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91155 
+otrzymano : ping + 91155 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91155 
+otrzymano : ping + 91155 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91155 
+otrzymano : ping + 91156 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91156 
+otrzymano : ping + 91156 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91156 
+otrzymano : ping + 91156 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91156 
+otrzymano : ping + 91156 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91156 
+otrzymano : ping + 91156 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91156 
+otrzymano : ping + 91156 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91156 
+otrzymano : ping + 91156 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91156 
+otrzymano : ping + 91156 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91156 
+otrzymano : ping + 91156 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91156 
+otrzymano : ping + 91156 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91156 
+otrzymano : ping + 91157 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91157 
+otrzymano : ping + 91157 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91157 
+otrzymano : ping + 91157 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91157 
+otrzymano : ping + 91157 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91157 
+otrzymano : ping + 91157 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91157 
+otrzymano : ping + 91157 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91157 
+otrzymano : ping + 91157 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91157 
+otrzymano : ping + 91157 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91157 
+otrzymano : ping + 91157 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91157 
+otrzymano : ping + 91157 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91157 
+otrzymano : ping + 91158 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91158 
+otrzymano : ping + 91158 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91158 
+otrzymano : ping + 91158 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91158 
+otrzymano : ping + 91158 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91158 
+otrzymano : ping + 91158 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91158 
+otrzymano : ping + 91158 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91158 
+otrzymano : ping + 91158 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91158 
+otrzymano : ping + 91158 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91158 
+otrzymano : ping + 91158 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91158 
+otrzymano : ping + 91158 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91158 
+otrzymano : ping + 91159 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91159 
+otrzymano : ping + 91159 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91159 
+otrzymano : ping + 91159 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91159 
+otrzymano : ping + 91159 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91159 
+otrzymano : ping + 91159 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91159 
+otrzymano : ping + 91159 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91159 
+otrzymano : ping + 91159 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91159 
+otrzymano : ping + 91159 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91159 
+otrzymano : ping + 91159 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91159 
+otrzymano : ping + 91159 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91159 
+otrzymano : ping + 91200 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91200 
+otrzymano : ping + 91200 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91200 
+otrzymano : ping + 91200 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91200 
+otrzymano : ping + 91200 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91200 
+otrzymano : ping + 91200 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91200 
+otrzymano : ping + 91200 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91200 
+otrzymano : ping + 91200 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91200 
+otrzymano : ping + 91200 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91200 
+otrzymano : ping + 91200 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91200 
+otrzymano : ping + 91200 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91200 
+otrzymano : ping + 91201 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91201 
+otrzymano : ping + 91201 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91201 
+otrzymano : ping + 91201 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91201 
+otrzymano : ping + 91201 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91201 
+otrzymano : ping + 91201 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91201 
+otrzymano : ping + 91201 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91201 
+otrzymano : ping + 91201 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91201 
+otrzymano : ping + 91201 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91201 
+otrzymano : ping + 91201 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91201 
+otrzymano : ping + 91201 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91201 
+otrzymano : ping + 91202 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91202 
+otrzymano : ping + 91202 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91202 
+otrzymano : ping + 91202 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91202 
+otrzymano : ping + 91202 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91202 
+otrzymano : ping + 91202 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91202 
+otrzymano : ping + 91202 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91202 
+otrzymano : ping + 91202 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91202 
+otrzymano : ping + 91202 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91202 
+otrzymano : ping + 91202 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91202 
+otrzymano : ping + 91202 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91202 
+otrzymano : ping + 91203 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91203 
+otrzymano : ping + 91203 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91203 
+otrzymano : ping + 91203 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91203 
+otrzymano : ping + 91203 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91203 
+otrzymano : ping + 91203 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91203 
+otrzymano : ping + 91203 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91203 
+otrzymano : ping + 91203 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91203 
+otrzymano : ping + 91203 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91203 
+otrzymano : ping + 91203 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91203 
+otrzymano : ping + 91204 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91204 
+otrzymano : ping + 91204 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91204 
+otrzymano : ping + 91204 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91204 
+otrzymano : ping + 91204 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91204 
+otrzymano : ping + 91204 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91204 
+otrzymano : ping + 91204 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91204 
+otrzymano : ping + 91204 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91204 
+otrzymano : ping + 91204 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91204 
+otrzymano : ping + 91204 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91204 
+otrzymano : ping + 91205 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91205 
+otrzymano : ping + 91205 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91205 
+otrzymano : ping + 91205 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91205 
+otrzymano : ping + 91205 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91205 
+otrzymano : ping + 91205 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91205 
+otrzymano : ping + 91205 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91205 
+otrzymano : ping + 91205 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91205 
+otrzymano : ping + 91205 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91205 
+otrzymano : ping + 91205 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91205 
+otrzymano : ping + 91205 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91205 
+otrzymano : ping + 91206 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91206 
+otrzymano : ping + 91206 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91206 
+otrzymano : ping + 91206 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91206 
+otrzymano : ping + 91206 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91206 
+otrzymano : ping + 91206 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91206 
+otrzymano : ping + 91206 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91206 
+otrzymano : ping + 91206 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91206 
+otrzymano : ping + 91206 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91206 
+otrzymano : ping + 91206 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91206 
+otrzymano : ping + 91206 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91206 
+otrzymano : ping + 91207 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91207 
+otrzymano : ping + 91207 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91207 
+otrzymano : ping + 91207 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91207 
+otrzymano : ping + 91207 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91207 
+otrzymano : ping + 91207 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91207 
+otrzymano : ping + 91207 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91207 
+otrzymano : ping + 91207 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91207 
+otrzymano : ping + 91207 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91207 
+otrzymano : ping + 91207 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91207 
+otrzymano : ping + 91207 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91207 
+otrzymano : ping + 91208 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91208 
+otrzymano : ping + 91208 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91208 
+otrzymano : ping + 91208 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91208 
+otrzymano : ping + 91208 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91208 
+otrzymano : ping + 91208 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91208 
+otrzymano : ping + 91208 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91208 
+otrzymano : ping + 91208 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91208 
+otrzymano : ping + 91208 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91208 
+otrzymano : ping + 91208 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91208 
+otrzymano : ping + 91208 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91208 
+otrzymano : ping + 91209 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91209 
+otrzymano : ping + 91209 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91209 
+otrzymano : ping + 91209 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91209 
+otrzymano : ping + 91209 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91209 
+otrzymano : ping + 91209 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91209 
+otrzymano : ping + 91209 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91209 
+otrzymano : ping + 91209 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91209 
+otrzymano : ping + 91209 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91209 
+otrzymano : ping + 91209 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91209 
+otrzymano : ping + 91209 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91209 
+otrzymano : ping + 91210 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91210 
+otrzymano : ping + 91210 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91210 
+otrzymano : ping + 91210 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91210 
+otrzymano : ping + 91210 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91210 
+otrzymano : ping + 91210 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91210 
+otrzymano : ping + 91210 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91210 
+otrzymano : ping + 91210 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91210 
+otrzymano : ping + 91210 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91210 
+otrzymano : ping + 91210 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91210 
+otrzymano : ping + 91210 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91210 
+otrzymano : ping + 91211 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91211 
+otrzymano : ping + 91211 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91211 
+otrzymano : ping + 91211 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91211 
+otrzymano : ping + 91211 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91211 
+otrzymano : ping + 91211 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91211 
+otrzymano : ping + 91211 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91211 
+otrzymano : ping + 91211 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91211 
+otrzymano : ping + 91211 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91211 
+otrzymano : ping + 91211 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91211 
+otrzymano : ping + 91211 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91211 
+otrzymano : ping + 91212 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91212 
+otrzymano : ping + 91212 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91212 
+otrzymano : ping + 91212 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91212 
+otrzymano : ping + 91212 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91212 
+otrzymano : ping + 91212 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91212 
+otrzymano : ping + 91212 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91212 
+otrzymano : ping + 91212 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91212 
+otrzymano : ping + 91212 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91212 
+otrzymano : ping + 91212 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91212 
+otrzymano : ping + 91212 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91212 
+otrzymano : ping + 91213 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91213 
+otrzymano : ping + 91213 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91213 
+otrzymano : ping + 91213 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91213 
+otrzymano : ping + 91213 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91213 
+otrzymano : ping + 91213 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91213 
+otrzymano : ping + 91213 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91213 
+otrzymano : ping + 91213 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91213 
+otrzymano : ping + 91213 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91213 
+otrzymano : ping + 91213 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91213 
+otrzymano : ping + 91213 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91213 
+otrzymano : ping + 91214 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91214 
+otrzymano : ping + 91214 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91214 
+otrzymano : ping + 91214 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91214 
+otrzymano : ping + 91214 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91214 
+otrzymano : ping + 91214 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91214 
+otrzymano : ping + 91214 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91214 
+otrzymano : ping + 91214 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91214 
+otrzymano : ping + 91214 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91214 
+otrzymano : ping + 91214 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91214 
+otrzymano : ping + 91214 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91214 
+otrzymano : ping + 91215 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91215 
+otrzymano : ping + 91215 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91215 
+otrzymano : ping + 91215 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91215 
+otrzymano : ping + 91215 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91215 
+otrzymano : ping + 91215 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91215 
+otrzymano : ping + 91215 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91215 
+otrzymano : ping + 91215 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91215 
+otrzymano : ping + 91215 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91215 
+otrzymano : ping + 91215 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91215 
+otrzymano : ping + 91215 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91215 
+otrzymano : ping + 91216 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91216 
+otrzymano : ping + 91216 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91216 
+otrzymano : ping + 91216 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91216 
+otrzymano : ping + 91216 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91216 
+otrzymano : ping + 91216 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91216 
+otrzymano : ping + 91216 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91216 
+otrzymano : ping + 91216 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91216 
+otrzymano : ping + 91259 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91259 
+otrzymano : pingping + 91259 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91259 
+otrzymano : ping + 91259 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91259 
+otrzymano : ping + 91300 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91300 
+otrzymano : ping + 91300 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91300 
+otrzymano : ping + 91300 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91300 
+otrzymano : ping + 91300 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91300 
+otrzymano : ping + 91301 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91301 
+otrzymano : ping + 91301 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91301 
+otrzymano : ping + 91301 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91301 
+otrzymano : ping + 91301 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91301 
+otrzymano : ping + 91301 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91301 
+otrzymano : ping + 91302 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91302 
+otrzymano : ping + 91302 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91302 
+otrzymano : ping + 91302 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91302 
+otrzymano : ping + 91302 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91302 
+otrzymano : ping + 91302 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91302 
+otrzymano : ping + 91303 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91303 
+otrzymano : ping + 91303 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91303 
+otrzymano : ping + 91303 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91303 
+otrzymano : ping + 91303 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91303 
+otrzymano : ping + 91303 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91303 
+otrzymano : ping + 91304 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91304 
+otrzymano : ping + 91304 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91304 
+otrzymano : ping + 91304 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91304 
+otrzymano : ping + 91304 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91304 
+otrzymano : ping + 91304 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91304 
+otrzymano : ping + 91305 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91305 
+otrzymano : ping + 91305 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91305 
+otrzymano : ping + 91305 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91305 
+otrzymano : ping + 91305 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91305 
+otrzymano : ping + 91305 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91305 
+otrzymano : ping + 91306 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91306 
+otrzymano : ping + 91306 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91306 
+otrzymano : ping + 91306 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91306 
+otrzymano : ping + 91306 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91306 
+otrzymano : ping + 91306 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91306 
+otrzymano : ping + 91307 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91307 
+otrzymano : ping + 91307 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91307 
+otrzymano : ping + 91307 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91307 
+otrzymano : ping + 91307 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91307 
+otrzymano : ping + 91307 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91307 
+otrzymano : ping + 91308 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91308 
+otrzymano : ping + 91308 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91308 
+otrzymano : ping + 91308 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91308 
+otrzymano : ping + 91308 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91308 
+otrzymano : ping + 91308 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91308 
+otrzymano : ping + 91309 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91309 
+otrzymano : ping + 91309 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91309 
+otrzymano : ping + 91309 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91309 
+otrzymano : ping + 91309 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91309 
+otrzymano : ping + 91309 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91309 
+otrzymano : ping + 91310 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91310 
+otrzymano : ping + 91310 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91310 
+otrzymano : ping + 91310 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91310 
+otrzymano : ping + 91310 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91310 
+otrzymano : ping + 91310 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91310 
+otrzymano : ping + 91311 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91311 
+otrzymano : ping + 91311 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91311 
+otrzymano : ping + 91311 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91311 
+otrzymano : ping + 91311 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91311 
+otrzymano : ping + 91311 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91311 
+otrzymano : ping + 91312 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91312 
+otrzymano : ping + 91312 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91312 
+otrzymano : ping + 91312 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91312 
+otrzymano : ping + 91312 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91312 
+otrzymano : ping + 91312 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91312 
+otrzymano : ping + 91313 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91313 
+otrzymano : ping + 91313 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91313 
+otrzymano : ping + 91313 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91313 
+otrzymano : ping + 91313 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91313 
+otrzymano : ping + 91313 
+wysłano : ('msg_czarne§top', 'zuziaping') + 91313 
+otrzymano : ping + 91318 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91318 
+otrzymano : pingping + 91318 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91318 
+otrzymano : ping + 91318 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91318 
+otrzymano : ping + 91318 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91318 
+otrzymano : ping + 91319 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91319 
+otrzymano : ping + 91319 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91319 
+otrzymano : ping + 91319 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91319 
+otrzymano : ping + 91319 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91319 
+otrzymano : ping + 91319 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91319 
+otrzymano : ping + 91320 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91320 
+otrzymano : ping + 91320 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91320 
+otrzymano : ping + 91320 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91320 
+otrzymano : ping + 91320 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91320 
+otrzymano : ping + 91321 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91321 
+otrzymano : ping + 91321 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91321 
+otrzymano : ping + 91321 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91321 
+otrzymano : ping + 91321 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91321 
+otrzymano : ping + 91321 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91321 
+otrzymano : ('msg_hej', 'zuzix') + 91322 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91322 
+otrzymano : ping + 91322 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91322 
+otrzymano : ping + 91322 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91322 
+otrzymano : ping + 91322 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91322 
+otrzymano : ping + 91322 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91322 
+otrzymano : ping + 91323 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91323 
+otrzymano : ping + 91323 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91323 
+otrzymano : ping + 91323 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91323 
+otrzymano : ping + 91323 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91323 
+otrzymano : ping + 91323 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91323 
+otrzymano : ping + 91324 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91324 
+otrzymano : ping + 91324 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91324 
+otrzymano : ping + 91324 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91324 
+otrzymano : ping + 91324 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91324 
+otrzymano : ping + 91324 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91324 
+otrzymano : ping + 91325 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91325 
+otrzymano : ping + 91325 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91325 
+otrzymano : ping + 91325 
+wysłano : ('msg_wiesz§ze§jest§tryb§czarnego', 'dawidping') + 91325 
+otrzymano : ('msg_halo', 'dawid') + 91325 
+otrzymano : ping + 91325 
+wysłano : ('msg_halo', 'dawid') + 91325 
+wysłano : ('msg_hej', 'zuzix') + 91325 
+otrzymano : ping + 91325 
+wysłano : ('msg_halo', 'dawid') + 91325 
+otrzymano : ping + 91325 
+wysłano : ('msg_hej', 'zuzix') + 91325 
+otrzymano : ping + 91326 
+otrzymano : ping + 91326 
+wysłano : ('msg_hej', 'zuzix') + 91326 
+wysłano : ('msg_halo', 'dawid') + 91326 
+otrzymano : ping + 91326 
+otrzymano : ping + 91326 
+wysłano : ('msg_hej', 'zuzix') + 91326 
+wysłano : ('msg_halo', 'dawid') + 91326 
+otrzymano : ping + 91326 
+otrzymano : ping + 91326 
+wysłano : ('msg_halo', 'dawid') + 91326 
+wysłano : ('msg_hej', 'zuzix') + 91326 
+otrzymano : ping + 91326 
+otrzymano : ping + 91326 
+wysłano : ('msg_hej', 'zuzix') + 91326 
+wysłano : ('msg_halo', 'dawid') + 91326 
+otrzymano : ping + 91326 
+otrzymano : ping + 91326 
+wysłano : ('msg_hej', 'zuzix') + 91326 
+wysłano : ('msg_halo', 'dawid') + 91326 
+otrzymano : ping + 91327 
+wysłano : ('msg_halo', 'dawid') + 91327 
+otrzymano : ping + 91327 
+wysłano : ('msg_hej', 'zuzix') + 91327 
+otrzymano : ping + 91327 
+otrzymano : ping + 91327 
+wysłano : ('msg_hej', 'zuzix') + 91327 
+wysłano : ('msg_halo', 'dawid') + 91327 
+otrzymano : ping + 91327 
+otrzymano : ping + 91327 
+wysłano : ('msg_hej', 'zuzix') + 91327 
+wysłano : ('msg_halo', 'dawid') + 91327 
+otrzymano : ping + 91327 
+otrzymano : ping + 91327 
+wysłano : ('msg_hej', 'zuzix') + 91327 
+wysłano : ('msg_halo', 'dawid') + 91327 
+otrzymano : ping + 91327 
+wysłano : ('msg_halo', 'dawid') + 91327 
+otrzymano : ping + 91327 
+wysłano : ('msg_hej', 'zuzix') + 91327 
+otrzymano : ping + 91328 
+otrzymano : ping + 91328 
+wysłano : ('msg_hej', 'zuzix') + 91328 
+wysłano : ('msg_halo', 'dawid') + 91328 
+otrzymano : ping + 91328 
+otrzymano : ping + 91328 
+wysłano : ('msg_halo', 'dawid') + 91328 
+wysłano : ('msg_hej', 'zuzix') + 91328 
+otrzymano : ping + 91328 
+otrzymano : ping + 91328 
+wysłano : ('msg_halo', 'dawid') + 91328 
+wysłano : ('msg_hej', 'zuzix') + 91328 
+otrzymano : ping + 91328 
+otrzymano : ping + 91328 
+wysłano : ('msg_hej', 'zuzix') + 91328 
+wysłano : ('msg_halo', 'dawid') + 91328 
+otrzymano : ping + 91328 
+wysłano : ('msg_hej', 'zuzix') + 91328 
+otrzymano : ping + 91328 
+wysłano : ('msg_halo', 'dawid') + 91328 
+otrzymano : ping + 91329 
+otrzymano : ping + 91329 
+wysłano : ('msg_halo', 'dawid') + 91329 
+wysłano : ('msg_hej', 'zuzix') + 91329 
+otrzymano : ping + 91329 
+otrzymano : ('msg_juz§dziala', 'zuzix') + 91329 
+wysłano : ('msg_halo', 'dawid') + 91329 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91329 
+otrzymano : ping + 91329 
+otrzymano : ping + 91329 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91329 
+wysłano : ('msg_halo', 'dawid') + 91329 
+otrzymano : ping + 91329 
+otrzymano : ping + 91329 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91329 
+wysłano : ('msg_halo', 'dawid') + 91329 
+otrzymano : ping + 91329 
+otrzymano : ping + 91329 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91329 
+wysłano : ('msg_halo', 'dawid') + 91329 
+otrzymano : ping + 91330 
+otrzymano : ping + 91330 
+wysłano : ('msg_halo', 'dawid') + 91330 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91330 
+otrzymano : ping + 91330 
+otrzymano : ping + 91330 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91330 
+wysłano : ('msg_halo', 'dawid') + 91330 
+otrzymano : ping + 91330 
+otrzymano : ping + 91330 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91330 
+wysłano : ('msg_halo', 'dawid') + 91330 
+otrzymano : ping + 91330 
+otrzymano : ping + 91330 
+wysłano : ('msg_halo', 'dawid') + 91330 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91330 
+otrzymano : ping + 91331 
+wysłano : ('msg_halo', 'dawid') + 91331 
+otrzymano : ping + 91331 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91331 
+otrzymano : ping + 91331 
+otrzymano : ping + 91331 
+wysłano : ('msg_halo', 'dawid') + 91331 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91331 
+otrzymano : ping + 91331 
+wysłano : ('msg_halo', 'dawid') + 91331 
+otrzymano : ping + 91331 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91331 
+otrzymano : ping + 91331 
+wysłano : ('msg_halo', 'dawid') + 91331 
+otrzymano : ping + 91331 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91331 
+otrzymano : ping + 91331 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91331 
+otrzymano : ping + 91331 
+wysłano : ('msg_halo', 'dawid') + 91331 
+otrzymano : ping + 91332 
+wysłano : ('msg_halo', 'dawid') + 91332 
+otrzymano : ping + 91332 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91332 
+otrzymano : ping + 91332 
+otrzymano : ping + 91332 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91332 
+wysłano : ('msg_halo', 'dawid') + 91332 
+otrzymano : ping + 91332 
+wysłano : ('msg_działa', 'dawidping') + 91332 
+otrzymano : ('msg_działa', 'dawidping') + 91332 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91332 
+otrzymano : ping + 91332 
+wysłano : ('msg_działa', 'dawidping') + 91332 
+otrzymano : ping + 91332 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91332 
+otrzymano : ping + 91332 
+wysłano : ('msg_działa', 'dawidping') + 91332 
+otrzymano : ping + 91332 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91332 
+otrzymano : ping + 91333 
+otrzymano : ping + 91333 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91333 
+wysłano : ('msg_działa', 'dawidping') + 91333 
+otrzymano : ping + 91333 
+otrzymano : ping + 91333 
+wysłano : ('msg_działa', 'dawidping') + 91333 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91333 
+otrzymano : ping + 91333 
+otrzymano : ping + 91333 
+wysłano : ('msg_działa', 'dawidping') + 91333 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91333 
+otrzymano : ping + 91333 
+wysłano : ('msg_działa', 'dawidping') + 91333 
+otrzymano : ping + 91333 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91333 
+otrzymano : ping + 91333 
+otrzymano : ping + 91333 
+wysłano : ('msg_działa', 'dawidping') + 91333 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91333 
+otrzymano : ping + 91334 
+otrzymano : ping + 91334 
+wysłano : ('msg_działa', 'dawidping') + 91334 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91334 
+otrzymano : ping + 91334 
+wysłano : ('msg_działa', 'dawidping') + 91334 
+otrzymano : ping + 91334 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91334 
+otrzymano : ping + 91334 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91334 
+otrzymano : ping + 91334 
+wysłano : ('msg_działa', 'dawidping') + 91334 
+otrzymano : ping + 91334 
+wysłano : ('msg_działa', 'dawidping') + 91334 
+otrzymano : ping + 91334 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91334 
+otrzymano : ping + 91334 
+otrzymano : ping + 91334 
+wysłano : ('msg_juz§dziala', 'zuzix') + 91334 
+wysłano : ('msg_działa', 'dawidping') + 91334 
+otrzymano : ping + 91335 
+wysłano : ('msg_halo', 'zuzixping') + 91335 
+otrzymano : ('msg_halo', 'zuzixping') + 91335 
+wysłano : ('msg_działa', 'dawidping') + 91335 
+otrzymano : ping + 91335 
+otrzymano : ping + 91335 
+wysłano : ('msg_działa', 'dawidping') + 91335 
+wysłano : ('msg_halo', 'zuzixping') + 91335 
+otrzymano : ping + 91335 
+wysłano : ('msg_działa', 'dawidping') + 91335 
+otrzymano : ping + 91335 
+wysłano : ('msg_halo', 'zuzixping') + 91335 
+otrzymano : ping + 91335 
+wysłano : ('msg_działa', 'dawidping') + 91335 
+otrzymano : ping + 91335 
+wysłano : ('msg_halo', 'zuzixping') + 91335 
+otrzymano : ping + 91335 
+otrzymano : ping + 91335 
+wysłano : ('msg_działa', 'dawidping') + 91335 
+wysłano : ('msg_halo', 'zuzixping') + 91335 
+otrzymano : ping + 91336 
+wysłano : ('msg_halo', 'zuzixping') + 91336 
+otrzymano : ping + 91336 
+wysłano : ('msg_działa', 'dawidping') + 91336 
+otrzymano : ping + 91336 
+otrzymano : ping + 91336 
+wysłano : ('msg_działa', 'dawidping') + 91336 
+wysłano : ('msg_halo', 'zuzixping') + 91336 
+otrzymano : ping + 91336 
+otrzymano : ping + 91336 
+wysłano : ('msg_halo', 'zuzixping') + 91336 
+wysłano : ('msg_działa', 'dawidping') + 91336 
+otrzymano : ping + 91336 
+otrzymano : ping + 91336 
+wysłano : ('msg_halo', 'zuzixping') + 91336 
+wysłano : ('msg_działa', 'dawidping') + 91336 
+otrzymano : ping + 91336 
+otrzymano : ping + 91336 
+wysłano : ('msg_halo', 'zuzixping') + 91336 
+wysłano : ('msg_działa', 'dawidping') + 91336 
+otrzymano : ping + 91337 
+otrzymano : ping + 91337 
+wysłano : ('msg_działa', 'dawidping') + 91337 
+wysłano : ('msg_halo', 'zuzixping') + 91337 
+otrzymano : ping + 91337 
+otrzymano : ping + 91337 
+wysłano : ('msg_halo', 'zuzixping') + 91337 
+wysłano : ('msg_działa', 'dawidping') + 91337 
+otrzymano : ping + 91337 
+otrzymano : ping + 91337 
+wysłano : ('msg_działa', 'dawidping') + 91337 
+wysłano : ('msg_halo', 'zuzixping') + 91337 
+otrzymano : ping + 91337 
+wysłano : ('msg_działa', 'dawidping') + 91337 
+otrzymano : ping + 91337 
+wysłano : ('msg_halo', 'zuzixping') + 91337 
+otrzymano : ping + 91337 
+otrzymano : ping + 91337 
+wysłano : ('msg_halo', 'zuzixping') + 91337 
+wysłano : ('msg_działa', 'dawidping') + 91337 
+otrzymano : ping + 91338 
+wysłano : ('msg_halo', 'zuzixping') + 91338 
+otrzymano : ping + 91338 
+wysłano : ('msg_działa', 'dawidping') + 91338 
+otrzymano : ping + 91338 
+otrzymano : ping + 91338 
+wysłano : ('msg_halo', 'zuzixping') + 91338 
+wysłano : ('msg_działa', 'dawidping') + 91338 
+otrzymano : ping + 91338 
+otrzymano : ping + 91338 
+wysłano : ('msg_działa', 'dawidping') + 91338 
+wysłano : ('msg_halo', 'zuzixping') + 91338 
+otrzymano : ping + 91338 
+wysłano : ('msg_działa', 'dawidping') + 91338 
+otrzymano : ping + 91338 
+wysłano : ('msg_halo', 'zuzixping') + 91338 
+otrzymano : ping + 91338 
+wysłano : ('msg_halo', 'zuzixping') + 91338 
+otrzymano : ping + 91338 
+wysłano : ('msg_działa', 'dawidping') + 91338 
+otrzymano : ping + 91339 
+otrzymano : ping + 91339 
+wysłano : ('msg_działa', 'dawidping') + 91339 
+wysłano : ('msg_halo', 'zuzixping') + 91339 
+otrzymano : ping + 91339 
+otrzymano : ping + 91339 
+wysłano : ('msg_halo', 'zuzixping') + 91339 
+wysłano : ('msg_działa', 'dawidping') + 91339 
+otrzymano : ping + 91339 
+otrzymano : ping + 91339 
+wysłano : ('msg_halo', 'zuzixping') + 91339 
+wysłano : ('msg_działa', 'dawidping') + 91339 
+otrzymano : ping + 91339 
+otrzymano : ping + 91339 
+wysłano : ('msg_działa', 'dawidping') + 91339 
+wysłano : ('msg_halo', 'zuzixping') + 91339 
+otrzymano : ping + 91339 
+otrzymano : ping + 91339 
+wysłano : ('msg_halo', 'zuzixping') + 91339 
+wysłano : ('msg_działa', 'dawidping') + 91339 
+otrzymano : ping + 91340 
+wysłano : ('msg_halo', 'zuzixping') + 91340 
+otrzymano : ping + 91340 
+wysłano : ('msg_działa', 'dawidping') + 91340 
+otrzymano : ping + 91340 
+wysłano : ('msg_halo', 'zuzixping') + 91340 
+otrzymano : ping + 91340 
+wysłano : ('msg_działa', 'dawidping') + 91340 
+otrzymano : ping + 91340 
+otrzymano : ping + 91340 
+wysłano : ('msg_działa', 'dawidping') + 91340 
+wysłano : ('msg_halo', 'zuzixping') + 91340 
+otrzymano : ping + 91340 
+otrzymano : ping + 91340 
+wysłano : ('msg_halo', 'zuzixping') + 91340 
+wysłano : ('msg_działa', 'dawidping') + 91340 
+otrzymano : ping + 91340 
+wysłano : ('msg_działa', 'dawidping') + 91340 
+otrzymano : ping + 91340 
+wysłano : ('msg_halo', 'zuzixping') + 91340 
+otrzymano : ('msg_psiior', 'dawid') + 91341 
+otrzymano : ping + 91341 
+wysłano : ('msg_działa', 'dawidping') + 91341 
+wysłano : ('msg_halo', 'zuzixping') + 91341 
+otrzymano : ping + 91341 
+otrzymano : ping + 91341 
+wysłano : ('msg_halo', 'zuzixping') + 91341 
+wysłano : ('msg_psiior', 'dawid') + 91341 
+otrzymano : ping + 91341 
+otrzymano : ping + 91341 
+wysłano : ('msg_psiior', 'dawid') + 91341 
+wysłano : ('msg_halo', 'zuzixping') + 91341 
+otrzymano : ping + 91341 
+wysłano : ('msg_psiior', 'dawid') + 91341 
+otrzymano : ping + 91341 
+wysłano : ('msg_halo', 'zuzixping') + 91341 
+otrzymano : ping + 91341 
+otrzymano : ping + 91341 
+wysłano : ('msg_psiior', 'dawid') + 91341 
+wysłano : ('msg_halo', 'zuzixping') + 91341 
+otrzymano : ping + 91342 
+otrzymano : ping + 91342 
+wysłano : ('msg_halo', 'zuzixping') + 91342 
+wysłano : ('msg_psiior', 'dawid') + 91342 
+otrzymano : ping + 91342 
+otrzymano : ping + 91342 
+wysłano : ('msg_psiior', 'dawid') + 91342 
+wysłano : ('msg_halo', 'zuzixping') + 91342 
+otrzymano : ping + 91342 
+otrzymano : ping + 91342 
+wysłano : ('msg_halo', 'zuzixping') + 91342 
+wysłano : ('msg_psiior', 'dawid') + 91342 
+otrzymano : ping + 91342 
+wysłano : ('msg_psiior', 'dawid') + 91342 
+otrzymano : ping + 91342 
+wysłano : ('msg_halo', 'zuzixping') + 91342 
+otrzymano : ping + 91343 
+otrzymano : ping + 91343 
+wysłano : ('msg_psiior', 'dawid') + 91343 
+wysłano : ('msg_halo', 'zuzixping') + 91343 
+otrzymano : ping + 91343 
+wysłano : ('msg_psiior', 'dawid') + 91343 
+otrzymano : ping + 91343 
+wysłano : ('msg_halo', 'zuzixping') + 91343 
+otrzymano : ping + 91343 
+otrzymano : ping + 91343 
+wysłano : ('msg_halo', 'zuzixping') + 91343 
+wysłano : ('msg_psiior', 'dawid') + 91343 
+otrzymano : ping + 91343 
+otrzymano : ping + 91343 
+wysłano : ('msg_halo', 'zuzixping') + 91343 
+wysłano : ('msg_psiior', 'dawid') + 91343 
+otrzymano : ping + 91343 
+otrzymano : ping + 91343 
+wysłano : ('msg_halo', 'zuzixping') + 91343 
+wysłano : ('msg_psiior', 'dawid') + 91343 
+otrzymano : ping + 91344 
+otrzymano : ping + 91344 
+wysłano : ('msg_psiior', 'dawid') + 91344 
+wysłano : ('msg_halo', 'zuzixping') + 91344 
+otrzymano : ping + 91344 
+wysłano : ('msg_psiior', 'dawid') + 91344 
+otrzymano : ping + 91344 
+wysłano : ('msg_halo', 'zuzixping') + 91344 
+otrzymano : ping + 91344 
+wysłano : ('msg_psiior', 'dawid') + 91344 
+otrzymano : ping + 91344 
+wysłano : ('msg_halo', 'zuzixping') + 91344 
+otrzymano : ping + 91344 
+wysłano : ('msg_okej', 'zuzix') + 91344 
+otrzymano : ('msg_okej', 'zuzix') + 91344 
+wysłano : ('msg_psiior', 'dawid') + 91344 
+otrzymano : ping + 91344 
+wysłano : ('msg_psiior', 'dawid') + 91344 
+otrzymano : ping + 91344 
+wysłano : ('msg_okej', 'zuzix') + 91344 
+otrzymano : ping + 91345 
+wysłano : ('msg_psiior', 'dawid') + 91345 
+otrzymano : ping + 91345 
+wysłano : ('msg_okej', 'zuzix') + 91345 
+otrzymano : ping + 91345 
+otrzymano : ping + 91345 
+wysłano : ('msg_okej', 'zuzix') + 91345 
+wysłano : ('msg_psiior', 'dawid') + 91345 
+otrzymano : ping + 91345 
+otrzymano : ping + 91345 
+wysłano : ('msg_psiior', 'dawid') + 91345 
+wysłano : ('msg_okej', 'zuzix') + 91345 
+otrzymano : ping + 91345 
+otrzymano : ping + 91345 
+wysłano : ('msg_okej', 'zuzix') + 91345 
+wysłano : ('msg_psiior', 'dawid') + 91345 
+otrzymano : ping + 91345 
+otrzymano : ping + 91345 
+wysłano : ('msg_okej', 'zuzix') + 91345 
+wysłano : ('msg_psiior', 'dawid') + 91345 
+otrzymano : ping + 91346 
+wysłano : ('msg_psiior', 'dawid') + 91346 
+otrzymano : ping + 91346 
+wysłano : ('msg_okej', 'zuzix') + 91346 
+otrzymano : ping + 91346 
+wysłano : ('msg_psiior', 'dawid') + 91346 
+otrzymano : ping + 91346 
+wysłano : ('msg_okej', 'zuzix') + 91346 
+otrzymano : ping + 91346 
+otrzymano : ping + 91346 
+wysłano : ('msg_okej', 'zuzix') + 91346 
+wysłano : ('msg_psiior', 'dawid') + 91346 
+otrzymano : ping + 91346 
+otrzymano : ping + 91346 
+wysłano : ('msg_okej', 'zuzix') + 91346 
+wysłano : ('msg_psiior', 'dawid') + 91346 
+otrzymano : ping + 91346 
+wysłano : ('msg_psiior', 'dawid') + 91346 
+otrzymano : ping + 91346 
+wysłano : ('msg_okej', 'zuzix') + 91346 
+otrzymano : ping + 91347 
+wysłano : ('msg_psiior', 'dawid') + 91347 
+otrzymano : ping + 91347 
+wysłano : ('msg_okej', 'zuzix') + 91347 
+otrzymano : ping + 91347 
+otrzymano : ping + 91347 
+wysłano : ('msg_okej', 'zuzix') + 91347 
+wysłano : ('msg_psiior', 'dawid') + 91347 
+otrzymano : ping + 91347 
+wysłano : ('msg_psiior', 'dawid') + 91347 
+otrzymano : ping + 91347 
+wysłano : ('msg_okej', 'zuzix') + 91347 
+otrzymano : ping + 91347 
+wysłano : ('msg_okej', 'zuzix') + 91347 
+otrzymano : ping + 91347 
+wysłano : ('msg_psiior', 'dawid') + 91347 
+otrzymano : ping + 91347 
+wysłano : ('msg_psiior', 'dawid') + 91347 
+otrzymano : ping + 91347 
+wysłano : ('msg_okej', 'zuzix') + 91347 
+otrzymano : ping + 91348 
+wysłano : ('msg_okej', 'zuzix') + 91348 
+otrzymano : ping + 91348 
+wysłano : ('msg_psiior', 'dawid') + 91348 
+otrzymano : ping + 91348 
+otrzymano : ping + 91348 
+wysłano : ('msg_okej', 'zuzix') + 91348 
+wysłano : ('msg_psiior', 'dawid') + 91348 
+otrzymano : ping + 91348 
+otrzymano : ping + 91348 
+wysłano : ('msg_okej', 'zuzix') + 91348 
+wysłano : ('msg_psiior', 'dawid') + 91348 
+otrzymano : ping + 91348 
+otrzymano : ping + 91348 
+wysłano : ('msg_psiior', 'dawid') + 91348 
+wysłano : ('msg_okej', 'zuzix') + 91348 
+otrzymano : ping + 91348 
+wysłano : ('msg_okej', 'zuzix') + 91348 
+otrzymano : ping + 91348 
+wysłano : ('msg_psiior', 'dawid') + 91348 
+otrzymano : ping + 91349 
+wysłano : ('msg_okej', 'zuzix') + 91349 
+otrzymano : ping + 91349 
+wysłano : ('msg_psiior', 'dawid') + 91349 
+otrzymano : ping + 91349 
+otrzymano : ping + 91349 
+wysłano : ('msg_psiior', 'dawid') + 91349 
+wysłano : ('msg_okej', 'zuzix') + 91349 
+otrzymano : ping + 91349 
+otrzymano : ping + 91349 
+wysłano : ('msg_psiior', 'dawid') + 91349 
+wysłano : ('msg_okej', 'zuzix') + 91349 
+otrzymano : ping + 91349 
+otrzymano : ping + 91349 
+wysłano : ('msg_okej', 'zuzix') + 91349 
+wysłano : ('msg_psiior', 'dawid') + 91349 
+otrzymano : ping + 91349 
+otrzymano : ping + 91349 
+wysłano : ('msg_okej', 'zuzix') + 91349 
+wysłano : ('msg_psiior', 'dawid') + 91349 
+otrzymano : ping + 91350 
+wysłano : ('msg_okej', 'zuzix') + 91350 
+otrzymano : ping + 91350 
+wysłano : ('msg_psiior', 'dawid') + 91350 
+otrzymano : ping + 91350 
+wysłano : ('msg_okej', 'zuzix') + 91350 
+otrzymano : ping + 91350 
+wysłano : ('msg_psiior', 'dawid') + 91350 
+otrzymano : ping + 91350 
+wysłano : ('msg_okej', 'zuzix') + 91350 
+otrzymano : ping + 91350 
+wysłano : ('msg_psiior', 'dawid') + 91350 
+otrzymano : ping + 91350 
+wysłano : ('msg_okej', 'zuzix') + 91350 
+otrzymano : ping + 91350 
+wysłano : ('msg_psiior', 'dawid') + 91350 
+otrzymano : ping + 91350 
+wysłano : ('msg_okej', 'zuzix') + 91350 
+otrzymano : ping + 91350 
+wysłano : ('msg_psiior', 'dawid') + 91350 
+otrzymano : ping + 91351 
+wysłano : ('msg_okej', 'zuzix') + 91351 
+otrzymano : ping + 91351 
+wysłano : ('msg_psiior', 'dawid') + 91351 
+otrzymano : ping + 91351 
+wysłano : ('msg_okej', 'zuzix') + 91351 
+otrzymano : ping + 91351 
+wysłano : ('msg_psiior', 'dawid') + 91351 
+otrzymano : ping + 91351 
+wysłano : ('msg_okej', 'zuzix') + 91351 
+otrzymano : ping + 91351 
+wysłano : ('msg_psiior', 'dawid') + 91351 
+otrzymano : ping + 91351 
+wysłano : ('msg_okej', 'zuzix') + 91351 
+otrzymano : ping + 91351 
+wysłano : ('msg_psiior', 'dawid') + 91351 
+otrzymano : ping + 91352 
+wysłano : ('msg_okej', 'zuzix') + 91352 
+otrzymano : ping + 91352 
+wysłano : ('msg_psiior', 'dawid') + 91352 
+otrzymano : ping + 91352 
+wysłano : ('msg_okej', 'zuzix') + 91352 
+otrzymano : ping + 91352 
+wysłano : ('msg_psiior', 'dawid') + 91352 
+otrzymano : ping + 91352 
+wysłano : ('msg_okej', 'zuzix') + 91352 
+otrzymano : ping + 91352 
+wysłano : ('msg_psiior', 'dawid') + 91352 
+otrzymano : ping + 91352 
+wysłano : ('msg_okej', 'zuzix') + 91352 
+otrzymano : ping + 91352 
+wysłano : ('msg_psiior', 'dawid') + 91352 
+otrzymano : ping + 91352 
+wysłano : ('msg_okej', 'zuzix') + 91352 
+otrzymano : ping + 91352 
+wysłano : ('msg_psiior', 'dawid') + 91352 
+otrzymano : ping + 91353 
+wysłano : ('msg_okej', 'zuzix') + 91353 
+otrzymano : ping + 91353 
+wysłano : ('msg_psiior', 'dawid') + 91353 
+otrzymano : ping + 91353 
+wysłano : ('msg_okej', 'zuzix') + 91353 
+otrzymano : ping + 91353 
+wysłano : ('msg_psiior', 'dawid') + 91353 
+otrzymano : ping + 91353 
+wysłano : ('msg_okej', 'zuzix') + 91353 
+otrzymano : ping + 91353 
+wysłano : ('msg_psiior', 'dawid') + 91353 
+otrzymano : ping + 91353 
+wysłano : ('msg_okej', 'zuzix') + 91353 
+otrzymano : ping + 91353 
+wysłano : ('msg_psiior', 'dawid') + 91353 
+otrzymano : ping + 91353 
+wysłano : ('msg_okej', 'zuzix') + 91353 
+otrzymano : ping + 91353 
+wysłano : ('msg_psiior', 'dawid') + 91353 
+otrzymano : ping + 91354 
+wysłano : ('msg_okej', 'zuzix') + 91354 
+otrzymano : ping + 91354 
+wysłano : ('msg_psiior', 'dawid') + 91354 
+otrzymano : ping + 91354 
+wysłano : ('msg_okej', 'zuzix') + 91354 
+otrzymano : ping + 91354 
+wysłano : ('msg_psiior', 'dawid') + 91354 
+otrzymano : ping + 91354 
+wysłano : ('msg_okej', 'zuzix') + 91354 
+otrzymano : ping + 91354 
+wysłano : ('msg_psiior', 'dawid') + 91354 
+otrzymano : ping + 91354 
+wysłano : ('msg_okej', 'zuzix') + 91354 
+otrzymano : ping + 91354 
+wysłano : ('msg_psiior', 'dawid') + 91354 
+otrzymano : ping + 91354 
+wysłano : ('msg_okej', 'zuzix') + 91354 
+otrzymano : ping + 91354 
+wysłano : ('msg_psiior', 'dawid') + 91354 
+otrzymano : ping + 91355 
+wysłano : ('msg_okej', 'zuzix') + 91355 
+otrzymano : ping + 91355 
+wysłano : ('msg_psiior', 'dawid') + 91355 
+otrzymano : ping + 91355 
+wysłano : ('msg_okej', 'zuzix') + 91355 
+otrzymano : ping + 91355 
+wysłano : ('msg_psiior', 'dawid') + 91355 
+otrzymano : ping + 91355 
+wysłano : ('msg_okej', 'zuzix') + 91355 
+otrzymano : ping + 91355 
+wysłano : ('msg_psiior', 'dawid') + 91355 
+otrzymano : ping + 91355 
+wysłano : ('msg_okej', 'zuzix') + 91355 
+otrzymano : ping + 91355 
+wysłano : ('msg_psiior', 'dawid') + 91355 
+otrzymano : ping + 91355 
+wysłano : ('msg_okej', 'zuzix') + 91355 
+otrzymano : ping + 91355 
+wysłano : ('msg_psiior', 'dawid') + 91355 
+otrzymano : ping + 91356 
+wysłano : ('msg_okej', 'zuzix') + 91356 
+otrzymano : ping + 91356 
+wysłano : ('msg_psiior', 'dawid') + 91356 
+otrzymano : ping + 91356 
+wysłano : ('msg_okej', 'zuzix') + 91356 
+otrzymano : ping + 91356 
+wysłano : ('msg_psiior', 'dawid') + 91356 
+otrzymano : ping + 91356 
+wysłano : ('msg_okej', 'zuzix') + 91356 
+otrzymano : ping + 91356 
+wysłano : ('msg_psiior', 'dawid') + 91356 
+otrzymano : ping + 91356 
+wysłano : ('msg_okej', 'zuzix') + 91356 
+otrzymano : ping + 91356 
+wysłano : ('msg_psiior', 'dawid') + 91356 
+otrzymano : ping + 91356 
+wysłano : ('msg_okej', 'zuzix') + 91356 
+otrzymano : ping + 91356 
+wysłano : ('msg_psiior', 'dawid') + 91356 
+otrzymano : ping + 91357 
+wysłano : ('msg_okej', 'zuzix') + 91357 
+otrzymano : ping + 91357 
+wysłano : ('msg_psiior', 'dawid') + 91357 
+otrzymano : ping + 91357 
+wysłano : ('msg_okej', 'zuzix') + 91357 
+otrzymano : ping + 91357 
+wysłano : ('msg_psiior', 'dawid') + 91357 
+otrzymano : ping + 91357 
+wysłano : ('msg_okej', 'zuzix') + 91357 
+otrzymano : ping + 91357 
+wysłano : ('msg_psiior', 'dawid') + 91357 
+otrzymano : ping + 91357 
+wysłano : ('msg_okej', 'zuzix') + 91357 
+otrzymano : ping + 91357 
+wysłano : ('msg_psiior', 'dawid') + 91357 
+otrzymano : ping + 91357 
+wysłano : ('msg_okej', 'zuzix') + 91357 
+otrzymano : ping + 91357 
+wysłano : ('msg_psiior', 'dawid') + 91357 
+otrzymano : ping + 91358 
+wysłano : ('msg_okej', 'zuzix') + 91358 
+otrzymano : ping + 91358 
+wysłano : ('msg_psiior', 'dawid') + 91358 
+otrzymano : ping + 91358 
+wysłano : ('msg_okej', 'zuzix') + 91358 
+otrzymano : ping + 91358 
+wysłano : ('msg_psiior', 'dawid') + 91358 
+otrzymano : ping + 91358 
+wysłano : ('msg_okej', 'zuzix') + 91358 
+otrzymano : ping + 91358 
+wysłano : ('msg_psiior', 'dawid') + 91358 
+otrzymano : ping + 91358 
+wysłano : ('msg_okej', 'zuzix') + 91358 
+otrzymano : ping + 91358 
+wysłano : ('msg_psiior', 'dawid') + 91358 
+otrzymano : ping + 91358 
+wysłano : ('msg_okej', 'zuzix') + 91358 
+otrzymano : ping + 91358 
+wysłano : ('msg_psiior', 'dawid') + 91358 
+otrzymano : ping + 91359 
+wysłano : ('msg_okej', 'zuzix') + 91359 
+otrzymano : ping + 91359 
+wysłano : ('msg_psiior', 'dawid') + 91359 
+otrzymano : ping + 91359 
+wysłano : ('msg_okej', 'zuzix') + 91359 
+otrzymano : ping + 91359 
+wysłano : ('msg_psiior', 'dawid') + 91359 
+otrzymano : ping + 91359 
+wysłano : ('msg_okej', 'zuzix') + 91359 
+otrzymano : ping + 91359 
+wysłano : ('msg_psiior', 'dawid') + 91359 
+otrzymano : ping + 91359 
+wysłano : ('msg_okej', 'zuzix') + 91359 
+otrzymano : ping + 91359 
+wysłano : ('msg_psiior', 'dawid') + 91359 
+otrzymano : ping + 91359 
+wysłano : ('msg_okej', 'zuzix') + 91359 
+otrzymano : ping + 91359 
+wysłano : ('msg_psiior', 'dawid') + 91359 
+otrzymano : ping + 91400 
+wysłano : ('msg_okej', 'zuzix') + 91400 
+otrzymano : ping + 91400 
+wysłano : ('msg_psiior', 'dawid') + 91400 
+otrzymano : ping + 91400 
+wysłano : ('msg_okej', 'zuzix') + 91400 
+otrzymano : ping + 91400 
+wysłano : ('msg_psiior', 'dawid') + 91400 
+otrzymano : ping + 91400 
+wysłano : ('msg_okej', 'zuzix') + 91400 
+otrzymano : ping + 91400 
+wysłano : ('msg_psiior', 'dawid') + 91400 
+otrzymano : ping + 91400 
+wysłano : ('msg_okej', 'zuzix') + 91400 
+otrzymano : ping + 91400 
+wysłano : ('msg_psiior', 'dawid') + 91400 
+otrzymano : ping + 91400 
+wysłano : ('msg_okej', 'zuzix') + 91400 
+otrzymano : ping + 91400 
+wysłano : ('msg_psiior', 'dawid') + 91400 
+otrzymano : ping + 91401 
+wysłano : ('msg_okej', 'zuzix') + 91401 
+otrzymano : ping + 91401 
+wysłano : ('msg_psiior', 'dawid') + 91401 
+otrzymano : ping + 91401 
+wysłano : ('msg_okej', 'zuzix') + 91401 
+otrzymano : ping + 91401 
+wysłano : ('msg_psiior', 'dawid') + 91401 
+otrzymano : ping + 91401 
+wysłano : ('msg_okej', 'zuzix') + 91401 
+otrzymano : ping + 91401 
+wysłano : ('msg_psiior', 'dawid') + 91401 
+otrzymano : ping + 91401 
+wysłano : ('msg_okej', 'zuzix') + 91401 
+otrzymano : ping + 91401 
+wysłano : ('msg_psiior', 'dawid') + 91401 
+otrzymano : ping + 91401 
+wysłano : ('msg_okej', 'zuzix') + 91401 
+otrzymano : ping + 91402 
+wysłano : ('msg_psiior', 'dawid') + 91402 
+otrzymano : ping + 91402 
+wysłano : ('msg_okej', 'zuzix') + 91402 
+otrzymano : ping + 91402 
+wysłano : ('msg_psiior', 'dawid') + 91402 
+otrzymano : ping + 91402 
+wysłano : ('msg_okej', 'zuzix') + 91402 
+otrzymano : ping + 91402 
+wysłano : ('msg_psiior', 'dawid') + 91402 
+otrzymano : ping + 91402 
+wysłano : ('msg_okej', 'zuzix') + 91402 
+otrzymano : ping + 91402 
+wysłano : ('msg_psiior', 'dawid') + 91402 
+otrzymano : ping + 91402 
+wysłano : ('msg_okej', 'zuzix') + 91402 
+otrzymano : ping + 91402 
+wysłano : ('msg_psiior', 'dawid') + 91402 
+otrzymano : ping + 91403 
+wysłano : ('msg_okej', 'zuzix') + 91403 
+otrzymano : ping + 91403 
+wysłano : ('msg_psiior', 'dawid') + 91403 
+otrzymano : ping + 91403 
+wysłano : ('msg_okej', 'zuzix') + 91403 
+otrzymano : ping + 91403 
+wysłano : ('msg_psiior', 'dawid') + 91403 
+otrzymano : ping + 91403 
+wysłano : ('msg_okej', 'zuzix') + 91403 
+otrzymano : ping + 91403 
+wysłano : ('msg_psiior', 'dawid') + 91403 
+otrzymano : ping + 91403 
+wysłano : ('msg_okej', 'zuzix') + 91403 
+otrzymano : ping + 91403 
+wysłano : ('msg_psiior', 'dawid') + 91403 
+otrzymano : ping + 91403 
+wysłano : ('msg_okej', 'zuzix') + 91403 
+otrzymano : ping + 91403 
+wysłano : ('msg_psiior', 'dawid') + 91403 
+otrzymano : ping + 91404 
+wysłano : ('msg_okej', 'zuzix') + 91404 
+otrzymano : ping + 91404 
+wysłano : ('msg_psiior', 'dawid') + 91404 
+otrzymano : ping + 91404 
+wysłano : ('msg_okej', 'zuzix') + 91404 
+otrzymano : ping + 91404 
+wysłano : ('msg_psiior', 'dawid') + 91404 
+otrzymano : ping + 91404 
+wysłano : ('msg_okej', 'zuzix') + 91404 
+otrzymano : ping + 91404 
+wysłano : ('msg_psiior', 'dawid') + 91404 
+otrzymano : ping + 91404 
+wysłano : ('msg_okej', 'zuzix') + 91404 
+otrzymano : ping + 91404 
+wysłano : ('msg_psiior', 'dawid') + 91404 
+otrzymano : ping + 91404 
+wysłano : ('msg_okej', 'zuzix') + 91404 
+otrzymano : ping + 91404 
+wysłano : ('msg_psiior', 'dawid') + 91404 
+otrzymano : ping + 91405 
+wysłano : ('msg_okej', 'zuzix') + 91405 
+otrzymano : ping + 91405 
+wysłano : ('msg_psiior', 'dawid') + 91405 
+otrzymano : ping + 91405 
+wysłano : ('msg_okej', 'zuzix') + 91405 
+otrzymano : ping + 91405 
+wysłano : ('msg_psiior', 'dawid') + 91405 
+otrzymano : ping + 91405 
+wysłano : ('msg_okej', 'zuzix') + 91405 
+otrzymano : ping + 91405 
+wysłano : ('msg_psiior', 'dawid') + 91405 
+otrzymano : ping + 91405 
+wysłano : ('msg_okej', 'zuzix') + 91405 
+otrzymano : ping + 91405 
+wysłano : ('msg_psiior', 'dawid') + 91405 
+otrzymano : ('msg_chuj', 'dawidping') + 91405 
+wysłano : ('msg_okej', 'zuzix') + 91405 
+otrzymano : ping + 91405 
+wysłano : ('msg_chuj', 'dawidping') + 91405 
+otrzymano : ping + 91406 
+wysłano : ('msg_okej', 'zuzix') + 91406 
+otrzymano : ping + 91406 
+wysłano : ('msg_chuj', 'dawidping') + 91406 
+otrzymano : ping + 91406 
+wysłano : ('msg_okej', 'zuzix') + 91406 
+otrzymano : ping + 91406 
+wysłano : ('msg_chuj', 'dawidping') + 91406 
+otrzymano : ping + 91406 
+wysłano : ('msg_okej', 'zuzix') + 91406 
+otrzymano : ping + 91406 
+wysłano : ('msg_chuj', 'dawidping') + 91406 
+otrzymano : ping + 91406 
+wysłano : ('msg_okej', 'zuzix') + 91406 
+otrzymano : ping + 91406 
+wysłano : ('msg_chuj', 'dawidping') + 91406 
+otrzymano : ping + 91406 
+wysłano : ('msg_okej', 'zuzix') + 91406 
+otrzymano : ping + 91406 
+wysłano : ('msg_chuj', 'dawidping') + 91406 
+otrzymano : ping + 91407 
+wysłano : ('msg_okej', 'zuzix') + 91407 
+otrzymano : ping + 91407 
+wysłano : ('msg_chuj', 'dawidping') + 91407 
+otrzymano : ping + 91407 
+wysłano : ('msg_okej', 'zuzix') + 91407 
+otrzymano : ping + 91407 
+wysłano : ('msg_chuj', 'dawidping') + 91407 
+otrzymano : ping + 91407 
+wysłano : ('msg_okej', 'zuzix') + 91407 
+otrzymano : ping + 91407 
+wysłano : ('msg_chuj', 'dawidping') + 91407 
+otrzymano : ping + 91407 
+wysłano : ('msg_okej', 'zuzix') + 91407 
+otrzymano : ping + 91407 
+wysłano : ('msg_chuj', 'dawidping') + 91407 
+otrzymano : ping + 91407 
+wysłano : ('msg_okej', 'zuzix') + 91407 
+otrzymano : ping + 91407 
+wysłano : ('msg_chuj', 'dawidping') + 91407 
+otrzymano : ping + 91408 
+wysłano : ('msg_okej', 'zuzix') + 91408 
+otrzymano : ping + 91408 
+wysłano : ('msg_chuj', 'dawidping') + 91408 
+otrzymano : ping + 91408 
+wysłano : ('msg_okej', 'zuzix') + 91408 
+otrzymano : ping + 91408 
+wysłano : ('msg_chuj', 'dawidping') + 91408 
+otrzymano : ping + 91408 
+wysłano : ('msg_okej', 'zuzix') + 91408 
+otrzymano : ping + 91408 
+wysłano : ('msg_chuj', 'dawidping') + 91408 
+otrzymano : ping + 91408 
+wysłano : ('msg_okej', 'zuzix') + 91408 
+otrzymano : ping + 91408 
+wysłano : ('msg_chuj', 'dawidping') + 91408 
+otrzymano : ping + 91408 
+wysłano : ('msg_okej', 'zuzix') + 91408 
+otrzymano : ping + 91408 
+wysłano : ('msg_chuj', 'dawidping') + 91408 
+otrzymano : ping + 91409 
+wysłano : ('msg_okej', 'zuzix') + 91409 
+otrzymano : ping + 91409 
+wysłano : ('msg_chuj', 'dawidping') + 91409 
+otrzymano : ping + 91409 
+wysłano : ('msg_okej', 'zuzix') + 91409 
+otrzymano : ping + 91409 
+wysłano : ('msg_chuj', 'dawidping') + 91409 
+otrzymano : ping + 91409 
+wysłano : ('msg_okej', 'zuzix') + 91409 
+otrzymano : ping + 91409 
+wysłano : ('msg_okej', 'zuzix') + 91409 
+otrzymano : ping + 91757 
+wysłano :  + 91757 
+otrzymano : ping + 91757 
+wysłano :  + 91757 
+otrzymano : ping + 91907 
+wysłano :  + 91907 
+otrzymano : ping + 91907 
+wysłano :  + 91907 
+otrzymano : ping + 91942 
+wysłano :  + 91942 
+otrzymano : ping + 91942 
+wysłano :  + 91942 
+otrzymano : ping + 92012 
+wysłano :  + 92012 
+otrzymano : ping + 92012 
+wysłano :  + 92012 
+otrzymano : ping + 92120 
+wysłano :  + 92120 
+otrzymano : ping + 92120 
+wysłano :  + 92120 
+otrzymano : ping + 92244 
+wysłano :  + 92244 
+otrzymano : ping + 92244 
+wysłano :  + 92244 
+otrzymano : ping + 92357 
+wysłano :  + 92357 
+otrzymano : ping + 92357 
+wysłano :  + 92357 
+otrzymano : ping + 92552 
+wysłano : ('0', '0') + 92552 
+otrzymano : ping + 92553 
+wysłano : ('0', '0') + 92553 
+otrzymano : pingping + 92553 
+wysłano : ('0', '0') + 92553 
+otrzymano : ping + 92553 
+wysłano : ('0', '0') + 92553 
+otrzymano : ping + 92553 
+wysłano : ('0', '0') + 92553 
+otrzymano : ping + 92553 
+wysłano : ('0', '0') + 92553 
+otrzymano : ping + 92554 
+wysłano : ('0', '0') + 92554 
+otrzymano : ping + 92554 
+wysłano : ('0', '0') + 92554 
+otrzymano : ping + 92554 
+wysłano : ('0', '0') + 92554 
+otrzymano : ping + 92554 
+wysłano : ('0', '0') + 92554 
+otrzymano : ping + 92554 
+wysłano : ('0', '0') + 92554 
+otrzymano : ping + 92603 
+wysłano : ('0', '0') + 92603 
+otrzymano : pingping + 92603 
+wysłano : ('0', '0') + 92603 
+otrzymano : ping + 92604 
+wysłano : ('0', '0') + 92604 
+otrzymano : ping + 92604 
+wysłano : ('0', '0') + 92604 
+otrzymano : ping + 92604 
+wysłano : ('0', '0') + 92604 
+otrzymano : ping + 92604 
+wysłano : ('0', '0') + 92604 
+otrzymano : ping + 92604 
+wysłano : ('0', '0') + 92604 
+otrzymano : pingping + 92605 
+otrzymano : ping + 92605 
+wysłano : ('0', '0') + 92605 
+wysłano : ('0', '0') + 92605 
+otrzymano : ping + 92605 
+otrzymano : ping + 92605 
+wysłano : ('0', '0') + 92605 
+wysłano : ('0', '0') + 92605 
+otrzymano : ping + 92605 
+otrzymano : ping + 92605 
+wysłano : ('0', '0') + 92605 
+wysłano : ('0', '0') + 92605 
+otrzymano : ping + 92605 
+otrzymano : ping + 92605 
+wysłano : ('0', '0') + 92605 
+wysłano : ('0', '0') + 92605 
+otrzymano : ping + 92605 
+wysłano : ('0', '0') + 92605 
+otrzymano : ping + 92605 
+wysłano : ('0', '0') + 92605 
+otrzymano : ping + 92606 
+wysłano : ('0', '0') + 92606 
+otrzymano : ping + 92606 
+wysłano : ('0', '0') + 92606 
+otrzymano : ping + 92606 
+wysłano : ('0', '0') + 92606 
+otrzymano : ping + 92606 
+wysłano : ('0', '0') + 92606 
+otrzymano : ping + 92606 
+otrzymano : ping + 92606 
+wysłano : ('0', '0') + 92606 
+wysłano : ('0', '0') + 92606 
+otrzymano : ping + 92606 
+wysłano : ('0', '0') + 92606 
+otrzymano : ping + 92606 
+wysłano : ('0', '0') + 92606 
+otrzymano : ping + 92606 
+wysłano : ('0', '0') + 92606 
+otrzymano : ping + 92606 
+wysłano : ('0', '0') + 92606 
+otrzymano : ping + 92607 
+wysłano : ('0', '0') + 92607 
+otrzymano : ping + 92607 
+wysłano : ('0', '0') + 92607 
+otrzymano : ping + 92607 
+wysłano : ('0', '0') + 92607 
+otrzymano : ping + 92607 
+wysłano : ('0', '0') + 92607 
+otrzymano : ping + 92607 
+wysłano : ('0', '0') + 92607 
+otrzymano : ping + 92607 
+wysłano : ('0', '0') + 92607 
+otrzymano : ping + 92607 
+wysłano : ('0', '0') + 92607 
+otrzymano : ping + 92607 
+wysłano : ('0', '0') + 92607 
+otrzymano : ping + 92607 
+wysłano : ('0', '0') + 92607 
+otrzymano : ('msg_halo', 'dawidping') + 92607 
+wysłano : ('0', '0') + 92607 
+otrzymano : ping + 92608 
+wysłano : ('msg_halo', 'dawidping') + 92608 
+otrzymano : ping + 92608 
+wysłano : ('0', '0') + 92608 
+otrzymano : ping + 92608 
+wysłano : ('msg_halo', 'dawidping') + 92608 
+otrzymano : ping + 92608 
+wysłano : ('0', '0') + 92608 
+otrzymano : ping + 92608 
+wysłano : ('msg_halo', 'dawidping') + 92608 
+otrzymano : ping + 92608 
+wysłano : ('0', '0') + 92608 
+otrzymano : ('msg_hejka', 'zuzixping') + 92608 
+wysłano : ('msg_halo', 'dawidping') + 92608 
+otrzymano : ping + 92608 
+wysłano : ('msg_hejka', 'zuzixping') + 92608 
+otrzymano : ping + 92608 
+wysłano : ('msg_halo', 'dawidping') + 92608 
+otrzymano : ping + 92608 
+wysłano : ('msg_hejka', 'zuzixping') + 92608 
+otrzymano : ping + 92609 
+wysłano : ('msg_halo', 'dawidping') + 92609 
+otrzymano : ping + 92609 
+wysłano : ('msg_hejka', 'zuzixping') + 92609 
+otrzymano : ping + 92609 
+wysłano : ('msg_halo', 'dawidping') + 92609 
+otrzymano : ping + 92609 
+wysłano : ('msg_hejka', 'zuzixping') + 92609 
+otrzymano : ping + 92609 
+wysłano : ('msg_halo', 'dawidping') + 92609 
+otrzymano : ping + 92609 
+wysłano : ('msg_hejka', 'zuzixping') + 92609 
+otrzymano : ping + 92609 
+wysłano : ('msg_halo', 'dawidping') + 92609 
+otrzymano : ping + 92609 
+wysłano : ('msg_hejka', 'zuzixping') + 92609 
+otrzymano : ping + 92609 
+wysłano : ('msg_halo', 'dawidping') + 92609 
+otrzymano : ping + 92609 
+wysłano : ('msg_hejka', 'zuzixping') + 92609 
+otrzymano : ping + 92610 
+wysłano : ('msg_halo', 'dawidping') + 92610 
+otrzymano : ping + 92610 
+wysłano : ('msg_hejka', 'zuzixping') + 92610 
+otrzymano : ping + 92610 
+wysłano : ('msg_halo', 'dawidping') + 92610 
+otrzymano : ping + 92610 
+wysłano : ('msg_hejka', 'zuzixping') + 92610 
+otrzymano : ping + 92610 
+wysłano : ('msg_halo', 'dawidping') + 92610 
+otrzymano : ping + 92610 
+wysłano : ('msg_hejka', 'zuzixping') + 92610 
+otrzymano : ping + 92610 
+wysłano : ('msg_halo', 'dawidping') + 92610 
+otrzymano : ping + 92610 
+wysłano : ('msg_hejka', 'zuzixping') + 92610 
+otrzymano : ping + 92610 
+wysłano : ('msg_halo', 'dawidping') + 92610 
+otrzymano : ping + 92610 
+wysłano : ('msg_hejka', 'zuzixping') + 92610 
+otrzymano : ping + 92611 
+wysłano : ('msg_halo', 'dawidping') + 92611 
+otrzymano : ping + 92611 
+wysłano : ('msg_hejka', 'zuzixping') + 92611 
+otrzymano : ping + 92611 
+wysłano : ('msg_halo', 'dawidping') + 92611 
+otrzymano : ping + 92611 
+wysłano : ('msg_hejka', 'zuzixping') + 92611 
+otrzymano : ('msg_co§slychac', 'zuzixping') + 92611 
+wysłano : ('msg_halo', 'dawidping') + 92611 
+otrzymano : ping + 92611 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92611 
+otrzymano : ping + 92611 
+wysłano : ('msg_halo', 'dawidping') + 92611 
+otrzymano : ping + 92611 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92611 
+otrzymano : ping + 92611 
+wysłano : ('msg_halo', 'dawidping') + 92611 
+otrzymano : ping + 92611 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92611 
+otrzymano : ping + 92612 
+wysłano : ('msg_halo', 'dawidping') + 92612 
+otrzymano : ping + 92612 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92612 
+otrzymano : ping + 92612 
+wysłano : ('msg_halo', 'dawidping') + 92612 
+otrzymano : ping + 92612 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92612 
+otrzymano : ping + 92612 
+wysłano : ('msg_halo', 'dawidping') + 92612 
+otrzymano : ping + 92612 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92612 
+otrzymano : ping + 92612 
+wysłano : ('msg_halo', 'dawidping') + 92612 
+otrzymano : ping + 92612 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92612 
+otrzymano : ping + 92612 
+wysłano : ('msg_halo', 'dawidping') + 92612 
+otrzymano : ping + 92612 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92612 
+otrzymano : ping + 92613 
+wysłano : ('msg_halo', 'dawidping') + 92613 
+otrzymano : ping + 92613 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92613 
+otrzymano : ping + 92613 
+wysłano : ('msg_halo', 'dawidping') + 92613 
+otrzymano : ping + 92613 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92613 
+otrzymano : ping + 92613 
+wysłano : ('msg_halo', 'dawidping') + 92613 
+otrzymano : ping + 92613 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92613 
+otrzymano : ping + 92613 
+wysłano : ('msg_halo', 'dawidping') + 92613 
+otrzymano : ping + 92613 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92613 
+otrzymano : ping + 92613 
+wysłano : ('msg_halo', 'dawidping') + 92613 
+otrzymano : ping + 92613 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92613 
+otrzymano : ping + 92614 
+wysłano : ('msg_halo', 'dawidping') + 92614 
+otrzymano : ping + 92614 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92614 
+otrzymano : ping + 92614 
+wysłano : ('msg_halo', 'dawidping') + 92614 
+otrzymano : ping + 92614 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92614 
+otrzymano : ping + 92614 
+wysłano : ('msg_halo', 'dawidping') + 92614 
+otrzymano : ping + 92614 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92614 
+otrzymano : ping + 92614 
+wysłano : ('msg_halo', 'dawidping') + 92614 
+otrzymano : ping + 92614 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92614 
+otrzymano : ping + 92614 
+wysłano : ('msg_halo', 'dawidping') + 92614 
+otrzymano : ping + 92615 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92615 
+otrzymano : ping + 92615 
+wysłano : ('msg_halo', 'dawidping') + 92615 
+otrzymano : ping + 92615 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92615 
+otrzymano : ping + 92615 
+wysłano : ('msg_halo', 'dawidping') + 92615 
+otrzymano : ping + 92615 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92615 
+otrzymano : ping + 92615 
+wysłano : ('msg_halo', 'dawidping') + 92615 
+otrzymano : ping + 92615 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92615 
+otrzymano : ping + 92615 
+wysłano : ('msg_halo', 'dawidping') + 92615 
+otrzymano : ping + 92615 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92615 
+otrzymano : ping + 92615 
+wysłano : ('msg_halo', 'dawidping') + 92615 
+otrzymano : ping + 92616 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92616 
+otrzymano : ping + 92616 
+wysłano : ('msg_halo', 'dawidping') + 92616 
+otrzymano : ping + 92616 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92616 
+otrzymano : ping + 92616 
+wysłano : ('msg_halo', 'dawidping') + 92616 
+otrzymano : ping + 92616 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92616 
+otrzymano : ping + 92616 
+wysłano : ('msg_halo', 'dawidping') + 92616 
+otrzymano : ping + 92616 
+wysłano : ('msg_co§slychac', 'zuzixping') + 92616 
+otrzymano : ('msg_ej', 'zuzixping') + 92616 
+wysłano : ('msg_halo', 'dawidping') + 92616 
+otrzymano : ping + 92616 
+wysłano : ('msg_ej', 'zuzixping') + 92616 
+otrzymano : ping + 92617 
+wysłano : ('msg_halo', 'dawidping') + 92617 
+otrzymano : ping + 92617 
+wysłano : ('msg_ej', 'zuzixping') + 92617 
+otrzymano : ping + 92617 
+wysłano : ('msg_halo', 'dawidping') + 92617 
+otrzymano : ping + 92617 
+wysłano : ('msg_ej', 'zuzixping') + 92617 
+otrzymano : ping + 92617 
+wysłano : ('msg_halo', 'dawidping') + 92617 
+otrzymano : ping + 92617 
+wysłano : ('msg_ej', 'zuzixping') + 92617 
+otrzymano : ping + 92617 
+wysłano : ('msg_halo', 'dawidping') + 92617 
+otrzymano : ping + 92617 
+wysłano : ('msg_ej', 'zuzixping') + 92617 
+otrzymano : ping + 92617 
+wysłano : ('msg_halo', 'dawidping') + 92617 
+otrzymano : ping + 92617 
+wysłano : ('msg_ej', 'zuzixping') + 92617 
+otrzymano : ping + 92618 
+wysłano : ('msg_halo', 'dawidping') + 92618 
+otrzymano : ping + 92618 
+wysłano : ('msg_ej', 'zuzixping') + 92618 
+otrzymano : ping + 92618 
+wysłano : ('msg_halo', 'dawidping') + 92618 
+otrzymano : ping + 92618 
+wysłano : ('msg_ej', 'zuzixping') + 92618 
+otrzymano : ping + 92618 
+wysłano : ('msg_halo', 'dawidping') + 92618 
+otrzymano : ping + 92618 
+wysłano : ('msg_ej', 'zuzixping') + 92618 
+otrzymano : ping + 92618 
+wysłano : ('msg_halo', 'dawidping') + 92618 
+otrzymano : ping + 92618 
+wysłano : ('msg_ej', 'zuzixping') + 92618 
+otrzymano : ping + 92618 
+wysłano : ('msg_halo', 'dawidping') + 92618 
+otrzymano : ping + 92618 
+wysłano : ('msg_ej', 'zuzixping') + 92618 
+otrzymano : ping + 92619 
+wysłano : ('msg_halo', 'dawidping') + 92619 
+otrzymano : ping + 92619 
+wysłano : ('msg_ej', 'zuzixping') + 92619 
+otrzymano : ping + 92619 
+wysłano : ('msg_halo', 'dawidping') + 92619 
+otrzymano : ping + 92619 
+wysłano : ('msg_ej', 'zuzixping') + 92619 
+otrzymano : ping + 92619 
+wysłano : ('msg_halo', 'dawidping') + 92619 
+otrzymano : ping + 92619 
+wysłano : ('msg_ej', 'zuzixping') + 92619 
+otrzymano : ping + 92619 
+wysłano : ('msg_halo', 'dawidping') + 92619 
+otrzymano : ping + 92619 
+wysłano : ('msg_ej', 'zuzixping') + 92619 
+otrzymano : ping + 92619 
+wysłano : ('msg_halo', 'dawidping') + 92619 
+otrzymano : ping + 92619 
+wysłano : ('msg_ej', 'zuzixping') + 92619 
+otrzymano : ping + 92620 
+wysłano : ('msg_halo', 'dawidping') + 92620 
+otrzymano : ping + 92620 
+wysłano : ('msg_ej', 'zuzixping') + 92620 
+otrzymano : ping + 92620 
+wysłano : ('msg_halo', 'dawidping') + 92620 
+otrzymano : ping + 92620 
+wysłano : ('msg_ej', 'zuzixping') + 92620 
+otrzymano : ping + 92620 
+wysłano : ('msg_halo', 'dawidping') + 92620 
+otrzymano : ping + 92620 
+wysłano : ('msg_ej', 'zuzixping') + 92620 
+otrzymano : ping + 92620 
+wysłano : ('msg_halo', 'dawidping') + 92620 
+otrzymano : ping + 92620 
+wysłano : ('msg_ej', 'zuzixping') + 92620 
+otrzymano : ping + 92620 
+wysłano : ('msg_halo', 'dawidping') + 92620 
+otrzymano : ping + 92620 
+wysłano : ('msg_ej', 'zuzixping') + 92620 
+otrzymano : ping + 92621 
+wysłano : ('msg_halo', 'dawidping') + 92621 
+otrzymano : ping + 92621 
+wysłano : ('msg_ej', 'zuzixping') + 92621 
+otrzymano : ping + 92621 
+wysłano : ('msg_halo', 'dawidping') + 92621 
+otrzymano : ping + 92621 
+wysłano : ('msg_ej', 'zuzixping') + 92621 
+otrzymano : ping + 92621 
+wysłano : ('msg_halo', 'dawidping') + 92621 
+otrzymano : ping + 92621 
+wysłano : ('msg_ej', 'zuzixping') + 92621 
+otrzymano : ping + 92621 
+wysłano : ('msg_halo', 'dawidping') + 92621 
+otrzymano : ping + 92621 
+wysłano : ('msg_ej', 'zuzixping') + 92621 
+otrzymano : ping + 92621 
+wysłano : ('msg_halo', 'dawidping') + 92621 
+otrzymano : ping + 92621 
+wysłano : ('msg_ej', 'zuzixping') + 92621 
+otrzymano : ping + 92622 
+wysłano : ('msg_halo', 'dawidping') + 92622 
+otrzymano : ping + 92622 
+wysłano : ('msg_ej', 'zuzixping') + 92622 
+otrzymano : ping + 92622 
+wysłano : ('msg_halo', 'dawidping') + 92622 
+otrzymano : ping + 92622 
+wysłano : ('msg_ej', 'zuzixping') + 92622 
+otrzymano : ping + 92622 
+wysłano : ('msg_halo', 'dawidping') + 92622 
+otrzymano : ping + 92622 
+wysłano : ('msg_ej', 'zuzixping') + 92622 
+otrzymano : ping + 92622 
+wysłano : ('msg_halo', 'dawidping') + 92622 
+otrzymano : ping + 92622 
+wysłano : ('msg_ej', 'zuzixping') + 92622 
+otrzymano : ping + 92622 
+wysłano : ('msg_halo', 'dawidping') + 92622 
+otrzymano : ping + 92622 
+wysłano : ('msg_ej', 'zuzixping') + 92622 
+otrzymano : ping + 92623 
+wysłano : ('msg_halo', 'dawidping') + 92623 
+otrzymano : ping + 92623 
+wysłano : ('msg_ej', 'zuzixping') + 92623 
+otrzymano : ping + 92623 
+wysłano : ('msg_halo', 'dawidping') + 92623 
+otrzymano : ping + 92623 
+wysłano : ('msg_ej', 'zuzixping') + 92623 
+otrzymano : ping + 92623 
+wysłano : ('msg_halo', 'dawidping') + 92623 
+otrzymano : ping + 92623 
+wysłano : ('msg_ej', 'zuzixping') + 92623 
+otrzymano : ping + 92623 
+wysłano : ('msg_halo', 'dawidping') + 92623 
+otrzymano : ping + 92623 
+wysłano : ('msg_ej', 'zuzixping') + 92623 
+otrzymano : ping + 92623 
+wysłano : ('msg_halo', 'dawidping') + 92623 
+otrzymano : ping + 92623 
+wysłano : ('msg_ej', 'zuzixping') + 92623 
+otrzymano : ping + 92624 
+wysłano : ('msg_halo', 'dawidping') + 92624 
+otrzymano : ping + 92624 
+wysłano : ('msg_ej', 'zuzixping') + 92624 
+otrzymano : ping + 92624 
+wysłano : ('msg_halo', 'dawidping') + 92624 
+otrzymano : ping + 92624 
+wysłano : ('msg_ej', 'zuzixping') + 92624 
+otrzymano : ping + 92624 
+wysłano : ('msg_halo', 'dawidping') + 92624 
+otrzymano : ping + 92624 
+wysłano : ('msg_ej', 'zuzixping') + 92624 
+otrzymano : ping + 92624 
+wysłano : ('msg_halo', 'dawidping') + 92624 
+otrzymano : ping + 92624 
+wysłano : ('msg_ej', 'zuzixping') + 92624 
+otrzymano : ping + 92624 
+wysłano : ('msg_halo', 'dawidping') + 92624 
+otrzymano : ping + 92624 
+wysłano : ('msg_ej', 'zuzixping') + 92624 
+otrzymano : ping + 92625 
+wysłano : ('msg_halo', 'dawidping') + 92625 
+otrzymano : ping + 92625 
+wysłano : ('msg_ej', 'zuzixping') + 92625 
+otrzymano : ping + 92625 
+wysłano : ('msg_halo', 'dawidping') + 92625 
+otrzymano : ping + 92625 
+wysłano : ('msg_ej', 'zuzixping') + 92625 
+otrzymano : ping + 92625 
+wysłano : ('msg_halo', 'dawidping') + 92625 
+otrzymano : ping + 92625 
+wysłano : ('msg_ej', 'zuzixping') + 92625 
+otrzymano : ping + 92625 
+wysłano : ('msg_halo', 'dawidping') + 92625 
+otrzymano : ping + 92625 
+wysłano : ('msg_ej', 'zuzixping') + 92625 
+otrzymano : ping + 92625 
+wysłano : ('msg_halo', 'dawidping') + 92625 
+otrzymano : ping + 92626 
+wysłano : ('msg_ej', 'zuzixping') + 92626 
+otrzymano : ping + 92626 
+wysłano : ('msg_halo', 'dawidping') + 92626 
+otrzymano : ping + 92626 
+wysłano : ('msg_ej', 'zuzixping') + 92626 
+otrzymano : ping + 92626 
+wysłano : ('msg_halo', 'dawidping') + 92626 
+otrzymano : ping + 92626 
+wysłano : ('msg_ej', 'zuzixping') + 92626 
+otrzymano : ping + 92626 
+wysłano : ('msg_halo', 'dawidping') + 92626 
+otrzymano : ping + 92626 
+wysłano : ('msg_ej', 'zuzixping') + 92626 
+otrzymano : ping + 92626 
+wysłano : ('msg_halo', 'dawidping') + 92626 
+otrzymano : ping + 92626 
+wysłano : ('msg_ej', 'zuzixping') + 92626 
+otrzymano : ping + 92626 
+wysłano : ('msg_halo', 'dawidping') + 92626 
+otrzymano : ping + 92627 
+wysłano : ('msg_ej', 'zuzixping') + 92627 
+otrzymano : ping + 92627 
+wysłano : ('msg_halo', 'dawidping') + 92627 
+otrzymano : ping + 92627 
+wysłano : ('msg_ej', 'zuzixping') + 92627 
+otrzymano : ping + 92627 
+wysłano : ('msg_halo', 'dawidping') + 92627 
+otrzymano : ('msg_JAK§TO§NIE§MOZNA§PRZEKLINAC', 'dawidping') + 92627 
+wysłano : ('msg_ej', 'zuzixping') + 92627 
+otrzymano : ping + 92627 
+wysłano : ('msg_JAK§TO§NIE§MOZNA§PRZEKLINAC', 'dawidping') + 92627 
+otrzymano : ping + 92627 
+wysłano : ('msg_ej', 'zuzixping') + 92627 
+otrzymano : ('msg_zart§to§jest', 'zuzixping') + 92627 
+wysłano : ('msg_JAK§TO§NIE§MOZNA§PRZEKLINAC', 'dawidping') + 92627 
+otrzymano : ping + 92627 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92627 
+otrzymano : ping + 92628 
+wysłano : ('msg_JAK§TO§NIE§MOZNA§PRZEKLINAC', 'dawidping') + 92628 
+otrzymano : ping + 92628 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92628 
+otrzymano : ping + 92628 
+wysłano : ('msg_JAK§TO§NIE§MOZNA§PRZEKLINAC', 'dawidping') + 92628 
+otrzymano : ping + 92628 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92628 
+otrzymano : ping + 92628 
+wysłano : ('msg_JAK§TO§NIE§MOZNA§PRZEKLINAC', 'dawidping') + 92628 
+otrzymano : ping + 92628 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92628 
+otrzymano : ping + 92628 
+wysłano : ('msg_JAK§TO§NIE§MOZNA§PRZEKLINAC', 'dawidping') + 92628 
+otrzymano : ('msg_O§NIE', 'dawidping') + 92628 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92628 
+otrzymano : ping + 92628 
+wysłano : ('msg_O§NIE', 'dawidping') + 92628 
+otrzymano : ping + 92628 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92628 
+otrzymano : ping + 92629 
+wysłano : ('msg_O§NIE', 'dawidping') + 92629 
+otrzymano : ping + 92629 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92629 
+otrzymano : ping + 92629 
+wysłano : ('msg_O§NIE', 'dawidping') + 92629 
+otrzymano : ping + 92629 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92629 
+otrzymano : ping + 92629 
+wysłano : ('msg_O§NIE', 'dawidping') + 92629 
+otrzymano : ping + 92629 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92629 
+otrzymano : ping + 92629 
+wysłano : ('msg_O§NIE', 'dawidping') + 92629 
+otrzymano : ping + 92629 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92629 
+otrzymano : ping + 92629 
+wysłano : ('msg_O§NIE', 'dawidping') + 92629 
+otrzymano : ping + 92629 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92629 
+otrzymano : ping + 92630 
+wysłano : ('msg_O§NIE', 'dawidping') + 92630 
+otrzymano : ping + 92630 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92630 
+otrzymano : ping + 92630 
+wysłano : ('msg_O§NIE', 'dawidping') + 92630 
+otrzymano : ping + 92630 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92630 
+otrzymano : ping + 92630 
+wysłano : ('msg_O§NIE', 'dawidping') + 92630 
+otrzymano : ping + 92630 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92630 
+otrzymano : ping + 92630 
+wysłano : ('msg_O§NIE', 'dawidping') + 92630 
+otrzymano : ping + 92630 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92630 
+otrzymano : ping + 92630 
+wysłano : ('msg_O§NIE', 'dawidping') + 92630 
+otrzymano : ping + 92630 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92630 
+otrzymano : ping + 92631 
+wysłano : ('msg_O§NIE', 'dawidping') + 92631 
+otrzymano : ping + 92631 
+wysłano : ('msg_zart§to§jest', 'zuzixping') + 92631 
+otrzymano : ping + 92631 
+wysłano : ('msg_O§NIE', 'dawidping') + 92631 
+otrzymano : ping + 92631 

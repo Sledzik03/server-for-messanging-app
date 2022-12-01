@@ -1,0 +1,4311 @@
+otrzymano : ping + 140239 
+wysłano : ('1', '0') + 140239 
+otrzymano : ping + 140239 
+wysłano : ('1', '0') + 140239 
+otrzymano : ping + 140239 
+wysłano : ('1', '0') + 140239 
+otrzymano : ping + 140239 
+wysłano : ('1', '0') + 140239 
+otrzymano : ping + 140239 
+wysłano : ('1', '0') + 140239 
+otrzymano : ping + 140239 
+wysłano : ('1', '0') + 140239 
+otrzymano : ping + 140239 
+wysłano : ('1', '0') + 140239 
+otrzymano : ping + 140239 
+wysłano : ('1', '0') + 140239 
+otrzymano : ping + 140239 
+wysłano : ('1', '0') + 140239 
+otrzymano : ping + 140239 
+wysłano : ('1', '0') + 140239 
+otrzymano : ping + 140240 
+wysłano : ('1', '0') + 140240 
+otrzymano : ping + 140240 
+wysłano : ('1', '0') + 140240 
+otrzymano : ping + 140240 
+wysłano : ('1', '0') + 140240 
+otrzymano : ping + 140240 
+wysłano : ('1', '0') + 140240 
+otrzymano : ping + 140240 
+wysłano : ('1', '0') + 140240 
+otrzymano : ping + 140240 
+wysłano : ('1', '0') + 140240 
+otrzymano : ping + 140240 
+wysłano : ('1', '0') + 140240 
+otrzymano : ping + 140240 
+wysłano : ('1', '0') + 140240 
+otrzymano : ping + 140240 
+wysłano : ('1', '0') + 140240 
+otrzymano : ping + 140240 
+wysłano : ('1', '0') + 140240 
+otrzymano : ping + 140241 
+wysłano : ('1', '0') + 140241 
+otrzymano : ping + 140241 
+wysłano : ('1', '0') + 140241 
+otrzymano : ping + 140241 
+wysłano : ('1', '0') + 140241 
+otrzymano : ping + 140241 
+wysłano : ('1', '0') + 140241 
+otrzymano : ping + 140241 
+wysłano : ('1', '0') + 140241 
+otrzymano : ping + 140241 
+wysłano : ('1', '0') + 140241 
+otrzymano : ping + 140241 
+wysłano : ('1', '0') + 140241 
+otrzymano : ping + 140241 
+wysłano : ('1', '0') + 140241 
+otrzymano : ping + 140241 
+wysłano : ('1', '0') + 140241 
+otrzymano : ping + 140241 
+wysłano : ('1', '0') + 140241 
+otrzymano : ping + 140242 
+wysłano : ('1', '0') + 140242 
+otrzymano : ping + 140242 
+wysłano : ('1', '0') + 140242 
+otrzymano : ping + 140242 
+wysłano : ('1', '0') + 140242 
+otrzymano : ping + 140242 
+wysłano : ('1', '0') + 140242 
+otrzymano : ping + 140242 
+wysłano : ('1', '0') + 140242 
+otrzymano : ping + 140242 
+wysłano : ('1', '0') + 140242 
+otrzymano : ('msg witaj', 'rafal') + 140242 
+wysłano : ('1', '0') + 140242 
+otrzymano : ping + 140242 
+wysłano : ('1', '0') + 140242 
+otrzymano : ping + 140242 
+wysłano : ('1', '0') + 140242 
+otrzymano : ping + 140242 
+wysłano : ('1', '0') + 140242 
+otrzymano : ping + 140242 
+wysłano : ('1', '0') + 140242 
+otrzymano : ping + 140243 
+wysłano : ('msg witaj', 'rafal') + 140243 
+otrzymano : ping + 140243 
+wysłano : ('1', '0') + 140243 
+otrzymano : ping + 140243 
+wysłano : ('1', '0') + 140243 
+otrzymano : ping + 140243 
+wysłano : ('1', '0') + 140243 
+otrzymano : ping + 140243 
+wysłano : ('1', '0') + 140243 
+otrzymano : ping + 140243 
+wysłano : ('1', '0') + 140243 
+otrzymano : ping + 140243 
+wysłano : ('msg witaj', 'rafal') + 140243 
+otrzymano : ping + 140243 
+wysłano : ('1', '0') + 140243 
+otrzymano : ping + 140243 
+wysłano : ('1', '0') + 140243 
+otrzymano : ping + 140243 
+wysłano : ('1', '0') + 140243 
+otrzymano : ping + 140243 
+wysłano : ('1', '0') + 140243 
+otrzymano : ping + 140244 
+wysłano : ('1', '0') + 140244 
+otrzymano : ping + 140244 
+wysłano : ('msg witaj', 'rafal') + 140244 
+otrzymano : ping + 140244 
+wysłano : ('1', '0') + 140244 
+otrzymano : ping + 140244 
+wysłano : ('1', '0') + 140244 
+otrzymano : ping + 140244 
+wysłano : ('1', '0') + 140244 
+otrzymano : ping + 140244 
+wysłano : ('1', '0') + 140244 
+otrzymano : ping + 140244 
+wysłano : ('1', '0') + 140244 
+otrzymano : ping + 140244 
+wysłano : ('msg witaj', 'rafal') + 140244 
+otrzymano : ping + 140244 
+wysłano : ('1', '0') + 140244 
+otrzymano : ping + 140244 
+wysłano : ('1', '0') + 140244 
+otrzymano : ping + 140244 
+wysłano : ('1', '0') + 140244 
+otrzymano : ping + 140244 
+wysłano : ('1', '0') + 140244 
+otrzymano : ping + 140245 
+wysłano : ('1', '0') + 140245 
+otrzymano : ping + 140245 
+wysłano : ('msg witaj', 'rafal') + 140245 
+otrzymano : ping + 140245 
+wysłano : ('1', '0') + 140245 
+otrzymano : ping + 140245 
+wysłano : ('1', '0') + 140245 
+otrzymano : ping + 140245 
+wysłano : ('1', '0') + 140245 
+otrzymano : ping + 140245 
+wysłano : ('1', '0') + 140245 
+otrzymano : ping + 140245 
+wysłano : ('1', '0') + 140245 
+otrzymano : ping + 140245 
+wysłano : ('msg witaj', 'rafal') + 140245 
+otrzymano : ping + 140245 
+wysłano : ('1', '0') + 140245 
+otrzymano : ping + 140245 
+wysłano : ('1', '0') + 140245 
+otrzymano : ping + 140245 
+wysłano : ('1', '0') + 140245 
+otrzymano : ping + 140245 
+wysłano : ('1', '0') + 140245 
+otrzymano : ping + 140246 
+wysłano : ('1', '0') + 140246 
+otrzymano : ping + 140246 
+wysłano : ('msg witaj', 'rafal') + 140246 
+otrzymano : ping + 140246 
+wysłano : ('1', '0') + 140246 
+otrzymano : ping + 140246 
+wysłano : ('1', '0') + 140246 
+otrzymano : ping + 140246 
+wysłano : ('1', '0') + 140246 
+otrzymano : ping + 140246 
+wysłano : ('1', '0') + 140246 
+otrzymano : ping + 140246 
+wysłano : ('1', '0') + 140246 
+otrzymano : ping + 140246 
+wysłano : ('msg witaj', 'rafal') + 140246 
+otrzymano : ping + 140246 
+wysłano : ('1', '0') + 140246 
+otrzymano : ping + 140246 
+wysłano : ('1', '0') + 140246 
+otrzymano : ping + 140246 
+wysłano : ('1', '0') + 140246 
+otrzymano : ping + 140246 
+wysłano : ('1', '0') + 140246 
+otrzymano : ping + 140247 
+wysłano : ('1', '0') + 140247 
+otrzymano : ping + 140247 
+wysłano : ('msg witaj', 'rafal') + 140247 
+otrzymano : ping + 140247 
+wysłano : ('1', '0') + 140247 
+otrzymano : ping + 140247 
+wysłano : ('1', '0') + 140247 
+otrzymano : ping + 140247 
+wysłano : ('1', '0') + 140247 
+otrzymano : ping + 140247 
+wysłano : ('1', '0') + 140247 
+otrzymano : ping + 140247 
+wysłano : ('1', '0') + 140247 
+otrzymano : ping + 140247 
+wysłano : ('msg witaj', 'rafal') + 140247 
+otrzymano : ping + 140247 
+wysłano : ('1', '0') + 140247 
+otrzymano : ping + 140247 
+wysłano : ('1', '0') + 140247 
+otrzymano : ping + 140247 
+wysłano : ('1', '0') + 140247 
+otrzymano : ping + 140247 
+wysłano : ('1', '0') + 140247 
+otrzymano : ping + 140248 
+wysłano : ('1', '0') + 140248 
+otrzymano : ping + 140248 
+wysłano : ('msg witaj', 'rafal') + 140248 
+otrzymano : ping + 140248 
+wysłano : ('1', '0') + 140248 
+otrzymano : ping + 140248 
+wysłano : ('1', '0') + 140248 
+otrzymano : ping + 140248 
+wysłano : ('1', '0') + 140248 
+otrzymano : ping + 140248 
+wysłano : ('1', '0') + 140248 
+otrzymano : ping + 140248 
+wysłano : ('1', '0') + 140248 
+otrzymano : ping + 140248 
+wysłano : ('msg witaj', 'rafal') + 140248 
+otrzymano : ping + 140248 
+wysłano : ('1', '0') + 140248 
+otrzymano : ping + 140248 
+wysłano : ('1', '0') + 140248 
+otrzymano : ping + 140248 
+wysłano : ('1', '0') + 140248 
+otrzymano : ping + 140248 
+wysłano : ('1', '0') + 140248 
+otrzymano : ping + 140249 
+wysłano : ('1', '0') + 140249 
+otrzymano : ping + 140249 
+wysłano : ('msg witaj', 'rafal') + 140249 
+otrzymano : ('msg hejka', 'jakub') + 140249 
+wysłano : ('msg witaj', 'rafal') + 140249 
+otrzymano : ping + 140249 
+wysłano : ('msg hejka', 'jakub') + 140249 
+otrzymano : ping + 140249 
+wysłano : ('msg hejka', 'jakub') + 140249 
+otrzymano : ping + 140249 
+wysłano : ('msg hejka', 'jakub') + 140249 
+otrzymano : ping + 140249 
+wysłano : ('msg hejka', 'jakub') + 140249 
+otrzymano : ping + 140249 
+wysłano : ('msg hejka', 'jakub') + 140249 
+otrzymano : ping + 140249 
+wysłano : ('msg witaj', 'rafal') + 140249 
+otrzymano : ping + 140249 
+wysłano : ('msg hejka', 'jakub') + 140249 
+otrzymano : ping + 140249 
+wysłano : ('msg hejka', 'jakub') + 140249 
+otrzymano : ping + 140249 
+wysłano : ('msg hejka', 'jakub') + 140249 
+otrzymano : ping + 140249 
+wysłano : ('msg hejka', 'jakub') + 140249 
+otrzymano : ping + 140250 
+wysłano : ('msg hejka', 'jakub') + 140250 
+otrzymano : ping + 140250 
+wysłano : ('msg witaj', 'rafal') + 140250 
+otrzymano : ping + 140250 
+wysłano : ('msg hejka', 'jakub') + 140250 
+otrzymano : ping + 140250 
+wysłano : ('msg hejka', 'jakub') + 140250 
+otrzymano : ping + 140250 
+wysłano : ('msg hejka', 'jakub') + 140250 
+otrzymano : ping + 140250 
+wysłano : ('msg hejka', 'jakub') + 140250 
+otrzymano : ping + 140250 
+wysłano : ('msg hejka', 'jakub') + 140250 
+otrzymano : ping + 140250 
+wysłano : ('msg witaj', 'rafal') + 140250 
+otrzymano : ping + 140250 
+wysłano : ('msg hejka', 'jakub') + 140250 
+otrzymano : ping + 140250 
+wysłano : ('msg hejka', 'jakub') + 140250 
+otrzymano : ping + 140250 
+wysłano : ('msg hejka', 'jakub') + 140250 
+otrzymano : ping + 140250 
+wysłano : ('msg hejka', 'jakub') + 140250 
+otrzymano : ping + 140251 
+wysłano : ('msg hejka', 'jakub') + 140251 
+otrzymano : ping + 140251 
+wysłano : ('msg witaj', 'rafal') + 140251 
+otrzymano : ping + 140251 
+wysłano : ('msg hejka', 'jakub') + 140251 
+otrzymano : ping + 140251 
+wysłano : ('msg hejka', 'jakub') + 140251 
+otrzymano : ping + 140251 
+wysłano : ('msg hejka', 'jakub') + 140251 
+otrzymano : ping + 140251 
+wysłano : ('msg hejka', 'jakub') + 140251 
+otrzymano : ping + 140251 
+wysłano : ('msg hejka', 'jakub') + 140251 
+otrzymano : ping + 140251 
+wysłano : ('msg witaj', 'rafal') + 140251 
+otrzymano : ping + 140251 
+wysłano : ('msg hejka', 'jakub') + 140251 
+otrzymano : ping + 140251 
+wysłano : ('msg hejka', 'jakub') + 140251 
+otrzymano : ping + 140251 
+wysłano : ('msg hejka', 'jakub') + 140251 
+otrzymano : ping + 140251 
+wysłano : ('msg hejka', 'jakub') + 140251 
+otrzymano : ping + 140252 
+wysłano : ('msg hejka', 'jakub') + 140252 
+otrzymano : ping + 140252 
+wysłano : ('msg witaj', 'rafal') + 140252 
+otrzymano : ping + 140252 
+wysłano : ('msg hejka', 'jakub') + 140252 
+otrzymano : ping + 140252 
+wysłano : ('msg hejka', 'jakub') + 140252 
+otrzymano : ping + 140252 
+wysłano : ('msg hejka', 'jakub') + 140252 
+otrzymano : ping + 140252 
+wysłano : ('msg hejka', 'jakub') + 140252 
+otrzymano : ping + 140252 
+wysłano : ('msg hejka', 'jakub') + 140252 
+otrzymano : ping + 140252 
+wysłano : ('msg witaj', 'rafal') + 140252 
+otrzymano : ping + 140252 
+wysłano : ('msg hejka', 'jakub') + 140252 
+otrzymano : ping + 140252 
+wysłano : ('msg hejka', 'jakub') + 140252 
+otrzymano : ping + 140252 
+wysłano : ('msg hejka', 'jakub') + 140252 
+otrzymano : ping + 140253 
+wysłano : ('msg hejka', 'jakub') + 140253 
+otrzymano : ping + 140253 
+wysłano : ('msg hejka', 'jakub') + 140253 
+otrzymano : ping + 140253 
+wysłano : ('msg witaj', 'rafal') + 140253 
+otrzymano : ping + 140253 
+wysłano : ('msg hejka', 'jakub') + 140253 
+otrzymano : ping + 140253 
+wysłano : ('msg hejka', 'jakub') + 140253 
+otrzymano : ping + 140253 
+wysłano : ('msg hejka', 'jakub') + 140253 
+otrzymano : ping + 140253 
+wysłano : ('msg hejka', 'jakub') + 140253 
+otrzymano : ping + 140253 
+wysłano : ('msg hejka', 'jakub') + 140253 
+otrzymano : ping + 140253 
+wysłano : ('msg witaj', 'rafal') + 140253 
+otrzymano : ping + 140253 
+wysłano : ('msg hejka', 'jakub') + 140253 
+otrzymano : ping + 140253 
+wysłano : ('msg hejka', 'jakub') + 140253 
+otrzymano : ping + 140253 
+wysłano : ('msg hejka', 'jakub') + 140253 
+otrzymano : ping + 140254 
+wysłano : ('msg hejka', 'jakub') + 140254 
+otrzymano : ping + 140254 
+wysłano : ('msg hejka', 'jakub') + 140254 
+otrzymano : ping + 140254 
+wysłano : ('msg witaj', 'rafal') + 140254 
+otrzymano : ping + 140254 
+wysłano : ('msg hejka', 'jakub') + 140254 
+otrzymano : ping + 140254 
+wysłano : ('msg hejka', 'jakub') + 140254 
+otrzymano : ping + 140254 
+wysłano : ('msg hejka', 'jakub') + 140254 
+otrzymano : ping + 140254 
+wysłano : ('msg hejka', 'jakub') + 140254 
+otrzymano : ping + 140254 
+wysłano : ('msg hejka', 'jakub') + 140254 
+otrzymano : ping + 140254 
+wysłano : ('msg witaj', 'rafal') + 140254 
+otrzymano : ping + 140254 
+wysłano : ('msg hejka', 'jakub') + 140254 
+otrzymano : ping + 140254 
+wysłano : ('msg hejka', 'jakub') + 140254 
+otrzymano : ping + 140254 
+wysłano : ('msg hejka', 'jakub') + 140254 
+otrzymano : ping + 140255 
+wysłano : ('msg hejka', 'jakub') + 140255 
+otrzymano : ping + 140255 
+wysłano : ('msg hejka', 'jakub') + 140255 
+otrzymano : ping + 140255 
+wysłano : ('msg witaj', 'rafal') + 140255 
+otrzymano : ping + 140255 
+wysłano : ('msg hejka', 'jakub') + 140255 
+otrzymano : ping + 140255 
+wysłano : ('msg hejka', 'jakub') + 140255 
+otrzymano : ping + 140255 
+wysłano : ('msg hejka', 'jakub') + 140255 
+otrzymano : ping + 140255 
+wysłano : ('msg hejka', 'jakub') + 140255 
+otrzymano : ping + 140255 
+wysłano : ('msg hejka', 'jakub') + 140255 
+otrzymano : ping + 140255 
+wysłano : ('msg witaj', 'rafal') + 140255 
+otrzymano : ping + 140255 
+wysłano : ('msg hejka', 'jakub') + 140255 
+otrzymano : ping + 140255 
+wysłano : ('msg hejka', 'jakub') + 140255 
+otrzymano : ping + 140255 
+wysłano : ('msg hejka', 'jakub') + 140255 
+otrzymano : ping + 140256 
+wysłano : ('msg hejka', 'jakub') + 140256 
+otrzymano : ping + 140256 
+wysłano : ('msg hejka', 'jakub') + 140256 
+otrzymano : ping + 140256 
+wysłano : ('msg witaj', 'rafal') + 140256 
+otrzymano : ping + 140256 
+wysłano : ('msg hejka', 'jakub') + 140256 
+otrzymano : ping + 140256 
+wysłano : ('msg hejka', 'jakub') + 140256 
+otrzymano : ping + 140256 
+wysłano : ('msg hejka', 'jakub') + 140256 
+otrzymano : ping + 140256 
+wysłano : ('msg hejka', 'jakub') + 140256 
+otrzymano : ping + 140256 
+wysłano : ('msg hejka', 'jakub') + 140256 
+otrzymano : ping + 140256 
+wysłano : ('msg witaj', 'rafal') + 140256 
+otrzymano : ping + 140256 
+wysłano : ('msg hejka', 'jakub') + 140256 
+otrzymano : ping + 140256 
+wysłano : ('msg hejka', 'jakub') + 140256 
+otrzymano : ping + 140256 
+wysłano : ('msg hejka', 'jakub') + 140256 
+otrzymano : ping + 140257 
+wysłano : ('msg hejka', 'jakub') + 140257 
+otrzymano : ping + 140257 
+wysłano : ('msg hejka', 'jakub') + 140257 
+otrzymano : ping + 140257 
+wysłano : ('msg witaj', 'rafal') + 140257 
+otrzymano : ping + 140257 
+wysłano : ('msg hejka', 'jakub') + 140257 
+otrzymano : ping + 140257 
+wysłano : ('msg hejka', 'jakub') + 140257 
+otrzymano : ping + 140257 
+wysłano : ('msg hejka', 'jakub') + 140257 
+otrzymano : ping + 140257 
+wysłano : ('msg hejka', 'jakub') + 140257 
+otrzymano : ping + 140257 
+wysłano : ('msg hejka', 'jakub') + 140257 
+otrzymano : ping + 140257 
+wysłano : ('msg witaj', 'rafal') + 140257 
+otrzymano : ping + 140257 
+wysłano : ('msg hejka', 'jakub') + 140257 
+otrzymano : ping + 140257 
+wysłano : ('msg hejka', 'jakub') + 140257 
+otrzymano : ping + 140257 
+wysłano : ('msg hejka', 'jakub') + 140257 
+otrzymano : ping + 140258 
+wysłano : ('msg hejka', 'jakub') + 140258 
+otrzymano : ping + 140258 
+wysłano : ('msg hejka', 'jakub') + 140258 
+otrzymano : ping + 140258 
+wysłano : ('msg witaj', 'rafal') + 140258 
+otrzymano : ping + 140258 
+wysłano : ('msg hejka', 'jakub') + 140258 
+otrzymano : ping + 140258 
+wysłano : ('msg hejka', 'jakub') + 140258 
+otrzymano : ping + 140258 
+wysłano : ('msg hejka', 'jakub') + 140258 
+otrzymano : ping + 140258 
+wysłano : ('msg hejka', 'jakub') + 140258 
+otrzymano : ping + 140258 
+wysłano : ('msg hejka', 'jakub') + 140258 
+otrzymano : ping + 140258 
+wysłano : ('msg witaj', 'rafal') + 140258 
+otrzymano : ping + 140258 
+wysłano : ('msg hejka', 'jakub') + 140258 
+otrzymano : ping + 140258 
+wysłano : ('msg hejka', 'jakub') + 140258 
+otrzymano : ping + 140258 
+wysłano : ('msg hejka', 'jakub') + 140258 
+otrzymano : ping + 140259 
+wysłano : ('msg hejka', 'jakub') + 140259 
+otrzymano : ping + 140259 
+wysłano : ('msg hejka', 'jakub') + 140259 
+otrzymano : ping + 140259 
+wysłano : ('msg witaj', 'rafal') + 140259 
+otrzymano : ping + 140259 
+wysłano : ('msg hejka', 'jakub') + 140259 
+otrzymano : ping + 140259 
+wysłano : ('msg hejka', 'jakub') + 140259 
+otrzymano : ping + 140259 
+wysłano : ('msg hejka', 'jakub') + 140259 
+otrzymano : ping + 140259 
+wysłano : ('msg hejka', 'jakub') + 140259 
+otrzymano : ping + 140259 
+wysłano : ('msg hejka', 'jakub') + 140259 
+otrzymano : ping + 140259 
+wysłano : ('msg witaj', 'rafal') + 140259 
+otrzymano : ping + 140259 
+wysłano : ('msg hejka', 'jakub') + 140259 
+otrzymano : ping + 140259 
+wysłano : ('msg hejka', 'jakub') + 140259 
+otrzymano : ping + 140259 
+wysłano : ('msg hejka', 'jakub') + 140259 
+otrzymano : ping + 140300 
+wysłano : ('msg hejka', 'jakub') + 140300 
+otrzymano : ping + 140300 
+wysłano : ('msg hejka', 'jakub') + 140300 
+otrzymano : ping + 140300 
+wysłano : ('msg witaj', 'rafal') + 140300 
+otrzymano : ping + 140300 
+wysłano : ('msg hejka', 'jakub') + 140300 
+otrzymano : ping + 140300 
+wysłano : ('msg hejka', 'jakub') + 140300 
+otrzymano : ping + 140300 
+wysłano : ('msg hejka', 'jakub') + 140300 
+otrzymano : ping + 140300 
+wysłano : ('msg hejka', 'jakub') + 140300 
+otrzymano : ping + 140300 
+wysłano : ('msg hejka', 'jakub') + 140300 
+otrzymano : ping + 140300 
+wysłano : ('msg witaj', 'rafal') + 140300 
+otrzymano : ping + 140300 
+wysłano : ('msg hejka', 'jakub') + 140300 
+otrzymano : ping + 140300 
+wysłano : ('msg hejka', 'jakub') + 140300 
+otrzymano : ping + 140300 
+wysłano : ('msg hejka', 'jakub') + 140300 
+otrzymano : ping + 140301 
+wysłano : ('msg hejka', 'jakub') + 140301 
+otrzymano : ping + 140301 
+wysłano : ('msg hejka', 'jakub') + 140301 
+otrzymano : ping + 140301 
+wysłano : ('msg witaj', 'rafal') + 140301 
+otrzymano : ping + 140301 
+wysłano : ('msg hejka', 'jakub') + 140301 
+otrzymano : ping + 140301 
+wysłano : ('msg hejka', 'jakub') + 140301 
+otrzymano : ping + 140301 
+wysłano : ('msg hejka', 'jakub') + 140301 
+otrzymano : ping + 140301 
+wysłano : ('msg hejka', 'jakub') + 140301 
+otrzymano : ping + 140301 
+wysłano : ('msg hejka', 'jakub') + 140301 
+otrzymano : ping + 140301 
+wysłano : ('msg witaj', 'rafal') + 140301 
+otrzymano : ping + 140301 
+wysłano : ('msg hejka', 'jakub') + 140301 
+otrzymano : ping + 140301 
+wysłano : ('msg hejka', 'jakub') + 140301 
+otrzymano : ping + 140302 
+wysłano : ('msg hejka', 'jakub') + 140302 
+otrzymano : ping + 140302 
+wysłano : ('msg hejka', 'jakub') + 140302 
+otrzymano : ping + 140302 
+wysłano : ('msg hejka', 'jakub') + 140302 
+otrzymano : ping + 140302 
+wysłano : ('msg witaj', 'rafal') + 140302 
+otrzymano : ping + 140302 
+wysłano : ('msg hejka', 'jakub') + 140302 
+otrzymano : ping + 140302 
+wysłano : ('msg hejka', 'jakub') + 140302 
+otrzymano : ping + 140302 
+wysłano : ('msg hejka', 'jakub') + 140302 
+otrzymano : ping + 140302 
+wysłano : ('msg hejka', 'jakub') + 140302 
+otrzymano : ping + 140302 
+wysłano : ('msg hejka', 'jakub') + 140302 
+otrzymano : ping + 140302 
+wysłano : ('msg witaj', 'rafal') + 140302 
+otrzymano : ping + 140302 
+wysłano : ('msg hejka', 'jakub') + 140302 
+otrzymano : ping + 140302 
+wysłano : ('msg hejka', 'jakub') + 140302 
+otrzymano : ping + 140303 
+wysłano : ('msg hejka', 'jakub') + 140303 
+otrzymano : ping + 140303 
+wysłano : ('msg hejka', 'jakub') + 140303 
+otrzymano : ping + 140303 
+wysłano : ('msg hejka', 'jakub') + 140303 
+otrzymano : ping + 140303 
+wysłano : ('msg witaj', 'rafal') + 140303 
+otrzymano : ping + 140303 
+wysłano : ('msg hejka', 'jakub') + 140303 
+otrzymano : ping + 140303 
+wysłano : ('msg hejka', 'jakub') + 140303 
+otrzymano : ping + 140303 
+wysłano : ('msg hejka', 'jakub') + 140303 
+otrzymano : ping + 140303 
+wysłano : ('msg hejka', 'jakub') + 140303 
+otrzymano : ping + 140303 
+wysłano : ('msg hejka', 'jakub') + 140303 
+otrzymano : ping + 140303 
+wysłano : ('msg witaj', 'rafal') + 140303 
+otrzymano : ping + 140303 
+wysłano : ('msg hejka', 'jakub') + 140303 
+otrzymano : ping + 140303 
+wysłano : ('msg hejka', 'jakub') + 140303 
+otrzymano : ping + 140304 
+wysłano : ('msg hejka', 'jakub') + 140304 
+otrzymano : ping + 140304 
+wysłano : ('msg hejka', 'jakub') + 140304 
+otrzymano : ping + 140304 
+wysłano : ('msg hejka', 'jakub') + 140304 
+otrzymano : ping + 140304 
+wysłano : ('msg witaj', 'rafal') + 140304 
+otrzymano : ping + 140304 
+wysłano : ('msg hejka', 'jakub') + 140304 
+otrzymano : ping + 140304 
+wysłano : ('msg hejka', 'jakub') + 140304 
+otrzymano : ping + 140304 
+wysłano : ('msg hejka', 'jakub') + 140304 
+otrzymano : ping + 140304 
+wysłano : ('msg hejka', 'jakub') + 140304 
+otrzymano : ping + 140304 
+wysłano : ('msg hejka', 'jakub') + 140304 
+otrzymano : ping + 140304 
+wysłano : ('msg witaj', 'rafal') + 140304 
+otrzymano : ping + 140304 
+wysłano : ('msg hejka', 'jakub') + 140304 
+otrzymano : ping + 140304 
+wysłano : ('msg hejka', 'jakub') + 140304 
+otrzymano : ping + 140305 
+wysłano : ('msg hejka', 'jakub') + 140305 
+otrzymano : ping + 140305 
+wysłano : ('msg hejka', 'jakub') + 140305 
+otrzymano : ping + 140305 
+wysłano : ('msg hejka', 'jakub') + 140305 
+otrzymano : ping + 140305 
+wysłano : ('msg witaj', 'rafal') + 140305 
+otrzymano : ping + 140305 
+wysłano : ('msg hejka', 'jakub') + 140305 
+otrzymano : ping + 140305 
+wysłano : ('msg hejka', 'jakub') + 140305 
+otrzymano : ping + 140305 
+wysłano : ('msg hejka', 'jakub') + 140305 
+otrzymano : ping + 140305 
+wysłano : ('msg hejka', 'jakub') + 140305 
+otrzymano : ping + 140305 
+wysłano : ('msg hejka', 'jakub') + 140305 
+otrzymano : ping + 140305 
+wysłano : ('msg witaj', 'rafal') + 140305 
+otrzymano : ping + 140305 
+wysłano : ('msg hejka', 'jakub') + 140305 
+otrzymano : ping + 140305 
+wysłano : ('msg hejka', 'jakub') + 140305 
+otrzymano : ping + 140306 
+wysłano : ('msg hejka', 'jakub') + 140306 
+otrzymano : ping + 140306 
+wysłano : ('msg hejka', 'jakub') + 140306 
+otrzymano : ping + 140306 
+wysłano : ('msg hejka', 'jakub') + 140306 
+otrzymano : ping + 140306 
+wysłano : ('msg witaj', 'rafal') + 140306 
+otrzymano : ping + 140306 
+wysłano : ('msg hejka', 'jakub') + 140306 
+otrzymano : ping + 140306 
+wysłano : ('msg hejka', 'jakub') + 140306 
+otrzymano : ping + 140306 
+wysłano : ('msg hejka', 'jakub') + 140306 
+otrzymano : ping + 140306 
+wysłano : ('msg hejka', 'jakub') + 140306 
+otrzymano : ping + 140306 
+wysłano : ('msg hejka', 'jakub') + 140306 
+otrzymano : ping + 140306 
+wysłano : ('msg witaj', 'rafal') + 140306 
+otrzymano : ping + 140306 
+wysłano : ('msg hejka', 'jakub') + 140306 
+otrzymano : ping + 140306 
+wysłano : ('msg hejka', 'jakub') + 140306 
+otrzymano : ping + 140307 
+wysłano : ('msg hejka', 'jakub') + 140307 
+otrzymano : ping + 140307 
+wysłano : ('msg hejka', 'jakub') + 140307 
+otrzymano : ping + 140307 
+wysłano : ('msg hejka', 'jakub') + 140307 
+otrzymano : ping + 140307 
+wysłano : ('msg witaj', 'rafal') + 140307 
+otrzymano : ping + 140307 
+wysłano : ('msg hejka', 'jakub') + 140307 
+otrzymano : ping + 140307 
+wysłano : ('msg hejka', 'jakub') + 140307 
+otrzymano : ping + 140307 
+wysłano : ('msg hejka', 'jakub') + 140307 
+otrzymano : ping + 140307 
+wysłano : ('msg hejka', 'jakub') + 140307 
+otrzymano : ping + 140307 
+wysłano : ('msg hejka', 'jakub') + 140307 
+otrzymano : ping + 140307 
+wysłano : ('msg witaj', 'rafal') + 140307 
+otrzymano : ping + 140307 
+wysłano : ('msg hejka', 'jakub') + 140307 
+otrzymano : ping + 140307 
+wysłano : ('msg hejka', 'jakub') + 140307 
+otrzymano : ping + 140308 
+wysłano : ('msg hejka', 'jakub') + 140308 
+otrzymano : ping + 140308 
+wysłano : ('msg hejka', 'jakub') + 140308 
+otrzymano : ping + 140308 
+wysłano : ('msg witaj', 'rafal') + 140308 
+otrzymano : ping + 140308 
+wysłano : ('msg hejka', 'jakub') + 140308 
+otrzymano : ping + 140308 
+wysłano : ('msg hejka', 'jakub') + 140308 
+otrzymano : ping + 140308 
+wysłano : ('msg hejka', 'jakub') + 140308 
+otrzymano : ping + 140308 
+wysłano : ('msg hejka', 'jakub') + 140308 
+otrzymano : ping + 140308 
+wysłano : ('msg hejka', 'jakub') + 140308 
+otrzymano : ping + 140308 
+wysłano : ('msg witaj', 'rafal') + 140308 
+otrzymano : ping + 140308 
+wysłano : ('msg hejka', 'jakub') + 140308 
+otrzymano : ping + 140308 
+wysłano : ('msg hejka', 'jakub') + 140308 
+otrzymano : ping + 140308 
+wysłano : ('msg hejka', 'jakub') + 140308 
+otrzymano : ping + 140309 
+wysłano : ('msg hejka', 'jakub') + 140309 
+otrzymano : ping + 140309 
+wysłano : ('msg hejka', 'jakub') + 140309 
+otrzymano : ping + 140309 
+wysłano : ('msg witaj', 'rafal') + 140309 
+otrzymano : ping + 140309 
+wysłano : ('msg hejka', 'jakub') + 140309 
+otrzymano : ping + 140309 
+wysłano : ('msg hejka', 'jakub') + 140309 
+otrzymano : ping + 140309 
+wysłano : ('msg hejka', 'jakub') + 140309 
+otrzymano : ping + 140309 
+wysłano : ('msg hejka', 'jakub') + 140309 
+otrzymano : ping + 140309 
+wysłano : ('msg hejka', 'jakub') + 140309 
+otrzymano : ping + 140309 
+wysłano : ('msg witaj', 'rafal') + 140309 
+otrzymano : ping + 140309 
+wysłano : ('msg hejka', 'jakub') + 140309 
+otrzymano : ping + 140309 
+wysłano : ('msg hejka', 'jakub') + 140309 
+otrzymano : ping + 140309 
+wysłano : ('msg hejka', 'jakub') + 140309 
+otrzymano : ping + 140310 
+wysłano : ('msg hejka', 'jakub') + 140310 
+otrzymano : ping + 140310 
+wysłano : ('msg hejka', 'jakub') + 140310 
+otrzymano : ping + 140310 
+wysłano : ('msg witaj', 'rafal') + 140310 
+otrzymano : ping + 140310 
+wysłano : ('msg hejka', 'jakub') + 140310 
+otrzymano : ping + 140310 
+wysłano : ('msg hejka', 'jakub') + 140310 
+otrzymano : ping + 140310 
+wysłano : ('msg hejka', 'jakub') + 140310 
+otrzymano : ping + 140310 
+wysłano : ('msg hejka', 'jakub') + 140310 
+otrzymano : ping + 140310 
+wysłano : ('msg hejka', 'jakub') + 140310 
+otrzymano : ping + 140310 
+wysłano : ('msg witaj', 'rafal') + 140310 
+otrzymano : ping + 140310 
+wysłano : ('msg hejka', 'jakub') + 140310 
+otrzymano : ping + 140310 
+wysłano : ('msg hejka', 'jakub') + 140310 
+otrzymano : ping + 140310 
+wysłano : ('msg hejka', 'jakub') + 140310 
+otrzymano : ping + 140311 
+wysłano : ('msg hejka', 'jakub') + 140311 
+otrzymano : ping + 140311 
+wysłano : ('msg hejka', 'jakub') + 140311 
+otrzymano : ping + 140311 
+wysłano : ('msg witaj', 'rafal') + 140311 
+otrzymano : ping + 140311 
+wysłano : ('msg hejka', 'jakub') + 140311 
+otrzymano : ping + 140311 
+wysłano : ('msg hejka', 'jakub') + 140311 
+otrzymano : ping + 140311 
+wysłano : ('msg hejka', 'jakub') + 140311 
+otrzymano : ping + 140311 
+wysłano : ('msg hejka', 'jakub') + 140311 
+otrzymano : ping + 140311 
+wysłano : ('msg hejka', 'jakub') + 140311 
+otrzymano : ping + 140311 
+wysłano : ('msg witaj', 'rafal') + 140311 
+otrzymano : ping + 140311 
+wysłano : ('msg hejka', 'jakub') + 140311 
+otrzymano : ping + 140311 
+wysłano : ('msg hejka', 'jakub') + 140311 
+otrzymano : ping + 140311 
+wysłano : ('msg hejka', 'jakub') + 140311 
+otrzymano : ping + 140312 
+wysłano : ('msg hejka', 'jakub') + 140312 
+otrzymano : ping + 140312 
+wysłano : ('msg hejka', 'jakub') + 140312 
+otrzymano : ping + 140312 
+wysłano : ('msg witaj', 'rafal') + 140312 
+otrzymano : ping + 140312 
+wysłano : ('msg hejka', 'jakub') + 140312 
+otrzymano : ping + 140312 
+wysłano : ('msg hejka', 'jakub') + 140312 
+otrzymano : ping + 140312 
+wysłano : ('msg hejka', 'jakub') + 140312 
+otrzymano : ping + 140312 
+wysłano : ('msg hejka', 'jakub') + 140312 
+otrzymano : ping + 140312 
+wysłano : ('msg hejka', 'jakub') + 140312 
+otrzymano : ping + 140312 
+wysłano : ('msg witaj', 'rafal') + 140312 
+otrzymano : ping + 140312 
+wysłano : ('msg hejka', 'jakub') + 140312 
+otrzymano : ping + 140312 
+wysłano : ('msg hejka', 'jakub') + 140312 
+otrzymano : ping + 140313 
+wysłano : ('msg hejka', 'jakub') + 140313 
+otrzymano : ping + 140313 
+wysłano : ('msg hejka', 'jakub') + 140313 
+otrzymano : ping + 140313 
+wysłano : ('msg hejka', 'jakub') + 140313 
+otrzymano : ping + 140313 
+wysłano : ('msg witaj', 'rafal') + 140313 
+otrzymano : ping + 140313 
+wysłano : ('msg hejka', 'jakub') + 140313 
+otrzymano : ping + 140313 
+wysłano : ('msg hejka', 'jakub') + 140313 
+otrzymano : ping + 140313 
+wysłano : ('msg hejka', 'jakub') + 140313 
+otrzymano : ping + 140313 
+wysłano : ('msg hejka', 'jakub') + 140313 
+otrzymano : ping + 140313 
+wysłano : ('msg hejka', 'jakub') + 140313 
+otrzymano : ping + 140313 
+wysłano : ('msg witaj', 'rafal') + 140313 
+otrzymano : ping + 140313 
+wysłano : ('msg hejka', 'jakub') + 140313 
+otrzymano : ping + 140313 
+wysłano : ('msg hejka', 'jakub') + 140313 
+otrzymano : ping + 140314 
+wysłano : ('msg hejka', 'jakub') + 140314 
+otrzymano : ping + 140314 
+wysłano : ('msg hejka', 'jakub') + 140314 
+otrzymano : ping + 140314 
+wysłano : ('msg hejka', 'jakub') + 140314 
+otrzymano : ping + 140314 
+wysłano : ('msg witaj', 'rafal') + 140314 
+otrzymano : ping + 140314 
+wysłano : ('msg hejka', 'jakub') + 140314 
+otrzymano : ping + 140314 
+wysłano : ('msg hejka', 'jakub') + 140314 
+otrzymano : ping + 140314 
+wysłano : ('msg hejka', 'jakub') + 140314 
+otrzymano : ping + 140314 
+wysłano : ('msg hejka', 'jakub') + 140314 
+otrzymano : ping + 140314 
+wysłano : ('msg hejka', 'jakub') + 140314 
+otrzymano : ping + 140314 
+wysłano : ('msg witaj', 'rafal') + 140314 
+otrzymano : ping + 140314 
+wysłano : ('msg hejka', 'jakub') + 140314 
+otrzymano : ping + 140314 
+wysłano : ('msg hejka', 'jakub') + 140314 
+otrzymano : ping + 140315 
+wysłano : ('msg hejka', 'jakub') + 140315 
+otrzymano : ping + 140315 
+wysłano : ('msg hejka', 'jakub') + 140315 
+otrzymano : ping + 140315 
+wysłano : ('msg hejka', 'jakub') + 140315 
+otrzymano : ping + 140315 
+wysłano : ('msg witaj', 'rafal') + 140315 
+otrzymano : ping + 140315 
+wysłano : ('msg hejka', 'jakub') + 140315 
+otrzymano : ping + 140315 
+wysłano : ('msg hejka', 'jakub') + 140315 
+otrzymano : ping + 140315 
+wysłano : ('msg hejka', 'jakub') + 140315 
+otrzymano : ping + 140315 
+wysłano : ('msg hejka', 'jakub') + 140315 
+otrzymano : ping + 140315 
+wysłano : ('msg hejka', 'jakub') + 140315 
+otrzymano : ping + 140315 
+wysłano : ('msg witaj', 'rafal') + 140315 
+otrzymano : ping + 140315 
+wysłano : ('msg hejka', 'jakub') + 140315 
+otrzymano : ping + 140315 
+wysłano : ('msg hejka', 'jakub') + 140315 
+otrzymano : ping + 140316 
+wysłano : ('msg hejka', 'jakub') + 140316 
+otrzymano : ping + 140316 
+wysłano : ('msg hejka', 'jakub') + 140316 
+otrzymano : ping + 140316 
+wysłano : ('msg hejka', 'jakub') + 140316 
+otrzymano : ping + 140316 
+wysłano : ('msg witaj', 'rafal') + 140316 
+otrzymano : ping + 140316 
+wysłano : ('msg hejka', 'jakub') + 140316 
+otrzymano : ping + 140316 
+wysłano : ('msg hejka', 'jakub') + 140316 
+otrzymano : ping + 140316 
+wysłano : ('msg hejka', 'jakub') + 140316 
+otrzymano : ping + 140316 
+wysłano : ('msg hejka', 'jakub') + 140316 
+otrzymano : ping + 140316 
+wysłano : ('msg hejka', 'jakub') + 140316 
+otrzymano : ping + 140316 
+wysłano : ('msg witaj', 'rafal') + 140316 
+otrzymano : ping + 140316 
+wysłano : ('msg hejka', 'jakub') + 140316 
+otrzymano : ping + 140316 
+wysłano : ('msg hejka', 'jakub') + 140316 
+otrzymano : ping + 140317 
+wysłano : ('msg hejka', 'jakub') + 140317 
+otrzymano : ping + 140317 
+wysłano : ('msg hejka', 'jakub') + 140317 
+otrzymano : ping + 140317 
+wysłano : ('msg hejka', 'jakub') + 140317 
+otrzymano : ping + 140317 
+wysłano : ('msg witaj', 'rafal') + 140317 
+otrzymano : ping + 140317 
+wysłano : ('msg hejka', 'jakub') + 140317 
+otrzymano : ping + 140317 
+wysłano : ('msg hejka', 'jakub') + 140317 
+otrzymano : ping + 140317 
+wysłano : ('msg hejka', 'jakub') + 140317 
+otrzymano : ping + 140317 
+wysłano : ('msg hejka', 'jakub') + 140317 
+otrzymano : ping + 140317 
+wysłano : ('msg hejka', 'jakub') + 140317 
+otrzymano : ping + 140317 
+wysłano : ('msg witaj', 'rafal') + 140317 
+otrzymano : ping + 140317 
+wysłano : ('msg hejka', 'jakub') + 140317 
+otrzymano : ping + 140317 
+wysłano : ('msg hejka', 'jakub') + 140317 
+otrzymano : ping + 140318 
+wysłano : ('msg hejka', 'jakub') + 140318 
+otrzymano : ping + 140318 
+wysłano : ('msg hejka', 'jakub') + 140318 
+otrzymano : ping + 140318 
+wysłano : ('msg hejka', 'jakub') + 140318 
+otrzymano : ping + 140318 
+wysłano : ('msg witaj', 'rafal') + 140318 
+otrzymano : ping + 140318 
+wysłano : ('msg hejka', 'jakub') + 140318 
+otrzymano : ping + 140318 
+wysłano : ('msg hejka', 'jakub') + 140318 
+otrzymano : ping + 140318 
+wysłano : ('msg hejka', 'jakub') + 140318 
+otrzymano : ping + 140318 
+wysłano : ('msg hejka', 'jakub') + 140318 
+otrzymano : ping + 140318 
+wysłano : ('msg hejka', 'jakub') + 140318 
+otrzymano : ping + 140318 
+wysłano : ('msg witaj', 'rafal') + 140318 
+otrzymano : ping + 140318 
+wysłano : ('msg hejka', 'jakub') + 140318 
+otrzymano : ping + 140318 
+wysłano : ('msg hejka', 'jakub') + 140318 
+otrzymano : ping + 140319 
+wysłano : ('msg hejka', 'jakub') + 140319 
+otrzymano : ping + 140319 
+wysłano : ('msg hejka', 'jakub') + 140319 
+otrzymano : ping + 140319 
+wysłano : ('msg hejka', 'jakub') + 140319 
+otrzymano : ping + 140319 
+wysłano : ('msg witaj', 'rafal') + 140319 
+otrzymano : ping + 140319 
+wysłano : ('msg hejka', 'jakub') + 140319 
+otrzymano : ping + 140319 
+wysłano : ('msg hejka', 'jakub') + 140319 
+otrzymano : ping + 140319 
+wysłano : ('msg hejka', 'jakub') + 140319 
+otrzymano : ping + 140319 
+wysłano : ('msg hejka', 'jakub') + 140319 
+otrzymano : ping + 140319 
+wysłano : ('msg hejka', 'jakub') + 140319 
+otrzymano : ping + 140319 
+wysłano : ('msg witaj', 'rafal') + 140319 
+otrzymano : ping + 140319 
+wysłano : ('msg hejka', 'jakub') + 140319 
+otrzymano : ping + 140319 
+wysłano : ('msg hejka', 'jakub') + 140319 
+otrzymano : ping + 140320 
+wysłano : ('msg hejka', 'jakub') + 140320 
+otrzymano : ping + 140320 
+wysłano : ('msg hejka', 'jakub') + 140320 
+otrzymano : ping + 140320 
+wysłano : ('msg hejka', 'jakub') + 140320 
+otrzymano : ping + 140320 
+wysłano : ('msg witaj', 'rafal') + 140320 
+otrzymano : ping + 140320 
+wysłano : ('msg hejka', 'jakub') + 140320 
+otrzymano : ping + 140320 
+wysłano : ('msg hejka', 'jakub') + 140320 
+otrzymano : ping + 140320 
+wysłano : ('msg hejka', 'jakub') + 140320 
+otrzymano : ping + 140320 
+wysłano : ('msg hejka', 'jakub') + 140320 
+otrzymano : ping + 140320 
+wysłano : ('msg hejka', 'jakub') + 140320 
+otrzymano : ping + 140320 
+wysłano : ('msg witaj', 'rafal') + 140320 
+otrzymano : ping + 140320 
+wysłano : ('msg hejka', 'jakub') + 140320 
+otrzymano : ping + 140320 
+wysłano : ('msg hejka', 'jakub') + 140320 
+otrzymano : ping + 140321 
+wysłano : ('msg hejka', 'jakub') + 140321 
+otrzymano : ping + 140321 
+wysłano : ('msg hejka', 'jakub') + 140321 
+otrzymano : ping + 140321 
+wysłano : ('msg hejka', 'jakub') + 140321 
+otrzymano : ping + 140321 
+wysłano : ('msg witaj', 'rafal') + 140321 
+otrzymano : ping + 140321 
+wysłano : ('msg hejka', 'jakub') + 140321 
+otrzymano : ping + 140321 
+wysłano : ('msg hejka', 'jakub') + 140321 
+otrzymano : ping + 140321 
+wysłano : ('msg hejka', 'jakub') + 140321 
+otrzymano : ping + 140321 
+wysłano : ('msg hejka', 'jakub') + 140321 
+otrzymano : ping + 140321 
+wysłano : ('msg hejka', 'jakub') + 140321 
+otrzymano : ping + 140321 
+wysłano : ('msg witaj', 'rafal') + 140321 
+otrzymano : ping + 140321 
+wysłano : ('msg hejka', 'jakub') + 140321 
+otrzymano : ping + 140321 
+wysłano : ('msg hejka', 'jakub') + 140321 
+otrzymano : ping + 140322 
+wysłano : ('msg hejka', 'jakub') + 140322 
+otrzymano : ping + 140322 
+wysłano : ('msg hejka', 'jakub') + 140322 
+otrzymano : ping + 140322 
+wysłano : ('msg hejka', 'jakub') + 140322 
+otrzymano : ping + 140322 
+wysłano : ('msg witaj', 'rafal') + 140322 
+otrzymano : ping + 140322 
+wysłano : ('msg hejka', 'jakub') + 140322 
+otrzymano : ping + 140322 
+wysłano : ('msg hejka', 'jakub') + 140322 
+otrzymano : ping + 140322 
+wysłano : ('msg hejka', 'jakub') + 140322 
+otrzymano : ping + 140322 
+wysłano : ('msg hejka', 'jakub') + 140322 
+otrzymano : ping + 140322 
+wysłano : ('msg hejka', 'jakub') + 140322 
+otrzymano : ping + 140322 
+wysłano : ('msg witaj', 'rafal') + 140322 
+otrzymano : ping + 140322 
+wysłano : ('msg hejka', 'jakub') + 140322 
+otrzymano : ping + 140322 
+wysłano : ('msg hejka', 'jakub') + 140322 
+otrzymano : ping + 140323 
+wysłano : ('msg hejka', 'jakub') + 140323 
+otrzymano : ping + 140323 
+wysłano : ('msg hejka', 'jakub') + 140323 
+otrzymano : ping + 140323 
+wysłano : ('msg hejka', 'jakub') + 140323 
+otrzymano : ping + 140323 
+wysłano : ('msg witaj', 'rafal') + 140323 
+otrzymano : ping + 140323 
+wysłano : ('msg hejka', 'jakub') + 140323 
+otrzymano : ping + 140323 
+wysłano : ('msg hejka', 'jakub') + 140323 
+otrzymano : ping + 140323 
+wysłano : ('msg hejka', 'jakub') + 140323 
+otrzymano : ping + 140323 
+wysłano : ('msg hejka', 'jakub') + 140323 
+otrzymano : ping + 140323 
+wysłano : ('msg hejka', 'jakub') + 140323 
+otrzymano : ping + 140323 
+wysłano : ('msg witaj', 'rafal') + 140323 
+otrzymano : ping + 140323 
+wysłano : ('msg hejka', 'jakub') + 140323 
+otrzymano : ping + 140323 
+wysłano : ('msg hejka', 'jakub') + 140323 
+otrzymano : ping + 140324 
+wysłano : ('msg hejka', 'jakub') + 140324 
+otrzymano : ping + 140324 
+wysłano : ('msg hejka', 'jakub') + 140324 
+otrzymano : ping + 140324 
+wysłano : ('msg hejka', 'jakub') + 140324 
+otrzymano : ping + 140324 
+wysłano : ('msg witaj', 'rafal') + 140324 
+otrzymano : ping + 140324 
+wysłano : ('msg hejka', 'jakub') + 140324 
+otrzymano : ping + 140324 
+wysłano : ('msg hejka', 'jakub') + 140324 
+otrzymano : ping + 140324 
+wysłano : ('msg hejka', 'jakub') + 140324 
+otrzymano : ping + 140324 
+wysłano : ('msg hejka', 'jakub') + 140324 
+otrzymano : ping + 140324 
+wysłano : ('msg hejka', 'jakub') + 140324 
+otrzymano : ping + 140324 
+wysłano : ('msg witaj', 'rafal') + 140324 
+otrzymano : ping + 140324 
+wysłano : ('msg hejka', 'jakub') + 140324 
+otrzymano : ping + 140325 
+wysłano : ('msg hejka', 'jakub') + 140325 
+otrzymano : ping + 140325 
+wysłano : ('msg hejka', 'jakub') + 140325 
+otrzymano : ping + 140325 
+wysłano : ('msg hejka', 'jakub') + 140325 
+otrzymano : ping + 140325 
+wysłano : ('msg hejka', 'jakub') + 140325 
+otrzymano : ping + 140325 
+wysłano : ('msg witaj', 'rafal') + 140325 
+otrzymano : ping + 140325 
+wysłano : ('msg hejka', 'jakub') + 140325 
+otrzymano : ping + 140325 
+wysłano : ('msg hejka', 'jakub') + 140325 
+otrzymano : ping + 140325 
+wysłano : ('msg hejka', 'jakub') + 140325 
+otrzymano : ping + 140325 
+wysłano : ('msg hejka', 'jakub') + 140325 
+otrzymano : ping + 140325 
+wysłano : ('msg hejka', 'jakub') + 140325 
+otrzymano : ping + 140325 
+wysłano : ('msg witaj', 'rafal') + 140325 
+otrzymano : ping + 140325 
+wysłano : ('msg hejka', 'jakub') + 140325 
+otrzymano : ping + 140326 
+wysłano : ('msg hejka', 'jakub') + 140326 
+otrzymano : ping + 140326 
+wysłano : ('msg hejka', 'jakub') + 140326 
+otrzymano : ping + 140326 
+wysłano : ('msg hejka', 'jakub') + 140326 
+otrzymano : ping + 140326 
+wysłano : ('msg hejka', 'jakub') + 140326 
+otrzymano : ping + 140326 
+wysłano : ('msg witaj', 'rafal') + 140326 
+otrzymano : ping + 140326 
+wysłano : ('msg hejka', 'jakub') + 140326 
+otrzymano : ping + 140326 
+wysłano : ('msg hejka', 'jakub') + 140326 
+otrzymano : ping + 140326 
+wysłano : ('msg hejka', 'jakub') + 140326 
+otrzymano : ping + 140326 
+wysłano : ('msg hejka', 'jakub') + 140326 
+otrzymano : ping + 140326 
+wysłano : ('msg hejka', 'jakub') + 140326 
+otrzymano : ping + 140326 
+wysłano : ('msg witaj', 'rafal') + 140326 
+otrzymano : ping + 140326 
+wysłano : ('msg hejka', 'jakub') + 140326 
+otrzymano : ping + 140327 
+wysłano : ('msg hejka', 'jakub') + 140327 
+otrzymano : ping + 140327 
+wysłano : ('msg hejka', 'jakub') + 140327 
+otrzymano : ping + 140327 
+wysłano : ('msg hejka', 'jakub') + 140327 
+otrzymano : ping + 140327 
+wysłano : ('msg hejka', 'jakub') + 140327 
+otrzymano : ping + 140327 
+wysłano : ('msg witaj', 'rafal') + 140327 
+otrzymano : ping + 140327 
+wysłano : ('msg hejka', 'jakub') + 140327 
+otrzymano : ping + 140327 
+wysłano : ('msg hejka', 'jakub') + 140327 
+otrzymano : ping + 140327 
+wysłano : ('msg hejka', 'jakub') + 140327 
+otrzymano : ping + 140327 
+wysłano : ('msg hejka', 'jakub') + 140327 
+otrzymano : ping + 140327 
+wysłano : ('msg hejka', 'jakub') + 140327 
+otrzymano : ping + 140327 
+wysłano : ('msg witaj', 'rafal') + 140327 
+otrzymano : ping + 140327 
+wysłano : ('msg hejka', 'jakub') + 140327 
+otrzymano : ping + 140328 
+wysłano : ('msg hejka', 'jakub') + 140328 
+otrzymano : ping + 140328 
+wysłano : ('msg hejka', 'jakub') + 140328 
+otrzymano : ping + 140328 
+wysłano : ('msg hejka', 'jakub') + 140328 
+otrzymano : ping + 140328 
+wysłano : ('msg hejka', 'jakub') + 140328 
+otrzymano : ping + 140328 
+wysłano : ('msg witaj', 'rafal') + 140328 
+otrzymano : ping + 140328 
+wysłano : ('msg hejka', 'jakub') + 140328 
+otrzymano : ping + 140328 
+wysłano : ('msg hejka', 'jakub') + 140328 
+otrzymano : ping + 140328 
+wysłano : ('msg hejka', 'jakub') + 140328 
+otrzymano : ping + 140328 
+wysłano : ('msg hejka', 'jakub') + 140328 
+otrzymano : ping + 140328 
+wysłano : ('msg hejka', 'jakub') + 140328 
+otrzymano : ping + 140328 
+wysłano : ('msg witaj', 'rafal') + 140328 
+otrzymano : ping + 140328 
+wysłano : ('msg hejka', 'jakub') + 140328 
+otrzymano : ping + 140329 
+wysłano : ('msg hejka', 'jakub') + 140329 
+otrzymano : ping + 140329 
+wysłano : ('msg hejka', 'jakub') + 140329 
+otrzymano : ping + 140329 
+wysłano : ('msg hejka', 'jakub') + 140329 
+otrzymano : ping + 140329 
+wysłano : ('msg hejka', 'jakub') + 140329 
+otrzymano : ping + 140329 
+wysłano : ('msg witaj', 'rafal') + 140329 
+otrzymano : ping + 140329 
+wysłano : ('msg hejka', 'jakub') + 140329 
+otrzymano : ping + 140329 
+wysłano : ('msg hejka', 'jakub') + 140329 
+otrzymano : ping + 140329 
+wysłano : ('msg hejka', 'jakub') + 140329 
+otrzymano : ping + 140329 
+wysłano : ('msg hejka', 'jakub') + 140329 
+otrzymano : ping + 140329 
+wysłano : ('msg hejka', 'jakub') + 140329 
+otrzymano : ping + 140329 
+wysłano : ('msg witaj', 'rafal') + 140329 
+otrzymano : ping + 140329 
+wysłano : ('msg hejka', 'jakub') + 140329 
+otrzymano : ping + 140330 
+wysłano : ('msg hejka', 'jakub') + 140330 
+otrzymano : ping + 140330 
+wysłano : ('msg hejka', 'jakub') + 140330 
+otrzymano : ping + 140330 
+wysłano : ('msg hejka', 'jakub') + 140330 
+otrzymano : ping + 140330 
+wysłano : ('msg hejka', 'jakub') + 140330 
+otrzymano : ping + 140330 
+wysłano : ('msg witaj', 'rafal') + 140330 
+otrzymano : ping + 140330 
+wysłano : ('msg hejka', 'jakub') + 140330 
+otrzymano : ping + 140330 
+wysłano : ('msg hejka', 'jakub') + 140330 
+otrzymano : ping + 140330 
+wysłano : ('msg hejka', 'jakub') + 140330 
+otrzymano : ping + 140330 
+wysłano : ('msg hejka', 'jakub') + 140330 
+otrzymano : ping + 140330 
+wysłano : ('msg hejka', 'jakub') + 140330 
+otrzymano : ping + 140330 
+wysłano : ('msg witaj', 'rafal') + 140330 
+otrzymano : ping + 140330 
+wysłano : ('msg hejka', 'jakub') + 140330 
+otrzymano : ping + 140331 
+wysłano : ('msg hejka', 'jakub') + 140331 
+otrzymano : ping + 140331 
+wysłano : ('msg hejka', 'jakub') + 140331 
+otrzymano : ping + 140331 
+wysłano : ('msg hejka', 'jakub') + 140331 
+otrzymano : ping + 140331 
+wysłano : ('msg hejka', 'jakub') + 140331 
+otrzymano : ping + 140331 
+wysłano : ('msg witaj', 'rafal') + 140331 
+otrzymano : ping + 140331 
+wysłano : ('msg hejka', 'jakub') + 140331 
+otrzymano : ping + 140331 
+wysłano : ('msg hejka', 'jakub') + 140331 
+otrzymano : ping + 140331 
+wysłano : ('msg hejka', 'jakub') + 140331 
+otrzymano : ping + 140331 
+wysłano : ('msg hejka', 'jakub') + 140331 
+otrzymano : ping + 140331 
+wysłano : ('msg hejka', 'jakub') + 140331 
+otrzymano : ping + 140331 
+wysłano : ('msg witaj', 'rafal') + 140331 
+otrzymano : ping + 140331 
+wysłano : ('msg hejka', 'jakub') + 140331 
+otrzymano : ping + 140332 
+wysłano : ('msg hejka', 'jakub') + 140332 
+otrzymano : ping + 140332 
+wysłano : ('msg hejka', 'jakub') + 140332 
+otrzymano : ping + 140332 
+wysłano : ('msg hejka', 'jakub') + 140332 
+otrzymano : ping + 140332 
+wysłano : ('msg hejka', 'jakub') + 140332 
+otrzymano : ping + 140332 
+wysłano : ('msg witaj', 'rafal') + 140332 
+otrzymano : ping + 140332 
+wysłano : ('msg hejka', 'jakub') + 140332 
+otrzymano : ping + 140332 
+wysłano : ('msg hejka', 'jakub') + 140332 
+otrzymano : ping + 140332 
+wysłano : ('msg hejka', 'jakub') + 140332 
+otrzymano : ping + 140332 
+wysłano : ('msg hejka', 'jakub') + 140332 
+otrzymano : ping + 140332 
+wysłano : ('msg hejka', 'jakub') + 140332 
+otrzymano : ping + 140332 
+wysłano : ('msg witaj', 'rafal') + 140332 
+otrzymano : ping + 140332 
+wysłano : ('msg hejka', 'jakub') + 140332 
+otrzymano : ping + 140333 
+wysłano : ('msg hejka', 'jakub') + 140333 
+otrzymano : ping + 140333 
+wysłano : ('msg hejka', 'jakub') + 140333 
+otrzymano : ping + 140333 
+wysłano : ('msg hejka', 'jakub') + 140333 
+otrzymano : ping + 140333 
+wysłano : ('msg hejka', 'jakub') + 140333 
+otrzymano : ping + 140333 
+wysłano : ('msg witaj', 'rafal') + 140333 
+otrzymano : ping + 140333 
+wysłano : ('msg hejka', 'jakub') + 140333 
+otrzymano : ping + 140333 
+wysłano : ('msg hejka', 'jakub') + 140333 
+otrzymano : ping + 140333 
+wysłano : ('msg hejka', 'jakub') + 140333 
+otrzymano : ping + 140333 
+wysłano : ('msg hejka', 'jakub') + 140333 
+otrzymano : ping + 140333 
+wysłano : ('msg hejka', 'jakub') + 140333 
+otrzymano : ping + 140333 
+wysłano : ('msg witaj', 'rafal') + 140333 
+otrzymano : ping + 140333 
+wysłano : ('msg hejka', 'jakub') + 140333 
+otrzymano : ping + 140334 
+wysłano : ('msg hejka', 'jakub') + 140334 
+otrzymano : ping + 140334 
+wysłano : ('msg hejka', 'jakub') + 140334 
+otrzymano : ping + 140334 
+wysłano : ('msg hejka', 'jakub') + 140334 
+otrzymano : ping + 140334 
+wysłano : ('msg hejka', 'jakub') + 140334 
+otrzymano : ping + 140334 
+wysłano : ('msg witaj', 'rafal') + 140334 
+otrzymano : ping + 140334 
+wysłano : ('msg hejka', 'jakub') + 140334 
+otrzymano : ping + 140334 
+wysłano : ('msg hejka', 'jakub') + 140334 
+otrzymano : ping + 140334 
+wysłano : ('msg hejka', 'jakub') + 140334 
+otrzymano : ping + 140334 
+wysłano : ('msg hejka', 'jakub') + 140334 
+otrzymano : ping + 140334 
+wysłano : ('msg hejka', 'jakub') + 140334 
+otrzymano : ping + 140334 
+wysłano : ('msg witaj', 'rafal') + 140334 
+otrzymano : ping + 140334 
+wysłano : ('msg hejka', 'jakub') + 140334 
+otrzymano : ping + 140335 
+wysłano : ('msg hejka', 'jakub') + 140335 
+otrzymano : ping + 140335 
+wysłano : ('msg hejka', 'jakub') + 140335 
+otrzymano : ping + 140335 
+wysłano : ('msg hejka', 'jakub') + 140335 
+otrzymano : ping + 140335 
+wysłano : ('msg hejka', 'jakub') + 140335 
+otrzymano : ping + 140335 
+wysłano : ('msg witaj', 'rafal') + 140335 
+otrzymano : ping + 140335 
+wysłano : ('msg hejka', 'jakub') + 140335 
+otrzymano : ping + 140335 
+wysłano : ('msg hejka', 'jakub') + 140335 
+otrzymano : ping + 140335 
+wysłano : ('msg hejka', 'jakub') + 140335 
+otrzymano : ping + 140335 
+wysłano : ('msg hejka', 'jakub') + 140335 
+otrzymano : ping + 140335 
+wysłano : ('msg hejka', 'jakub') + 140335 
+otrzymano : ping + 140335 
+wysłano : ('msg witaj', 'rafal') + 140335 
+otrzymano : ping + 140335 
+wysłano : ('msg hejka', 'jakub') + 140335 
+otrzymano : ping + 140336 
+wysłano : ('msg hejka', 'jakub') + 140336 
+otrzymano : ping + 140336 
+wysłano : ('msg hejka', 'jakub') + 140336 
+otrzymano : ping + 140336 
+wysłano : ('msg hejka', 'jakub') + 140336 
+otrzymano : ping + 140336 
+wysłano : ('msg hejka', 'jakub') + 140336 
+otrzymano : ping + 140336 
+wysłano : ('msg witaj', 'rafal') + 140336 
+otrzymano : ping + 140336 
+wysłano : ('msg hejka', 'jakub') + 140336 
+otrzymano : ping + 140336 
+wysłano : ('msg hejka', 'jakub') + 140336 
+otrzymano : ping + 140336 
+wysłano : ('msg hejka', 'jakub') + 140336 
+otrzymano : ping + 140336 
+wysłano : ('msg hejka', 'jakub') + 140336 
+otrzymano : ping + 140336 
+wysłano : ('msg hejka', 'jakub') + 140336 
+otrzymano : ping + 140336 
+wysłano : ('msg witaj', 'rafal') + 140336 
+otrzymano : ping + 140337 
+wysłano : ('msg hejka', 'jakub') + 140337 
+otrzymano : ping + 140337 
+wysłano : ('msg hejka', 'jakub') + 140337 
+otrzymano : ping + 140337 
+wysłano : ('msg hejka', 'jakub') + 140337 
+otrzymano : ping + 140337 
+wysłano : ('msg hejka', 'jakub') + 140337 
+otrzymano : ping + 140337 
+wysłano : ('msg hejka', 'jakub') + 140337 
+otrzymano : ping + 140337 
+wysłano : ('msg witaj', 'rafal') + 140337 
+otrzymano : ping + 140337 
+wysłano : ('msg hejka', 'jakub') + 140337 
+otrzymano : ping + 140337 
+wysłano : ('msg hejka', 'jakub') + 140337 
+otrzymano : ping + 140337 
+wysłano : ('msg hejka', 'jakub') + 140337 
+otrzymano : ping + 140337 
+wysłano : ('msg hejka', 'jakub') + 140337 
+otrzymano : ping + 140337 
+wysłano : ('msg hejka', 'jakub') + 140337 
+otrzymano : ping + 140337 
+wysłano : ('msg witaj', 'rafal') + 140337 
+otrzymano : ping + 140338 
+wysłano : ('msg hejka', 'jakub') + 140338 
+otrzymano : ping + 140338 
+wysłano : ('msg hejka', 'jakub') + 140338 
+otrzymano : ping + 140338 
+wysłano : ('msg hejka', 'jakub') + 140338 
+otrzymano : ping + 140338 
+wysłano : ('msg hejka', 'jakub') + 140338 
+otrzymano : ping + 140338 
+wysłano : ('msg hejka', 'jakub') + 140338 
+otrzymano : ping + 140338 
+wysłano : ('msg witaj', 'rafal') + 140338 
+otrzymano : ping + 140338 
+wysłano : ('msg hejka', 'jakub') + 140338 
+otrzymano : ping + 140338 
+wysłano : ('msg hejka', 'jakub') + 140338 
+otrzymano : ping + 140338 
+wysłano : ('msg hejka', 'jakub') + 140338 
+otrzymano : ping + 140338 
+wysłano : ('msg hejka', 'jakub') + 140338 
+otrzymano : ping + 140338 
+wysłano : ('msg hejka', 'jakub') + 140338 
+otrzymano : ping + 140339 
+wysłano : ('msg witaj', 'rafal') + 140339 
+otrzymano : ping + 140339 
+wysłano : ('msg hejka', 'jakub') + 140339 
+otrzymano : ping + 140339 
+wysłano : ('msg hejka', 'jakub') + 140339 
+otrzymano : ping + 140339 
+wysłano : ('msg hejka', 'jakub') + 140339 
+otrzymano : ping + 140339 
+wysłano : ('msg hejka', 'jakub') + 140339 
+otrzymano : ping + 140339 
+wysłano : ('msg hejka', 'jakub') + 140339 
+otrzymano : ping + 140339 
+wysłano : ('msg witaj', 'rafal') + 140339 
+otrzymano : ping + 140339 
+wysłano : ('msg hejka', 'jakub') + 140339 
+otrzymano : ping + 140339 
+wysłano : ('msg hejka', 'jakub') + 140339 
+otrzymano : ping + 140339 
+wysłano : ('msg hejka', 'jakub') + 140339 
+otrzymano : ping + 140339 
+wysłano : ('msg hejka', 'jakub') + 140339 
+otrzymano : ping + 140339 
+wysłano : ('msg hejka', 'jakub') + 140339 
+otrzymano : ping + 140340 
+wysłano : ('msg witaj', 'rafal') + 140340 
+otrzymano : ping + 140340 
+wysłano : ('msg hejka', 'jakub') + 140340 
+otrzymano : ping + 140340 
+wysłano : ('msg hejka', 'jakub') + 140340 
+otrzymano : ping + 140340 
+wysłano : ('msg hejka', 'jakub') + 140340 
+otrzymano : ping + 140340 
+wysłano : ('msg hejka', 'jakub') + 140340 
+otrzymano : ping + 140340 
+wysłano : ('msg hejka', 'jakub') + 140340 
+otrzymano : ping + 140340 
+wysłano : ('msg witaj', 'rafal') + 140340 
+otrzymano : ping + 140340 
+wysłano : ('msg hejka', 'jakub') + 140340 
+otrzymano : ping + 140340 
+wysłano : ('msg hejka', 'jakub') + 140340 
+otrzymano : ping + 140340 
+wysłano : ('msg hejka', 'jakub') + 140340 
+otrzymano : ping + 140340 
+wysłano : ('msg hejka', 'jakub') + 140340 
+otrzymano : ping + 140340 
+wysłano : ('msg hejka', 'jakub') + 140340 
+otrzymano : ping + 140341 
+wysłano : ('msg witaj', 'rafal') + 140341 
+otrzymano : ping + 140341 
+wysłano : ('msg hejka', 'jakub') + 140341 
+otrzymano : ping + 140341 
+wysłano : ('msg hejka', 'jakub') + 140341 
+otrzymano : ping + 140341 
+wysłano : ('msg hejka', 'jakub') + 140341 
+otrzymano : ping + 140341 
+wysłano : ('msg hejka', 'jakub') + 140341 
+otrzymano : ping + 140341 
+wysłano : ('msg hejka', 'jakub') + 140341 
+otrzymano : ping + 140341 
+wysłano : ('msg witaj', 'rafal') + 140341 
+otrzymano : ping + 140341 
+wysłano : ('msg hejka', 'jakub') + 140341 
+otrzymano : ping + 140341 
+wysłano : ('msg hejka', 'jakub') + 140341 
+otrzymano : ping + 140341 
+wysłano : ('msg hejka', 'jakub') + 140341 
+otrzymano : ping + 140341 
+wysłano : ('msg hejka', 'jakub') + 140341 
+otrzymano : ping + 140341 
+wysłano : ('msg hejka', 'jakub') + 140341 
+otrzymano : ping + 140342 
+wysłano : ('msg witaj', 'rafal') + 140342 
+otrzymano : ping + 140342 
+wysłano : ('msg hejka', 'jakub') + 140342 
+otrzymano : ping + 140342 
+wysłano : ('msg hejka', 'jakub') + 140342 
+otrzymano : ping + 140342 
+wysłano : ('msg hejka', 'jakub') + 140342 
+otrzymano : ping + 140342 
+wysłano : ('msg hejka', 'jakub') + 140342 
+otrzymano : ping + 140342 
+wysłano : ('msg hejka', 'jakub') + 140342 
+otrzymano : ping + 140342 
+wysłano : ('msg witaj', 'rafal') + 140342 
+otrzymano : ping + 140342 
+wysłano : ('msg hejka', 'jakub') + 140342 
+otrzymano : ping + 140342 
+wysłano : ('msg hejka', 'jakub') + 140342 
+otrzymano : ping + 140342 
+wysłano : ('msg hejka', 'jakub') + 140342 
+otrzymano : ping + 140342 
+wysłano : ('msg hejka', 'jakub') + 140342 
+otrzymano : ping + 140342 
+wysłano : ('msg hejka', 'jakub') + 140342 
+otrzymano : ping + 140343 
+wysłano : ('msg witaj', 'rafal') + 140343 
+otrzymano : ping + 140343 
+wysłano : ('msg hejka', 'jakub') + 140343 
+otrzymano : ping + 140343 
+wysłano : ('msg hejka', 'jakub') + 140343 
+otrzymano : ping + 140343 
+wysłano : ('msg hejka', 'jakub') + 140343 
+otrzymano : ping + 140343 
+wysłano : ('msg hejka', 'jakub') + 140343 
+otrzymano : ping + 140343 
+wysłano : ('msg hejka', 'jakub') + 140343 
+otrzymano : ping + 140343 
+wysłano : ('msg witaj', 'rafal') + 140343 
+otrzymano : ping + 140343 
+wysłano : ('msg hejka', 'jakub') + 140343 
+otrzymano : ping + 140343 
+wysłano : ('msg hejka', 'jakub') + 140343 
+otrzymano : ping + 140343 
+wysłano : ('msg hejka', 'jakub') + 140343 
+otrzymano : ping + 140343 
+wysłano : ('msg hejka', 'jakub') + 140343 
+otrzymano : ping + 140343 
+wysłano : ('msg hejka', 'jakub') + 140343 
+otrzymano : ping + 140344 
+wysłano : ('msg witaj', 'rafal') + 140344 
+otrzymano : ping + 140344 
+wysłano : ('msg hejka', 'jakub') + 140344 
+otrzymano : ping + 140344 
+wysłano : ('msg hejka', 'jakub') + 140344 
+otrzymano : ping + 140344 
+wysłano : ('msg hejka', 'jakub') + 140344 
+otrzymano : ping + 140344 
+wysłano : ('msg hejka', 'jakub') + 140344 
+otrzymano : ping + 140344 
+wysłano : ('msg hejka', 'jakub') + 140344 
+otrzymano : ping + 140344 
+wysłano : ('msg witaj', 'rafal') + 140344 
+otrzymano : ping + 140344 
+wysłano : ('msg hejka', 'jakub') + 140344 
+otrzymano : ping + 140344 
+wysłano : ('msg hejka', 'jakub') + 140344 
+otrzymano : ping + 140344 
+wysłano : ('msg hejka', 'jakub') + 140344 
+otrzymano : ping + 140344 
+wysłano : ('msg hejka', 'jakub') + 140344 
+otrzymano : ping + 140344 
+wysłano : ('msg hejka', 'jakub') + 140344 
+otrzymano : ping + 140345 
+wysłano : ('msg witaj', 'rafal') + 140345 
+otrzymano : ping + 140345 
+wysłano : ('msg hejka', 'jakub') + 140345 
+otrzymano : ping + 140345 
+wysłano : ('msg hejka', 'jakub') + 140345 
+otrzymano : ping + 140345 
+wysłano : ('msg hejka', 'jakub') + 140345 
+otrzymano : ping + 140345 
+wysłano : ('msg hejka', 'jakub') + 140345 
+otrzymano : ping + 140345 
+wysłano : ('msg hejka', 'jakub') + 140345 
+otrzymano : ping + 140345 
+wysłano : ('msg witaj', 'rafal') + 140345 
+otrzymano : ping + 140345 
+wysłano : ('msg hejka', 'jakub') + 140345 
+otrzymano : ping + 140345 
+wysłano : ('msg hejka', 'jakub') + 140345 
+otrzymano : ping + 140345 
+wysłano : ('msg hejka', 'jakub') + 140345 
+otrzymano : ping + 140345 
+wysłano : ('msg hejka', 'jakub') + 140345 
+otrzymano : ping + 140345 
+wysłano : ('msg hejka', 'jakub') + 140345 
+otrzymano : ping + 140346 
+wysłano : ('msg witaj', 'rafal') + 140346 
+otrzymano : ping + 140346 
+wysłano : ('msg hejka', 'jakub') + 140346 
+otrzymano : ping + 140346 
+wysłano : ('msg hejka', 'jakub') + 140346 
+otrzymano : ping + 140346 
+wysłano : ('msg hejka', 'jakub') + 140346 
+otrzymano : ping + 140346 
+wysłano : ('msg hejka', 'jakub') + 140346 
+otrzymano : ping + 140346 
+wysłano : ('msg hejka', 'jakub') + 140346 
+otrzymano : ping + 140346 
+wysłano : ('msg witaj', 'rafal') + 140346 
+otrzymano : ping + 140346 
+wysłano : ('msg hejka', 'jakub') + 140346 
+otrzymano : ping + 140346 
+wysłano : ('msg hejka', 'jakub') + 140346 
+otrzymano : ping + 140346 
+wysłano : ('msg hejka', 'jakub') + 140346 
+otrzymano : ping + 140346 
+wysłano : ('msg hejka', 'jakub') + 140346 
+otrzymano : ping + 140346 
+wysłano : ('msg hejka', 'jakub') + 140346 
+otrzymano : ping + 140347 
+wysłano : ('msg witaj', 'rafal') + 140347 
+otrzymano : ping + 140347 
+wysłano : ('msg hejka', 'jakub') + 140347 
+otrzymano : ping + 140347 
+wysłano : ('msg hejka', 'jakub') + 140347 
+otrzymano : ping + 140347 
+wysłano : ('msg hejka', 'jakub') + 140347 
+otrzymano : ping + 140347 
+wysłano : ('msg hejka', 'jakub') + 140347 
+otrzymano : ping + 140347 
+wysłano : ('msg hejka', 'jakub') + 140347 
+otrzymano : ping + 140347 
+wysłano : ('msg witaj', 'rafal') + 140347 
+otrzymano : ping + 140347 
+wysłano : ('msg hejka', 'jakub') + 140347 
+otrzymano : ping + 140347 
+wysłano : ('msg hejka', 'jakub') + 140347 
+otrzymano : ping + 140347 
+wysłano : ('msg hejka', 'jakub') + 140347 
+otrzymano : ping + 140347 
+wysłano : ('msg hejka', 'jakub') + 140347 
+otrzymano : ping + 140347 
+wysłano : ('msg hejka', 'jakub') + 140347 
+otrzymano : ping + 140348 
+wysłano : ('msg witaj', 'rafal') + 140348 
+otrzymano : ping + 140348 
+wysłano : ('msg hejka', 'jakub') + 140348 
+otrzymano : ping + 140348 
+wysłano : ('msg hejka', 'jakub') + 140348 
+otrzymano : ping + 140348 
+wysłano : ('msg hejka', 'jakub') + 140348 
+otrzymano : ping + 140348 
+wysłano : ('msg hejka', 'jakub') + 140348 
+otrzymano : ping + 140348 
+wysłano : ('msg hejka', 'jakub') + 140348 
+otrzymano : ping + 140348 
+wysłano : ('msg witaj', 'rafal') + 140348 
+otrzymano : ping + 140348 
+wysłano : ('msg hejka', 'jakub') + 140348 
+otrzymano : ping + 140348 
+wysłano : ('msg hejka', 'jakub') + 140348 
+otrzymano : ping + 140348 
+wysłano : ('msg hejka', 'jakub') + 140348 
+otrzymano : ping + 140348 
+wysłano : ('msg hejka', 'jakub') + 140348 
+otrzymano : ping + 140349 
+wysłano : ('msg hejka', 'jakub') + 140349 
+otrzymano : ping + 140349 
+wysłano : ('msg witaj', 'rafal') + 140349 
+otrzymano : ping + 140349 
+wysłano : ('msg hejka', 'jakub') + 140349 
+otrzymano : ping + 140349 
+wysłano : ('msg hejka', 'jakub') + 140349 
+otrzymano : ping + 140349 
+wysłano : ('msg hejka', 'jakub') + 140349 
+otrzymano : ping + 140349 
+wysłano : ('msg hejka', 'jakub') + 140349 
+otrzymano : ping + 140349 
+wysłano : ('msg hejka', 'jakub') + 140349 
+otrzymano : ping + 140349 
+wysłano : ('msg witaj', 'rafal') + 140349 
+otrzymano : ping + 140349 
+wysłano : ('msg hejka', 'jakub') + 140349 
+otrzymano : ping + 140349 
+wysłano : ('msg hejka', 'jakub') + 140349 
+otrzymano : ping + 140349 
+wysłano : ('msg hejka', 'jakub') + 140349 
+otrzymano : ping + 140349 
+wysłano : ('msg hejka', 'jakub') + 140349 
+otrzymano : ping + 140350 
+wysłano : ('msg hejka', 'jakub') + 140350 
+otrzymano : ping + 140350 
+wysłano : ('msg witaj', 'rafal') + 140350 
+otrzymano : ping + 140350 
+wysłano : ('msg hejka', 'jakub') + 140350 
+otrzymano : ping + 140350 
+wysłano : ('msg hejka', 'jakub') + 140350 
+otrzymano : ping + 140350 
+wysłano : ('msg hejka', 'jakub') + 140350 
+otrzymano : ping + 140350 
+wysłano : ('msg hejka', 'jakub') + 140350 
+otrzymano : ping + 140350 
+wysłano : ('msg hejka', 'jakub') + 140350 
+otrzymano : ping + 140350 
+wysłano : ('msg witaj', 'rafal') + 140350 
+otrzymano : ping + 140350 
+wysłano : ('msg hejka', 'jakub') + 140350 
+otrzymano : ping + 140350 
+wysłano : ('msg hejka', 'jakub') + 140350 
+otrzymano : ping + 140350 
+wysłano : ('msg hejka', 'jakub') + 140350 
+otrzymano : ping + 140350 
+wysłano : ('msg hejka', 'jakub') + 140350 
+otrzymano : ping + 140351 
+wysłano : ('msg hejka', 'jakub') + 140351 
+otrzymano : ping + 140351 
+wysłano : ('msg witaj', 'rafal') + 140351 
+otrzymano : ping + 140351 
+wysłano : ('msg hejka', 'jakub') + 140351 
+otrzymano : ping + 140351 
+wysłano : ('msg hejka', 'jakub') + 140351 
+otrzymano : ping + 140351 
+wysłano : ('msg hejka', 'jakub') + 140351 
+otrzymano : ping + 140351 
+wysłano : ('msg hejka', 'jakub') + 140351 
+otrzymano : ping + 140351 
+wysłano : ('msg hejka', 'jakub') + 140351 
+otrzymano : ping + 140351 
+wysłano : ('msg witaj', 'rafal') + 140351 
+otrzymano : ping + 140351 
+wysłano : ('msg hejka', 'jakub') + 140351 
+otrzymano : ping + 140351 
+wysłano : ('msg hejka', 'jakub') + 140351 
+otrzymano : ping + 140351 
+wysłano : ('msg hejka', 'jakub') + 140351 
+otrzymano : ping + 140351 
+wysłano : ('msg hejka', 'jakub') + 140351 
+otrzymano : ping + 140352 
+wysłano : ('msg hejka', 'jakub') + 140352 
+otrzymano : ping + 140352 
+wysłano : ('msg witaj', 'rafal') + 140352 
+otrzymano : ping + 140352 
+wysłano : ('msg hejka', 'jakub') + 140352 
+otrzymano : ping + 140352 
+wysłano : ('msg hejka', 'jakub') + 140352 
+otrzymano : ping + 140352 
+wysłano : ('msg hejka', 'jakub') + 140352 
+otrzymano : ping + 140352 
+wysłano : ('msg hejka', 'jakub') + 140352 
+otrzymano : ping + 140352 
+wysłano : ('msg hejka', 'jakub') + 140352 
+otrzymano : ping + 140352 
+wysłano : ('msg witaj', 'rafal') + 140352 
+otrzymano : ping + 140352 
+wysłano : ('msg hejka', 'jakub') + 140352 
+otrzymano : ping + 140352 
+wysłano : ('msg hejka', 'jakub') + 140352 
+otrzymano : ping + 140352 
+wysłano : ('msg hejka', 'jakub') + 140352 
+otrzymano : ping + 140352 
+wysłano : ('msg hejka', 'jakub') + 140352 
+otrzymano : ping + 140353 
+wysłano : ('msg hejka', 'jakub') + 140353 
+otrzymano : ping + 140353 
+wysłano : ('msg witaj', 'rafal') + 140353 
+otrzymano : ping + 140353 
+wysłano : ('msg hejka', 'jakub') + 140353 
+otrzymano : ping + 140353 
+wysłano : ('msg hejka', 'jakub') + 140353 
+otrzymano : ping + 140353 
+wysłano : ('msg hejka', 'jakub') + 140353 
+otrzymano : ping + 140353 
+wysłano : ('msg hejka', 'jakub') + 140353 
+otrzymano : ping + 140353 
+wysłano : ('msg hejka', 'jakub') + 140353 
+otrzymano : ping + 140353 
+wysłano : ('msg witaj', 'rafal') + 140353 
+otrzymano : ping + 140353 
+wysłano : ('msg hejka', 'jakub') + 140353 
+otrzymano : ping + 140353 
+wysłano : ('msg hejka', 'jakub') + 140353 
+otrzymano : ping + 140353 
+wysłano : ('msg hejka', 'jakub') + 140353 
+otrzymano : ping + 140353 
+wysłano : ('msg hejka', 'jakub') + 140353 
+otrzymano : ping + 140354 
+wysłano : ('msg hejka', 'jakub') + 140354 
+otrzymano : ping + 140354 
+wysłano : ('msg witaj', 'rafal') + 140354 
+otrzymano : ping + 140354 
+wysłano : ('msg hejka', 'jakub') + 140354 
+otrzymano : ping + 140354 
+wysłano : ('msg hejka', 'jakub') + 140354 
+otrzymano : ping + 140354 
+wysłano : ('msg hejka', 'jakub') + 140354 
+otrzymano : ping + 140354 
+wysłano : ('msg hejka', 'jakub') + 140354 
+otrzymano : ping + 140354 
+wysłano : ('msg hejka', 'jakub') + 140354 
+otrzymano : ping + 140354 
+wysłano : ('msg witaj', 'rafal') + 140354 
+otrzymano : ping + 140354 
+wysłano : ('msg hejka', 'jakub') + 140354 
+otrzymano : ping + 140354 
+wysłano : ('msg hejka', 'jakub') + 140354 
+otrzymano : ping + 140354 
+wysłano : ('msg hejka', 'jakub') + 140354 
+otrzymano : ping + 140354 
+wysłano : ('msg hejka', 'jakub') + 140354 
+otrzymano : ping + 140355 
+wysłano : ('msg hejka', 'jakub') + 140355 
+otrzymano : ping + 140355 
+wysłano : ('msg witaj', 'rafal') + 140355 
+otrzymano : ping + 140355 
+wysłano : ('msg hejka', 'jakub') + 140355 
+otrzymano : ping + 140355 
+wysłano : ('msg hejka', 'jakub') + 140355 
+otrzymano : ping + 140355 
+wysłano : ('msg hejka', 'jakub') + 140355 
+otrzymano : ping + 140355 
+wysłano : ('msg hejka', 'jakub') + 140355 
+otrzymano : ping + 140355 
+wysłano : ('msg hejka', 'jakub') + 140355 
+otrzymano : ping + 140355 
+wysłano : ('msg witaj', 'rafal') + 140355 
+otrzymano : ping + 140355 
+wysłano : ('msg hejka', 'jakub') + 140355 
+otrzymano : ping + 140355 
+wysłano : ('msg hejka', 'jakub') + 140355 
+otrzymano : ping + 140355 
+wysłano : ('msg hejka', 'jakub') + 140355 
+otrzymano : ping + 140355 
+wysłano : ('msg hejka', 'jakub') + 140355 
+otrzymano : ping + 140356 
+wysłano : ('msg hejka', 'jakub') + 140356 
+otrzymano : ping + 140356 
+wysłano : ('msg witaj', 'rafal') + 140356 
+otrzymano : ping + 140356 
+wysłano : ('msg hejka', 'jakub') + 140356 
+otrzymano : ping + 140356 
+wysłano : ('msg hejka', 'jakub') + 140356 
+otrzymano : ping + 140356 
+wysłano : ('msg hejka', 'jakub') + 140356 
+otrzymano : ping + 140356 
+wysłano : ('msg hejka', 'jakub') + 140356 
+otrzymano : ping + 140356 
+wysłano : ('msg hejka', 'jakub') + 140356 
+otrzymano : ping + 140356 
+wysłano : ('msg witaj', 'rafal') + 140356 
+otrzymano : ping + 140356 
+wysłano : ('msg hejka', 'jakub') + 140356 
+otrzymano : ping + 140356 
+wysłano : ('msg hejka', 'jakub') + 140356 
+otrzymano : ping + 140356 
+wysłano : ('msg hejka', 'jakub') + 140356 
+otrzymano : ping + 140356 
+wysłano : ('msg hejka', 'jakub') + 140356 
+otrzymano : ping + 140357 
+wysłano : ('msg hejka', 'jakub') + 140357 
+otrzymano : ping + 140357 
+wysłano : ('msg witaj', 'rafal') + 140357 
+otrzymano : ping + 140357 
+wysłano : ('msg hejka', 'jakub') + 140357 
+otrzymano : ping + 140357 
+wysłano : ('msg hejka', 'jakub') + 140357 
+otrzymano : ping + 140357 
+wysłano : ('msg hejka', 'jakub') + 140357 
+otrzymano : ping + 140357 
+wysłano : ('msg hejka', 'jakub') + 140357 
+otrzymano : ping + 140357 
+wysłano : ('msg hejka', 'jakub') + 140357 
+otrzymano : ping + 140357 
+wysłano : ('msg witaj', 'rafal') + 140357 
+otrzymano : ping + 140357 
+wysłano : ('msg hejka', 'jakub') + 140357 
+otrzymano : ping + 140357 
+wysłano : ('msg hejka', 'jakub') + 140357 
+otrzymano : ping + 140357 
+wysłano : ('msg hejka', 'jakub') + 140357 
+otrzymano : ping + 140357 
+wysłano : ('msg hejka', 'jakub') + 140357 
+otrzymano : ping + 140358 
+wysłano : ('msg hejka', 'jakub') + 140358 
+otrzymano : ping + 140358 
+wysłano : ('msg witaj', 'rafal') + 140358 
+otrzymano : ping + 140358 
+wysłano : ('msg hejka', 'jakub') + 140358 
+otrzymano : ping + 140358 
+wysłano : ('msg hejka', 'jakub') + 140358 
+otrzymano : ping + 140358 
+wysłano : ('msg hejka', 'jakub') + 140358 
+otrzymano : ping + 140358 
+wysłano : ('msg hejka', 'jakub') + 140358 
+otrzymano : ping + 140358 
+wysłano : ('msg hejka', 'jakub') + 140358 
+otrzymano : ping + 140358 
+wysłano : ('msg witaj', 'rafal') + 140358 
+otrzymano : ping + 140358 
+wysłano : ('msg hejka', 'jakub') + 140358 
+otrzymano : ping + 140358 
+wysłano : ('msg hejka', 'jakub') + 140358 
+otrzymano : ping + 140358 
+wysłano : ('msg hejka', 'jakub') + 140358 
+otrzymano : ping + 140358 
+wysłano : ('msg hejka', 'jakub') + 140358 
+otrzymano : ping + 140359 
+wysłano : ('msg hejka', 'jakub') + 140359 
+otrzymano : ping + 140359 
+wysłano : ('msg witaj', 'rafal') + 140359 
+otrzymano : ping + 140359 
+wysłano : ('msg hejka', 'jakub') + 140359 
+otrzymano : ping + 140359 
+wysłano : ('msg hejka', 'jakub') + 140359 
+otrzymano : ping + 140359 
+wysłano : ('msg hejka', 'jakub') + 140359 
+otrzymano : ping + 140359 
+wysłano : ('msg hejka', 'jakub') + 140359 
+otrzymano : ping + 140359 
+wysłano : ('msg hejka', 'jakub') + 140359 
+otrzymano : ping + 140359 
+wysłano : ('msg witaj', 'rafal') + 140359 
+otrzymano : ping + 140359 
+wysłano : ('msg hejka', 'jakub') + 140359 
+otrzymano : ping + 140359 
+wysłano : ('msg hejka', 'jakub') + 140359 
+otrzymano : ping + 140359 
+wysłano : ('msg hejka', 'jakub') + 140359 
+otrzymano : ping + 140359 
+wysłano : ('msg hejka', 'jakub') + 140359 
+otrzymano : ping + 140400 
+wysłano : ('msg hejka', 'jakub') + 140400 
+otrzymano : ping + 140400 
+wysłano : ('msg witaj', 'rafal') + 140400 
+otrzymano : ping + 140400 
+wysłano : ('msg hejka', 'jakub') + 140400 
+otrzymano : ping + 140400 
+wysłano : ('msg hejka', 'jakub') + 140400 
+otrzymano : ping + 140400 
+wysłano : ('msg hejka', 'jakub') + 140400 
+otrzymano : ping + 140400 
+wysłano : ('msg hejka', 'jakub') + 140400 
+otrzymano : ping + 140400 
+wysłano : ('msg hejka', 'jakub') + 140400 
+otrzymano : ping + 140400 
+wysłano : ('msg witaj', 'rafal') + 140400 
+otrzymano : ping + 140400 
+wysłano : ('msg hejka', 'jakub') + 140400 
+otrzymano : ping + 140400 
+wysłano : ('msg hejka', 'jakub') + 140400 
+otrzymano : ping + 140400 
+wysłano : ('msg hejka', 'jakub') + 140400 
+otrzymano : ping + 140401 
+wysłano : ('msg hejka', 'jakub') + 140401 
+otrzymano : ping + 140401 
+wysłano : ('msg hejka', 'jakub') + 140401 
+otrzymano : ping + 140401 
+wysłano : ('msg witaj', 'rafal') + 140401 
+otrzymano : ping + 140401 
+wysłano : ('msg hejka', 'jakub') + 140401 
+otrzymano : ping + 140401 
+wysłano : ('msg hejka', 'jakub') + 140401 
+otrzymano : ping + 140401 
+wysłano : ('msg hejka', 'jakub') + 140401 
+otrzymano : ping + 140401 
+wysłano : ('msg hejka', 'jakub') + 140401 
+otrzymano : ping + 140401 
+wysłano : ('msg hejka', 'jakub') + 140401 
+otrzymano : ping + 140401 
+wysłano : ('msg witaj', 'rafal') + 140401 
+otrzymano : ping + 140401 
+wysłano : ('msg hejka', 'jakub') + 140401 
+otrzymano : ping + 140401 
+wysłano : ('msg hejka', 'jakub') + 140401 
+otrzymano : ping + 140401 
+wysłano : ('msg hejka', 'jakub') + 140401 
+otrzymano : ping + 140402 
+wysłano : ('msg hejka', 'jakub') + 140402 
+otrzymano : ping + 140402 
+wysłano : ('msg hejka', 'jakub') + 140402 
+otrzymano : ping + 140402 
+wysłano : ('msg witaj', 'rafal') + 140402 
+otrzymano : ping + 140402 
+wysłano : ('msg hejka', 'jakub') + 140402 
+otrzymano : ping + 140402 
+wysłano : ('msg hejka', 'jakub') + 140402 
+otrzymano : ping + 140402 
+wysłano : ('msg hejka', 'jakub') + 140402 
+otrzymano : ping + 140402 
+wysłano : ('msg hejka', 'jakub') + 140402 
+otrzymano : ping + 140402 
+wysłano : ('msg hejka', 'jakub') + 140402 
+otrzymano : ping + 140402 
+wysłano : ('msg witaj', 'rafal') + 140402 
+otrzymano : ping + 140402 
+wysłano : ('msg hejka', 'jakub') + 140402 
+otrzymano : ping + 140402 
+wysłano : ('msg hejka', 'jakub') + 140402 
+otrzymano : ping + 140402 
+wysłano : ('msg hejka', 'jakub') + 140402 
+otrzymano : ping + 140403 
+wysłano : ('msg hejka', 'jakub') + 140403 
+otrzymano : ping + 140403 
+wysłano : ('msg hejka', 'jakub') + 140403 
+otrzymano : ping + 140403 
+wysłano : ('msg witaj', 'rafal') + 140403 
+otrzymano : ping + 140403 
+wysłano : ('msg hejka', 'jakub') + 140403 
+otrzymano : ping + 140403 
+wysłano : ('msg hejka', 'jakub') + 140403 
+otrzymano : ping + 140403 
+wysłano : ('msg hejka', 'jakub') + 140403 
+otrzymano : ping + 140403 
+wysłano : ('msg hejka', 'jakub') + 140403 
+otrzymano : ping + 140403 
+wysłano : ('msg hejka', 'jakub') + 140403 
+otrzymano : ping + 140403 
+wysłano : ('msg witaj', 'rafal') + 140403 
+otrzymano : ping + 140403 
+wysłano : ('msg hejka', 'jakub') + 140403 
+otrzymano : ping + 140403 
+wysłano : ('msg hejka', 'jakub') + 140403 
+otrzymano : ping + 140403 
+wysłano : ('msg hejka', 'jakub') + 140403 
+otrzymano : ping + 140404 
+wysłano : ('msg hejka', 'jakub') + 140404 
+otrzymano : ping + 140404 
+wysłano : ('msg hejka', 'jakub') + 140404 
+otrzymano : ping + 140404 
+wysłano : ('msg witaj', 'rafal') + 140404 
+otrzymano : ping + 140404 
+wysłano : ('msg hejka', 'jakub') + 140404 
+otrzymano : ping + 140404 
+wysłano : ('msg hejka', 'jakub') + 140404 
+otrzymano : ping + 140404 
+wysłano : ('msg hejka', 'jakub') + 140404 
+otrzymano : ping + 140404 
+wysłano : ('msg hejka', 'jakub') + 140404 
+otrzymano : ping + 140404 
+wysłano : ('msg hejka', 'jakub') + 140404 
+otrzymano : ping + 140404 
+wysłano : ('msg witaj', 'rafal') + 140404 
+otrzymano : ping + 140404 
+wysłano : ('msg hejka', 'jakub') + 140404 
+otrzymano : ping + 140404 
+wysłano : ('msg hejka', 'jakub') + 140404 
+otrzymano : ping + 140404 
+wysłano : ('msg hejka', 'jakub') + 140404 
+otrzymano : ping + 140405 
+wysłano : ('msg hejka', 'jakub') + 140405 
+otrzymano : ping + 140405 
+wysłano : ('msg hejka', 'jakub') + 140405 
+otrzymano : ping + 140405 
+wysłano : ('msg witaj', 'rafal') + 140405 
+otrzymano : ping + 140405 
+wysłano : ('msg hejka', 'jakub') + 140405 
+otrzymano : ping + 140405 
+wysłano : ('msg hejka', 'jakub') + 140405 
+otrzymano : ping + 140405 
+wysłano : ('msg hejka', 'jakub') + 140405 
+otrzymano : ping + 140405 
+wysłano : ('msg hejka', 'jakub') + 140405 
+otrzymano : ping + 140405 
+wysłano : ('msg hejka', 'jakub') + 140405 
+otrzymano : ping + 140405 
+wysłano : ('msg witaj', 'rafal') + 140405 
+otrzymano : ping + 140405 
+wysłano : ('msg hejka', 'jakub') + 140405 
+otrzymano : ping + 140405 
+wysłano : ('msg hejka', 'jakub') + 140405 
+otrzymano : ping + 140405 
+wysłano : ('msg hejka', 'jakub') + 140405 
+otrzymano : ping + 140406 
+wysłano : ('msg hejka', 'jakub') + 140406 
+otrzymano : ping + 140406 
+wysłano : ('msg hejka', 'jakub') + 140406 
+otrzymano : ping + 140406 
+wysłano : ('msg witaj', 'rafal') + 140406 
+otrzymano : ping + 140406 
+wysłano : ('msg hejka', 'jakub') + 140406 
+otrzymano : ping + 140406 
+wysłano : ('msg hejka', 'jakub') + 140406 
+otrzymano : ping + 140406 
+wysłano : ('msg hejka', 'jakub') + 140406 
+otrzymano : ping + 140406 
+wysłano : ('msg hejka', 'jakub') + 140406 
+otrzymano : ping + 140406 
+wysłano : ('msg hejka', 'jakub') + 140406 
+otrzymano : ping + 140406 
+wysłano : ('msg witaj', 'rafal') + 140406 
+otrzymano : ping + 140406 
+wysłano : ('msg hejka', 'jakub') + 140406 
+otrzymano : ping + 140406 
+wysłano : ('msg hejka', 'jakub') + 140406 
+otrzymano : ping + 140406 
+wysłano : ('msg hejka', 'jakub') + 140406 
+otrzymano : ping + 140407 
+wysłano : ('msg hejka', 'jakub') + 140407 
+otrzymano : ping + 140407 
+wysłano : ('msg hejka', 'jakub') + 140407 
+otrzymano : ping + 140407 
+wysłano : ('msg witaj', 'rafal') + 140407 
+otrzymano : ping + 140407 
+wysłano : ('msg hejka', 'jakub') + 140407 
+otrzymano : ping + 140407 
+wysłano : ('msg hejka', 'jakub') + 140407 
+otrzymano : ping + 140407 
+wysłano : ('msg hejka', 'jakub') + 140407 
+otrzymano : ping + 140407 
+wysłano : ('msg hejka', 'jakub') + 140407 
+otrzymano : ping + 140407 
+wysłano : ('msg hejka', 'jakub') + 140407 
+otrzymano : ping + 140407 
+wysłano : ('msg witaj', 'rafal') + 140407 
+otrzymano : ping + 140407 
+wysłano : ('msg hejka', 'jakub') + 140407 
+otrzymano : ping + 140407 
+wysłano : ('msg hejka', 'jakub') + 140407 
+otrzymano : ping + 140407 
+wysłano : ('msg hejka', 'jakub') + 140407 
+otrzymano : ping + 140408 
+wysłano : ('msg hejka', 'jakub') + 140408 
+otrzymano : ping + 140408 
+wysłano : ('msg hejka', 'jakub') + 140408 
+otrzymano : ping + 140408 
+wysłano : ('msg witaj', 'rafal') + 140408 
+otrzymano : ping + 140408 
+wysłano : ('msg hejka', 'jakub') + 140408 
+otrzymano : ping + 140408 
+wysłano : ('msg hejka', 'jakub') + 140408 
+otrzymano : ping + 140408 
+wysłano : ('msg hejka', 'jakub') + 140408 
+otrzymano : ping + 140408 
+wysłano : ('msg hejka', 'jakub') + 140408 
+otrzymano : ping + 140408 
+wysłano : ('msg hejka', 'jakub') + 140408 
+otrzymano : ping + 140408 
+wysłano : ('msg witaj', 'rafal') + 140408 
+otrzymano : ping + 140408 
+wysłano : ('msg hejka', 'jakub') + 140408 
+otrzymano : ping + 140408 
+wysłano : ('msg hejka', 'jakub') + 140408 
+otrzymano : ping + 140408 
+wysłano : ('msg hejka', 'jakub') + 140408 
+otrzymano : ping + 140409 
+wysłano : ('msg hejka', 'jakub') + 140409 
+otrzymano : ping + 140409 
+wysłano : ('msg hejka', 'jakub') + 140409 
+otrzymano : ping + 140409 
+wysłano : ('msg witaj', 'rafal') + 140409 
+otrzymano : ping + 140409 
+wysłano : ('msg hejka', 'jakub') + 140409 
+otrzymano : ping + 140409 
+wysłano : ('msg hejka', 'jakub') + 140409 
+otrzymano : ping + 140409 
+wysłano : ('msg hejka', 'jakub') + 140409 
+otrzymano : ping + 140409 
+wysłano : ('msg hejka', 'jakub') + 140409 
+otrzymano : ping + 140409 
+wysłano : ('msg hejka', 'jakub') + 140409 
+otrzymano : ping + 140409 
+wysłano : ('msg witaj', 'rafal') + 140409 
+otrzymano : ping + 140409 
+wysłano : ('msg hejka', 'jakub') + 140409 
+otrzymano : ping + 140409 
+wysłano : ('msg hejka', 'jakub') + 140409 
+otrzymano : ping + 140409 
+wysłano : ('msg hejka', 'jakub') + 140409 
+otrzymano : ping + 140410 
+wysłano : ('msg hejka', 'jakub') + 140410 
+otrzymano : ping + 140410 
+wysłano : ('msg hejka', 'jakub') + 140410 
+otrzymano : ping + 140410 
+wysłano : ('msg witaj', 'rafal') + 140410 
+otrzymano : ping + 140410 
+wysłano : ('msg hejka', 'jakub') + 140410 
+otrzymano : ping + 140410 
+wysłano : ('msg hejka', 'jakub') + 140410 
+otrzymano : ping + 140410 
+wysłano : ('msg hejka', 'jakub') + 140410 
+otrzymano : ping + 140410 
+wysłano : ('msg hejka', 'jakub') + 140410 
+otrzymano : ping + 140410 
+wysłano : ('msg hejka', 'jakub') + 140410 
+otrzymano : ping + 140410 
+wysłano : ('msg witaj', 'rafal') + 140410 
+otrzymano : ping + 140410 
+wysłano : ('msg hejka', 'jakub') + 140410 
+otrzymano : ping + 140410 
+wysłano : ('msg hejka', 'jakub') + 140410 
+otrzymano : ping + 140410 
+wysłano : ('msg hejka', 'jakub') + 140410 
+otrzymano : ping + 140411 
+wysłano : ('msg hejka', 'jakub') + 140411 
+otrzymano : ping + 140411 
+wysłano : ('msg hejka', 'jakub') + 140411 
+otrzymano : ping + 140411 
+wysłano : ('msg witaj', 'rafal') + 140411 
+otrzymano : ping + 140411 
+wysłano : ('msg hejka', 'jakub') + 140411 
+otrzymano : ping + 140411 
+wysłano : ('msg hejka', 'jakub') + 140411 
+otrzymano : ping + 140411 
+wysłano : ('msg hejka', 'jakub') + 140411 
+otrzymano : ping + 140411 
+wysłano : ('msg hejka', 'jakub') + 140411 
+otrzymano : ping + 140411 
+wysłano : ('msg hejka', 'jakub') + 140411 
+otrzymano : ping + 140411 
+wysłano : ('msg witaj', 'rafal') + 140411 
+otrzymano : ping + 140411 
+wysłano : ('msg hejka', 'jakub') + 140411 
+otrzymano : ping + 140411 
+wysłano : ('msg hejka', 'jakub') + 140411 
+otrzymano : ping + 140411 
+wysłano : ('msg hejka', 'jakub') + 140411 
+otrzymano : ping + 140412 
+wysłano : ('msg hejka', 'jakub') + 140412 
+otrzymano : ping + 140412 
+wysłano : ('msg hejka', 'jakub') + 140412 
+otrzymano : ping + 140412 
+wysłano : ('msg witaj', 'rafal') + 140412 
+otrzymano : ping + 140412 
+wysłano : ('msg hejka', 'jakub') + 140412 
+otrzymano : ping + 140412 
+wysłano : ('msg hejka', 'jakub') + 140412 
+otrzymano : ping + 140412 
+wysłano : ('msg hejka', 'jakub') + 140412 
+otrzymano : ping + 140412 
+wysłano : ('msg hejka', 'jakub') + 140412 
+otrzymano : ping + 140412 
+wysłano : ('msg hejka', 'jakub') + 140412 
+otrzymano : ping + 140412 
+wysłano : ('msg witaj', 'rafal') + 140412 
+otrzymano : ping + 140412 
+wysłano : ('msg hejka', 'jakub') + 140412 
+otrzymano : ping + 140412 
+wysłano : ('msg hejka', 'jakub') + 140412 
+otrzymano : ping + 140413 
+wysłano : ('msg hejka', 'jakub') + 140413 
+otrzymano : ping + 140413 
+wysłano : ('msg hejka', 'jakub') + 140413 
+otrzymano : ping + 140413 
+wysłano : ('msg hejka', 'jakub') + 140413 
+otrzymano : ping + 140413 
+wysłano : ('msg witaj', 'rafal') + 140413 
+otrzymano : ping + 140413 
+wysłano : ('msg hejka', 'jakub') + 140413 
+otrzymano : ping + 140413 
+wysłano : ('msg hejka', 'jakub') + 140413 
+otrzymano : ping + 140413 
+wysłano : ('msg hejka', 'jakub') + 140413 
+otrzymano : ping + 140413 
+wysłano : ('msg hejka', 'jakub') + 140413 
+otrzymano : ping + 140413 
+wysłano : ('msg hejka', 'jakub') + 140413 
+otrzymano : ping + 140413 
+wysłano : ('msg witaj', 'rafal') + 140413 
+otrzymano : ping + 140413 
+wysłano : ('msg hejka', 'jakub') + 140413 
+otrzymano : ping + 140413 
+wysłano : ('msg hejka', 'jakub') + 140413 
+otrzymano : ping + 140414 
+wysłano : ('msg hejka', 'jakub') + 140414 
+otrzymano : ping + 140414 
+wysłano : ('msg hejka', 'jakub') + 140414 
+otrzymano : ping + 140414 
+wysłano : ('msg hejka', 'jakub') + 140414 
+otrzymano : ping + 140414 
+wysłano : ('msg witaj', 'rafal') + 140414 
+otrzymano : ping + 140414 
+wysłano : ('msg hejka', 'jakub') + 140414 
+otrzymano : ping + 140414 
+wysłano : ('msg hejka', 'jakub') + 140414 
+otrzymano : ping + 140414 
+wysłano : ('msg hejka', 'jakub') + 140414 
+otrzymano : ping + 140414 
+wysłano : ('msg hejka', 'jakub') + 140414 
+otrzymano : ping + 140414 
+wysłano : ('msg hejka', 'jakub') + 140414 
+otrzymano : ping + 140414 
+wysłano : ('msg witaj', 'rafal') + 140414 
+otrzymano : ping + 140414 
+wysłano : ('msg hejka', 'jakub') + 140414 
+otrzymano : ping + 140414 
+wysłano : ('msg hejka', 'jakub') + 140414 
+otrzymano : ping + 140415 
+wysłano : ('msg hejka', 'jakub') + 140415 
+otrzymano : ping + 140415 
+wysłano : ('msg hejka', 'jakub') + 140415 
+otrzymano : ping + 140415 
+wysłano : ('msg hejka', 'jakub') + 140415 
+otrzymano : ping + 140415 
+wysłano : ('msg witaj', 'rafal') + 140415 
+otrzymano : ping + 140415 
+wysłano : ('msg hejka', 'jakub') + 140415 
+otrzymano : ping + 140415 
+wysłano : ('msg hejka', 'jakub') + 140415 
+otrzymano : ping + 140415 
+wysłano : ('msg hejka', 'jakub') + 140415 
+otrzymano : ping + 140415 
+wysłano : ('msg hejka', 'jakub') + 140415 
+otrzymano : ping + 140415 
+wysłano : ('msg hejka', 'jakub') + 140415 
+otrzymano : ping + 140415 
+wysłano : ('msg witaj', 'rafal') + 140415 
+otrzymano : ping + 140415 
+wysłano : ('msg hejka', 'jakub') + 140415 
+otrzymano : ping + 140415 
+wysłano : ('msg hejka', 'jakub') + 140415 
+otrzymano : ping + 140416 
+wysłano : ('msg hejka', 'jakub') + 140416 
+otrzymano : ping + 140416 
+wysłano : ('msg hejka', 'jakub') + 140416 
+otrzymano : ping + 140416 
+wysłano : ('msg hejka', 'jakub') + 140416 
+otrzymano : ping + 140416 
+wysłano : ('msg witaj', 'rafal') + 140416 
+otrzymano : ping + 140416 
+wysłano : ('msg hejka', 'jakub') + 140416 
+otrzymano : ping + 140416 
+wysłano : ('msg hejka', 'jakub') + 140416 
+otrzymano : ping + 140416 
+wysłano : ('msg hejka', 'jakub') + 140416 
+otrzymano : ping + 140416 
+wysłano : ('msg hejka', 'jakub') + 140416 
+otrzymano : ping + 140416 
+wysłano : ('msg hejka', 'jakub') + 140416 
+otrzymano : ping + 140416 
+wysłano : ('msg witaj', 'rafal') + 140416 
+otrzymano : ping + 140416 
+wysłano : ('msg hejka', 'jakub') + 140416 
+otrzymano : ping + 140416 
+wysłano : ('msg hejka', 'jakub') + 140416 
+otrzymano : ping + 140417 
+wysłano : ('msg hejka', 'jakub') + 140417 
+otrzymano : ping + 140417 
+wysłano : ('msg hejka', 'jakub') + 140417 
+otrzymano : ping + 140417 
+wysłano : ('msg hejka', 'jakub') + 140417 
+otrzymano : ping + 140417 
+wysłano : ('msg witaj', 'rafal') + 140417 
+otrzymano : ping + 140417 
+wysłano : ('msg hejka', 'jakub') + 140417 
+otrzymano : ping + 140417 
+wysłano : ('msg hejka', 'jakub') + 140417 
+otrzymano : ping + 140417 
+wysłano : ('msg hejka', 'jakub') + 140417 
+otrzymano : ping + 140417 
+wysłano : ('msg hejka', 'jakub') + 140417 
+otrzymano : ping + 140417 
+wysłano : ('msg hejka', 'jakub') + 140417 
+otrzymano : ping + 140417 
+wysłano : ('msg witaj', 'rafal') + 140417 
+otrzymano : ping + 140417 
+wysłano : ('msg hejka', 'jakub') + 140417 
+otrzymano : ping + 140417 
+wysłano : ('msg hejka', 'jakub') + 140417 
+otrzymano : ping + 140418 
+wysłano : ('msg hejka', 'jakub') + 140418 
+otrzymano : ping + 140418 
+wysłano : ('msg hejka', 'jakub') + 140418 
+otrzymano : ping + 140418 
+wysłano : ('msg hejka', 'jakub') + 140418 
+otrzymano : ping + 140418 
+wysłano : ('msg witaj', 'rafal') + 140418 
+otrzymano : ping + 140418 
+wysłano : ('msg hejka', 'jakub') + 140418 
+otrzymano : ping + 140418 
+wysłano : ('msg hejka', 'jakub') + 140418 
+otrzymano : ping + 140418 
+wysłano : ('msg hejka', 'jakub') + 140418 
+otrzymano : ping + 140418 
+wysłano : ('msg hejka', 'jakub') + 140418 
+otrzymano : ping + 140418 
+wysłano : ('msg hejka', 'jakub') + 140418 
+otrzymano : ping + 140418 
+wysłano : ('msg witaj', 'rafal') + 140418 
+otrzymano : ping + 140418 
+wysłano : ('msg hejka', 'jakub') + 140418 
+otrzymano : ping + 140418 
+wysłano : ('msg hejka', 'jakub') + 140418 
+otrzymano : ping + 140419 
+wysłano : ('msg hejka', 'jakub') + 140419 
+otrzymano : ping + 140419 
+wysłano : ('msg hejka', 'jakub') + 140419 
+otrzymano : ping + 140419 
+wysłano : ('msg hejka', 'jakub') + 140419 
+otrzymano : ping + 140419 
+wysłano : ('msg witaj', 'rafal') + 140419 
+otrzymano : ping + 140419 
+wysłano : ('msg hejka', 'jakub') + 140419 
+otrzymano : ping + 140419 
+wysłano : ('msg hejka', 'jakub') + 140419 
+otrzymano : ping + 140419 
+wysłano : ('msg hejka', 'jakub') + 140419 
+otrzymano : ping + 140419 
+wysłano : ('msg hejka', 'jakub') + 140419 
+otrzymano : ping + 140419 
+wysłano : ('msg hejka', 'jakub') + 140419 
+otrzymano : ping + 140419 
+wysłano : ('msg witaj', 'rafal') + 140419 
+otrzymano : ping + 140419 
+wysłano : ('msg hejka', 'jakub') + 140419 
+otrzymano : ping + 140419 
+wysłano : ('msg hejka', 'jakub') + 140419 
+otrzymano : ping + 140420 
+wysłano : ('msg hejka', 'jakub') + 140420 
+otrzymano : ping + 140420 
+wysłano : ('msg hejka', 'jakub') + 140420 
+otrzymano : ping + 140420 
+wysłano : ('msg hejka', 'jakub') + 140420 
+otrzymano : ping + 140420 
+wysłano : ('msg witaj', 'rafal') + 140420 
+otrzymano : ping + 140420 
+wysłano : ('msg hejka', 'jakub') + 140420 
+otrzymano : ping + 140420 
+wysłano : ('msg hejka', 'jakub') + 140420 
+otrzymano : ping + 140420 
+wysłano : ('msg hejka', 'jakub') + 140420 
+otrzymano : ping + 140420 
+wysłano : ('msg hejka', 'jakub') + 140420 
+otrzymano : ping + 140420 
+wysłano : ('msg hejka', 'jakub') + 140420 
+otrzymano : ping + 140420 
+wysłano : ('msg witaj', 'rafal') + 140420 
+otrzymano : ping + 140420 
+wysłano : ('msg hejka', 'jakub') + 140420 
+otrzymano : ping + 140420 
+wysłano : ('msg hejka', 'jakub') + 140420 
+otrzymano : ping + 140421 
+wysłano : ('msg hejka', 'jakub') + 140421 
+otrzymano : ping + 140421 
+wysłano : ('msg hejka', 'jakub') + 140421 
+otrzymano : ping + 140421 
+wysłano : ('msg hejka', 'jakub') + 140421 
+otrzymano : ping + 140421 
+wysłano : ('msg witaj', 'rafal') + 140421 
+otrzymano : ping + 140421 
+wysłano : ('msg hejka', 'jakub') + 140421 
+otrzymano : ping + 140421 
+wysłano : ('msg hejka', 'jakub') + 140421 
+otrzymano : ping + 140421 
+wysłano : ('msg hejka', 'jakub') + 140421 
+otrzymano : ping + 140421 
+wysłano : ('msg hejka', 'jakub') + 140421 
+otrzymano : ping + 140421 
+wysłano : ('msg hejka', 'jakub') + 140421 
+otrzymano : ping + 140421 
+wysłano : ('msg witaj', 'rafal') + 140421 
+otrzymano : ping + 140421 
+wysłano : ('msg hejka', 'jakub') + 140421 
+otrzymano : ping + 140421 
+wysłano : ('msg hejka', 'jakub') + 140421 
+otrzymano : ping + 140422 
+wysłano : ('msg hejka', 'jakub') + 140422 
+otrzymano : ping + 140422 
+wysłano : ('msg hejka', 'jakub') + 140422 
+otrzymano : ping + 140422 
+wysłano : ('msg hejka', 'jakub') + 140422 
+otrzymano : ping + 140422 
+wysłano : ('msg witaj', 'rafal') + 140422 
+otrzymano : ping + 140422 
+wysłano : ('msg hejka', 'jakub') + 140422 
+otrzymano : ping + 140422 
+wysłano : ('msg hejka', 'jakub') + 140422 
+otrzymano : ping + 140422 
+wysłano : ('msg hejka', 'jakub') + 140422 
+otrzymano : ping + 140422 
+wysłano : ('msg hejka', 'jakub') + 140422 
+otrzymano : ping + 140422 
+wysłano : ('msg hejka', 'jakub') + 140422 
+otrzymano : ping + 140422 
+wysłano : ('msg witaj', 'rafal') + 140422 
+otrzymano : ping + 140422 
+wysłano : ('msg hejka', 'jakub') + 140422 
+otrzymano : ping + 140422 
+wysłano : ('msg hejka', 'jakub') + 140422 
+otrzymano : ping + 140423 
+wysłano : ('msg hejka', 'jakub') + 140423 
+otrzymano : ping + 140423 
+wysłano : ('msg hejka', 'jakub') + 140423 
+otrzymano : ping + 140423 
+wysłano : ('msg hejka', 'jakub') + 140423 
+otrzymano : ping + 140423 
+wysłano : ('msg witaj', 'rafal') + 140423 
+otrzymano : ping + 140423 
+wysłano : ('msg hejka', 'jakub') + 140423 
+otrzymano : ping + 140423 
+wysłano : ('msg hejka', 'jakub') + 140423 
+otrzymano : ping + 140423 
+wysłano : ('msg hejka', 'jakub') + 140423 
+otrzymano : ping + 140423 
+wysłano : ('msg hejka', 'jakub') + 140423 
+otrzymano : ping + 140423 
+wysłano : ('msg hejka', 'jakub') + 140423 
+otrzymano : ping + 140423 
+wysłano : ('msg witaj', 'rafal') + 140423 
+otrzymano : ping + 140423 
+wysłano : ('msg hejka', 'jakub') + 140423 
+otrzymano : ping + 140424 
+wysłano : ('msg hejka', 'jakub') + 140424 
+otrzymano : ping + 140424 
+wysłano : ('msg hejka', 'jakub') + 140424 
+otrzymano : ping + 140424 
+wysłano : ('msg hejka', 'jakub') + 140424 
+otrzymano : ping + 140424 
+wysłano : ('msg hejka', 'jakub') + 140424 
+otrzymano : ping + 140424 
+wysłano : ('msg witaj', 'rafal') + 140424 
+otrzymano : ping + 140424 
+wysłano : ('msg hejka', 'jakub') + 140424 
+otrzymano : ping + 140424 
+wysłano : ('msg hejka', 'jakub') + 140424 
+otrzymano : ping + 140424 
+wysłano : ('msg hejka', 'jakub') + 140424 
+otrzymano : ping + 140424 
+wysłano : ('msg hejka', 'jakub') + 140424 
+otrzymano : ping + 140424 
+wysłano : ('msg hejka', 'jakub') + 140424 
+otrzymano : ping + 140424 
+wysłano : ('msg witaj', 'rafal') + 140424 
+otrzymano : ping + 140424 
+wysłano : ('msg hejka', 'jakub') + 140424 
+otrzymano : ping + 140425 
+wysłano : ('msg hejka', 'jakub') + 140425 
+otrzymano : ping + 140425 
+wysłano : ('msg hejka', 'jakub') + 140425 
+otrzymano : ping + 140425 
+wysłano : ('msg hejka', 'jakub') + 140425 
+otrzymano : ping + 140425 
+wysłano : ('msg hejka', 'jakub') + 140425 
+otrzymano : ping + 140425 
+wysłano : ('msg witaj', 'rafal') + 140425 
+otrzymano : ping + 140425 
+wysłano : ('msg hejka', 'jakub') + 140425 
+otrzymano : ping + 140425 
+wysłano : ('msg hejka', 'jakub') + 140425 
+otrzymano : ping + 140425 
+wysłano : ('msg hejka', 'jakub') + 140425 
+otrzymano : ping + 140425 
+wysłano : ('msg hejka', 'jakub') + 140425 
+otrzymano : ping + 140425 
+wysłano : ('msg hejka', 'jakub') + 140425 
+otrzymano : ping + 140425 
+wysłano : ('msg witaj', 'rafal') + 140425 
+otrzymano : ping + 140425 
+wysłano : ('msg hejka', 'jakub') + 140425 
+otrzymano : ping + 140426 
+wysłano : ('msg hejka', 'jakub') + 140426 
+otrzymano : ping + 140426 
+wysłano : ('msg hejka', 'jakub') + 140426 
+otrzymano : ping + 140426 
+wysłano : ('msg hejka', 'jakub') + 140426 
+otrzymano : ping + 140426 
+wysłano : ('msg hejka', 'jakub') + 140426 
+otrzymano : ping + 140426 
+wysłano : ('msg witaj', 'rafal') + 140426 
+otrzymano : ping + 140426 
+wysłano : ('msg hejka', 'jakub') + 140426 
+otrzymano : ping + 140426 
+wysłano : ('msg hejka', 'jakub') + 140426 
+otrzymano : ping + 140426 
+wysłano : ('msg hejka', 'jakub') + 140426 
+otrzymano : ping + 140426 
+wysłano : ('msg hejka', 'jakub') + 140426 
+otrzymano : ping + 140426 
+wysłano : ('msg hejka', 'jakub') + 140426 
+otrzymano : ping + 140426 
+wysłano : ('msg witaj', 'rafal') + 140426 
+otrzymano : ping + 140426 
+wysłano : ('msg hejka', 'jakub') + 140426 
+otrzymano : ping + 140427 
+wysłano : ('msg hejka', 'jakub') + 140427 
+otrzymano : ping + 140427 
+wysłano : ('msg hejka', 'jakub') + 140427 
+otrzymano : ping + 140427 
+wysłano : ('msg hejka', 'jakub') + 140427 
+otrzymano : ping + 140427 
+wysłano : ('msg hejka', 'jakub') + 140427 
+otrzymano : ping + 140427 
+wysłano : ('msg witaj', 'rafal') + 140427 
+otrzymano : ping + 140427 
+wysłano : ('msg hejka', 'jakub') + 140427 
+otrzymano : ping + 140427 
+wysłano : ('msg hejka', 'jakub') + 140427 
+otrzymano : ping + 140427 
+wysłano : ('msg hejka', 'jakub') + 140427 
+otrzymano : ping + 140427 
+wysłano : ('msg hejka', 'jakub') + 140427 
+otrzymano : ping + 140427 
+wysłano : ('msg hejka', 'jakub') + 140427 
+otrzymano : ping + 140427 
+wysłano : ('msg witaj', 'rafal') + 140427 
+otrzymano : ping + 140427 
+wysłano : ('msg hejka', 'jakub') + 140427 
+otrzymano : ping + 140428 
+wysłano : ('msg hejka', 'jakub') + 140428 
+otrzymano : ping + 140428 
+wysłano : ('msg hejka', 'jakub') + 140428 
+otrzymano : ping + 140428 
+wysłano : ('msg hejka', 'jakub') + 140428 
+otrzymano : ping + 140428 
+wysłano : ('msg hejka', 'jakub') + 140428 
+otrzymano : ping + 140428 
+wysłano : ('msg witaj', 'rafal') + 140428 
+otrzymano : ping + 140428 
+wysłano : ('msg hejka', 'jakub') + 140428 
+otrzymano : ping + 140428 
+wysłano : ('msg hejka', 'jakub') + 140428 
+otrzymano : ping + 140428 
+wysłano : ('msg hejka', 'jakub') + 140428 
+otrzymano : ping + 140428 
+wysłano : ('msg hejka', 'jakub') + 140428 
+otrzymano : ping + 140428 
+wysłano : ('msg hejka', 'jakub') + 140428 
+otrzymano : ping + 140428 
+wysłano : ('msg witaj', 'rafal') + 140428 
+otrzymano : ping + 140428 
+wysłano : ('msg hejka', 'jakub') + 140428 
+otrzymano : ping + 140429 
+wysłano : ('msg hejka', 'jakub') + 140429 
+otrzymano : ping + 140429 
+wysłano : ('msg hejka', 'jakub') + 140429 
+otrzymano : ping + 140429 
+wysłano : ('msg hejka', 'jakub') + 140429 
+otrzymano : ping + 140429 
+wysłano : ('msg hejka', 'jakub') + 140429 
+otrzymano : ping + 140429 
+wysłano : ('msg witaj', 'rafal') + 140429 
+otrzymano : ping + 140429 
+wysłano : ('msg hejka', 'jakub') + 140429 
+otrzymano : ping + 140429 
+wysłano : ('msg hejka', 'jakub') + 140429 
+otrzymano : ping + 140429 
+wysłano : ('msg hejka', 'jakub') + 140429 
+otrzymano : ping + 140429 
+wysłano : ('msg hejka', 'jakub') + 140429 
+otrzymano : ping + 140429 
+wysłano : ('msg hejka', 'jakub') + 140429 
+otrzymano : ping + 140429 
+wysłano : ('msg witaj', 'rafal') + 140429 
+otrzymano : ping + 140429 
+wysłano : ('msg hejka', 'jakub') + 140429 
+otrzymano : ping + 140430 
+wysłano : ('msg hejka', 'jakub') + 140430 
+otrzymano : ping + 140430 
+wysłano : ('msg hejka', 'jakub') + 140430 
+otrzymano : ping + 140430 
+wysłano : ('msg hejka', 'jakub') + 140430 
+otrzymano : ping + 140430 
+wysłano : ('msg hejka', 'jakub') + 140430 
+otrzymano : ping + 140430 
+wysłano : ('msg witaj', 'rafal') + 140430 
+otrzymano : ping + 140430 
+wysłano : ('msg hejka', 'jakub') + 140430 
+otrzymano : ping + 140430 
+wysłano : ('msg hejka', 'jakub') + 140430 
+otrzymano : ping + 140430 
+wysłano : ('msg hejka', 'jakub') + 140430 
+otrzymano : ping + 140430 
+wysłano : ('msg hejka', 'jakub') + 140430 
+otrzymano : ping + 140430 
+wysłano : ('msg hejka', 'jakub') + 140430 
+otrzymano : ping + 140430 
+wysłano : ('msg witaj', 'rafal') + 140430 
+otrzymano : ping + 140430 
+wysłano : ('msg hejka', 'jakub') + 140430 
+otrzymano : ping + 140431 
+wysłano : ('msg hejka', 'jakub') + 140431 
+otrzymano : ping + 140431 
+wysłano : ('msg hejka', 'jakub') + 140431 
+otrzymano : ping + 140431 
+wysłano : ('msg hejka', 'jakub') + 140431 
+otrzymano : ping + 140431 
+wysłano : ('msg hejka', 'jakub') + 140431 
+otrzymano : ping + 140431 
+wysłano : ('msg witaj', 'rafal') + 140431 
+otrzymano : ping + 140431 
+wysłano : ('msg hejka', 'jakub') + 140431 
+otrzymano : ping + 140431 
+wysłano : ('msg hejka', 'jakub') + 140431 
+otrzymano : ping + 140431 
+wysłano : ('msg hejka', 'jakub') + 140431 
+otrzymano : ping + 140431 
+wysłano : ('msg hejka', 'jakub') + 140431 
+otrzymano : ping + 140431 
+wysłano : ('msg hejka', 'jakub') + 140431 
+otrzymano : ping + 140431 
+wysłano : ('msg witaj', 'rafal') + 140431 
+otrzymano : ping + 140431 
+wysłano : ('msg hejka', 'jakub') + 140431 
+otrzymano : ping + 140432 
+wysłano : ('msg hejka', 'jakub') + 140432 
+otrzymano : ping + 140432 
+wysłano : ('msg hejka', 'jakub') + 140432 
+otrzymano : ping + 140432 
+wysłano : ('msg hejka', 'jakub') + 140432 
+otrzymano : ping + 140432 
+wysłano : ('msg hejka', 'jakub') + 140432 
+otrzymano : ping + 140432 
+wysłano : ('msg witaj', 'rafal') + 140432 
+otrzymano : ping + 140432 
+wysłano : ('msg hejka', 'jakub') + 140432 
+otrzymano : ping + 140432 
+wysłano : ('msg hejka', 'jakub') + 140432 
+otrzymano : ping + 140432 
+wysłano : ('msg hejka', 'jakub') + 140432 
+otrzymano : ping + 140432 
+wysłano : ('msg hejka', 'jakub') + 140432 
+otrzymano : ping + 140432 
+wysłano : ('msg hejka', 'jakub') + 140432 
+otrzymano : ping + 140432 
+wysłano : ('msg witaj', 'rafal') + 140432 
+otrzymano : ping + 140432 
+wysłano : ('msg hejka', 'jakub') + 140432 
+otrzymano : ping + 140433 
+wysłano : ('msg hejka', 'jakub') + 140433 
+otrzymano : ping + 140433 
+wysłano : ('msg hejka', 'jakub') + 140433 
+otrzymano : ping + 140433 
+wysłano : ('msg hejka', 'jakub') + 140433 
+otrzymano : ping + 140433 
+wysłano : ('msg hejka', 'jakub') + 140433 
+otrzymano : ping + 140433 
+wysłano : ('msg witaj', 'rafal') + 140433 
+otrzymano : ping + 140433 
+wysłano : ('msg hejka', 'jakub') + 140433 
+otrzymano : ping + 140433 
+wysłano : ('msg hejka', 'jakub') + 140433 
+otrzymano : ping + 140433 
+wysłano : ('msg hejka', 'jakub') + 140433 
+otrzymano : ping + 140433 
+wysłano : ('msg hejka', 'jakub') + 140433 
+otrzymano : ping + 140433 
+wysłano : ('msg hejka', 'jakub') + 140433 
+otrzymano : ping + 140433 
+wysłano : ('msg witaj', 'rafal') + 140433 
+otrzymano : ping + 140433 
+wysłano : ('msg hejka', 'jakub') + 140433 
+otrzymano : ping + 140434 
+wysłano : ('msg hejka', 'jakub') + 140434 
+otrzymano : ping + 140434 
+wysłano : ('msg hejka', 'jakub') + 140434 
+otrzymano : ping + 140434 
+wysłano : ('msg hejka', 'jakub') + 140434 
+otrzymano : ping + 140434 
+wysłano : ('msg hejka', 'jakub') + 140434 
+otrzymano : ping + 140434 
+wysłano : ('msg witaj', 'rafal') + 140434 
+otrzymano : ping + 140434 
+wysłano : ('msg hejka', 'jakub') + 140434 
+otrzymano : ping + 140434 
+wysłano : ('msg hejka', 'jakub') + 140434 
+otrzymano : ping + 140434 
+wysłano : ('msg hejka', 'jakub') + 140434 
+otrzymano : ping + 140434 
+wysłano : ('msg hejka', 'jakub') + 140434 
+otrzymano : ping + 140434 
+wysłano : ('msg hejka', 'jakub') + 140434 
+otrzymano : ping + 140434 
+wysłano : ('msg witaj', 'rafal') + 140434 
+otrzymano : ping + 140434 
+wysłano : ('msg hejka', 'jakub') + 140434 
+otrzymano : ping + 140435 
+wysłano : ('msg hejka', 'jakub') + 140435 
+otrzymano : ping + 140435 
+wysłano : ('msg hejka', 'jakub') + 140435 
+otrzymano : ping + 140435 
+wysłano : ('msg hejka', 'jakub') + 140435 
+otrzymano : ping + 140435 
+wysłano : ('msg hejka', 'jakub') + 140435 
+otrzymano : ping + 140435 
+wysłano : ('msg witaj', 'rafal') + 140435 
+otrzymano : ping + 140435 
+wysłano : ('msg hejka', 'jakub') + 140435 
+otrzymano : ping + 140435 
+wysłano : ('msg hejka', 'jakub') + 140435 
+otrzymano : ping + 140435 
+wysłano : ('msg hejka', 'jakub') + 140435 
+otrzymano : ping + 140435 
+wysłano : ('msg hejka', 'jakub') + 140435 
+otrzymano : ping + 140435 
+wysłano : ('msg hejka', 'jakub') + 140435 
+otrzymano : ping + 140435 
+wysłano : ('msg witaj', 'rafal') + 140435 
+otrzymano : ping + 140436 
+wysłano : ('msg hejka', 'jakub') + 140436 
+otrzymano : ping + 140436 
+wysłano : ('msg hejka', 'jakub') + 140436 
+otrzymano : ping + 140436 
+wysłano : ('msg hejka', 'jakub') + 140436 
+otrzymano : ping + 140436 
+wysłano : ('msg hejka', 'jakub') + 140436 
+otrzymano : ping + 140436 
+wysłano : ('1', '0') + 140436 
+otrzymano : ping + 140436 
+wysłano : ('1', '0') + 140436 
+otrzymano : ping + 140436 
+wysłano : ('1', '0') + 140436 
+otrzymano : ping + 140436 
+wysłano : ('1', '0') + 140436 
+otrzymano : ping + 140436 
+wysłano : ('1', '0') + 140436 
+otrzymano : ping + 140436 
+wysłano : ('1', '0') + 140436 
+otrzymano : ping + 140436 
+wysłano : ('1', '0') + 140436 
+otrzymano : ping + 140436 
+wysłano : ('1', '0') + 140436 
+otrzymano : ping + 140437 
+wysłano : ('1', '0') + 140437 
+otrzymano : ping + 140437 
+wysłano : ('1', '0') + 140437 
+otrzymano : ping + 140437 
+wysłano : ('1', '0') + 140437 
+otrzymano : ping + 140437 
+wysłano : ('1', '0') + 140437 
+otrzymano : ping + 140437 
+wysłano : ('1', '0') + 140437 
+otrzymano : ping + 140437 
+wysłano : ('1', '0') + 140437 
+otrzymano : ping + 140437 
+wysłano : ('1', '0') + 140437 
+otrzymano : ping + 140437 
+wysłano : ('1', '0') + 140437 
+otrzymano : ping + 140437 
+wysłano : ('1', '0') + 140437 
+otrzymano : ping + 140437 
+wysłano : ('1', '0') + 140437 
+otrzymano : ping + 140437 
+wysłano : ('1', '0') + 140437 
+otrzymano : ping + 140437 
+wysłano : ('1', '0') + 140437 
+otrzymano : ping + 140438 
+wysłano : ('1', '0') + 140438 
+otrzymano : ping + 140438 
+wysłano : ('1', '0') + 140438 
+otrzymano : ping + 140438 
+wysłano : ('1', '0') + 140438 
+otrzymano : ping + 140438 
+wysłano : ('1', '0') + 140438 
+otrzymano : ping + 140438 
+wysłano : ('1', '0') + 140438 
+otrzymano : ping + 140438 
+wysłano : ('1', '0') + 140438 
+otrzymano : ping + 140438 
+wysłano : ('1', '0') + 140438 
+otrzymano : ping + 140438 
+wysłano : ('1', '0') + 140438 
+otrzymano : ping + 140438 
+wysłano : ('1', '0') + 140438 
+otrzymano : ping + 140438 
+wysłano : ('1', '0') + 140438 
+otrzymano : ping + 140438 
+wysłano : ('1', '0') + 140438 
+otrzymano : ping + 140438 
+wysłano : ('1', '0') + 140438 
+otrzymano : ping + 140439 
+wysłano : ('1', '0') + 140439 
+otrzymano : ping + 140439 
+wysłano : ('1', '0') + 140439 
+otrzymano : ping + 140439 
+wysłano : ('1', '0') + 140439 
+otrzymano : ping + 140439 
+wysłano : ('1', '0') + 140439 
+otrzymano : ping + 140439 
+wysłano : ('1', '0') + 140439 
+otrzymano : ping + 140439 
+wysłano : ('1', '0') + 140439 
+otrzymano : ping + 140439 
+wysłano : ('1', '0') + 140439 
+otrzymano : ping + 140439 
+wysłano : ('1', '0') + 140439 
+otrzymano : ping + 140439 
+wysłano : ('1', '0') + 140439 
+otrzymano : ping + 140439 
+wysłano : ('1', '0') + 140439 
+otrzymano : ping + 140439 
+wysłano : ('1', '0') + 140439 
+otrzymano : ping + 140439 
+wysłano : ('1', '0') + 140439 
+otrzymano : ping + 140440 
+wysłano : ('1', '0') + 140440 
+otrzymano : ping + 140440 
+wysłano : ('1', '0') + 140440 
+otrzymano : ping + 140440 
+wysłano : ('1', '0') + 140440 
+otrzymano : ping + 140440 
+wysłano : ('1', '0') + 140440 
+otrzymano : ping + 140440 
+wysłano : ('1', '0') + 140440 
+otrzymano : ping + 140440 
+wysłano : ('1', '0') + 140440 
+otrzymano : ping + 140440 
+wysłano : ('1', '0') + 140440 
+otrzymano : ping + 140440 
+wysłano : ('1', '0') + 140440 
+otrzymano : ping + 140440 
+wysłano : ('1', '0') + 140440 
+otrzymano : ping + 140440 
+wysłano : ('1', '0') + 140440 
+otrzymano : ping + 140440 
+wysłano : ('1', '0') + 140440 
+otrzymano : ping + 140440 
+wysłano : ('1', '0') + 140440 
+otrzymano : ping + 140441 
+wysłano : ('1', '0') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('1', '0') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('1', '0') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('1', '0') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('1', '0') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('1', '0') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('msg hejka', 'jakub') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('1', '0') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('msg hejka', 'jakub') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('1', '0') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('msg hejka', 'jakub') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('1', '0') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('msg hejka', 'jakub') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('1', '0') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('msg hejka', 'jakub') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('1', '0') + 140441 
+otrzymano : ping + 140441 
+wysłano : ('1', '0') + 140441 
+otrzymano : ping + 140442 
+wysłano : ('msg hejka', 'jakub') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('1', '0') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('msg hejka', 'jakub') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('1', '0') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('msg hejka', 'jakub') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('1', '0') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('msg hejka', 'jakub') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('1', '0') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('msg hejka', 'jakub') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('1', '0') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('1', '0') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('msg hejka', 'jakub') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('1', '0') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('msg hejka', 'jakub') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('1', '0') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('msg hejka', 'jakub') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('1', '0') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('msg hejka', 'jakub') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('1', '0') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('msg hejka', 'jakub') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('1', '0') + 140442 
+otrzymano : ping + 140442 
+wysłano : ('1', '0') + 140442 
+otrzymano : ping + 140443 
+wysłano : ('msg hejka', 'jakub') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('1', '0') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('msg hejka', 'jakub') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('1', '0') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('msg hejka', 'jakub') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('1', '0') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('msg hejka', 'jakub') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('1', '0') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('1', '0') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('msg hejka', 'jakub') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('1', '0') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('1', '0') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('msg hejka', 'jakub') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('1', '0') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('msg hejka', 'jakub') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('1', '0') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('msg hejka', 'jakub') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('1', '0') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('msg hejka', 'jakub') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('1', '0') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('1', '0') + 140443 
+otrzymano : ping + 140443 
+wysłano : ('msg hejka', 'jakub') + 140443 
+otrzymano : ping + 140444 
+wysłano : ('1', '0') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('msg hejka', 'jakub') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('1', '0') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('msg hejka', 'jakub') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('1', '0') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('msg hejka', 'jakub') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('1', '0') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('msg hejka', 'jakub') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('1', '0') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('1', '0') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('msg hejka', 'jakub') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('1', '0') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('msg hejka', 'jakub') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('1', '0') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('msg hejka', 'jakub') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('1', '0') + 140444 
+otrzymano : ('msg heja', 'jeje') + 140444 
+wysłano : ('msg hejka', 'jakub') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('msg hejka', 'jakub') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('msg heja', 'jeje') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('msg hejka', 'jakub') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('msg heja', 'jeje') + 140444 
+otrzymano : ping + 140444 
+wysłano : ('msg heja', 'jeje') + 140444 
+otrzymano : ping + 140445 
+wysłano : ('msg hejka', 'jakub') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg heja', 'jeje') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg hejka', 'jakub') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg heja', 'jeje') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg hejka', 'jakub') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg heja', 'jeje') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg hejka', 'jakub') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg heja', 'jeje') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg hejka', 'jakub') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg heja', 'jeje') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg heja', 'jeje') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg hejka', 'jakub') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg heja', 'jeje') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg hejka', 'jakub') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg heja', 'jeje') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg hejka', 'jakub') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg heja', 'jeje') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg hejka', 'jakub') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg heja', 'jeje') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg hejka', 'jakub') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg heja', 'jeje') + 140445 
+otrzymano : ping + 140445 
+wysłano : ('msg heja', 'jeje') + 140445 
+otrzymano : ping + 140446 
+wysłano : ('msg hejka', 'jakub') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg heja', 'jeje') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg hejka', 'jakub') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg heja', 'jeje') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg hejka', 'jakub') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg heja', 'jeje') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg hejka', 'jakub') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg heja', 'jeje') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg hejka', 'jakub') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg heja', 'jeje') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg heja', 'jeje') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg hejka', 'jakub') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg heja', 'jeje') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg hejka', 'jakub') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg heja', 'jeje') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg hejka', 'jakub') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg heja', 'jeje') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg hejka', 'jakub') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg heja', 'jeje') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg hejka', 'jakub') + 140446 
+otrzymano : ping + 140446 
+wysłano : ('msg heja', 'jeje') + 140446 
+otrzymano : ping + 140447 
+wysłano : ('msg heja', 'jeje') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg hejka', 'jakub') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg heja', 'jeje') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg hejka', 'jakub') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg heja', 'jeje') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg hejka', 'jakub') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg heja', 'jeje') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg heja', 'jeje') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg hejka', 'jakub') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg heja', 'jeje') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg heja', 'jeje') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg hejka', 'jakub') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg heja', 'jeje') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg hejka', 'jakub') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg heja', 'jeje') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg hejka', 'jakub') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg heja', 'jeje') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg hejka', 'jakub') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg heja', 'jeje') + 140447 
+otrzymano : ping + 140447 
+wysłano : ('msg hejka', 'jakub') + 140447 
+otrzymano : ping + 140448 
+wysłano : ('msg heja', 'jeje') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg heja', 'jeje') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg hejka', 'jakub') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg heja', 'jeje') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg hejka', 'jakub') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg heja', 'jeje') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg hejka', 'jakub') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg heja', 'jeje') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg hejka', 'jakub') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg heja', 'jeje') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg hejka', 'jakub') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg heja', 'jeje') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg heja', 'jeje') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg hejka', 'jakub') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg heja', 'jeje') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg hejka', 'jakub') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg heja', 'jeje') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg hejka', 'jakub') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg heja', 'jeje') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg hejka', 'jakub') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg heja', 'jeje') + 140448 
+otrzymano : ping + 140448 
+wysłano : ('msg hejka', 'jakub') + 140448 
+otrzymano : ping + 140449 
+wysłano : ('msg heja', 'jeje') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg heja', 'jeje') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg hejka', 'jakub') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg heja', 'jeje') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg hejka', 'jakub') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg heja', 'jeje') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg hejka', 'jakub') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg heja', 'jeje') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg hejka', 'jakub') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg heja', 'jeje') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg hejka', 'jakub') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg heja', 'jeje') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg heja', 'jeje') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg hejka', 'jakub') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg heja', 'jeje') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg hejka', 'jakub') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg heja', 'jeje') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg hejka', 'jakub') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg heja', 'jeje') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg hejka', 'jakub') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg heja', 'jeje') + 140449 
+otrzymano : ping + 140449 
+wysłano : ('msg hejka', 'jakub') + 140449 
+otrzymano : ping + 140450 
+wysłano : ('msg heja', 'jeje') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg heja', 'jeje') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg hejka', 'jakub') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg heja', 'jeje') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg hejka', 'jakub') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg heja', 'jeje') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg hejka', 'jakub') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg heja', 'jeje') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg hejka', 'jakub') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg heja', 'jeje') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg hejka', 'jakub') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg heja', 'jeje') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg heja', 'jeje') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg hejka', 'jakub') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg heja', 'jeje') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg hejka', 'jakub') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg heja', 'jeje') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg hejka', 'jakub') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg heja', 'jeje') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg hejka', 'jakub') + 140450 
+otrzymano : ping + 140450 
+wysłano : ('msg heja', 'jeje') + 140450 
+otrzymano : ping + 140451 
+wysłano : ('msg hejka', 'jakub') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg heja', 'jeje') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg heja', 'jeje') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg hejka', 'jakub') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg heja', 'jeje') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg hejka', 'jakub') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg heja', 'jeje') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg hejka', 'jakub') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg heja', 'jeje') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg hejka', 'jakub') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg heja', 'jeje') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg heja', 'jeje') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg hejka', 'jakub') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg hejka', 'jakub') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg heja', 'jeje') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg hejka', 'jakub') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg heja', 'jeje') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg heja', 'jeje') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg hejka', 'jakub') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg heja', 'jeje') + 140451 
+otrzymano : ping + 140451 
+wysłano : ('msg hejka', 'jakub') + 140451 
+otrzymano : ping + 140452 
+wysłano : ('msg heja', 'jeje') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg heja', 'jeje') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg hejka', 'jakub') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg heja', 'jeje') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg hejka', 'jakub') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg heja', 'jeje') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg hejka', 'jakub') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg heja', 'jeje') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg hejka', 'jakub') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg heja', 'jeje') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg hejka', 'jakub') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg heja', 'jeje') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg heja', 'jeje') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg hejka', 'jakub') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg heja', 'jeje') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg hejka', 'jakub') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg heja', 'jeje') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg hejka', 'jakub') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg heja', 'jeje') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg hejka', 'jakub') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg heja', 'jeje') + 140452 
+otrzymano : ping + 140452 
+wysłano : ('msg hejka', 'jakub') + 140452 
+otrzymano : ping + 140453 
+wysłano : ('msg heja', 'jeje') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg heja', 'jeje') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg hejka', 'jakub') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg heja', 'jeje') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg hejka', 'jakub') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg heja', 'jeje') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg hejka', 'jakub') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg heja', 'jeje') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg hejka', 'jakub') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg heja', 'jeje') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg hejka', 'jakub') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg heja', 'jeje') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg heja', 'jeje') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg hejka', 'jakub') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg heja', 'jeje') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg hejka', 'jakub') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg heja', 'jeje') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg hejka', 'jakub') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg heja', 'jeje') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg hejka', 'jakub') + 140453 
+otrzymano : ping + 140453 
+wysłano : ('msg heja', 'jeje') + 140453 
+otrzymano : ping + 140454 
+wysłano : ('msg hejka', 'jakub') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg heja', 'jeje') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg heja', 'jeje') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg hejka', 'jakub') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg heja', 'jeje') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg hejka', 'jakub') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg heja', 'jeje') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg hejka', 'jakub') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg heja', 'jeje') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg hejka', 'jakub') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg heja', 'jeje') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg hejka', 'jakub') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg heja', 'jeje') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg heja', 'jeje') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg hejka', 'jakub') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg heja', 'jeje') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg hejka', 'jakub') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg heja', 'jeje') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg hejka', 'jakub') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg heja', 'jeje') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg hejka', 'jakub') + 140454 
+otrzymano : ping + 140454 
+wysłano : ('msg heja', 'jeje') + 140454 
+otrzymano : ping + 140455 
+wysłano : ('msg hejka', 'jakub') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg heja', 'jeje') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg heja', 'jeje') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg hejka', 'jakub') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg heja', 'jeje') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg hejka', 'jakub') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg heja', 'jeje') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg hejka', 'jakub') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg heja', 'jeje') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg hejka', 'jakub') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg heja', 'jeje') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg heja', 'jeje') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg hejka', 'jakub') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg heja', 'jeje') + 140455 
+otrzymano : ('msg dhdhdf', 'jeje') + 140455 
+wysłano : ('msg hejka', 'jakub') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg hejka', 'jakub') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg dhdhdf', 'jeje') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg dhdhdf', 'jeje') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg hejka', 'jakub') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg hejka', 'jakub') + 140455 
+otrzymano : ping + 140455 
+wysłano : ('msg dhdhdf', 'jeje') + 140455 
+otrzymano : ping + 140456 
+wysłano : ('msg hejka', 'jakub') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg dhdhdf', 'jeje') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg dhdhdf', 'jeje') + 140456 
+otrzymano : ping + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg hejka', 'jakub') + 140456 
+wysłano : ('msg dhdhdf', 'jeje') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg dhdhdf', 'jeje') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg hejka', 'jakub') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg dhdhdf', 'jeje') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg hejka', 'jakub') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg dhdhdf', 'jeje') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg hejka', 'jakub') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg dhdhdf', 'jeje') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg hejka', 'jakub') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg dhdhdf', 'jeje') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg dhdhdf', 'jeje') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg hejka', 'jakub') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg dhdhdf', 'jeje') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg hejka', 'jakub') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg dhdhdf', 'jeje') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg hejka', 'jakub') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg dhdhdf', 'jeje') + 140456 
+otrzymano : ping + 140456 
+wysłano : ('msg hejka', 'jakub') + 140456 
+otrzymano : ping + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg hejka', 'jakub') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg hejka', 'jakub') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg hejka', 'jakub') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg hejka', 'jakub') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg hejka', 'jakub') + 140457 
+otrzymano : ('msg hfdshdsfh', 'rafal') + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg hejka', 'jakub') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg hejka', 'jakub') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg hejka', 'jakub') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg hejka', 'jakub') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg dhdhdf', 'jeje') + 140457 
+otrzymano : ping + 140457 
+wysłano : ('msg hejka', 'jakub') + 140457 
+otrzymano : ping + 140458 
+wysłano : ('msg dhdhdf', 'jeje') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg hejka', 'jakub') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg dhdhdf', 'jeje') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg dhdhdf', 'jeje') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg hejka', 'jakub') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg dhdhdf', 'jeje') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg hejka', 'jakub') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg dhdhdf', 'jeje') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg hejka', 'jakub') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg dhdhdf', 'jeje') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg hejka', 'jakub') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg dhdhdf', 'jeje') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg dhdhdf', 'jeje') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg hejka', 'jakub') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg dhdhdf', 'jeje') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg hejka', 'jakub') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg dhdhdf', 'jeje') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg hejka', 'jakub') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg dhdhdf', 'jeje') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg hejka', 'jakub') + 140458 
+otrzymano : ping + 140458 
+wysłano : ('msg dhdhdf', 'jeje') + 140458 
+otrzymano : ping + 140459 
+wysłano : ('msg hejka', 'jakub') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg hejka', 'jakub') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg hejka', 'jakub') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg hejka', 'jakub') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg hejka', 'jakub') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg hejka', 'jakub') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg hejka', 'jakub') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg hejka', 'jakub') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg hejka', 'jakub') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ('msg dhfdhf', 'rafal') + 140459 
+wysłano : ('msg dhdhdf', 'jeje') + 140459 
+otrzymano : ping + 140459 
+wysłano : ('msg hejka', 'jakub') + 140459 
+otrzymano : ping + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg hejka', 'jakub') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg hejka', 'jakub') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg hejka', 'jakub') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg hejka', 'jakub') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg hejka', 'jakub') + 140500 
+otrzymano : ('msg hdf', 'rafal') + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg hejka', 'jakub') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg hejka', 'jakub') + 140500 
+otrzymano : ('msg hdf', 'rafal') + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg hejka', 'jakub') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg hejka', 'jakub') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ('msg hfdhdf', 'rafal') + 140500 
+wysłano : ('msg dhdhdf', 'jeje') + 140500 
+otrzymano : ping + 140500 
+wysłano : ('msg hejka', 'jakub') + 140500 
+otrzymano : ping + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg hejka', 'jakub') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg hejka', 'jakub') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg hejka', 'jakub') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ('msg dfh', 'rafal') + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg hejka', 'jakub') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg hejka', 'jakub') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg hejka', 'jakub') + 140501 
+otrzymano : ('msg dfh', 'rafal') + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg hejka', 'jakub') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg hejka', 'jakub') + 140501 
+otrzymano : ('msg dfh', 'rafal') + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg hejka', 'jakub') + 140501 
+otrzymano : ping + 140501 
+wysłano : ('msg dhdhdf', 'jeje') + 140501 
+otrzymano : ping + 140502 
+wysłano : ('msg hejka', 'jakub') + 140502 
+otrzymano : ('msg dfh', 'rafal') + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg hejka', 'jakub') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg hejka', 'jakub') + 140502 
+otrzymano : ('msg dfh', 'rafal') + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg hejka', 'jakub') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg hejka', 'jakub') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ('msg dhf', 'rafal') + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg hejka', 'jakub') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg hejka', 'jakub') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ('msg fdh', 'rafal') + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg hejka', 'jakub') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg hejka', 'jakub') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg hejka', 'jakub') + 140502 
+otrzymano : ping + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ('msg fd', 'rafal') + 140502 
+wysłano : ('msg dhdhdf', 'jeje') + 140502 
+otrzymano : ping + 140503 
+wysłano : ('msg hejka', 'jakub') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg hejka', 'jakub') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ('msg gdf', 'rafal') + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg hejka', 'jakub') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg hejka', 'jakub') + 140503 
+otrzymano : ('msg gd', 'rafal') + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg hejka', 'jakub') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg hejka', 'jakub') + 140503 
+otrzymano : ('msg fg', 'rafal') + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg hejka', 'jakub') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg hejka', 'jakub') + 140503 
+otrzymano : ('msg dfg', 'rafal') + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg hejka', 'jakub') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg dhdhdf', 'jeje') + 140503 
+otrzymano : ping + 140503 
+wysłano : ('msg hejka', 'jakub') + 140503 
+otrzymano : ('msg dfg', 'rafal') + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg hejka', 'jakub') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg hejka', 'jakub') + 140504 
+otrzymano : ('msg dfg', 'rafal') + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg hejka', 'jakub') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg hejka', 'jakub') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ('msg dfg', 'rafal') + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg hejka', 'jakub') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg hejka', 'jakub') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg hejka', 'jakub') + 140504 
+otrzymano : ('msg dfg', 'rafal') + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg hejka', 'jakub') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg hejka', 'jakub') + 140504 
+otrzymano : ping + 140504 
+wysłano : ('msg dhdhdf', 'jeje') + 140504 
+otrzymano : ('msg dfg', 'rafal') + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg hejka', 'jakub') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg hejka', 'jakub') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg hejka', 'jakub') + 140505 
+otrzymano : ('msg d', 'rafal') + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg hejka', 'jakub') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg hejka', 'jakub') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ('msg fgdf', 'rafal') + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg hejka', 'jakub') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg hejka', 'jakub') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg hejka', 'jakub') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ('msg gdf', 'rafal') + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg hejka', 'jakub') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg dhdhdf', 'jeje') + 140505 
+otrzymano : ping + 140505 
+wysłano : ('msg hejka', 'jakub') + 140505 
+otrzymano : ping + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg hejka', 'jakub') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ('msg gf', 'rafal') + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg hejka', 'jakub') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg hejka', 'jakub') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg hejka', 'jakub') + 140506 
+otrzymano : ('msg dg', 'rafal') + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg hejka', 'jakub') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg hejka', 'jakub') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg hejka', 'jakub') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ('msg f', 'rafal') + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg hejka', 'jakub') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg hejka', 'jakub') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ('msg gf', 'rafal') + 140506 
+wysłano : ('msg dhdhdf', 'jeje') + 140506 
+otrzymano : ping + 140506 
+wysłano : ('msg hejka', 'jakub') + 140506 
+otrzymano : ping + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg hejka', 'jakub') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ('msg gd', 'rafal') + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg hejka', 'jakub') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg hejka', 'jakub') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ('msg fgd', 'rafal') + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg hejka', 'jakub') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg hejka', 'jakub') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ('msg fgdf', 'rafal') + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg hejka', 'jakub') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg hejka', 'jakub') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg hejka', 'jakub') + 140507 
+otrzymano : ('msg gdf', 'rafal') + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg dhdhdf', 'jeje') + 140507 
+otrzymano : ping + 140507 
+wysłano : ('msg hejka', 'jakub') + 140507 
+otrzymano : ping + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg hejka', 'jakub') + 140508 
+otrzymano : ('msg hd', 'rafal') + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg hejka', 'jakub') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ('msg fh', 'rafal') + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg hejka', 'jakub') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg hejka', 'jakub') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg hejka', 'jakub') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg hejka', 'jakub') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg hejka', 'jakub') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg hejka', 'jakub') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg hejka', 'jakub') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg dhdhdf', 'jeje') + 140508 
+otrzymano : ping + 140508 
+wysłano : ('msg hejka', 'jakub') + 140508 
+otrzymano : ping + 140509 
+wysłano : ('msg dhdhdf', 'jeje') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg hejka', 'jakub') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg dhdhdf', 'jeje') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg dhdhdf', 'jeje') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg hejka', 'jakub') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg dhdhdf', 'jeje') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg hejka', 'jakub') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg dhdhdf', 'jeje') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg hejka', 'jakub') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg dhdhdf', 'jeje') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg hejka', 'jakub') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg dhdhdf', 'jeje') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg hejka', 'jakub') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg dhdhdf', 'jeje') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg dhdhdf', 'jeje') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg hejka', 'jakub') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg dhdhdf', 'jeje') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg hejka', 'jakub') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg dhdhdf', 'jeje') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg hejka', 'jakub') + 140509 
+otrzymano : ping + 140509 
+wysłano : ('msg dhdhdf', 'jeje') + 140509 
+otrzymano : ping + 140510 
+wysłano : ('msg hejka', 'jakub') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg dhdhdf', 'jeje') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg hejka', 'jakub') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg dhdhdf', 'jeje') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg dhdhdf', 'jeje') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg hejka', 'jakub') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg dhdhdf', 'jeje') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg hejka', 'jakub') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg dhdhdf', 'jeje') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg hejka', 'jakub') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg dhdhdf', 'jeje') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg hejka', 'jakub') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg dhdhdf', 'jeje') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg hejka', 'jakub') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg dhdhdf', 'jeje') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg dhdhdf', 'jeje') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg hejka', 'jakub') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg dhdhdf', 'jeje') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg hejka', 'jakub') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg dhdhdf', 'jeje') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg hejka', 'jakub') + 140510 
+otrzymano : ping + 140510 
+wysłano : ('msg dhdhdf', 'jeje') + 140510 
+otrzymano : ping + 140511 
+wysłano : ('msg hejka', 'jakub') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg dhdhdf', 'jeje') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg hejka', 'jakub') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg dhdhdf', 'jeje') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg dhdhdf', 'jeje') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg hejka', 'jakub') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg dhdhdf', 'jeje') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg hejka', 'jakub') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg dhdhdf', 'jeje') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg hejka', 'jakub') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg dhdhdf', 'jeje') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg hejka', 'jakub') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg dhdhdf', 'jeje') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg dhdhdf', 'jeje') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg hejka', 'jakub') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg dhdhdf', 'jeje') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg dhdhdf', 'jeje') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg hejka', 'jakub') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg dhdhdf', 'jeje') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg hejka', 'jakub') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg dhdhdf', 'jeje') + 140511 
+otrzymano : ping + 140511 
+wysłano : ('msg hejka', 'jakub') + 140511 
+otrzymano : ping + 140512 
+wysłano : ('msg dhdhdf', 'jeje') + 140512 
+otrzymano : ping + 140512 
+wysłano : ('msg hejka', 'jakub') + 140512 
+otrzymano : ping + 140512 
+wysłano : ('msg dhdhdf', 'jeje') + 140512 
+otrzymano : ping + 140512 
+wysłano : ('msg hejka', 'jakub') + 140512 
+otrzymano : ping + 140512 
+wysłano : ('msg dhdhdf', 'jeje') + 140512 
+otrzymano : ping + 140512 
+wysłano : ('msg dhdhdf', 'jeje') + 140512 
+otrzymano : ping + 140512 
+wysłano : ('msg hejka', 'jakub') + 140512 
+otrzymano : ping + 140512 
+wysłano : ('msg dhdhdf', 'jeje') + 140512 
+otrzymano : ping + 140512 
+wysłano : ('msg hejka', 'jakub') + 140512 
+otrzymano : ping + 140512 
+wysłano : ('msg dhdhdf', 'jeje') + 140512 
+otrzymano : ping + 140512 

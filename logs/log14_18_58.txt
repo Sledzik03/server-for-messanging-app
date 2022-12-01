@@ -1,0 +1,431 @@
+otrzymano : ping + 141906 
+wysłano :  + 141906 
+otrzymano : ping + 141906 
+wysłano :  + 141906 
+otrzymano : ping + 141911 
+wysłano : ('1', '0') + 141911 
+otrzymano : ping + 141911 
+wysłano : ('1', '0') + 141911 
+otrzymano : ping + 141912 
+wysłano : ('1', '0') + 141912 
+otrzymano : ('msg_witam', 'rafal') + 141912 
+wysłano : ('1', '0') + 141912 
+otrzymano : ping + 141912 
+wysłano : ('1', '0') + 141912 
+otrzymano : ping + 141912 
+wysłano : ('1', '0') + 141912 
+otrzymano : ping + 141912 
+wysłano : ('1', '0') + 141912 
+otrzymano : ping + 141912 
+wysłano : ('msg_witam', 'rafal') + 141912 
+otrzymano : ping + 141913 
+wysłano : ('1', '0') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('1', '0') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('1', '0') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('1', '0') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('1', '0') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('msg_witam', 'rafal') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('1', '0') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('1', '0') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('1', '0') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('1', '0') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('1', '0') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('msg_witam', 'rafal') + 141913 
+otrzymano : ping + 141914 
+wysłano : ('1', '0') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('1', '0') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('1', '0') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('1', '0') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('1', '0') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('msg_witam', 'rafal') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('1', '0') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('1', '0') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('1', '0') + 141914 
+otrzymano : ('msg_siemka', 'jakub') + 141914 
+wysłano : ('msg_witam', 'rafal') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('msg_siemka', 'jakub') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('msg_siemka', 'jakub') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('msg_witam', 'rafal') + 141914 
+otrzymano : ping + 141915 
+wysłano : ('msg_siemka', 'jakub') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_siemka', 'jakub') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_siemka', 'jakub') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_siemka', 'jakub') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_siemka', 'jakub') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_witam', 'rafal') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_siemka', 'jakub') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_siemka', 'jakub') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_siemka', 'jakub') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_siemka', 'jakub') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_siemka', 'jakub') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_witam', 'rafal') + 141915 
+otrzymano : ping + 141916 
+wysłano : ('msg_siemka', 'jakub') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_siemka', 'jakub') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_siemka', 'jakub') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_siemka', 'jakub') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_witam', 'rafal') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_siemka', 'jakub') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_siemka', 'jakub') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_siemka', 'jakub') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_siemka', 'jakub') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_siemka', 'jakub') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_witam', 'rafal') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_siemka', 'jakub') + 141916 
+otrzymano : ping + 141917 
+wysłano : ('msg_siemka', 'jakub') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_siemka', 'jakub') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_siemka', 'jakub') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_siemka', 'jakub') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_witam', 'rafal') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_siemka', 'jakub') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_siemka', 'jakub') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_siemka', 'jakub') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_siemka', 'jakub') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_siemka', 'jakub') + 141917 
+otrzymano : ('msg_g', 'rafal') + 141917 
+wysłano : ('msg_siemka', 'jakub') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_g', 'rafal') + 141917 
+otrzymano : ping + 141918 
+wysłano : ('msg_siemka', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_siemka', 'jakub') + 141918 
+otrzymano : ('msg_§fg', 'rafal') + 141918 
+wysłano : ('msg_siemka', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_siemka', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_siemka', 'jakub') + 141918 
+otrzymano : ('msg_h§f§g', 'rafal') + 141918 
+wysłano : ('msg_siemka', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_siemka', 'jakub') + 141918 
+otrzymano : ('msg_czekaj§co', 'jakub') + 141918 
+wysłano : ('msg_h§f§g', 'rafal') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_h§f§g', 'rafal') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_czekaj§co', 'jakub') + 141918 
+otrzymano : ('msg_§hfg', 'rafal') + 141918 
+wysłano : ('msg_czekaj§co', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_czekaj§co', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_czekaj§co', 'jakub') + 141918 
+otrzymano : ('msg_haf§d', 'rafal') + 141918 
+wysłano : ('msg_czekaj§co', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_czekaj§co', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_czekaj§co', 'jakub') + 141918 
+otrzymano : ('msg_§hd', 'rafal') + 141918 
+wysłano : ('msg_czekaj§co', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_§hd', 'rafal') + 141918 
+otrzymano : ping + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ('msg_§fgzd§daf', 'rafal') + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_§fgzd§daf', 'rafal') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ('msg_g§g', 'rafal') + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ('msg_§as', 'rafal') + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_czekaj§co', 'jakub') + 141919 
+otrzymano : ping + 141920 
+wysłano : ('msg_§as', 'rafal') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ('msg_gs', 'rafal') + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ('msg_gsd§', 'rafal') + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_gsd§', 'rafal') + 141920 
+otrzymano : ('msg_fgsd', 'rafal') + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ('msg_f§ggsdf', 'rafal') + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ('msg_§sfdg', 'rafal') + 141920 
+wysłano : ('msg_czekaj§co', 'jakub') + 141920 
+otrzymano : ping + 141921 
+wysłano : ('msg_czekaj§co', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_§sfdg', 'rafal') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_czekaj§co', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_czekaj§co', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_czekaj§co', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_czekaj§co', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_czekaj§co', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_§sfdg', 'rafal') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_czekaj§co', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_czekaj§co', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_czekaj§co', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_czekaj§co', 'jakub') + 141921 
+otrzymano : ping + 141922 
+wysłano : ('msg_czekaj§co', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_§sfdg', 'rafal') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_czekaj§co', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_czekaj§co', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_czekaj§co', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_czekaj§co', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_czekaj§co', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_§sfdg', 'rafal') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_czekaj§co', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_czekaj§co', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_czekaj§co', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_czekaj§co', 'jakub') + 141922 
+otrzymano : ping + 141923 
+wysłano : ('msg_czekaj§co', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_§sfdg', 'rafal') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_czekaj§co', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_czekaj§co', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_czekaj§co', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_czekaj§co', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_czekaj§co', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_§sfdg', 'rafal') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_czekaj§co', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_czekaj§co', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_czekaj§co', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_czekaj§co', 'jakub') + 141923 
+otrzymano : ping + 141924 
+wysłano : ('msg_czekaj§co', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_§sfdg', 'rafal') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_czekaj§co', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_czekaj§co', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_czekaj§co', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_czekaj§co', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_czekaj§co', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_§sfdg', 'rafal') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_czekaj§co', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_czekaj§co', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_czekaj§co', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_czekaj§co', 'jakub') + 141924 
+otrzymano : ping + 141925 
+wysłano : ('msg_czekaj§co', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_§sfdg', 'rafal') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_czekaj§co', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_czekaj§co', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_czekaj§co', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_czekaj§co', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_czekaj§co', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_§sfdg', 'rafal') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_czekaj§co', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_czekaj§co', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_czekaj§co', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_czekaj§co', 'jakub') + 141925 
+otrzymano : ping + 141926 
+wysłano : ('msg_czekaj§co', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_§sfdg', 'rafal') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_czekaj§co', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_czekaj§co', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_czekaj§co', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_czekaj§co', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_czekaj§co', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_§sfdg', 'rafal') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_czekaj§co', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_czekaj§co', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_czekaj§co', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_czekaj§co', 'jakub') + 141926 
+otrzymano : ping + 141927 
+wysłano : ('msg_czekaj§co', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_§sfdg', 'rafal') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_czekaj§co', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_czekaj§co', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_czekaj§co', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_czekaj§co', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_czekaj§co', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_§sfdg', 'rafal') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_czekaj§co', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_czekaj§co', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_czekaj§co', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_czekaj§co', 'jakub') + 141927 
+otrzymano : ping + 141928 
+wysłano : ('msg_czekaj§co', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_§sfdg', 'rafal') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_czekaj§co', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_czekaj§co', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_czekaj§co', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_czekaj§co', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_czekaj§co', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_§sfdg', 'rafal') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_czekaj§co', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_czekaj§co', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_czekaj§co', 'jakub') + 141928 
+otrzymano : ping + 141929 

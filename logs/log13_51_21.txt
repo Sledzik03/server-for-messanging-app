@@ -1,0 +1,1854 @@
+otrzymano : ping + 135137 
+wysłano : ('1', '0') + 135137 
+otrzymano : ping + 135137 
+wysłano : ('1', '0') + 135137 
+otrzymano : ping + 135138 
+wysłano : ('1', '0') + 135138 
+otrzymano : ping + 135138 
+wysłano : ('1', '0') + 135138 
+otrzymano : ping + 135139 
+wysłano : ('1', '0') + 135139 
+otrzymano : ping + 135139 
+wysłano : ('1', '0') + 135139 
+otrzymano : ping + 135139 
+wysłano : ('1', '0') + 135139 
+otrzymano : ping + 135139 
+wysłano : ('1', '0') + 135139 
+otrzymano : ping + 135139 
+wysłano : ('1', '0') + 135139 
+otrzymano : ping + 135139 
+wysłano : ('1', '0') + 135139 
+otrzymano : ping + 135139 
+wysłano : ('1', '0') + 135139 
+otrzymano : ping + 135139 
+wysłano : ('1', '0') + 135139 
+otrzymano : ping + 135139 
+wysłano : ('1', '0') + 135139 
+otrzymano : ping + 135139 
+wysłano : ('1', '0') + 135139 
+otrzymano : ping + 135139 
+wysłano : ('1', '0') + 135139 
+otrzymano : ping + 135140 
+wysłano : ('1', '0') + 135140 
+otrzymano : ping + 135140 
+wysłano : ('1', '0') + 135140 
+otrzymano : ping + 135140 
+wysłano : ('1', '0') + 135140 
+otrzymano : ping + 135140 
+wysłano : ('1', '0') + 135140 
+otrzymano : ping + 135140 
+wysłano : ('1', '0') + 135140 
+otrzymano : ping + 135140 
+wysłano : ('1', '0') + 135140 
+otrzymano : ping + 135140 
+wysłano : ('1', '0') + 135140 
+otrzymano : ping + 135140 
+wysłano : ('1', '0') + 135140 
+otrzymano : ('msg 112312', 'jakub') + 135140 
+wysłano : ('1', '0') + 135140 
+otrzymano : ping + 135140 
+wysłano : ('1', '0') + 135140 
+otrzymano : ping + 135140 
+wysłano : ('1', '0') + 135140 
+otrzymano : ping + 135140 
+wysłano : ('1', '0') + 135140 
+otrzymano : ping + 135141 
+wysłano : ('1', '0') + 135141 
+otrzymano : ping + 135141 
+wysłano : ('1', '0') + 135141 
+otrzymano : ping + 135141 
+wysłano : ('1', '0') + 135141 
+otrzymano : ping + 135141 
+wysłano : ('1', '0') + 135141 
+otrzymano : ping + 135141 
+wysłano : ('1', '0') + 135141 
+otrzymano : ping + 135141 
+wysłano : ('1', '0') + 135141 
+otrzymano : ping + 135141 
+wysłano : ('1', '0') + 135141 
+otrzymano : ping + 135141 
+wysłano : ('1', '0') + 135141 
+otrzymano : ping + 135141 
+wysłano : ('1', '0') + 135141 
+otrzymano : ping + 135141 
+wysłano : ('1', '0') + 135141 
+otrzymano : ping + 135141 
+wysłano : ('1', '0') + 135141 
+otrzymano : ping + 135141 
+wysłano : ('1', '0') + 135141 
+otrzymano : ping + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ping + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ping + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ('msg hej', 'rafal') + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ping + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ping + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ping + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ping + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ping + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ping + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ping + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ping + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ping + 135142 
+wysłano : ('1', '0') + 135142 
+otrzymano : ping + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ('msg asda', 'jakub') + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ping + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ping + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ping + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ping + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ping + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ping + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ping + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ping + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ping + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ping + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ping + 135143 
+wysłano : ('1', '0') + 135143 
+otrzymano : ping + 135144 
+wysłano : ('1', '0') + 135144 
+otrzymano : ping + 135144 
+wysłano : ('1', '0') + 135144 
+otrzymano : ping + 135144 
+wysłano : ('1', '0') + 135144 
+otrzymano : ping + 135144 
+wysłano : ('1', '0') + 135144 
+otrzymano : ping + 135144 
+wysłano : ('1', '0') + 135144 
+otrzymano : ping + 135144 
+wysłano : ('1', '0') + 135144 
+otrzymano : ping + 135144 
+wysłano : ('1', '0') + 135144 
+otrzymano : ping + 135144 
+wysłano : ('1', '0') + 135144 
+otrzymano : ping + 135144 
+wysłano : ('1', '0') + 135144 
+otrzymano : ping + 135144 
+wysłano : ('1', '0') + 135144 
+otrzymano : ping + 135144 
+wysłano : ('1', '0') + 135144 
+otrzymano : ping + 135144 
+wysłano : ('1', '0') + 135144 
+otrzymano : ping + 135145 
+wysłano : ('1', '0') + 135145 
+otrzymano : ping + 135145 
+wysłano : ('1', '0') + 135145 
+otrzymano : ping + 135145 
+wysłano : ('1', '0') + 135145 
+otrzymano : ping + 135145 
+wysłano : ('1', '0') + 135145 
+otrzymano : ping + 135145 
+wysłano : ('1', '0') + 135145 
+otrzymano : ping + 135145 
+wysłano : ('1', '0') + 135145 
+otrzymano : ping + 135145 
+wysłano : ('1', '0') + 135145 
+otrzymano : ping + 135145 
+wysłano : ('1', '0') + 135145 
+otrzymano : ping + 135145 
+wysłano : ('1', '0') + 135145 
+otrzymano : ping + 135145 
+wysłano : ('1', '0') + 135145 
+otrzymano : ping + 135145 
+wysłano : ('1', '0') + 135145 
+otrzymano : ping + 135146 
+wysłano : ('1', '0') + 135146 
+otrzymano : ping + 135146 
+wysłano : ('1', '0') + 135146 
+otrzymano : ping + 135146 
+wysłano : ('1', '0') + 135146 
+otrzymano : ping + 135146 
+wysłano : ('1', '0') + 135146 
+otrzymano : ping + 135146 
+wysłano : ('1', '0') + 135146 
+otrzymano : ping + 135146 
+wysłano : ('1', '0') + 135146 
+otrzymano : ping + 135146 
+wysłano : ('1', '0') + 135146 
+otrzymano : ping + 135146 
+wysłano : ('1', '0') + 135146 
+otrzymano : ping + 135146 
+wysłano : ('1', '0') + 135146 
+otrzymano : ping + 135146 
+wysłano : ('1', '0') + 135146 
+otrzymano : ping + 135147 
+wysłano : ('1', '0') + 135147 
+otrzymano : ping + 135147 
+wysłano : ('1', '0') + 135147 
+otrzymano : ping + 135147 
+wysłano : ('1', '0') + 135147 
+otrzymano : ping + 135147 
+wysłano : ('1', '0') + 135147 
+otrzymano : ping + 135147 
+wysłano : ('1', '0') + 135147 
+otrzymano : ping + 135147 
+wysłano : ('1', '0') + 135147 
+otrzymano : ping + 135147 
+wysłano : ('1', '0') + 135147 
+otrzymano : ping + 135147 
+wysłano : ('1', '0') + 135147 
+otrzymano : ping + 135147 
+wysłano : ('1', '0') + 135147 
+otrzymano : ping + 135147 
+wysłano : ('1', '0') + 135147 
+otrzymano : ping + 135148 
+wysłano : ('1', '0') + 135148 
+otrzymano : ping + 135148 
+wysłano : ('1', '0') + 135148 
+otrzymano : ping + 135148 
+wysłano : ('1', '0') + 135148 
+otrzymano : ping + 135148 
+wysłano : ('1', '0') + 135148 
+otrzymano : ping + 135148 
+wysłano : ('1', '0') + 135148 
+otrzymano : ping + 135148 
+wysłano : ('1', '0') + 135148 
+otrzymano : ping + 135148 
+wysłano : ('1', '0') + 135148 
+otrzymano : ping + 135148 
+wysłano : ('1', '0') + 135148 
+otrzymano : ping + 135148 
+wysłano : ('1', '0') + 135148 
+otrzymano : ping + 135148 
+wysłano : ('1', '0') + 135148 
+otrzymano : ping + 135149 
+wysłano : ('1', '0') + 135149 
+otrzymano : ping + 135149 
+wysłano : ('1', '0') + 135149 
+otrzymano : ping + 135149 
+wysłano : ('1', '0') + 135149 
+otrzymano : ping + 135149 
+wysłano : ('1', '0') + 135149 
+otrzymano : ping + 135149 
+wysłano : ('1', '0') + 135149 
+otrzymano : ping + 135149 
+wysłano : ('1', '0') + 135149 
+otrzymano : ping + 135149 
+wysłano : ('1', '0') + 135149 
+otrzymano : ping + 135149 
+wysłano : ('1', '0') + 135149 
+otrzymano : ping + 135149 
+wysłano : ('1', '0') + 135149 
+otrzymano : ping + 135149 
+wysłano : ('1', '0') + 135149 
+otrzymano : ping + 135150 
+wysłano : ('1', '0') + 135150 
+otrzymano : ping + 135150 
+wysłano : ('1', '0') + 135150 
+otrzymano : ping + 135150 
+wysłano : ('1', '0') + 135150 
+otrzymano : ping + 135150 
+wysłano : ('1', '0') + 135150 
+otrzymano : ping + 135150 
+wysłano : ('1', '0') + 135150 
+otrzymano : ping + 135150 
+wysłano : ('1', '0') + 135150 
+otrzymano : ping + 135150 
+wysłano : ('1', '0') + 135150 
+otrzymano : ping + 135150 
+wysłano : ('1', '0') + 135150 
+otrzymano : ping + 135150 
+wysłano : ('1', '0') + 135150 
+otrzymano : ping + 135151 
+wysłano : ('1', '0') + 135151 
+otrzymano : ping + 135151 
+wysłano : ('1', '0') + 135151 
+otrzymano : ping + 135151 
+wysłano : ('1', '0') + 135151 
+otrzymano : ping + 135151 
+wysłano : ('1', '0') + 135151 
+otrzymano : ping + 135151 
+wysłano : ('1', '0') + 135151 
+otrzymano : ping + 135151 
+wysłano : ('1', '0') + 135151 
+otrzymano : ping + 135151 
+wysłano : ('1', '0') + 135151 
+otrzymano : ping + 135151 
+wysłano : ('1', '0') + 135151 
+otrzymano : ping + 135151 
+wysłano : ('1', '0') + 135151 
+otrzymano : ping + 135151 
+wysłano : ('1', '0') + 135151 
+otrzymano : ping + 135152 
+wysłano : ('1', '0') + 135152 
+otrzymano : ping + 135152 
+wysłano : ('1', '0') + 135152 
+otrzymano : ping + 135152 
+wysłano : ('1', '0') + 135152 
+otrzymano : ping + 135152 
+wysłano : ('1', '0') + 135152 
+otrzymano : ping + 135152 
+wysłano : ('1', '0') + 135152 
+otrzymano : ping + 135152 
+wysłano : ('1', '0') + 135152 
+otrzymano : ping + 135152 
+wysłano : ('1', '0') + 135152 
+otrzymano : ping + 135152 
+wysłano : ('1', '0') + 135152 
+otrzymano : ping + 135152 
+wysłano : ('1', '0') + 135152 
+otrzymano : ping + 135152 
+wysłano : ('1', '0') + 135152 
+otrzymano : ping + 135153 
+wysłano : ('1', '0') + 135153 
+otrzymano : ping + 135153 
+wysłano : ('1', '0') + 135153 
+otrzymano : ping + 135153 
+wysłano : ('1', '0') + 135153 
+otrzymano : ping + 135153 
+wysłano : ('1', '0') + 135153 
+otrzymano : ping + 135153 
+wysłano : ('1', '0') + 135153 
+otrzymano : ping + 135153 
+wysłano : ('1', '0') + 135153 
+otrzymano : ping + 135153 
+wysłano : ('1', '0') + 135153 
+otrzymano : ping + 135153 
+wysłano : ('1', '0') + 135153 
+otrzymano : ping + 135153 
+wysłano : ('1', '0') + 135153 
+otrzymano : ping + 135153 
+wysłano : ('1', '0') + 135153 
+otrzymano : ping + 135154 
+wysłano : ('1', '0') + 135154 
+otrzymano : ping + 135154 
+wysłano : ('1', '0') + 135154 
+otrzymano : ping + 135154 
+wysłano : ('1', '0') + 135154 
+otrzymano : ping + 135154 
+wysłano : ('1', '0') + 135154 
+otrzymano : ping + 135154 
+wysłano : ('1', '0') + 135154 
+otrzymano : ping + 135154 
+wysłano : ('1', '0') + 135154 
+otrzymano : ping + 135154 
+wysłano : ('1', '0') + 135154 
+otrzymano : ping + 135154 
+wysłano : ('1', '0') + 135154 
+otrzymano : ping + 135154 
+wysłano : ('1', '0') + 135154 
+otrzymano : ping + 135154 
+wysłano : ('1', '0') + 135154 
+otrzymano : ping + 135155 
+wysłano : ('1', '0') + 135155 
+otrzymano : ping + 135155 
+wysłano : ('1', '0') + 135155 
+otrzymano : ping + 135155 
+wysłano : ('1', '0') + 135155 
+otrzymano : ping + 135155 
+wysłano : ('1', '0') + 135155 
+otrzymano : ping + 135155 
+wysłano : ('1', '0') + 135155 
+otrzymano : ping + 135155 
+wysłano : ('1', '0') + 135155 
+otrzymano : ping + 135155 
+wysłano : ('1', '0') + 135155 
+otrzymano : ping + 135155 
+wysłano : ('1', '0') + 135155 
+otrzymano : ping + 135155 
+wysłano : ('1', '0') + 135155 
+otrzymano : ping + 135155 
+wysłano : ('1', '0') + 135155 
+otrzymano : ping + 135156 
+wysłano : ('1', '0') + 135156 
+otrzymano : ping + 135156 
+wysłano : ('1', '0') + 135156 
+otrzymano : ping + 135156 
+wysłano : ('1', '0') + 135156 
+otrzymano : ping + 135156 
+wysłano : ('1', '0') + 135156 
+otrzymano : ping + 135156 
+wysłano : ('1', '0') + 135156 
+otrzymano : ping + 135156 
+wysłano : ('1', '0') + 135156 
+otrzymano : ping + 135156 
+wysłano : ('1', '0') + 135156 
+otrzymano : ping + 135156 
+wysłano : ('1', '0') + 135156 
+otrzymano : ping + 135156 
+wysłano : ('1', '0') + 135156 
+otrzymano : ping + 135156 
+wysłano : ('1', '0') + 135156 
+otrzymano : ping + 135157 
+wysłano : ('1', '0') + 135157 
+otrzymano : ping + 135157 
+wysłano : ('1', '0') + 135157 
+otrzymano : ping + 135157 
+wysłano : ('1', '0') + 135157 
+otrzymano : ping + 135157 
+wysłano : ('1', '0') + 135157 
+otrzymano : ping + 135157 
+wysłano : ('1', '0') + 135157 
+otrzymano : ping + 135157 
+wysłano : ('1', '0') + 135157 
+otrzymano : ping + 135157 
+wysłano : ('1', '0') + 135157 
+otrzymano : ping + 135157 
+wysłano : ('1', '0') + 135157 
+otrzymano : ping + 135157 
+wysłano : ('1', '0') + 135157 
+otrzymano : ping + 135157 
+wysłano : ('1', '0') + 135157 
+otrzymano : ping + 135158 
+wysłano : ('1', '0') + 135158 
+otrzymano : ping + 135158 
+wysłano : ('1', '0') + 135158 
+otrzymano : ping + 135158 
+wysłano : ('1', '0') + 135158 
+otrzymano : ping + 135158 
+wysłano : ('1', '0') + 135158 
+otrzymano : ping + 135158 
+wysłano : ('1', '0') + 135158 
+otrzymano : ping + 135158 
+wysłano : ('1', '0') + 135158 
+otrzymano : ping + 135158 
+wysłano : ('1', '0') + 135158 
+otrzymano : ping + 135158 
+wysłano : ('1', '0') + 135158 
+otrzymano : ping + 135158 
+wysłano : ('1', '0') + 135158 
+otrzymano : ping + 135158 
+wysłano : ('1', '0') + 135158 
+otrzymano : ping + 135159 
+wysłano : ('1', '0') + 135159 
+otrzymano : ping + 135159 
+wysłano : ('1', '0') + 135159 
+otrzymano : ping + 135159 
+wysłano : ('1', '0') + 135159 
+otrzymano : ping + 135159 
+wysłano : ('1', '0') + 135159 
+otrzymano : ping + 135159 
+wysłano : ('1', '0') + 135159 
+otrzymano : ping + 135159 
+wysłano : ('1', '0') + 135159 
+otrzymano : ping + 135159 
+wysłano : ('1', '0') + 135159 
+otrzymano : ping + 135159 
+wysłano : ('1', '0') + 135159 
+otrzymano : ping + 135159 
+wysłano : ('1', '0') + 135159 
+otrzymano : ping + 135159 
+wysłano : ('1', '0') + 135159 
+otrzymano : ping + 135200 
+wysłano : ('1', '0') + 135200 
+otrzymano : ping + 135200 
+wysłano : ('1', '0') + 135200 
+otrzymano : ping + 135200 
+wysłano : ('1', '0') + 135200 
+otrzymano : ping + 135200 
+wysłano : ('1', '0') + 135200 
+otrzymano : ping + 135200 
+wysłano : ('1', '0') + 135200 
+otrzymano : ping + 135200 
+wysłano : ('1', '0') + 135200 
+otrzymano : ping + 135200 
+wysłano : ('1', '0') + 135200 
+otrzymano : ping + 135200 
+wysłano : ('1', '0') + 135200 
+otrzymano : ping + 135200 
+wysłano : ('1', '0') + 135200 
+otrzymano : ping + 135200 
+wysłano : ('1', '0') + 135200 
+otrzymano : ping + 135201 
+wysłano : ('1', '0') + 135201 
+otrzymano : ping + 135201 
+wysłano : ('1', '0') + 135201 
+otrzymano : ping + 135201 
+wysłano : ('1', '0') + 135201 
+otrzymano : ping + 135201 
+wysłano : ('1', '0') + 135201 
+otrzymano : ping + 135201 
+wysłano : ('1', '0') + 135201 
+otrzymano : ping + 135201 
+wysłano : ('1', '0') + 135201 
+otrzymano : ping + 135201 
+wysłano : ('1', '0') + 135201 
+otrzymano : ping + 135201 
+wysłano : ('1', '0') + 135201 
+otrzymano : ping + 135201 
+wysłano : ('1', '0') + 135201 
+otrzymano : ping + 135202 
+wysłano : ('1', '0') + 135202 
+otrzymano : ping + 135202 
+wysłano : ('1', '0') + 135202 
+otrzymano : ping + 135202 
+wysłano : ('1', '0') + 135202 
+otrzymano : ping + 135202 
+wysłano : ('1', '0') + 135202 
+otrzymano : ping + 135202 
+wysłano : ('1', '0') + 135202 
+otrzymano : ping + 135202 
+wysłano : ('1', '0') + 135202 
+otrzymano : ping + 135202 
+wysłano : ('1', '0') + 135202 
+otrzymano : ping + 135202 
+wysłano : ('1', '0') + 135202 
+otrzymano : ping + 135202 
+wysłano : ('1', '0') + 135202 
+otrzymano : ping + 135202 
+wysłano : ('1', '0') + 135202 
+otrzymano : ping + 135203 
+wysłano : ('1', '0') + 135203 
+otrzymano : ping + 135203 
+wysłano : ('1', '0') + 135203 
+otrzymano : ping + 135203 
+wysłano : ('1', '0') + 135203 
+otrzymano : ping + 135203 
+wysłano : ('1', '0') + 135203 
+otrzymano : ping + 135203 
+wysłano : ('1', '0') + 135203 
+otrzymano : ping + 135203 
+wysłano : ('1', '0') + 135203 
+otrzymano : ping + 135203 
+wysłano : ('1', '0') + 135203 
+otrzymano : ping + 135203 
+wysłano : ('1', '0') + 135203 
+otrzymano : ping + 135203 
+wysłano : ('1', '0') + 135203 
+otrzymano : ping + 135203 
+wysłano : ('1', '0') + 135203 
+otrzymano : ping + 135204 
+wysłano : ('1', '0') + 135204 
+otrzymano : ping + 135204 
+wysłano : ('1', '0') + 135204 
+otrzymano : ping + 135204 
+wysłano : ('1', '0') + 135204 
+otrzymano : ping + 135204 
+wysłano : ('1', '0') + 135204 
+otrzymano : ping + 135204 
+wysłano : ('1', '0') + 135204 
+otrzymano : ping + 135204 
+wysłano : ('1', '0') + 135204 
+otrzymano : ping + 135204 
+wysłano : ('1', '0') + 135204 
+otrzymano : ping + 135204 
+wysłano : ('1', '0') + 135204 
+otrzymano : ping + 135204 
+wysłano : ('1', '0') + 135204 
+otrzymano : ping + 135204 
+wysłano : ('1', '0') + 135204 
+otrzymano : ping + 135205 
+wysłano : ('1', '0') + 135205 
+otrzymano : ping + 135205 
+wysłano : ('1', '0') + 135205 
+otrzymano : ping + 135205 
+wysłano : ('1', '0') + 135205 
+otrzymano : ping + 135205 
+wysłano : ('1', '0') + 135205 
+otrzymano : ping + 135205 
+wysłano : ('1', '0') + 135205 
+otrzymano : ping + 135205 
+wysłano : ('1', '0') + 135205 
+otrzymano : ping + 135205 
+wysłano : ('1', '0') + 135205 
+otrzymano : ping + 135205 
+wysłano : ('1', '0') + 135205 
+otrzymano : ping + 135205 
+wysłano : ('1', '0') + 135205 
+otrzymano : ping + 135205 
+wysłano : ('1', '0') + 135205 
+otrzymano : ping + 135206 
+wysłano : ('1', '0') + 135206 
+otrzymano : ping + 135206 
+wysłano : ('1', '0') + 135206 
+otrzymano : ping + 135206 
+wysłano : ('1', '0') + 135206 
+otrzymano : ping + 135206 
+wysłano : ('1', '0') + 135206 
+otrzymano : ping + 135206 
+wysłano : ('1', '0') + 135206 
+otrzymano : ping + 135206 
+wysłano : ('1', '0') + 135206 
+otrzymano : ping + 135206 
+wysłano : ('1', '0') + 135206 
+otrzymano : ping + 135206 
+wysłano : ('1', '0') + 135206 
+otrzymano : ping + 135206 
+wysłano : ('1', '0') + 135206 
+otrzymano : ping + 135206 
+wysłano : ('1', '0') + 135206 
+otrzymano : ping + 135207 
+wysłano : ('1', '0') + 135207 
+otrzymano : ping + 135207 
+wysłano : ('1', '0') + 135207 
+otrzymano : ping + 135207 
+wysłano : ('1', '0') + 135207 
+otrzymano : ping + 135207 
+wysłano : ('1', '0') + 135207 
+otrzymano : ping + 135207 
+wysłano : ('1', '0') + 135207 
+otrzymano : ping + 135207 
+wysłano : ('1', '0') + 135207 
+otrzymano : ping + 135207 
+wysłano : ('1', '0') + 135207 
+otrzymano : ping + 135207 
+wysłano : ('1', '0') + 135207 
+otrzymano : ping + 135207 
+wysłano : ('1', '0') + 135207 
+otrzymano : ping + 135207 
+wysłano : ('1', '0') + 135207 
+otrzymano : ping + 135208 
+wysłano : ('1', '0') + 135208 
+otrzymano : ping + 135208 
+wysłano : ('1', '0') + 135208 
+otrzymano : ping + 135208 
+wysłano : ('1', '0') + 135208 
+otrzymano : ping + 135208 
+wysłano : ('1', '0') + 135208 
+otrzymano : ping + 135208 
+wysłano : ('1', '0') + 135208 
+otrzymano : ping + 135208 
+wysłano : ('1', '0') + 135208 
+otrzymano : ping + 135208 
+wysłano : ('1', '0') + 135208 
+otrzymano : ping + 135208 
+wysłano : ('1', '0') + 135208 
+otrzymano : ping + 135208 
+wysłano : ('1', '0') + 135208 
+otrzymano : ping + 135208 
+wysłano : ('1', '0') + 135208 
+otrzymano : ping + 135209 
+wysłano : ('1', '0') + 135209 
+otrzymano : ping + 135209 
+wysłano : ('1', '0') + 135209 
+otrzymano : ping + 135209 
+wysłano : ('1', '0') + 135209 
+otrzymano : ping + 135209 
+wysłano : ('1', '0') + 135209 
+otrzymano : ping + 135209 
+wysłano : ('1', '0') + 135209 
+otrzymano : ping + 135209 
+wysłano : ('1', '0') + 135209 
+otrzymano : ping + 135209 
+wysłano : ('1', '0') + 135209 
+otrzymano : ping + 135209 
+wysłano : ('1', '0') + 135209 
+otrzymano : ping + 135209 
+wysłano : ('1', '0') + 135209 
+otrzymano : ping + 135209 
+wysłano : ('1', '0') + 135209 
+otrzymano : ping + 135210 
+wysłano : ('1', '0') + 135210 
+otrzymano : ping + 135210 
+wysłano : ('1', '0') + 135210 
+otrzymano : ping + 135210 
+wysłano : ('1', '0') + 135210 
+otrzymano : ping + 135210 
+wysłano : ('1', '0') + 135210 
+otrzymano : ping + 135210 
+wysłano : ('1', '0') + 135210 
+otrzymano : ping + 135210 
+wysłano : ('1', '0') + 135210 
+otrzymano : ping + 135210 
+wysłano : ('1', '0') + 135210 
+otrzymano : ping + 135210 
+wysłano : ('1', '0') + 135210 
+otrzymano : ping + 135210 
+wysłano : ('1', '0') + 135210 
+otrzymano : ping + 135210 
+wysłano : ('1', '0') + 135210 
+otrzymano : ping + 135211 
+wysłano : ('1', '0') + 135211 
+otrzymano : ping + 135211 
+wysłano : ('1', '0') + 135211 
+otrzymano : ping + 135211 
+wysłano : ('1', '0') + 135211 
+otrzymano : ping + 135211 
+wysłano : ('1', '0') + 135211 
+otrzymano : ping + 135211 
+wysłano : ('1', '0') + 135211 
+otrzymano : ping + 135211 
+wysłano : ('1', '0') + 135211 
+otrzymano : ping + 135211 
+wysłano : ('1', '0') + 135211 
+otrzymano : ping + 135211 
+wysłano : ('1', '0') + 135211 
+otrzymano : ping + 135211 
+wysłano : ('1', '0') + 135211 
+otrzymano : ping + 135211 
+wysłano : ('1', '0') + 135211 
+otrzymano : ping + 135212 
+wysłano : ('1', '0') + 135212 
+otrzymano : ping + 135212 
+wysłano : ('1', '0') + 135212 
+otrzymano : ping + 135212 
+wysłano : ('1', '0') + 135212 
+otrzymano : ping + 135212 
+wysłano : ('1', '0') + 135212 
+otrzymano : ping + 135212 
+wysłano : ('1', '0') + 135212 
+otrzymano : ping + 135212 
+wysłano : ('1', '0') + 135212 
+otrzymano : ping + 135212 
+wysłano : ('1', '0') + 135212 
+otrzymano : ping + 135212 
+wysłano : ('1', '0') + 135212 
+otrzymano : ping + 135212 
+wysłano : ('1', '0') + 135212 
+otrzymano : ping + 135213 
+wysłano : ('1', '0') + 135213 
+otrzymano : ping + 135213 
+wysłano : ('1', '0') + 135213 
+otrzymano : ping + 135213 
+wysłano : ('1', '0') + 135213 
+otrzymano : ping + 135213 
+wysłano : ('1', '0') + 135213 
+otrzymano : ping + 135213 
+wysłano : ('1', '0') + 135213 
+otrzymano : ping + 135213 
+wysłano : ('1', '0') + 135213 
+otrzymano : ping + 135213 
+wysłano : ('1', '0') + 135213 
+otrzymano : ping + 135213 
+wysłano : ('1', '0') + 135213 
+otrzymano : ping + 135213 
+wysłano : ('1', '0') + 135213 
+otrzymano : ping + 135213 
+wysłano : ('1', '0') + 135213 
+otrzymano : ping + 135214 
+wysłano : ('1', '0') + 135214 
+otrzymano : ping + 135214 
+wysłano : ('1', '0') + 135214 
+otrzymano : ping + 135214 
+wysłano : ('1', '0') + 135214 
+otrzymano : ping + 135214 
+wysłano : ('1', '0') + 135214 
+otrzymano : ping + 135214 
+wysłano : ('1', '0') + 135214 
+otrzymano : ping + 135214 
+wysłano : ('1', '0') + 135214 
+otrzymano : ping + 135214 
+wysłano : ('1', '0') + 135214 
+otrzymano : ping + 135214 
+wysłano : ('1', '0') + 135214 
+otrzymano : ping + 135214 
+wysłano : ('1', '0') + 135214 
+otrzymano : ping + 135214 
+wysłano : ('1', '0') + 135214 
+otrzymano : ping + 135215 
+wysłano : ('1', '0') + 135215 
+otrzymano : ping + 135215 
+wysłano : ('1', '0') + 135215 
+otrzymano : ping + 135215 
+wysłano : ('1', '0') + 135215 
+otrzymano : ping + 135215 
+wysłano : ('1', '0') + 135215 
+otrzymano : ping + 135215 
+wysłano : ('1', '0') + 135215 
+otrzymano : ping + 135215 
+wysłano : ('1', '0') + 135215 
+otrzymano : ping + 135215 
+wysłano : ('1', '0') + 135215 
+otrzymano : ping + 135215 
+wysłano : ('1', '0') + 135215 
+otrzymano : ping + 135215 
+wysłano : ('1', '0') + 135215 
+otrzymano : ping + 135215 
+wysłano : ('1', '0') + 135215 
+otrzymano : ping + 135216 
+wysłano : ('1', '0') + 135216 
+otrzymano : ping + 135216 
+wysłano : ('1', '0') + 135216 
+otrzymano : ping + 135216 
+wysłano : ('1', '0') + 135216 
+otrzymano : ping + 135216 
+wysłano : ('1', '0') + 135216 
+otrzymano : ping + 135216 
+wysłano : ('1', '0') + 135216 
+otrzymano : ping + 135216 
+wysłano : ('1', '0') + 135216 
+otrzymano : ping + 135216 
+wysłano : ('1', '0') + 135216 
+otrzymano : ping + 135216 
+wysłano : ('1', '0') + 135216 
+otrzymano : ping + 135216 
+wysłano : ('1', '0') + 135216 
+otrzymano : ping + 135216 
+wysłano : ('1', '0') + 135216 
+otrzymano : ('msg sdg', 'rafal') + 135216 
+wysłano : ('1', '0') + 135216 
+otrzymano : ping + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ping + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ping + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ('msg sgd', 'rafal') + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ping + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ping + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ping + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ('msg dsgdgs', 'rafal') + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ping + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ping + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ('msg dsg', 'rafal') + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ping + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ping + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ('msg sdg', 'rafal') + 135217 
+wysłano : ('1', '0') + 135217 
+otrzymano : ping + 135218 
+wysłano : ('1', '0') + 135218 
+otrzymano : ping + 135218 
+wysłano : ('1', '0') + 135218 
+otrzymano : ping + 135218 
+wysłano : ('1', '0') + 135218 
+otrzymano : ping + 135218 
+wysłano : ('1', '0') + 135218 
+otrzymano : ping + 135218 
+wysłano : ('1', '0') + 135218 
+otrzymano : ping + 135218 
+wysłano : ('1', '0') + 135218 
+otrzymano : ping + 135218 
+wysłano : ('1', '0') + 135218 
+otrzymano : ping + 135218 
+wysłano : ('1', '0') + 135218 
+otrzymano : ping + 135218 
+wysłano : ('1', '0') + 135218 
+otrzymano : ping + 135218 
+wysłano : ('1', '0') + 135218 
+otrzymano : ping + 135219 
+wysłano : ('1', '0') + 135219 
+otrzymano : ping + 135219 
+wysłano : ('1', '0') + 135219 
+otrzymano : ping + 135219 
+wysłano : ('1', '0') + 135219 
+otrzymano : ping + 135219 
+wysłano : ('1', '0') + 135219 
+otrzymano : ping + 135219 
+wysłano : ('1', '0') + 135219 
+otrzymano : ping + 135219 
+wysłano : ('1', '0') + 135219 
+otrzymano : ping + 135219 
+wysłano : ('1', '0') + 135219 
+otrzymano : ping + 135219 
+wysłano : ('1', '0') + 135219 
+otrzymano : ping + 135219 
+wysłano : ('1', '0') + 135219 
+otrzymano : ping + 135219 
+wysłano : ('1', '0') + 135219 
+otrzymano : ping + 135220 
+wysłano : ('1', '0') + 135220 
+otrzymano : ping + 135220 
+wysłano : ('1', '0') + 135220 
+otrzymano : ping + 135220 
+wysłano : ('1', '0') + 135220 
+otrzymano : ping + 135220 
+wysłano : ('1', '0') + 135220 
+otrzymano : ping + 135220 
+wysłano : ('1', '0') + 135220 
+otrzymano : ping + 135220 
+wysłano : ('1', '0') + 135220 
+otrzymano : ping + 135220 
+wysłano : ('1', '0') + 135220 
+otrzymano : ping + 135220 
+wysłano : ('1', '0') + 135220 
+otrzymano : ping + 135220 
+wysłano : ('1', '0') + 135220 
+otrzymano : ping + 135220 
+wysłano : ('1', '0') + 135220 
+otrzymano : ping + 135221 
+wysłano : ('1', '0') + 135221 
+otrzymano : ping + 135221 
+wysłano : ('1', '0') + 135221 
+otrzymano : ping + 135221 
+wysłano : ('1', '0') + 135221 
+otrzymano : ping + 135221 
+wysłano : ('1', '0') + 135221 
+otrzymano : ping + 135221 
+wysłano : ('1', '0') + 135221 
+otrzymano : ping + 135221 
+wysłano : ('1', '0') + 135221 
+otrzymano : ping + 135221 
+wysłano : ('1', '0') + 135221 
+otrzymano : ping + 135221 
+wysłano : ('1', '0') + 135221 
+otrzymano : ping + 135221 
+wysłano : ('1', '0') + 135221 
+otrzymano : ping + 135221 
+wysłano : ('1', '0') + 135221 
+otrzymano : ping + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ping + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ('msg dghfg', 'rafal') + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ping + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ping + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ('msg gfh', 'rafal') + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ping + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ('msg fgh', 'rafal') + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ping + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ping + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ('msg ghf', 'rafal') + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ping + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ping + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ping + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ('msg ghf', 'rafal') + 135222 
+wysłano : ('1', '0') + 135222 
+otrzymano : ping + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ping + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ('msg hg', 'rafal') + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ping + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ping + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ('msg fgh', 'rafal') + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ping + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ping + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ('msg fh', 'rafal') + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ping + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ping + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ping + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ('msg hfg', 'rafal') + 135223 
+wysłano : ('1', '0') + 135223 
+otrzymano : ping + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ping + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ('msg hfg', 'rafal') + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ping + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ping + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ('msg ghf', 'rafal') + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ping + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ping + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ping + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ('msg fghgfh', 'rafal') + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ping + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ping + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ('msg fgh', 'rafal') + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ping + 135224 
+wysłano : ('1', '0') + 135224 
+otrzymano : ping + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ('msg hg', 'rafal') + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ping + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ping + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ping + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ('msg fh', 'rafal') + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ping + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ping + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ('msg dfh', 'rafal') + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ping + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ping + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ping + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ('msg sf', 'rafal') + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ping + 135225 
+wysłano : ('1', '0') + 135225 
+otrzymano : ping + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ping + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ('msg hdfh', 'rafal') + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ping + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ping + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ping + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ('msg df', 'rafal') + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ping + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ping + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ping + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ('msg hafhd', 'rafal') + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ping + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ping + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ('msg df', 'rafal') + 135226 
+wysłano : ('1', '0') + 135226 
+otrzymano : ping + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ping + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ping + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ('msg hdf', 'rafal') + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ping + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ping + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ping + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ('msg hdf', 'rafal') + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ping + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ping + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ('msg hdf', 'rafal') + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ping + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ping + 135227 
+wysłano : ('1', '0') + 135227 
+otrzymano : ('msg hd', 'rafal') + 135228 
+wysłano : ('1', '0') + 135228 
+otrzymano : ping + 135228 
+wysłano : ('1', '0') + 135228 
+otrzymano : ping + 135228 
+wysłano : ('1', '0') + 135228 
+otrzymano : ping + 135228 
+wysłano : ('1', '0') + 135228 
+otrzymano : ping + 135228 
+wysłano : ('1', '0') + 135228 
+otrzymano : ping + 135228 
+wysłano : ('1', '0') + 135228 
+otrzymano : ping + 135228 
+wysłano : ('1', '0') + 135228 
+otrzymano : ping + 135228 
+wysłano : ('1', '0') + 135228 
+otrzymano : ping + 135228 
+wysłano : ('1', '0') + 135228 
+otrzymano : ping + 135228 
+wysłano : ('1', '0') + 135228 
+otrzymano : ping + 135228 
+wysłano : ('1', '0') + 135228 
+otrzymano : ping + 135229 
+wysłano : ('1', '0') + 135229 
+otrzymano : ping + 135229 
+wysłano : ('1', '0') + 135229 
+otrzymano : ping + 135229 
+wysłano : ('1', '0') + 135229 
+otrzymano : ping + 135229 
+wysłano : ('1', '0') + 135229 
+otrzymano : ping + 135229 
+wysłano : ('1', '0') + 135229 
+otrzymano : ping + 135229 
+wysłano : ('1', '0') + 135229 
+otrzymano : ping + 135229 
+wysłano : ('1', '0') + 135229 
+otrzymano : ping + 135229 
+wysłano : ('1', '0') + 135229 
+otrzymano : ping + 135229 
+wysłano : ('1', '0') + 135229 
+otrzymano : ping + 135229 
+wysłano : ('1', '0') + 135229 
+otrzymano : ping + 135230 
+wysłano : ('1', '0') + 135230 
+otrzymano : ping + 135230 
+wysłano : ('1', '0') + 135230 
+otrzymano : ping + 135230 
+wysłano : ('1', '0') + 135230 
+otrzymano : ping + 135230 
+wysłano : ('1', '0') + 135230 
+otrzymano : ping + 135230 
+wysłano : ('1', '0') + 135230 
+otrzymano : ping + 135230 
+wysłano : ('1', '0') + 135230 
+otrzymano : ping + 135230 
+wysłano : ('1', '0') + 135230 
+otrzymano : ping + 135230 
+wysłano : ('1', '0') + 135230 
+otrzymano : ping + 135230 
+wysłano : ('1', '0') + 135230 
+otrzymano : ping + 135230 
+wysłano : ('1', '0') + 135230 
+otrzymano : ping + 135231 
+wysłano : ('1', '0') + 135231 
+otrzymano : ping + 135231 
+wysłano : ('1', '0') + 135231 
+otrzymano : ping + 135231 
+wysłano : ('1', '0') + 135231 
+otrzymano : ping + 135231 
+wysłano : ('1', '0') + 135231 
+otrzymano : ping + 135231 
+wysłano : ('1', '0') + 135231 
+otrzymano : ping + 135231 
+wysłano : ('1', '0') + 135231 
+otrzymano : ping + 135231 
+wysłano : ('1', '0') + 135231 
+otrzymano : ping + 135231 
+wysłano : ('1', '0') + 135231 
+otrzymano : ping + 135231 
+wysłano : ('1', '0') + 135231 
+otrzymano : ping + 135231 
+wysłano : ('1', '0') + 135231 
+otrzymano : ping + 135232 
+wysłano : ('1', '0') + 135232 
+otrzymano : ping + 135232 
+wysłano : ('1', '0') + 135232 
+otrzymano : ping + 135232 
+wysłano : ('1', '0') + 135232 
+otrzymano : ping + 135232 
+wysłano : ('1', '0') + 135232 
+otrzymano : ping + 135232 
+wysłano : ('1', '0') + 135232 
+otrzymano : ping + 135232 
+wysłano : ('1', '0') + 135232 
+otrzymano : ping + 135232 
+wysłano : ('1', '0') + 135232 
+otrzymano : ping + 135232 
+wysłano : ('1', '0') + 135232 
+otrzymano : ping + 135232 
+wysłano : ('1', '0') + 135232 
+otrzymano : ping + 135232 
+wysłano : ('1', '0') + 135232 
+otrzymano : ping + 135233 
+wysłano : ('1', '0') + 135233 
+otrzymano : ping + 135233 
+wysłano : ('1', '0') + 135233 
+otrzymano : ping + 135233 
+wysłano : ('1', '0') + 135233 
+otrzymano : ping + 135233 
+wysłano : ('1', '0') + 135233 
+otrzymano : ping + 135233 
+wysłano : ('1', '0') + 135233 
+otrzymano : ping + 135233 
+wysłano : ('1', '0') + 135233 
+otrzymano : ping + 135233 
+wysłano : ('1', '0') + 135233 
+otrzymano : ping + 135233 
+wysłano : ('1', '0') + 135233 
+otrzymano : ping + 135233 
+wysłano : ('1', '0') + 135233 
+otrzymano : ping + 135234 
+wysłano : ('1', '0') + 135234 
+otrzymano : ping + 135234 
+wysłano : ('1', '0') + 135234 
+otrzymano : ping + 135234 
+wysłano : ('1', '0') + 135234 
+otrzymano : ping + 135234 
+wysłano : ('1', '0') + 135234 
+otrzymano : ping + 135234 
+wysłano : ('1', '0') + 135234 
+otrzymano : ping + 135234 
+wysłano : ('1', '0') + 135234 
+otrzymano : ping + 135234 
+wysłano : ('1', '0') + 135234 
+otrzymano : ping + 135234 
+wysłano : ('1', '0') + 135234 
+otrzymano : ping + 135234 
+wysłano : ('1', '0') + 135234 
+otrzymano : ping + 135234 
+wysłano : ('1', '0') + 135234 
+otrzymano : ping + 135235 
+wysłano : ('1', '0') + 135235 
+otrzymano : ping + 135235 
+wysłano : ('1', '0') + 135235 
+otrzymano : ping + 135235 
+wysłano : ('1', '0') + 135235 
+otrzymano : ping + 135235 
+wysłano : ('1', '0') + 135235 
+otrzymano : ping + 135235 
+wysłano : ('1', '0') + 135235 
+otrzymano : ping + 135235 
+wysłano : ('1', '0') + 135235 
+otrzymano : ping + 135235 
+wysłano : ('1', '0') + 135235 
+otrzymano : ping + 135235 
+wysłano : ('1', '0') + 135235 
+otrzymano : ping + 135235 
+wysłano : ('1', '0') + 135235 
+otrzymano : ping + 135235 
+wysłano : ('1', '0') + 135235 
+otrzymano : ping + 135236 
+wysłano : ('1', '0') + 135236 
+otrzymano : ping + 135236 
+wysłano : ('1', '0') + 135236 
+otrzymano : ping + 135236 
+wysłano : ('1', '0') + 135236 
+otrzymano : ping + 135236 
+wysłano : ('1', '0') + 135236 
+otrzymano : ping + 135236 
+wysłano : ('1', '0') + 135236 
+otrzymano : ping + 135236 
+wysłano : ('1', '0') + 135236 
+otrzymano : ping + 135236 
+wysłano : ('1', '0') + 135236 
+otrzymano : ping + 135236 
+wysłano : ('1', '0') + 135236 
+otrzymano : ping + 135236 
+wysłano : ('1', '0') + 135236 
+otrzymano : ping + 135236 
+wysłano : ('1', '0') + 135236 
+otrzymano : ping + 135237 
+wysłano : ('1', '0') + 135237 
+otrzymano : ping + 135237 
+wysłano : ('1', '0') + 135237 
+otrzymano : ping + 135237 
+wysłano : ('1', '0') + 135237 
+otrzymano : ping + 135237 
+wysłano : ('1', '0') + 135237 
+otrzymano : ping + 135237 
+wysłano : ('1', '0') + 135237 
+otrzymano : ping + 135237 
+wysłano : ('1', '0') + 135237 
+otrzymano : ping + 135237 
+wysłano : ('1', '0') + 135237 
+otrzymano : ping + 135237 
+wysłano : ('1', '0') + 135237 
+otrzymano : ping + 135237 
+wysłano : ('1', '0') + 135237 
+otrzymano : ping + 135237 
+wysłano : ('1', '0') + 135237 
+otrzymano : ping + 135238 
+wysłano : ('1', '0') + 135238 
+otrzymano : ping + 135238 
+wysłano : ('1', '0') + 135238 
+otrzymano : ping + 135238 
+wysłano : ('1', '0') + 135238 
+otrzymano : ping + 135238 
+wysłano : ('1', '0') + 135238 
+otrzymano : ping + 135238 
+wysłano : ('1', '0') + 135238 
+otrzymano : ping + 135238 
+wysłano : ('1', '0') + 135238 
+otrzymano : ping + 135238 
+wysłano : ('1', '0') + 135238 
+otrzymano : ping + 135238 
+wysłano : ('1', '0') + 135238 
+otrzymano : ping + 135238 
+wysłano : ('1', '0') + 135238 
+otrzymano : ping + 135238 
+wysłano : ('1', '0') + 135238 
+otrzymano : ping + 135239 
+wysłano : ('1', '0') + 135239 
+otrzymano : ping + 135239 
+wysłano : ('1', '0') + 135239 
+otrzymano : ping + 135239 
+wysłano : ('1', '0') + 135239 
+otrzymano : ping + 135239 
+wysłano : ('1', '0') + 135239 
+otrzymano : ping + 135239 
+wysłano : ('1', '0') + 135239 
+otrzymano : ping + 135239 
+wysłano : ('1', '0') + 135239 
+otrzymano : ping + 135239 
+wysłano : ('1', '0') + 135239 
+otrzymano : ping + 135239 
+wysłano : ('1', '0') + 135239 
+otrzymano : ping + 135239 
+wysłano : ('1', '0') + 135239 
+otrzymano : ping + 135239 
+wysłano : ('1', '0') + 135239 
+otrzymano : ping + 135240 
+wysłano : ('1', '0') + 135240 
+otrzymano : ping + 135240 
+wysłano : ('1', '0') + 135240 
+otrzymano : ping + 135240 
+wysłano : ('1', '0') + 135240 
+otrzymano : ping + 135240 
+wysłano : ('1', '0') + 135240 
+otrzymano : ping + 135240 
+wysłano : ('1', '0') + 135240 
+otrzymano : ping + 135240 
+wysłano : ('1', '0') + 135240 
+otrzymano : ping + 135240 
+wysłano : ('1', '0') + 135240 
+otrzymano : ping + 135240 
+wysłano : ('1', '0') + 135240 
+otrzymano : ping + 135240 
+wysłano : ('1', '0') + 135240 
+otrzymano : ping + 135240 
+wysłano : ('1', '0') + 135240 
+otrzymano : ping + 135241 
+wysłano : ('1', '0') + 135241 
+otrzymano : ping + 135241 
+wysłano : ('1', '0') + 135241 
+otrzymano : ping + 135241 
+wysłano : ('1', '0') + 135241 
+otrzymano : ping + 135241 
+wysłano : ('1', '0') + 135241 
+otrzymano : ping + 135241 
+wysłano : ('1', '0') + 135241 
+otrzymano : ping + 135241 
+wysłano : ('1', '0') + 135241 
+otrzymano : ping + 135241 
+wysłano : ('1', '0') + 135241 
+otrzymano : ping + 135241 
+wysłano : ('1', '0') + 135241 
+otrzymano : ping + 135241 
+wysłano : ('1', '0') + 135241 
+otrzymano : ping + 135241 
+wysłano : ('1', '0') + 135241 
+otrzymano : ping + 135242 
+wysłano : ('1', '0') + 135242 
+otrzymano : ping + 135242 
+wysłano : ('1', '0') + 135242 
+otrzymano : ping + 135242 
+wysłano : ('1', '0') + 135242 
+otrzymano : ping + 135242 
+wysłano : ('1', '0') + 135242 
+otrzymano : ping + 135242 
+wysłano : ('1', '0') + 135242 
+otrzymano : ping + 135242 
+wysłano : ('1', '0') + 135242 
+otrzymano : ping + 135242 
+wysłano : ('1', '0') + 135242 
+otrzymano : ping + 135242 
+wysłano : ('1', '0') + 135242 
+otrzymano : ping + 135242 
+wysłano : ('1', '0') + 135242 
+otrzymano : ping + 135242 
+wysłano : ('1', '0') + 135242 
+otrzymano : ping + 135243 
+wysłano : ('1', '0') + 135243 
+otrzymano : ping + 135243 
+wysłano : ('1', '0') + 135243 
+otrzymano : ping + 135243 
+wysłano : ('1', '0') + 135243 
+otrzymano : ping + 135243 
+wysłano : ('1', '0') + 135243 
+otrzymano : ping + 135243 
+wysłano : ('1', '0') + 135243 
+otrzymano : ping + 135243 
+wysłano : ('1', '0') + 135243 
+otrzymano : ping + 135243 
+wysłano : ('1', '0') + 135243 
+otrzymano : ping + 135243 
+wysłano : ('1', '0') + 135243 
+otrzymano : ping + 135243 
+wysłano : ('1', '0') + 135243 
+otrzymano : ping + 135243 
+wysłano : ('1', '0') + 135243 
+otrzymano : ping + 135244 
+wysłano : ('1', '0') + 135244 
+otrzymano : ping + 135244 
+wysłano : ('1', '0') + 135244 
+otrzymano : ping + 135244 
+wysłano : ('1', '0') + 135244 
+otrzymano : ping + 135244 
+wysłano : ('1', '0') + 135244 
+otrzymano : ping + 135244 
+wysłano : ('1', '0') + 135244 
+otrzymano : ping + 135244 
+wysłano : ('1', '0') + 135244 
+otrzymano : ping + 135244 
+wysłano : ('1', '0') + 135244 
+otrzymano : ping + 135244 
+wysłano : ('1', '0') + 135244 
+otrzymano : ping + 135244 
+wysłano : ('1', '0') + 135244 
+otrzymano : ping + 135245 
+wysłano : ('1', '0') + 135245 
+otrzymano : ping + 135245 
+wysłano : ('1', '0') + 135245 
+otrzymano : ping + 135245 
+wysłano : ('1', '0') + 135245 
+otrzymano : ping + 135245 
+wysłano : ('1', '0') + 135245 
+otrzymano : ping + 135245 
+wysłano : ('1', '0') + 135245 
+otrzymano : ping + 135245 
+wysłano : ('1', '0') + 135245 
+otrzymano : ping + 135245 
+wysłano : ('1', '0') + 135245 
+otrzymano : ping + 135245 
+wysłano : ('1', '0') + 135245 
+otrzymano : ping + 135245 
+wysłano : ('1', '0') + 135245 
+otrzymano : ping + 135245 
+wysłano : ('1', '0') + 135245 
+otrzymano : ping + 135246 
+wysłano : ('1', '0') + 135246 
+otrzymano : ping + 135246 
+wysłano : ('1', '0') + 135246 
+otrzymano : ping + 135246 
+wysłano : ('1', '0') + 135246 
+otrzymano : ping + 135246 
+wysłano : ('1', '0') + 135246 
+otrzymano : ping + 135246 
+wysłano : ('1', '0') + 135246 
+otrzymano : ping + 135246 
+wysłano : ('1', '0') + 135246 
+otrzymano : ping + 135246 
+wysłano : ('1', '0') + 135246 
+otrzymano : ping + 135246 
+wysłano : ('1', '0') + 135246 
+otrzymano : ping + 135246 
+wysłano : ('1', '0') + 135246 
+otrzymano : ping + 135246 
+wysłano : ('1', '0') + 135246 
+otrzymano : ping + 135247 
+wysłano : ('1', '0') + 135247 
+otrzymano : ping + 135247 
+wysłano : ('1', '0') + 135247 
+otrzymano : ping + 135247 
+wysłano : ('1', '0') + 135247 
+otrzymano : ping + 135247 
+wysłano : ('1', '0') + 135247 
+otrzymano : ping + 135247 
+wysłano : ('1', '0') + 135247 
+otrzymano : ping + 135247 
+wysłano : ('1', '0') + 135247 
+otrzymano : ping + 135247 
+wysłano : ('1', '0') + 135247 
+otrzymano : ping + 135247 
+wysłano : ('1', '0') + 135247 
+otrzymano : ping + 135247 
+wysłano : ('1', '0') + 135247 
+otrzymano : ping + 135247 
+wysłano : ('1', '0') + 135247 
+otrzymano : ping + 135248 
+wysłano : ('1', '0') + 135248 
+otrzymano : ping + 135248 
+wysłano : ('1', '0') + 135248 
+otrzymano : ping + 135248 
+wysłano : ('1', '0') + 135248 
+otrzymano : ping + 135248 
+wysłano : ('1', '0') + 135248 
+otrzymano : ping + 135248 
+wysłano : ('1', '0') + 135248 
+otrzymano : ping + 135248 
+wysłano : ('1', '0') + 135248 
+otrzymano : ping + 135248 
+wysłano : ('1', '0') + 135248 
+otrzymano : ping + 135248 
+wysłano : ('1', '0') + 135248 
+otrzymano : ping + 135248 
+wysłano : ('1', '0') + 135248 
+otrzymano : ping + 135248 
+wysłano : ('1', '0') + 135248 
+otrzymano : ping + 135249 
+wysłano : ('1', '0') + 135249 
+otrzymano : ping + 135249 
+wysłano : ('1', '0') + 135249 
+otrzymano : ping + 135249 
+wysłano : ('1', '0') + 135249 
+otrzymano : ping + 135249 
+wysłano : ('1', '0') + 135249 
+otrzymano : ping + 135249 
+wysłano : ('1', '0') + 135249 
+otrzymano : ping + 135249 
+wysłano : ('1', '0') + 135249 
+otrzymano : ping + 135249 
+wysłano : ('1', '0') + 135249 
+otrzymano : ping + 135249 
+wysłano : ('1', '0') + 135249 
+otrzymano : ping + 135249 
+wysłano : ('1', '0') + 135249 
+otrzymano : ping + 135249 
+wysłano : ('1', '0') + 135249 
+otrzymano : ping + 135250 
+wysłano : ('1', '0') + 135250 
+otrzymano : ping + 135250 
+wysłano : ('1', '0') + 135250 
+otrzymano : ping + 135250 
+wysłano : ('1', '0') + 135250 
+otrzymano : ping + 135250 
+wysłano : ('1', '0') + 135250 
+otrzymano : ping + 135250 
+wysłano : ('1', '0') + 135250 
+otrzymano : ping + 135250 
+wysłano : ('1', '0') + 135250 
+otrzymano : ping + 135250 
+wysłano : ('1', '0') + 135250 
+otrzymano : ping + 135250 
+wysłano : ('1', '0') + 135250 
+otrzymano : ping + 135250 
+wysłano : ('1', '0') + 135250 
+otrzymano : ping + 135250 
+wysłano : ('1', '0') + 135250 
+otrzymano : ping + 135251 
+wysłano : ('1', '0') + 135251 
+otrzymano : ping + 135251 
+wysłano : ('1', '0') + 135251 
+otrzymano : ping + 135251 
+wysłano : ('1', '0') + 135251 
+otrzymano : ping + 135251 
+wysłano : ('1', '0') + 135251 
+otrzymano : ping + 135251 
+wysłano : ('1', '0') + 135251 
+otrzymano : ping + 135251 
+wysłano : ('1', '0') + 135251 
+otrzymano : ping + 135251 
+wysłano : ('1', '0') + 135251 
+otrzymano : ping + 135251 
+wysłano : ('1', '0') + 135251 
+otrzymano : ping + 135251 
+wysłano : ('1', '0') + 135251 
+otrzymano : ping + 135251 
+wysłano : ('1', '0') + 135251 
+otrzymano : ping + 135252 
+wysłano : ('1', '0') + 135252 
+otrzymano : ping + 135252 
+wysłano : ('1', '0') + 135252 
+otrzymano : ping + 135252 
+wysłano : ('1', '0') + 135252 
+otrzymano : ping + 135252 
+wysłano : ('1', '0') + 135252 
+otrzymano : ping + 135252 
+wysłano : ('1', '0') + 135252 
+otrzymano : ping + 135252 
+wysłano : ('1', '0') + 135252 
+otrzymano : ping + 135252 
+wysłano : ('1', '0') + 135252 
+otrzymano : ping + 135252 
+wysłano : ('1', '0') + 135252 
+otrzymano : ping + 135252 
+wysłano : ('1', '0') + 135252 
+otrzymano : ping + 135252 
+wysłano : ('1', '0') + 135252 
+otrzymano : ping + 135253 
+wysłano : ('1', '0') + 135253 
+otrzymano : ping + 135253 
+wysłano : ('1', '0') + 135253 
+otrzymano : ping + 135253 
+wysłano : ('1', '0') + 135253 
+otrzymano : ping + 135253 
+wysłano : ('1', '0') + 135253 
+otrzymano : ping + 135253 
+wysłano : ('1', '0') + 135253 
+otrzymano : ping + 135253 
+wysłano : ('1', '0') + 135253 
+otrzymano : ping + 135253 
+wysłano : ('1', '0') + 135253 
+otrzymano : ping + 135253 
+wysłano : ('1', '0') + 135253 
+otrzymano : ping + 135253 
+wysłano : ('1', '0') + 135253 
+otrzymano : ping + 135253 
+wysłano : ('1', '0') + 135253 
+otrzymano : ping + 135253 
+wysłano : ('1', '0') + 135253 
+otrzymano : ping + 135254 
+wysłano : ('1', '0') + 135254 
+otrzymano : ping + 135254 
+wysłano : ('1', '0') + 135254 
+otrzymano : ping + 135254 
+wysłano : ('1', '0') + 135254 
+otrzymano : ping + 135254 
+wysłano : ('1', '0') + 135254 
+otrzymano : ping + 135254 
+wysłano : ('1', '0') + 135254 
+otrzymano : ping + 135254 
+wysłano : ('1', '0') + 135254 
+otrzymano : ping + 135254 
+wysłano : ('1', '0') + 135254 
+otrzymano : ping + 135254 
+wysłano : ('1', '0') + 135254 
+otrzymano : ping + 135254 
+wysłano : ('1', '0') + 135254 
+otrzymano : ping + 135254 
+wysłano : ('1', '0') + 135254 
+otrzymano : ping + 135255 
+wysłano : ('1', '0') + 135255 
+otrzymano : ping + 135255 
+wysłano : ('1', '0') + 135255 
+otrzymano : ping + 135255 
+wysłano : ('1', '0') + 135255 
+otrzymano : ping + 135255 
+wysłano : ('1', '0') + 135255 
+otrzymano : ping + 135255 
+wysłano : ('1', '0') + 135255 
+otrzymano : ping + 135255 
+wysłano : ('1', '0') + 135255 
+otrzymano : ping + 135255 
+wysłano : ('1', '0') + 135255 
+otrzymano : ping + 135255 
+wysłano : ('1', '0') + 135255 
+otrzymano : ping + 135255 
+wysłano : ('1', '0') + 135255 
+otrzymano : ping + 135255 
+wysłano : ('1', '0') + 135255 
+otrzymano : ping + 135255 
+wysłano : ('1', '0') + 135255 
+otrzymano : ping + 135255 
+wysłano : ('1', '0') + 135255 
+otrzymano : ping + 135256 
+wysłano : ('1', '0') + 135256 
+otrzymano : ping + 135256 
+wysłano : ('1', '0') + 135256 
+otrzymano : ping + 135256 
+wysłano : ('1', '0') + 135256 
+otrzymano : ping + 135256 
+wysłano : ('1', '0') + 135256 
+otrzymano : ping + 135256 
+wysłano : ('1', '0') + 135256 
+otrzymano : ping + 135256 
+wysłano : ('1', '0') + 135256 
+otrzymano : ping + 135256 
+wysłano : ('1', '0') + 135256 
+otrzymano : ping + 135256 
+wysłano : ('1', '0') + 135256 
+otrzymano : ping + 135256 
+wysłano : ('1', '0') + 135256 
+otrzymano : ping + 135256 
+wysłano : ('1', '0') + 135256 
+otrzymano : ping + 135256 
+wysłano : ('1', '0') + 135256 
+otrzymano : ping + 135256 
+wysłano : ('1', '0') + 135256 
+otrzymano : ping + 135257 
+wysłano : ('1', '0') + 135257 
+otrzymano : ping + 135257 
+wysłano : ('1', '0') + 135257 
+otrzymano : ping + 135257 
+wysłano : ('1', '0') + 135257 
+otrzymano : ping + 135257 
+wysłano : ('1', '0') + 135257 
+otrzymano : ping + 135257 
+wysłano : ('1', '0') + 135257 
+otrzymano : ping + 135257 
+wysłano : ('1', '0') + 135257 
+otrzymano : ping + 135257 
+wysłano : ('1', '0') + 135257 
+otrzymano : ping + 135257 
+wysłano : ('1', '0') + 135257 
+otrzymano : ping + 135257 
+wysłano : ('1', '0') + 135257 
+otrzymano : ping + 135257 
+wysłano : ('1', '0') + 135257 
+otrzymano : ping + 135257 
+wysłano : ('1', '0') + 135257 
+otrzymano : ping + 135257 
+wysłano : ('1', '0') + 135257 
+otrzymano : ping + 135258 
+wysłano : ('1', '0') + 135258 
+otrzymano : ping + 135258 
+wysłano : ('1', '0') + 135258 
+otrzymano : ping + 135258 
+wysłano : ('1', '0') + 135258 
+otrzymano : ping + 135258 
+wysłano : ('1', '0') + 135258 
+otrzymano : ping + 135258 
+wysłano : ('1', '0') + 135258 
+otrzymano : ping + 135258 
+wysłano : ('1', '0') + 135258 
+otrzymano : ping + 135258 
+wysłano : ('1', '0') + 135258 
+otrzymano : ping + 135258 
+wysłano : ('1', '0') + 135258 
+otrzymano : ping + 135258 
+wysłano : ('1', '0') + 135258 
+otrzymano : ping + 135258 
+wysłano : ('1', '0') + 135258 
+otrzymano : ping + 135258 
+wysłano : ('1', '0') + 135258 
+otrzymano : ping + 135258 
+wysłano : ('1', '0') + 135258 
+otrzymano : ping + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ping + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ping + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ping + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ping + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ping + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ping + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ping + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ('msg dsbsd', 'jak') + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ping + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ping + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ping + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ping + 135259 
+wysłano : ('1', '0') + 135259 
+otrzymano : ping + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ping + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ping + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ping + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ping + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ping + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ping + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ping + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ping + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ('msg bsd', 'jak') + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ping + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ping + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ping + 135300 
+wysłano : ('1', '0') + 135300 
+otrzymano : ('msg bsd', 'jak') + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ('msg bs', 'jak') + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ('msg b', 'jak') + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ('msg dsb', 'jak') + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135301 
+wysłano : ('1', '0') + 135301 
+otrzymano : ping + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ping + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ('msg b', 'jak') + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ping + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ping + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ping + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ping + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ('msg bs', 'jak') + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ping + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ping + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ping + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ping + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ping + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ping + 135302 
+wysłano : ('1', '0') + 135302 
+otrzymano : ping + 135303 
+wysłano : ('1', '0') + 135303 
+otrzymano : ping + 135303 
+wysłano : ('1', '0') + 135303 
+otrzymano : ping + 135303 
+wysłano : ('1', '0') + 135303 
+otrzymano : ping + 135303 
+wysłano : ('1', '0') + 135303 
+otrzymano : ping + 135303 
+wysłano : ('1', '0') + 135303 
+otrzymano : ping + 135303 
+wysłano : ('1', '0') + 135303 
+otrzymano : ping + 135303 
+wysłano : ('1', '0') + 135303 
+otrzymano : ping + 135303 
+wysłano : ('1', '0') + 135303 
+otrzymano : ping + 135303 
+wysłano : ('1', '0') + 135303 
+otrzymano : ping + 135303 
+wysłano : ('1', '0') + 135303 
+otrzymano : ping + 135303 
+wysłano : ('1', '0') + 135303 
+otrzymano : ping + 135303 
+wysłano : ('1', '0') + 135303 
+otrzymano : ping + 135304 
+wysłano : ('1', '0') + 135304 
+otrzymano : ping + 135304 
+wysłano : ('1', '0') + 135304 
+otrzymano : ping + 135304 
+wysłano : ('1', '0') + 135304 
+otrzymano : ping + 135304 
+wysłano : ('1', '0') + 135304 
+otrzymano : ping + 135304 
+wysłano : ('1', '0') + 135304 
+otrzymano : ping + 135305 
+wysłano : ('1', '0') + 135305 
+otrzymano : ping + 135305 
+wysłano : ('1', '0') + 135305 
+otrzymano : ping + 135306 
+wysłano : ('1', '0') + 135306 

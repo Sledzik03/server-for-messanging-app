@@ -1,0 +1,5516 @@
+otrzymano : ping + 141639 
+wysłano :  + 141639 
+otrzymano : ping + 141639 
+wysłano :  + 141639 
+otrzymano : ping + 141656 
+wysłano : ('0', '0') + 141656 
+otrzymano : pingping + 141656 
+wysłano : ('0', '0') + 141656 
+otrzymano : ping + 141656 
+wysłano : ('0', '0') + 141656 
+otrzymano : ping + 141656 
+wysłano : ('0', '0') + 141656 
+otrzymano : ping + 141656 
+wysłano : ('0', '0') + 141656 
+otrzymano : ping + 141657 
+wysłano : ('0', '0') + 141657 
+otrzymano : ping + 141657 
+wysłano : ('0', '0') + 141657 
+otrzymano : ping + 141657 
+wysłano : ('0', '0') + 141657 
+otrzymano : ping + 141657 
+wysłano : ('0', '0') + 141657 
+otrzymano : ping + 141657 
+wysłano : ('0', '0') + 141657 
+otrzymano : ping + 141658 
+wysłano : ('0', '0') + 141658 
+otrzymano : ping + 141658 
+wysłano : ('0', '0') + 141658 
+otrzymano : ping + 141658 
+wysłano : ('0', '0') + 141658 
+otrzymano : ping + 141658 
+wysłano : ('0', '0') + 141658 
+otrzymano : ping + 141658 
+wysłano : ('0', '0') + 141658 
+otrzymano : ping + 141659 
+wysłano : ('0', '0') + 141659 
+otrzymano : ping + 141659 
+wysłano : ('0', '0') + 141659 
+otrzymano : ping + 141659 
+wysłano : ('0', '0') + 141659 
+otrzymano : ping + 141659 
+wysłano : ('0', '0') + 141659 
+otrzymano : ping + 141659 
+wysłano : ('0', '0') + 141659 
+otrzymano : ('msg_hej', 'rafal') + 141659 
+wysłano : ('0', '0') + 141659 
+otrzymano : ping + 141700 
+wysłano : ('msg_hej', 'rafal') + 141700 
+otrzymano : ping + 141700 
+wysłano : ('0', '0') + 141700 
+otrzymano : ping + 141700 
+wysłano : ('msg_hej', 'rafal') + 141700 
+otrzymano : ping + 141700 
+wysłano : ('0', '0') + 141700 
+otrzymano : ping + 141700 
+wysłano : ('msg_hej', 'rafal') + 141700 
+otrzymano : ping + 141700 
+wysłano : ('0', '0') + 141700 
+otrzymano : ping + 141700 
+wysłano : ('msg_hej', 'rafal') + 141700 
+otrzymano : ping + 141700 
+wysłano : ('0', '0') + 141700 
+otrzymano : ping + 141700 
+wysłano : ('msg_hej', 'rafal') + 141700 
+otrzymano : ping + 141700 
+wysłano : ('0', '0') + 141700 
+otrzymano : ping + 141701 
+wysłano : ('msg_hej', 'rafal') + 141701 
+otrzymano : ping + 141701 
+wysłano : ('0', '0') + 141701 
+otrzymano : ('msg_si', 'jakubping') + 141701 
+wysłano : ('msg_hej', 'rafal') + 141701 
+otrzymano : ping + 141701 
+wysłano : ('msg_si', 'jakubping') + 141701 
+otrzymano : ping + 141701 
+wysłano : ('msg_hej', 'rafal') + 141701 
+otrzymano : ping + 141701 
+wysłano : ('msg_si', 'jakubping') + 141701 
+otrzymano : ping + 141701 
+wysłano : ('msg_hej', 'rafal') + 141701 
+otrzymano : ping + 141701 
+wysłano : ('msg_si', 'jakubping') + 141701 
+otrzymano : ping + 141701 
+wysłano : ('msg_hej', 'rafal') + 141701 
+otrzymano : ping + 141701 
+wysłano : ('msg_si', 'jakubping') + 141701 
+otrzymano : ping + 141702 
+wysłano : ('msg_hej', 'rafal') + 141702 
+otrzymano : ping + 141702 
+wysłano : ('msg_si', 'jakubping') + 141702 
+otrzymano : ping + 141702 
+wysłano : ('msg_hej', 'rafal') + 141702 
+otrzymano : ping + 141702 
+wysłano : ('msg_si', 'jakubping') + 141702 
+otrzymano : ping + 141702 
+wysłano : ('msg_hej', 'rafal') + 141702 
+otrzymano : ping + 141702 
+wysłano : ('msg_si', 'jakubping') + 141702 
+otrzymano : ping + 141702 
+wysłano : ('msg_hej', 'rafal') + 141702 
+otrzymano : ping + 141702 
+wysłano : ('msg_si', 'jakubping') + 141702 
+otrzymano : ping + 141702 
+wysłano : ('msg_hej', 'rafal') + 141702 
+otrzymano : ping + 141702 
+wysłano : ('msg_si', 'jakubping') + 141702 
+otrzymano : ping + 141703 
+wysłano : ('msg_hej', 'rafal') + 141703 
+otrzymano : ping + 141703 
+wysłano : ('msg_si', 'jakubping') + 141703 
+otrzymano : ping + 141703 
+wysłano : ('msg_hej', 'rafal') + 141703 
+otrzymano : ping + 141703 
+wysłano : ('msg_si', 'jakubping') + 141703 
+otrzymano : ping + 141703 
+wysłano : ('msg_hej', 'rafal') + 141703 
+otrzymano : ping + 141703 
+wysłano : ('msg_si', 'jakubping') + 141703 
+otrzymano : ping + 141703 
+wysłano : ('msg_hej', 'rafal') + 141703 
+otrzymano : ping + 141703 
+wysłano : ('msg_si', 'jakubping') + 141703 
+otrzymano : ping + 141703 
+wysłano : ('msg_hej', 'rafal') + 141703 
+otrzymano : ping + 141704 
+wysłano : ('msg_si', 'jakubping') + 141704 
+otrzymano : ping + 141704 
+wysłano : ('msg_hej', 'rafal') + 141704 
+otrzymano : ping + 141704 
+wysłano : ('msg_si', 'jakubping') + 141704 
+otrzymano : ping + 141704 
+wysłano : ('msg_hej', 'rafal') + 141704 
+otrzymano : ping + 141704 
+wysłano : ('msg_si', 'jakubping') + 141704 
+otrzymano : ping + 141704 
+wysłano : ('msg_hej', 'rafal') + 141704 
+otrzymano : ping + 141704 
+wysłano : ('msg_si', 'jakubping') + 141704 
+otrzymano : ping + 141704 
+wysłano : ('msg_hej', 'rafal') + 141704 
+otrzymano : ping + 141704 
+wysłano : ('msg_si', 'jakubping') + 141704 
+otrzymano : ping + 141704 
+wysłano : ('msg_hej', 'rafal') + 141704 
+otrzymano : ping + 141705 
+wysłano : ('msg_si', 'jakubping') + 141705 
+otrzymano : ping + 141705 
+wysłano : ('msg_hej', 'rafal') + 141705 
+otrzymano : ping + 141705 
+wysłano : ('msg_si', 'jakubping') + 141705 
+otrzymano : ping + 141705 
+wysłano : ('msg_hej', 'rafal') + 141705 
+otrzymano : ping + 141705 
+wysłano : ('msg_si', 'jakubping') + 141705 
+otrzymano : ping + 141705 
+wysłano : ('msg_hej', 'rafal') + 141705 
+otrzymano : ping + 141705 
+wysłano : ('msg_si', 'jakubping') + 141705 
+otrzymano : ping + 141705 
+wysłano : ('msg_hej', 'rafal') + 141705 
+otrzymano : ping + 141705 
+wysłano : ('msg_si', 'jakubping') + 141705 
+otrzymano : ping + 141705 
+wysłano : ('msg_hej', 'rafal') + 141705 
+otrzymano : ping + 141706 
+wysłano : ('msg_si', 'jakubping') + 141706 
+otrzymano : ping + 141706 
+wysłano : ('msg_hej', 'rafal') + 141706 
+otrzymano : ping + 141706 
+wysłano : ('msg_si', 'jakubping') + 141706 
+otrzymano : ping + 141706 
+wysłano : ('msg_hej', 'rafal') + 141706 
+otrzymano : ping + 141706 
+wysłano : ('msg_si', 'jakubping') + 141706 
+otrzymano : ping + 141706 
+wysłano : ('msg_hej', 'rafal') + 141706 
+otrzymano : ping + 141706 
+wysłano : ('msg_si', 'jakubping') + 141706 
+otrzymano : ping + 141706 
+wysłano : ('msg_hej', 'rafal') + 141706 
+otrzymano : ping + 141706 
+wysłano : ('msg_si', 'jakubping') + 141706 
+otrzymano : ping + 141706 
+wysłano : ('msg_hej', 'rafal') + 141706 
+otrzymano : ping + 141707 
+wysłano : ('msg_si', 'jakubping') + 141707 
+otrzymano : ping + 141707 
+wysłano : ('msg_hej', 'rafal') + 141707 
+otrzymano : ping + 141707 
+wysłano : ('msg_si', 'jakubping') + 141707 
+otrzymano : ping + 141707 
+wysłano : ('msg_hej', 'rafal') + 141707 
+otrzymano : ping + 141707 
+wysłano : ('msg_si', 'jakubping') + 141707 
+otrzymano : ping + 141707 
+wysłano : ('msg_hej', 'rafal') + 141707 
+otrzymano : ping + 141707 
+wysłano : ('msg_si', 'jakubping') + 141707 
+otrzymano : ping + 141707 
+wysłano : ('msg_hej', 'rafal') + 141707 
+otrzymano : ping + 141707 
+wysłano : ('msg_si', 'jakubping') + 141707 
+otrzymano : ping + 141707 
+wysłano : ('msg_hej', 'rafal') + 141707 
+otrzymano : ping + 141708 
+wysłano : ('msg_si', 'jakubping') + 141708 
+otrzymano : ping + 141708 
+wysłano : ('msg_hej', 'rafal') + 141708 
+otrzymano : ping + 141708 
+wysłano : ('msg_si', 'jakubping') + 141708 
+otrzymano : ping + 141708 
+wysłano : ('msg_hej', 'rafal') + 141708 
+otrzymano : ping + 141708 
+wysłano : ('msg_si', 'jakubping') + 141708 
+otrzymano : ping + 141708 
+wysłano : ('msg_hej', 'rafal') + 141708 
+otrzymano : ping + 141708 
+wysłano : ('msg_si', 'jakubping') + 141708 
+otrzymano : ping + 141708 
+wysłano : ('msg_hej', 'rafal') + 141708 
+otrzymano : ping + 141708 
+wysłano : ('msg_si', 'jakubping') + 141708 
+otrzymano : ping + 141709 
+wysłano : ('msg_hej', 'rafal') + 141709 
+otrzymano : ping + 141709 
+wysłano : ('msg_si', 'jakubping') + 141709 
+otrzymano : ping + 141709 
+wysłano : ('msg_hej', 'rafal') + 141709 
+otrzymano : ping + 141709 
+wysłano : ('msg_si', 'jakubping') + 141709 
+otrzymano : ping + 141709 
+wysłano : ('msg_hej', 'rafal') + 141709 
+otrzymano : ping + 141709 
+wysłano : ('msg_si', 'jakubping') + 141709 
+otrzymano : ping + 141709 
+wysłano : ('msg_hej', 'rafal') + 141709 
+otrzymano : ping + 141709 
+wysłano : ('msg_si', 'jakubping') + 141709 
+otrzymano : ping + 141709 
+wysłano : ('msg_hej', 'rafal') + 141709 
+otrzymano : ping + 141709 
+wysłano : ('msg_si', 'jakubping') + 141709 
+otrzymano : ping + 141710 
+wysłano : ('msg_hej', 'rafal') + 141710 
+otrzymano : ping + 141710 
+wysłano : ('msg_si', 'jakubping') + 141710 
+otrzymano : ping + 141710 
+wysłano : ('msg_hej', 'rafal') + 141710 
+otrzymano : ping + 141710 
+wysłano : ('msg_si', 'jakubping') + 141710 
+otrzymano : ping + 141710 
+wysłano : ('msg_hej', 'rafal') + 141710 
+otrzymano : ping + 141710 
+wysłano : ('msg_si', 'jakubping') + 141710 
+otrzymano : ping + 141710 
+wysłano : ('msg_hej', 'rafal') + 141710 
+otrzymano : ping + 141710 
+wysłano : ('msg_si', 'jakubping') + 141710 
+otrzymano : ping + 141710 
+wysłano : ('msg_hej', 'rafal') + 141710 
+otrzymano : ping + 141710 
+wysłano : ('msg_si', 'jakubping') + 141710 
+otrzymano : ping + 141711 
+wysłano : ('msg_hej', 'rafal') + 141711 
+otrzymano : ping + 141711 
+wysłano : ('msg_si', 'jakubping') + 141711 
+otrzymano : ping + 141711 
+wysłano : ('msg_hej', 'rafal') + 141711 
+otrzymano : ping + 141711 
+wysłano : ('msg_si', 'jakubping') + 141711 
+otrzymano : ping + 141711 
+wysłano : ('msg_hej', 'rafal') + 141711 
+otrzymano : ping + 141711 
+wysłano : ('msg_si', 'jakubping') + 141711 
+otrzymano : ping + 141711 
+wysłano : ('msg_hej', 'rafal') + 141711 
+otrzymano : ping + 141711 
+wysłano : ('msg_si', 'jakubping') + 141711 
+otrzymano : ping + 141711 
+wysłano : ('msg_hej', 'rafal') + 141711 
+otrzymano : ping + 141711 
+wysłano : ('msg_si', 'jakubping') + 141711 
+otrzymano : ping + 141712 
+wysłano : ('msg_hej', 'rafal') + 141712 
+otrzymano : ping + 141712 
+wysłano : ('msg_si', 'jakubping') + 141712 
+otrzymano : ping + 141712 
+wysłano : ('msg_hej', 'rafal') + 141712 
+otrzymano : ping + 141712 
+wysłano : ('msg_si', 'jakubping') + 141712 
+otrzymano : ping + 141712 
+wysłano : ('msg_hej', 'rafal') + 141712 
+otrzymano : ping + 141712 
+wysłano : ('msg_si', 'jakubping') + 141712 
+otrzymano : ping + 141712 
+wysłano : ('msg_hej', 'rafal') + 141712 
+otrzymano : ping + 141712 
+wysłano : ('msg_si', 'jakubping') + 141712 
+otrzymano : ping + 141712 
+wysłano : ('msg_hej', 'rafal') + 141712 
+otrzymano : ping + 141712 
+wysłano : ('msg_si', 'jakubping') + 141712 
+otrzymano : ping + 141713 
+wysłano : ('msg_hej', 'rafal') + 141713 
+otrzymano : ping + 141713 
+wysłano : ('msg_si', 'jakubping') + 141713 
+otrzymano : ping + 141713 
+wysłano : ('msg_hej', 'rafal') + 141713 
+otrzymano : ping + 141713 
+wysłano : ('msg_si', 'jakubping') + 141713 
+otrzymano : ping + 141713 
+wysłano : ('msg_hej', 'rafal') + 141713 
+otrzymano : ping + 141713 
+wysłano : ('msg_si', 'jakubping') + 141713 
+otrzymano : ping + 141713 
+wysłano : ('msg_hej', 'rafal') + 141713 
+otrzymano : ping + 141713 
+wysłano : ('msg_si', 'jakubping') + 141713 
+otrzymano : ping + 141713 
+wysłano : ('msg_hej', 'rafal') + 141713 
+otrzymano : ping + 141713 
+wysłano : ('msg_si', 'jakubping') + 141713 
+otrzymano : ping + 141714 
+wysłano : ('msg_hej', 'rafal') + 141714 
+otrzymano : ping + 141714 
+wysłano : ('msg_si', 'jakubping') + 141714 
+otrzymano : ping + 141714 
+wysłano : ('msg_hej', 'rafal') + 141714 
+otrzymano : ping + 141714 
+wysłano : ('msg_si', 'jakubping') + 141714 
+otrzymano : ping + 141714 
+wysłano : ('msg_hej', 'rafal') + 141714 
+otrzymano : ping + 141714 
+wysłano : ('msg_si', 'jakubping') + 141714 
+otrzymano : ping + 141714 
+wysłano : ('msg_hej', 'rafal') + 141714 
+otrzymano : ping + 141714 
+wysłano : ('msg_si', 'jakubping') + 141714 
+otrzymano : ping + 141714 
+wysłano : ('msg_hej', 'rafal') + 141714 
+otrzymano : ping + 141714 
+wysłano : ('msg_si', 'jakubping') + 141714 
+otrzymano : ping + 141715 
+wysłano : ('msg_hej', 'rafal') + 141715 
+otrzymano : ping + 141715 
+wysłano : ('msg_si', 'jakubping') + 141715 
+otrzymano : ping + 141715 
+wysłano : ('msg_hej', 'rafal') + 141715 
+otrzymano : ping + 141715 
+wysłano : ('msg_si', 'jakubping') + 141715 
+otrzymano : ping + 141715 
+wysłano : ('msg_hej', 'rafal') + 141715 
+otrzymano : ping + 141715 
+wysłano : ('msg_si', 'jakubping') + 141715 
+otrzymano : ping + 141715 
+wysłano : ('msg_hej', 'rafal') + 141715 
+otrzymano : ping + 141715 
+wysłano : ('msg_si', 'jakubping') + 141715 
+otrzymano : ping + 141715 
+wysłano : ('msg_hej', 'rafal') + 141715 
+otrzymano : ping + 141716 
+wysłano : ('msg_si', 'jakubping') + 141716 
+otrzymano : ping + 141716 
+wysłano : ('msg_hej', 'rafal') + 141716 
+otrzymano : ping + 141716 
+wysłano : ('msg_si', 'jakubping') + 141716 
+otrzymano : ping + 141716 
+wysłano : ('msg_hej', 'rafal') + 141716 
+otrzymano : ping + 141716 
+wysłano : ('msg_si', 'jakubping') + 141716 
+otrzymano : ping + 141716 
+wysłano : ('msg_hej', 'rafal') + 141716 
+otrzymano : ping + 141716 
+wysłano : ('msg_si', 'jakubping') + 141716 
+otrzymano : ping + 141716 
+wysłano : ('msg_hej', 'rafal') + 141716 
+otrzymano : ping + 141716 
+wysłano : ('msg_si', 'jakubping') + 141716 
+otrzymano : ping + 141716 
+wysłano : ('msg_hej', 'rafal') + 141716 
+otrzymano : ping + 141717 
+wysłano : ('msg_si', 'jakubping') + 141717 
+otrzymano : ping + 141717 
+wysłano : ('msg_hej', 'rafal') + 141717 
+otrzymano : ping + 141717 
+wysłano : ('msg_si', 'jakubping') + 141717 
+otrzymano : ping + 141717 
+wysłano : ('msg_hej', 'rafal') + 141717 
+otrzymano : ping + 141717 
+wysłano : ('msg_si', 'jakubping') + 141717 
+otrzymano : ping + 141717 
+wysłano : ('msg_hej', 'rafal') + 141717 
+otrzymano : ping + 141717 
+wysłano : ('msg_si', 'jakubping') + 141717 
+otrzymano : ping + 141717 
+wysłano : ('msg_hej', 'rafal') + 141717 
+otrzymano : ping + 141717 
+wysłano : ('msg_si', 'jakubping') + 141717 
+otrzymano : ping + 141717 
+wysłano : ('msg_hej', 'rafal') + 141717 
+otrzymano : ping + 141718 
+wysłano : ('msg_si', 'jakubping') + 141718 
+otrzymano : ping + 141718 
+wysłano : ('msg_hej', 'rafal') + 141718 
+otrzymano : ping + 141718 
+wysłano : ('msg_si', 'jakubping') + 141718 
+otrzymano : ping + 141718 
+wysłano : ('msg_hej', 'rafal') + 141718 
+otrzymano : ping + 141718 
+wysłano : ('msg_si', 'jakubping') + 141718 
+otrzymano : ping + 141718 
+wysłano : ('msg_hej', 'rafal') + 141718 
+otrzymano : ping + 141718 
+wysłano : ('msg_si', 'jakubping') + 141718 
+otrzymano : ping + 141718 
+wysłano : ('msg_hej', 'rafal') + 141718 
+otrzymano : ping + 141718 
+wysłano : ('msg_si', 'jakubping') + 141718 
+otrzymano : ping + 141718 
+wysłano : ('msg_hej', 'rafal') + 141718 
+otrzymano : ping + 141719 
+wysłano : ('msg_si', 'jakubping') + 141719 
+otrzymano : ping + 141719 
+wysłano : ('msg_hej', 'rafal') + 141719 
+otrzymano : ping + 141719 
+wysłano : ('msg_si', 'jakubping') + 141719 
+otrzymano : ping + 141719 
+wysłano : ('msg_hej', 'rafal') + 141719 
+otrzymano : ping + 141719 
+wysłano : ('msg_si', 'jakubping') + 141719 
+otrzymano : ping + 141719 
+wysłano : ('msg_hej', 'rafal') + 141719 
+otrzymano : ping + 141719 
+wysłano : ('msg_si', 'jakubping') + 141719 
+otrzymano : ping + 141719 
+wysłano : ('msg_hej', 'rafal') + 141719 
+otrzymano : ping + 141719 
+wysłano : ('msg_si', 'jakubping') + 141719 
+otrzymano : ping + 141720 
+wysłano : ('msg_hej', 'rafal') + 141720 
+otrzymano : ping + 141720 
+wysłano : ('msg_si', 'jakubping') + 141720 
+otrzymano : ping + 141720 
+wysłano : ('msg_hej', 'rafal') + 141720 
+otrzymano : ping + 141720 
+wysłano : ('msg_si', 'jakubping') + 141720 
+otrzymano : ping + 141720 
+wysłano : ('msg_hej', 'rafal') + 141720 
+otrzymano : ping + 141720 
+wysłano : ('msg_si', 'jakubping') + 141720 
+otrzymano : ping + 141720 
+wysłano : ('msg_hej', 'rafal') + 141720 
+otrzymano : ping + 141720 
+wysłano : ('msg_si', 'jakubping') + 141720 
+otrzymano : ping + 141720 
+wysłano : ('msg_hej', 'rafal') + 141720 
+otrzymano : ping + 141720 
+wysłano : ('msg_si', 'jakubping') + 141720 
+otrzymano : ping + 141721 
+wysłano : ('msg_hej', 'rafal') + 141721 
+otrzymano : ping + 141721 
+wysłano : ('msg_si', 'jakubping') + 141721 
+otrzymano : ping + 141721 
+wysłano : ('msg_hej', 'rafal') + 141721 
+otrzymano : ping + 141721 
+wysłano : ('msg_si', 'jakubping') + 141721 
+otrzymano : ping + 141721 
+wysłano : ('msg_hej', 'rafal') + 141721 
+otrzymano : ping + 141721 
+wysłano : ('msg_si', 'jakubping') + 141721 
+otrzymano : ping + 141721 
+wysłano : ('msg_hej', 'rafal') + 141721 
+otrzymano : ping + 141721 
+wysłano : ('msg_si', 'jakubping') + 141721 
+otrzymano : ping + 141721 
+wysłano : ('msg_hej', 'rafal') + 141721 
+otrzymano : ping + 141721 
+wysłano : ('msg_si', 'jakubping') + 141721 
+otrzymano : ping + 141722 
+wysłano : ('msg_hej', 'rafal') + 141722 
+otrzymano : ping + 141722 
+wysłano : ('msg_si', 'jakubping') + 141722 
+otrzymano : ping + 141722 
+wysłano : ('msg_hej', 'rafal') + 141722 
+otrzymano : ping + 141722 
+wysłano : ('msg_si', 'jakubping') + 141722 
+otrzymano : ping + 141722 
+wysłano : ('msg_hej', 'rafal') + 141722 
+otrzymano : ping + 141722 
+wysłano : ('msg_si', 'jakubping') + 141722 
+otrzymano : ping + 141722 
+wysłano : ('msg_hej', 'rafal') + 141722 
+otrzymano : ping + 141722 
+wysłano : ('msg_si', 'jakubping') + 141722 
+otrzymano : ping + 141722 
+wysłano : ('msg_hej', 'rafal') + 141722 
+otrzymano : ping + 141722 
+wysłano : ('msg_si', 'jakubping') + 141722 
+otrzymano : ping + 141723 
+wysłano : ('msg_hej', 'rafal') + 141723 
+otrzymano : ping + 141723 
+wysłano : ('msg_si', 'jakubping') + 141723 
+otrzymano : ping + 141723 
+wysłano : ('msg_hej', 'rafal') + 141723 
+otrzymano : ping + 141723 
+wysłano : ('msg_si', 'jakubping') + 141723 
+otrzymano : ping + 141723 
+wysłano : ('msg_hej', 'rafal') + 141723 
+otrzymano : ping + 141723 
+wysłano : ('msg_si', 'jakubping') + 141723 
+otrzymano : ping + 141723 
+wysłano : ('msg_hej', 'rafal') + 141723 
+otrzymano : ping + 141723 
+wysłano : ('msg_si', 'jakubping') + 141723 
+otrzymano : ping + 141723 
+wysłano : ('msg_hej', 'rafal') + 141723 
+otrzymano : ping + 141723 
+wysłano : ('msg_si', 'jakubping') + 141723 
+otrzymano : ping + 141724 
+wysłano : ('msg_hej', 'rafal') + 141724 
+otrzymano : ping + 141724 
+wysłano : ('msg_si', 'jakubping') + 141724 
+otrzymano : ping + 141724 
+wysłano : ('msg_hej', 'rafal') + 141724 
+otrzymano : ping + 141724 
+wysłano : ('msg_si', 'jakubping') + 141724 
+otrzymano : ping + 141724 
+wysłano : ('msg_hej', 'rafal') + 141724 
+otrzymano : ping + 141724 
+wysłano : ('msg_si', 'jakubping') + 141724 
+otrzymano : ping + 141724 
+wysłano : ('msg_hej', 'rafal') + 141724 
+otrzymano : ping + 141724 
+wysłano : ('msg_si', 'jakubping') + 141724 
+otrzymano : ping + 141724 
+wysłano : ('msg_hej', 'rafal') + 141724 
+otrzymano : ping + 141724 
+wysłano : ('msg_si', 'jakubping') + 141724 
+otrzymano : ping + 141725 
+wysłano : ('msg_hej', 'rafal') + 141725 
+otrzymano : ping + 141725 
+wysłano : ('msg_si', 'jakubping') + 141725 
+otrzymano : ping + 141725 
+wysłano : ('msg_hej', 'rafal') + 141725 
+otrzymano : ping + 141725 
+wysłano : ('msg_si', 'jakubping') + 141725 
+otrzymano : ping + 141725 
+wysłano : ('msg_hej', 'rafal') + 141725 
+otrzymano : ping + 141725 
+wysłano : ('msg_si', 'jakubping') + 141725 
+otrzymano : ping + 141725 
+wysłano : ('msg_hej', 'rafal') + 141725 
+otrzymano : ping + 141725 
+wysłano : ('msg_si', 'jakubping') + 141725 
+otrzymano : ping + 141725 
+wysłano : ('msg_hej', 'rafal') + 141725 
+otrzymano : ping + 141725 
+wysłano : ('msg_si', 'jakubping') + 141725 
+otrzymano : ping + 141726 
+wysłano : ('msg_hej', 'rafal') + 141726 
+otrzymano : ping + 141726 
+wysłano : ('msg_si', 'jakubping') + 141726 
+otrzymano : ping + 141726 
+wysłano : ('msg_hej', 'rafal') + 141726 
+otrzymano : ping + 141726 
+wysłano : ('msg_si', 'jakubping') + 141726 
+otrzymano : ping + 141726 
+wysłano : ('msg_hej', 'rafal') + 141726 
+otrzymano : ping + 141726 
+wysłano : ('msg_si', 'jakubping') + 141726 
+otrzymano : ping + 141726 
+wysłano : ('msg_hej', 'rafal') + 141726 
+otrzymano : ping + 141726 
+wysłano : ('msg_si', 'jakubping') + 141726 
+otrzymano : ping + 141726 
+wysłano : ('msg_hej', 'rafal') + 141726 
+otrzymano : ping + 141726 
+wysłano : ('msg_si', 'jakubping') + 141726 
+otrzymano : ping + 141727 
+wysłano : ('msg_hej', 'rafal') + 141727 
+otrzymano : ping + 141727 
+wysłano : ('msg_si', 'jakubping') + 141727 
+otrzymano : ping + 141727 
+wysłano : ('msg_hej', 'rafal') + 141727 
+otrzymano : ping + 141727 
+wysłano : ('msg_si', 'jakubping') + 141727 
+otrzymano : ping + 141727 
+wysłano : ('msg_hej', 'rafal') + 141727 
+otrzymano : ping + 141727 
+wysłano : ('msg_si', 'jakubping') + 141727 
+otrzymano : ping + 141727 
+wysłano : ('msg_hej', 'rafal') + 141727 
+otrzymano : ping + 141727 
+wysłano : ('msg_si', 'jakubping') + 141727 
+otrzymano : ping + 141727 
+wysłano : ('msg_hej', 'rafal') + 141727 
+otrzymano : ping + 141727 
+wysłano : ('msg_si', 'jakubping') + 141727 
+otrzymano : ping + 141728 
+wysłano : ('msg_hej', 'rafal') + 141728 
+otrzymano : ping + 141728 
+wysłano : ('msg_si', 'jakubping') + 141728 
+otrzymano : ping + 141728 
+wysłano : ('msg_hej', 'rafal') + 141728 
+otrzymano : ping + 141728 
+wysłano : ('msg_si', 'jakubping') + 141728 
+otrzymano : ping + 141728 
+wysłano : ('msg_hej', 'rafal') + 141728 
+otrzymano : ping + 141728 
+wysłano : ('msg_si', 'jakubping') + 141728 
+otrzymano : ping + 141728 
+wysłano : ('msg_hej', 'rafal') + 141728 
+otrzymano : ping + 141728 
+wysłano : ('msg_si', 'jakubping') + 141728 
+otrzymano : ping + 141728 
+wysłano : ('msg_hej', 'rafal') + 141728 
+otrzymano : ping + 141729 
+wysłano : ('msg_si', 'jakubping') + 141729 
+otrzymano : ping + 141729 
+wysłano : ('msg_hej', 'rafal') + 141729 
+otrzymano : ping + 141729 
+wysłano : ('msg_si', 'jakubping') + 141729 
+otrzymano : ping + 141729 
+wysłano : ('msg_hej', 'rafal') + 141729 
+otrzymano : ping + 141729 
+wysłano : ('msg_si', 'jakubping') + 141729 
+otrzymano : ping + 141729 
+wysłano : ('msg_hej', 'rafal') + 141729 
+otrzymano : ping + 141729 
+wysłano : ('msg_si', 'jakubping') + 141729 
+otrzymano : ping + 141729 
+wysłano : ('msg_hej', 'rafal') + 141729 
+otrzymano : ping + 141729 
+wysłano : ('msg_si', 'jakubping') + 141729 
+otrzymano : ping + 141729 
+wysłano : ('msg_hej', 'rafal') + 141729 
+otrzymano : ping + 141730 
+wysłano : ('msg_si', 'jakubping') + 141730 
+otrzymano : ping + 141730 
+wysłano : ('msg_hej', 'rafal') + 141730 
+otrzymano : ping + 141730 
+wysłano : ('msg_si', 'jakubping') + 141730 
+otrzymano : ping + 141730 
+wysłano : ('msg_hej', 'rafal') + 141730 
+otrzymano : ping + 141730 
+wysłano : ('msg_si', 'jakubping') + 141730 
+otrzymano : ping + 141730 
+wysłano : ('msg_hej', 'rafal') + 141730 
+otrzymano : ping + 141730 
+wysłano : ('msg_si', 'jakubping') + 141730 
+otrzymano : ping + 141730 
+wysłano : ('msg_hej', 'rafal') + 141730 
+otrzymano : ping + 141730 
+wysłano : ('msg_si', 'jakubping') + 141730 
+otrzymano : ping + 141730 
+wysłano : ('msg_hej', 'rafal') + 141730 
+otrzymano : ping + 141731 
+wysłano : ('msg_si', 'jakubping') + 141731 
+otrzymano : ping + 141731 
+wysłano : ('msg_hej', 'rafal') + 141731 
+otrzymano : ping + 141731 
+wysłano : ('msg_si', 'jakubping') + 141731 
+otrzymano : ping + 141731 
+wysłano : ('msg_hej', 'rafal') + 141731 
+otrzymano : ping + 141731 
+wysłano : ('msg_si', 'jakubping') + 141731 
+otrzymano : ping + 141731 
+wysłano : ('msg_hej', 'rafal') + 141731 
+otrzymano : ping + 141731 
+wysłano : ('msg_si', 'jakubping') + 141731 
+otrzymano : ping + 141731 
+wysłano : ('msg_hej', 'rafal') + 141731 
+otrzymano : ping + 141731 
+wysłano : ('msg_si', 'jakubping') + 141731 
+otrzymano : ping + 141731 
+wysłano : ('msg_hej', 'rafal') + 141731 
+otrzymano : ping + 141732 
+wysłano : ('msg_si', 'jakubping') + 141732 
+otrzymano : ping + 141732 
+wysłano : ('msg_hej', 'rafal') + 141732 
+otrzymano : ping + 141732 
+wysłano : ('msg_si', 'jakubping') + 141732 
+otrzymano : ping + 141732 
+wysłano : ('msg_hej', 'rafal') + 141732 
+otrzymano : ping + 141732 
+wysłano : ('msg_si', 'jakubping') + 141732 
+otrzymano : ping + 141732 
+wysłano : ('msg_hej', 'rafal') + 141732 
+otrzymano : ping + 141732 
+wysłano : ('msg_si', 'jakubping') + 141732 
+otrzymano : ping + 141732 
+wysłano : ('msg_hej', 'rafal') + 141732 
+otrzymano : ping + 141732 
+wysłano : ('msg_si', 'jakubping') + 141732 
+otrzymano : ping + 141733 
+wysłano : ('msg_hej', 'rafal') + 141733 
+otrzymano : ping + 141733 
+wysłano : ('msg_si', 'jakubping') + 141733 
+otrzymano : ping + 141733 
+wysłano : ('msg_hej', 'rafal') + 141733 
+otrzymano : ping + 141733 
+wysłano : ('msg_si', 'jakubping') + 141733 
+otrzymano : ping + 141733 
+wysłano : ('msg_hej', 'rafal') + 141733 
+otrzymano : ping + 141733 
+wysłano : ('msg_si', 'jakubping') + 141733 
+otrzymano : ping + 141733 
+wysłano : ('msg_hej', 'rafal') + 141733 
+otrzymano : ping + 141733 
+wysłano : ('msg_si', 'jakubping') + 141733 
+otrzymano : ping + 141733 
+wysłano : ('msg_hej', 'rafal') + 141733 
+otrzymano : ping + 141733 
+wysłano : ('msg_si', 'jakubping') + 141733 
+otrzymano : ping + 141734 
+wysłano : ('msg_hej', 'rafal') + 141734 
+otrzymano : ping + 141734 
+wysłano : ('msg_si', 'jakubping') + 141734 
+otrzymano : ping + 141734 
+wysłano : ('msg_hej', 'rafal') + 141734 
+otrzymano : ping + 141734 
+wysłano : ('msg_si', 'jakubping') + 141734 
+otrzymano : ping + 141734 
+wysłano : ('msg_hej', 'rafal') + 141734 
+otrzymano : ping + 141734 
+wysłano : ('msg_si', 'jakubping') + 141734 
+otrzymano : ping + 141734 
+wysłano : ('msg_hej', 'rafal') + 141734 
+otrzymano : ping + 141734 
+wysłano : ('msg_si', 'jakubping') + 141734 
+otrzymano : ping + 141734 
+wysłano : ('msg_hej', 'rafal') + 141734 
+otrzymano : ping + 141734 
+wysłano : ('msg_si', 'jakubping') + 141734 
+otrzymano : ping + 141735 
+wysłano : ('msg_hej', 'rafal') + 141735 
+otrzymano : ping + 141735 
+wysłano : ('msg_si', 'jakubping') + 141735 
+otrzymano : ping + 141735 
+wysłano : ('msg_hej', 'rafal') + 141735 
+otrzymano : ping + 141735 
+wysłano : ('msg_si', 'jakubping') + 141735 
+otrzymano : ping + 141735 
+wysłano : ('msg_hej', 'rafal') + 141735 
+otrzymano : ping + 141735 
+wysłano : ('msg_si', 'jakubping') + 141735 
+otrzymano : ping + 141735 
+wysłano : ('msg_hej', 'rafal') + 141735 
+otrzymano : ping + 141735 
+wysłano : ('msg_si', 'jakubping') + 141735 
+otrzymano : ping + 141735 
+wysłano : ('msg_hej', 'rafal') + 141735 
+otrzymano : ping + 141735 
+wysłano : ('msg_si', 'jakubping') + 141735 
+otrzymano : ping + 141736 
+wysłano : ('msg_hej', 'rafal') + 141736 
+otrzymano : ping + 141736 
+wysłano : ('msg_si', 'jakubping') + 141736 
+otrzymano : ping + 141736 
+wysłano : ('msg_hej', 'rafal') + 141736 
+otrzymano : ping + 141736 
+wysłano : ('msg_si', 'jakubping') + 141736 
+otrzymano : ping + 141736 
+wysłano : ('msg_hej', 'rafal') + 141736 
+otrzymano : ping + 141736 
+wysłano : ('msg_si', 'jakubping') + 141736 
+otrzymano : ping + 141736 
+wysłano : ('msg_hej', 'rafal') + 141736 
+otrzymano : ping + 141736 
+wysłano : ('msg_si', 'jakubping') + 141736 
+otrzymano : ping + 141736 
+wysłano : ('msg_hej', 'rafal') + 141736 
+otrzymano : ping + 141736 
+wysłano : ('msg_si', 'jakubping') + 141736 
+otrzymano : ping + 141737 
+wysłano : ('msg_hej', 'rafal') + 141737 
+otrzymano : ping + 141737 
+wysłano : ('msg_si', 'jakubping') + 141737 
+otrzymano : ping + 141737 
+wysłano : ('msg_hej', 'rafal') + 141737 
+otrzymano : ping + 141737 
+wysłano : ('msg_si', 'jakubping') + 141737 
+otrzymano : ping + 141737 
+wysłano : ('msg_hej', 'rafal') + 141737 
+otrzymano : ping + 141737 
+wysłano : ('msg_si', 'jakubping') + 141737 
+otrzymano : ping + 141737 
+wysłano : ('msg_hej', 'rafal') + 141737 
+otrzymano : ping + 141737 
+wysłano : ('msg_si', 'jakubping') + 141737 
+otrzymano : ping + 141737 
+wysłano : ('msg_hej', 'rafal') + 141737 
+otrzymano : ping + 141737 
+wysłano : ('msg_si', 'jakubping') + 141737 
+otrzymano : ping + 141738 
+wysłano : ('msg_hej', 'rafal') + 141738 
+otrzymano : ping + 141738 
+wysłano : ('msg_si', 'jakubping') + 141738 
+otrzymano : ping + 141738 
+wysłano : ('msg_hej', 'rafal') + 141738 
+otrzymano : ping + 141738 
+wysłano : ('msg_si', 'jakubping') + 141738 
+otrzymano : ping + 141738 
+wysłano : ('msg_hej', 'rafal') + 141738 
+otrzymano : ping + 141738 
+wysłano : ('msg_si', 'jakubping') + 141738 
+otrzymano : ping + 141738 
+wysłano : ('msg_hej', 'rafal') + 141738 
+otrzymano : ping + 141738 
+wysłano : ('msg_si', 'jakubping') + 141738 
+otrzymano : ping + 141738 
+wysłano : ('msg_hej', 'rafal') + 141738 
+otrzymano : ping + 141738 
+wysłano : ('msg_si', 'jakubping') + 141738 
+otrzymano : ping + 141739 
+wysłano : ('msg_hej', 'rafal') + 141739 
+otrzymano : ping + 141739 
+wysłano : ('msg_si', 'jakubping') + 141739 
+otrzymano : ping + 141739 
+wysłano : ('msg_hej', 'rafal') + 141739 
+otrzymano : ping + 141739 
+wysłano : ('msg_si', 'jakubping') + 141739 
+otrzymano : ping + 141739 
+wysłano : ('msg_hej', 'rafal') + 141739 
+otrzymano : ping + 141739 
+wysłano : ('msg_si', 'jakubping') + 141739 
+otrzymano : ping + 141739 
+wysłano : ('msg_hej', 'rafal') + 141739 
+otrzymano : ping + 141739 
+wysłano : ('msg_si', 'jakubping') + 141739 
+otrzymano : ping + 141739 
+wysłano : ('msg_hej', 'rafal') + 141739 
+otrzymano : ping + 141739 
+wysłano : ('msg_si', 'jakubping') + 141739 
+otrzymano : ping + 141740 
+wysłano : ('msg_hej', 'rafal') + 141740 
+otrzymano : ping + 141740 
+wysłano : ('msg_si', 'jakubping') + 141740 
+otrzymano : ping + 141740 
+wysłano : ('msg_hej', 'rafal') + 141740 
+otrzymano : ping + 141740 
+wysłano : ('msg_si', 'jakubping') + 141740 
+otrzymano : ping + 141740 
+wysłano : ('msg_hej', 'rafal') + 141740 
+otrzymano : ping + 141740 
+wysłano : ('msg_si', 'jakubping') + 141740 
+otrzymano : ping + 141740 
+wysłano : ('msg_hej', 'rafal') + 141740 
+otrzymano : ping + 141740 
+wysłano : ('msg_si', 'jakubping') + 141740 
+otrzymano : ping + 141740 
+wysłano : ('msg_hej', 'rafal') + 141740 
+otrzymano : ping + 141741 
+wysłano : ('msg_si', 'jakubping') + 141741 
+otrzymano : ping + 141741 
+wysłano : ('msg_hej', 'rafal') + 141741 
+otrzymano : ping + 141741 
+wysłano : ('msg_si', 'jakubping') + 141741 
+otrzymano : ping + 141741 
+wysłano : ('msg_hej', 'rafal') + 141741 
+otrzymano : ping + 141741 
+wysłano : ('msg_si', 'jakubping') + 141741 
+otrzymano : ping + 141741 
+wysłano : ('msg_hej', 'rafal') + 141741 
+otrzymano : ping + 141741 
+wysłano : ('msg_si', 'jakubping') + 141741 
+otrzymano : ping + 141741 
+wysłano : ('msg_hej', 'rafal') + 141741 
+otrzymano : ping + 141741 
+wysłano : ('msg_si', 'jakubping') + 141741 
+otrzymano : ping + 141741 
+wysłano : ('msg_hej', 'rafal') + 141741 
+otrzymano : ping + 141742 
+wysłano : ('msg_si', 'jakubping') + 141742 
+otrzymano : ping + 141742 
+wysłano : ('msg_hej', 'rafal') + 141742 
+otrzymano : ping + 141742 
+wysłano : ('msg_si', 'jakubping') + 141742 
+otrzymano : ping + 141742 
+wysłano : ('msg_hej', 'rafal') + 141742 
+otrzymano : ping + 141742 
+wysłano : ('msg_si', 'jakubping') + 141742 
+otrzymano : ping + 141742 
+wysłano : ('msg_hej', 'rafal') + 141742 
+otrzymano : ping + 141742 
+wysłano : ('msg_si', 'jakubping') + 141742 
+otrzymano : ping + 141742 
+wysłano : ('msg_hej', 'rafal') + 141742 
+otrzymano : ping + 141742 
+wysłano : ('msg_si', 'jakubping') + 141742 
+otrzymano : ping + 141742 
+wysłano : ('msg_hej', 'rafal') + 141742 
+otrzymano : ping + 141743 
+wysłano : ('msg_si', 'jakubping') + 141743 
+otrzymano : ping + 141743 
+wysłano : ('msg_hej', 'rafal') + 141743 
+otrzymano : ping + 141743 
+wysłano : ('msg_si', 'jakubping') + 141743 
+otrzymano : ping + 141743 
+wysłano : ('msg_hej', 'rafal') + 141743 
+otrzymano : ping + 141743 
+wysłano : ('msg_si', 'jakubping') + 141743 
+otrzymano : ping + 141743 
+wysłano : ('msg_hej', 'rafal') + 141743 
+otrzymano : ping + 141743 
+wysłano : ('msg_si', 'jakubping') + 141743 
+otrzymano : ping + 141743 
+wysłano : ('msg_hej', 'rafal') + 141743 
+otrzymano : ping + 141743 
+wysłano : ('msg_si', 'jakubping') + 141743 
+otrzymano : ping + 141743 
+wysłano : ('msg_hej', 'rafal') + 141743 
+otrzymano : ping + 141744 
+wysłano : ('msg_si', 'jakubping') + 141744 
+otrzymano : ping + 141744 
+wysłano : ('msg_hej', 'rafal') + 141744 
+otrzymano : ping + 141744 
+wysłano : ('msg_si', 'jakubping') + 141744 
+otrzymano : ping + 141744 
+wysłano : ('msg_hej', 'rafal') + 141744 
+otrzymano : ping + 141744 
+wysłano : ('msg_si', 'jakubping') + 141744 
+otrzymano : ping + 141744 
+wysłano : ('msg_hej', 'rafal') + 141744 
+otrzymano : ping + 141744 
+wysłano : ('msg_si', 'jakubping') + 141744 
+otrzymano : ping + 141744 
+wysłano : ('msg_hej', 'rafal') + 141744 
+otrzymano : ping + 141744 
+wysłano : ('msg_si', 'jakubping') + 141744 
+otrzymano : ping + 141745 
+wysłano : ('msg_hej', 'rafal') + 141745 
+otrzymano : ping + 141745 
+wysłano : ('msg_si', 'jakubping') + 141745 
+otrzymano : ping + 141745 
+wysłano : ('msg_hej', 'rafal') + 141745 
+otrzymano : ping + 141745 
+wysłano : ('msg_si', 'jakubping') + 141745 
+otrzymano : ping + 141745 
+wysłano : ('msg_hej', 'rafal') + 141745 
+otrzymano : ping + 141745 
+wysłano : ('msg_si', 'jakubping') + 141745 
+otrzymano : ping + 141745 
+wysłano : ('msg_hej', 'rafal') + 141745 
+otrzymano : ping + 141745 
+wysłano : ('msg_si', 'jakubping') + 141745 
+otrzymano : ping + 141745 
+wysłano : ('msg_hej', 'rafal') + 141745 
+otrzymano : ping + 141745 
+wysłano : ('msg_si', 'jakubping') + 141745 
+otrzymano : ping + 141746 
+wysłano : ('msg_hej', 'rafal') + 141746 
+otrzymano : ping + 141746 
+wysłano : ('msg_si', 'jakubping') + 141746 
+otrzymano : ping + 141746 
+wysłano : ('msg_hej', 'rafal') + 141746 
+otrzymano : ping + 141746 
+wysłano : ('msg_si', 'jakubping') + 141746 
+otrzymano : ping + 141746 
+wysłano : ('msg_hej', 'rafal') + 141746 
+otrzymano : ping + 141746 
+wysłano : ('msg_si', 'jakubping') + 141746 
+otrzymano : ping + 141746 
+wysłano : ('msg_hej', 'rafal') + 141746 
+otrzymano : ping + 141746 
+wysłano : ('msg_si', 'jakubping') + 141746 
+otrzymano : ping + 141746 
+wysłano : ('msg_hej', 'rafal') + 141746 
+otrzymano : ping + 141746 
+wysłano : ('msg_si', 'jakubping') + 141746 
+otrzymano : ping + 141747 
+wysłano : ('msg_hej', 'rafal') + 141747 
+otrzymano : ping + 141747 
+wysłano : ('msg_si', 'jakubping') + 141747 
+otrzymano : ping + 141747 
+wysłano : ('msg_hej', 'rafal') + 141747 
+otrzymano : ping + 141747 
+wysłano : ('msg_si', 'jakubping') + 141747 
+otrzymano : ping + 141747 
+wysłano : ('msg_hej', 'rafal') + 141747 
+otrzymano : ping + 141747 
+wysłano : ('msg_si', 'jakubping') + 141747 
+otrzymano : ping + 141747 
+wysłano : ('msg_hej', 'rafal') + 141747 
+otrzymano : ping + 141747 
+wysłano : ('msg_si', 'jakubping') + 141747 
+otrzymano : ping + 141747 
+wysłano : ('msg_hej', 'rafal') + 141747 
+otrzymano : ping + 141747 
+wysłano : ('msg_si', 'jakubping') + 141747 
+otrzymano : ping + 141748 
+wysłano : ('msg_hej', 'rafal') + 141748 
+otrzymano : ping + 141748 
+wysłano : ('msg_si', 'jakubping') + 141748 
+otrzymano : ping + 141748 
+wysłano : ('msg_hej', 'rafal') + 141748 
+otrzymano : ping + 141748 
+wysłano : ('msg_si', 'jakubping') + 141748 
+otrzymano : ping + 141748 
+wysłano : ('msg_hej', 'rafal') + 141748 
+otrzymano : ping + 141748 
+wysłano : ('msg_si', 'jakubping') + 141748 
+otrzymano : ping + 141748 
+wysłano : ('msg_hej', 'rafal') + 141748 
+otrzymano : ping + 141748 
+wysłano : ('msg_si', 'jakubping') + 141748 
+otrzymano : ping + 141748 
+wysłano : ('msg_hej', 'rafal') + 141748 
+otrzymano : ping + 141748 
+wysłano : ('msg_si', 'jakubping') + 141748 
+otrzymano : ping + 141749 
+wysłano : ('msg_hej', 'rafal') + 141749 
+otrzymano : ping + 141749 
+wysłano : ('msg_si', 'jakubping') + 141749 
+otrzymano : ping + 141749 
+wysłano : ('msg_hej', 'rafal') + 141749 
+otrzymano : ping + 141749 
+wysłano : ('msg_si', 'jakubping') + 141749 
+otrzymano : ping + 141749 
+wysłano : ('msg_hej', 'rafal') + 141749 
+otrzymano : ping + 141749 
+wysłano : ('msg_si', 'jakubping') + 141749 
+otrzymano : ping + 141749 
+wysłano : ('msg_hej', 'rafal') + 141749 
+otrzymano : ping + 141749 
+wysłano : ('msg_si', 'jakubping') + 141749 
+otrzymano : ping + 141749 
+wysłano : ('msg_hej', 'rafal') + 141749 
+otrzymano : ping + 141749 
+wysłano : ('msg_si', 'jakubping') + 141749 
+otrzymano : ping + 141750 
+wysłano : ('msg_hej', 'rafal') + 141750 
+otrzymano : ping + 141750 
+wysłano : ('msg_si', 'jakubping') + 141750 
+otrzymano : ping + 141750 
+wysłano : ('msg_hej', 'rafal') + 141750 
+otrzymano : ping + 141750 
+wysłano : ('msg_si', 'jakubping') + 141750 
+otrzymano : ping + 141750 
+wysłano : ('msg_hej', 'rafal') + 141750 
+otrzymano : ping + 141750 
+wysłano : ('msg_si', 'jakubping') + 141750 
+otrzymano : ping + 141750 
+wysłano : ('msg_hej', 'rafal') + 141750 
+otrzymano : ping + 141750 
+wysłano : ('msg_si', 'jakubping') + 141750 
+otrzymano : ping + 141750 
+wysłano : ('msg_hej', 'rafal') + 141750 
+otrzymano : ping + 141750 
+wysłano : ('msg_si', 'jakubping') + 141750 
+otrzymano : ping + 141751 
+wysłano : ('msg_hej', 'rafal') + 141751 
+otrzymano : ping + 141751 
+wysłano : ('msg_si', 'jakubping') + 141751 
+otrzymano : ping + 141751 
+wysłano : ('msg_hej', 'rafal') + 141751 
+otrzymano : ping + 141751 
+wysłano : ('msg_si', 'jakubping') + 141751 
+otrzymano : ping + 141751 
+wysłano : ('msg_hej', 'rafal') + 141751 
+otrzymano : ping + 141751 
+wysłano : ('msg_si', 'jakubping') + 141751 
+otrzymano : ping + 141751 
+wysłano : ('msg_hej', 'rafal') + 141751 
+otrzymano : ping + 141751 
+wysłano : ('msg_si', 'jakubping') + 141751 
+otrzymano : ping + 141751 
+wysłano : ('msg_hej', 'rafal') + 141751 
+otrzymano : ping + 141752 
+wysłano : ('msg_si', 'jakubping') + 141752 
+otrzymano : ping + 141752 
+wysłano : ('msg_hej', 'rafal') + 141752 
+otrzymano : ping + 141752 
+wysłano : ('msg_si', 'jakubping') + 141752 
+otrzymano : ping + 141752 
+wysłano : ('msg_hej', 'rafal') + 141752 
+otrzymano : ping + 141752 
+wysłano : ('msg_si', 'jakubping') + 141752 
+otrzymano : ping + 141752 
+wysłano : ('msg_hej', 'rafal') + 141752 
+otrzymano : ping + 141752 
+wysłano : ('msg_si', 'jakubping') + 141752 
+otrzymano : ping + 141752 
+wysłano : ('msg_hej', 'rafal') + 141752 
+otrzymano : ping + 141752 
+wysłano : ('msg_si', 'jakubping') + 141752 
+otrzymano : ping + 141752 
+wysłano : ('msg_hej', 'rafal') + 141752 
+otrzymano : ping + 141753 
+wysłano : ('msg_si', 'jakubping') + 141753 
+otrzymano : ping + 141753 
+wysłano : ('msg_hej', 'rafal') + 141753 
+otrzymano : ping + 141753 
+wysłano : ('msg_si', 'jakubping') + 141753 
+otrzymano : ping + 141753 
+wysłano : ('msg_hej', 'rafal') + 141753 
+otrzymano : ping + 141753 
+wysłano : ('msg_si', 'jakubping') + 141753 
+otrzymano : ping + 141753 
+wysłano : ('msg_hej', 'rafal') + 141753 
+otrzymano : ping + 141753 
+wysłano : ('msg_si', 'jakubping') + 141753 
+otrzymano : ping + 141753 
+wysłano : ('msg_hej', 'rafal') + 141753 
+otrzymano : ping + 141753 
+wysłano : ('msg_si', 'jakubping') + 141753 
+otrzymano : ping + 141753 
+wysłano : ('msg_hej', 'rafal') + 141753 
+otrzymano : ping + 141754 
+wysłano : ('msg_si', 'jakubping') + 141754 
+otrzymano : ping + 141754 
+wysłano : ('msg_hej', 'rafal') + 141754 
+otrzymano : ping + 141754 
+wysłano : ('msg_si', 'jakubping') + 141754 
+otrzymano : ping + 141754 
+wysłano : ('msg_hej', 'rafal') + 141754 
+otrzymano : ping + 141754 
+wysłano : ('msg_si', 'jakubping') + 141754 
+otrzymano : ping + 141754 
+wysłano : ('msg_hej', 'rafal') + 141754 
+otrzymano : ping + 141754 
+wysłano : ('msg_si', 'jakubping') + 141754 
+otrzymano : ping + 141754 
+wysłano : ('msg_hej', 'rafal') + 141754 
+otrzymano : ping + 141754 
+wysłano : ('msg_si', 'jakubping') + 141754 
+otrzymano : ping + 141754 
+wysłano : ('msg_hej', 'rafal') + 141754 
+otrzymano : ping + 141755 
+wysłano : ('msg_si', 'jakubping') + 141755 
+otrzymano : ping + 141755 
+wysłano : ('msg_hej', 'rafal') + 141755 
+otrzymano : ping + 141755 
+wysłano : ('msg_si', 'jakubping') + 141755 
+otrzymano : ping + 141755 
+wysłano : ('msg_hej', 'rafal') + 141755 
+otrzymano : ping + 141755 
+wysłano : ('msg_si', 'jakubping') + 141755 
+otrzymano : ping + 141755 
+wysłano : ('msg_hej', 'rafal') + 141755 
+otrzymano : ping + 141755 
+wysłano : ('msg_si', 'jakubping') + 141755 
+otrzymano : ping + 141755 
+wysłano : ('msg_hej', 'rafal') + 141755 
+otrzymano : ping + 141755 
+wysłano : ('msg_si', 'jakubping') + 141755 
+otrzymano : ping + 141755 
+wysłano : ('msg_hej', 'rafal') + 141755 
+otrzymano : ping + 141756 
+wysłano : ('msg_si', 'jakubping') + 141756 
+otrzymano : ping + 141756 
+wysłano : ('msg_hej', 'rafal') + 141756 
+otrzymano : ping + 141756 
+wysłano : ('msg_si', 'jakubping') + 141756 
+otrzymano : ping + 141756 
+wysłano : ('msg_hej', 'rafal') + 141756 
+otrzymano : ping + 141756 
+wysłano : ('msg_si', 'jakubping') + 141756 
+otrzymano : ping + 141756 
+wysłano : ('msg_hej', 'rafal') + 141756 
+otrzymano : ping + 141756 
+wysłano : ('msg_si', 'jakubping') + 141756 
+otrzymano : ping + 141756 
+wysłano : ('msg_hej', 'rafal') + 141756 
+otrzymano : ping + 141756 
+wysłano : ('msg_si', 'jakubping') + 141756 
+otrzymano : ping + 141757 
+wysłano : ('msg_hej', 'rafal') + 141757 
+otrzymano : ping + 141757 
+wysłano : ('msg_si', 'jakubping') + 141757 
+otrzymano : ping + 141757 
+wysłano : ('msg_hej', 'rafal') + 141757 
+otrzymano : ping + 141757 
+wysłano : ('msg_si', 'jakubping') + 141757 
+otrzymano : ping + 141757 
+wysłano : ('msg_hej', 'rafal') + 141757 
+otrzymano : ping + 141757 
+wysłano : ('msg_si', 'jakubping') + 141757 
+otrzymano : ping + 141757 
+wysłano : ('msg_hej', 'rafal') + 141757 
+otrzymano : ping + 141757 
+wysłano : ('msg_si', 'jakubping') + 141757 
+otrzymano : ping + 141757 
+wysłano : ('msg_hej', 'rafal') + 141757 
+otrzymano : ping + 141757 
+wysłano : ('msg_si', 'jakubping') + 141757 
+otrzymano : ping + 141758 
+wysłano : ('msg_hej', 'rafal') + 141758 
+otrzymano : ping + 141758 
+wysłano : ('msg_si', 'jakubping') + 141758 
+otrzymano : ping + 141758 
+wysłano : ('msg_hej', 'rafal') + 141758 
+otrzymano : ping + 141758 
+wysłano : ('msg_si', 'jakubping') + 141758 
+otrzymano : ping + 141758 
+wysłano : ('msg_hej', 'rafal') + 141758 
+otrzymano : ping + 141758 
+wysłano : ('msg_si', 'jakubping') + 141758 
+otrzymano : ping + 141758 
+wysłano : ('msg_hej', 'rafal') + 141758 
+otrzymano : ping + 141758 
+wysłano : ('msg_si', 'jakubping') + 141758 
+otrzymano : ping + 141758 
+wysłano : ('msg_hej', 'rafal') + 141758 
+otrzymano : ping + 141758 
+wysłano : ('msg_si', 'jakubping') + 141758 
+otrzymano : ping + 141759 
+wysłano : ('msg_hej', 'rafal') + 141759 
+otrzymano : ping + 141759 
+wysłano : ('msg_si', 'jakubping') + 141759 
+otrzymano : ping + 141759 
+wysłano : ('msg_hej', 'rafal') + 141759 
+otrzymano : ping + 141759 
+wysłano : ('msg_si', 'jakubping') + 141759 
+otrzymano : ping + 141759 
+wysłano : ('msg_hej', 'rafal') + 141759 
+otrzymano : ping + 141759 
+wysłano : ('msg_si', 'jakubping') + 141759 
+otrzymano : ping + 141759 
+wysłano : ('msg_hej', 'rafal') + 141759 
+otrzymano : ping + 141759 
+wysłano : ('msg_si', 'jakubping') + 141759 
+otrzymano : ping + 141759 
+wysłano : ('msg_hej', 'rafal') + 141759 
+otrzymano : ping + 141759 
+wysłano : ('msg_si', 'jakubping') + 141759 
+otrzymano : ping + 141800 
+wysłano : ('msg_hej', 'rafal') + 141800 
+otrzymano : ping + 141800 
+wysłano : ('msg_si', 'jakubping') + 141800 
+otrzymano : ping + 141800 
+wysłano : ('msg_hej', 'rafal') + 141800 
+otrzymano : ping + 141800 
+wysłano : ('msg_si', 'jakubping') + 141800 
+otrzymano : ping + 141800 
+wysłano : ('msg_hej', 'rafal') + 141800 
+otrzymano : ping + 141800 
+wysłano : ('msg_si', 'jakubping') + 141800 
+otrzymano : ping + 141800 
+wysłano : ('msg_hej', 'rafal') + 141800 
+otrzymano : ping + 141800 
+wysłano : ('msg_si', 'jakubping') + 141800 
+otrzymano : ping + 141800 
+wysłano : ('msg_hej', 'rafal') + 141800 
+otrzymano : ping + 141800 
+wysłano : ('msg_si', 'jakubping') + 141800 
+otrzymano : ping + 141801 
+wysłano : ('msg_hej', 'rafal') + 141801 
+otrzymano : ping + 141801 
+wysłano : ('msg_si', 'jakubping') + 141801 
+otrzymano : ping + 141801 
+wysłano : ('msg_hej', 'rafal') + 141801 
+otrzymano : ping + 141801 
+wysłano : ('msg_si', 'jakubping') + 141801 
+otrzymano : ping + 141801 
+wysłano : ('msg_hej', 'rafal') + 141801 
+otrzymano : ping + 141801 
+wysłano : ('msg_si', 'jakubping') + 141801 
+otrzymano : ping + 141801 
+wysłano : ('msg_hej', 'rafal') + 141801 
+otrzymano : ping + 141801 
+wysłano : ('msg_si', 'jakubping') + 141801 
+otrzymano : ping + 141801 
+wysłano : ('msg_hej', 'rafal') + 141801 
+otrzymano : ping + 141801 
+wysłano : ('msg_si', 'jakubping') + 141801 
+otrzymano : ping + 141802 
+wysłano : ('msg_hej', 'rafal') + 141802 
+otrzymano : ping + 141802 
+wysłano : ('msg_si', 'jakubping') + 141802 
+otrzymano : ping + 141802 
+wysłano : ('msg_hej', 'rafal') + 141802 
+otrzymano : ping + 141802 
+wysłano : ('msg_si', 'jakubping') + 141802 
+otrzymano : ping + 141802 
+wysłano : ('msg_hej', 'rafal') + 141802 
+otrzymano : ping + 141802 
+wysłano : ('msg_si', 'jakubping') + 141802 
+otrzymano : ping + 141802 
+wysłano : ('msg_hej', 'rafal') + 141802 
+otrzymano : ping + 141802 
+wysłano : ('msg_si', 'jakubping') + 141802 
+otrzymano : ping + 141802 
+wysłano : ('msg_hej', 'rafal') + 141802 
+otrzymano : ping + 141802 
+wysłano : ('msg_si', 'jakubping') + 141802 
+otrzymano : ping + 141803 
+wysłano : ('msg_hej', 'rafal') + 141803 
+otrzymano : ping + 141803 
+wysłano : ('msg_si', 'jakubping') + 141803 
+otrzymano : ping + 141803 
+wysłano : ('msg_hej', 'rafal') + 141803 
+otrzymano : ping + 141803 
+wysłano : ('msg_si', 'jakubping') + 141803 
+otrzymano : ping + 141803 
+wysłano : ('msg_hej', 'rafal') + 141803 
+otrzymano : ping + 141803 
+wysłano : ('msg_si', 'jakubping') + 141803 
+otrzymano : ping + 141803 
+wysłano : ('msg_hej', 'rafal') + 141803 
+otrzymano : ping + 141803 
+wysłano : ('msg_si', 'jakubping') + 141803 
+otrzymano : ping + 141803 
+wysłano : ('msg_hej', 'rafal') + 141803 
+otrzymano : ping + 141804 
+wysłano : ('msg_si', 'jakubping') + 141804 
+otrzymano : ping + 141804 
+wysłano : ('msg_hej', 'rafal') + 141804 
+otrzymano : ping + 141804 
+wysłano : ('msg_si', 'jakubping') + 141804 
+otrzymano : ping + 141804 
+wysłano : ('msg_hej', 'rafal') + 141804 
+otrzymano : ping + 141804 
+wysłano : ('msg_si', 'jakubping') + 141804 
+otrzymano : ping + 141804 
+wysłano : ('msg_hej', 'rafal') + 141804 
+otrzymano : ping + 141804 
+wysłano : ('msg_si', 'jakubping') + 141804 
+otrzymano : ping + 141804 
+wysłano : ('msg_hej', 'rafal') + 141804 
+otrzymano : ping + 141804 
+wysłano : ('msg_si', 'jakubping') + 141804 
+otrzymano : ping + 141804 
+wysłano : ('msg_hej', 'rafal') + 141804 
+otrzymano : ping + 141805 
+wysłano : ('msg_si', 'jakubping') + 141805 
+otrzymano : ping + 141805 
+wysłano : ('msg_hej', 'rafal') + 141805 
+otrzymano : ping + 141805 
+wysłano : ('msg_si', 'jakubping') + 141805 
+otrzymano : ping + 141805 
+wysłano : ('msg_hej', 'rafal') + 141805 
+otrzymano : ping + 141805 
+wysłano : ('msg_si', 'jakubping') + 141805 
+otrzymano : ping + 141805 
+wysłano : ('msg_hej', 'rafal') + 141805 
+otrzymano : ping + 141805 
+wysłano : ('msg_si', 'jakubping') + 141805 
+otrzymano : ping + 141805 
+wysłano : ('msg_hej', 'rafal') + 141805 
+otrzymano : ping + 141805 
+wysłano : ('msg_si', 'jakubping') + 141805 
+otrzymano : ping + 141805 
+wysłano : ('msg_hej', 'rafal') + 141805 
+otrzymano : ping + 141806 
+wysłano : ('msg_si', 'jakubping') + 141806 
+otrzymano : ping + 141806 
+wysłano : ('msg_hej', 'rafal') + 141806 
+otrzymano : ping + 141806 
+wysłano : ('msg_si', 'jakubping') + 141806 
+otrzymano : ping + 141806 
+wysłano : ('msg_hej', 'rafal') + 141806 
+otrzymano : ping + 141806 
+wysłano : ('msg_si', 'jakubping') + 141806 
+otrzymano : ping + 141806 
+wysłano : ('msg_hej', 'rafal') + 141806 
+otrzymano : ping + 141806 
+wysłano : ('msg_si', 'jakubping') + 141806 
+otrzymano : ping + 141806 
+wysłano : ('msg_hej', 'rafal') + 141806 
+otrzymano : ping + 141806 
+wysłano : ('msg_si', 'jakubping') + 141806 
+otrzymano : ping + 141807 
+wysłano : ('msg_hej', 'rafal') + 141807 
+otrzymano : ping + 141807 
+wysłano : ('msg_si', 'jakubping') + 141807 
+otrzymano : ping + 141807 
+wysłano : ('msg_hej', 'rafal') + 141807 
+otrzymano : ping + 141807 
+wysłano : ('msg_si', 'jakubping') + 141807 
+otrzymano : ping + 141807 
+wysłano : ('msg_hej', 'rafal') + 141807 
+otrzymano : ping + 141807 
+wysłano : ('msg_si', 'jakubping') + 141807 
+otrzymano : ping + 141807 
+wysłano : ('msg_hej', 'rafal') + 141807 
+otrzymano : ping + 141807 
+wysłano : ('msg_si', 'jakubping') + 141807 
+otrzymano : ping + 141807 
+wysłano : ('msg_hej', 'rafal') + 141807 
+otrzymano : ping + 141807 
+wysłano : ('msg_si', 'jakubping') + 141807 
+otrzymano : ping + 141808 
+wysłano : ('msg_hej', 'rafal') + 141808 
+otrzymano : ping + 141808 
+wysłano : ('msg_si', 'jakubping') + 141808 
+otrzymano : ping + 141808 
+wysłano : ('msg_hej', 'rafal') + 141808 
+otrzymano : ping + 141808 
+wysłano : ('msg_si', 'jakubping') + 141808 
+otrzymano : ping + 141808 
+wysłano : ('msg_hej', 'rafal') + 141808 
+otrzymano : ping + 141808 
+wysłano : ('msg_si', 'jakubping') + 141808 
+otrzymano : ping + 141808 
+wysłano : ('msg_hej', 'rafal') + 141808 
+otrzymano : ping + 141808 
+wysłano : ('msg_si', 'jakubping') + 141808 
+otrzymano : ping + 141808 
+wysłano : ('msg_hej', 'rafal') + 141808 
+otrzymano : ping + 141808 
+wysłano : ('msg_si', 'jakubping') + 141808 
+otrzymano : ping + 141809 
+wysłano : ('msg_hej', 'rafal') + 141809 
+otrzymano : ping + 141809 
+wysłano : ('msg_si', 'jakubping') + 141809 
+otrzymano : ping + 141809 
+wysłano : ('msg_hej', 'rafal') + 141809 
+otrzymano : ping + 141809 
+wysłano : ('msg_si', 'jakubping') + 141809 
+otrzymano : ping + 141809 
+wysłano : ('msg_hej', 'rafal') + 141809 
+otrzymano : ping + 141809 
+wysłano : ('msg_si', 'jakubping') + 141809 
+otrzymano : ping + 141809 
+wysłano : ('msg_hej', 'rafal') + 141809 
+otrzymano : ping + 141809 
+wysłano : ('msg_si', 'jakubping') + 141809 
+otrzymano : ping + 141809 
+wysłano : ('msg_hej', 'rafal') + 141809 
+otrzymano : ping + 141809 
+wysłano : ('msg_si', 'jakubping') + 141809 
+otrzymano : ping + 141810 
+wysłano : ('msg_hej', 'rafal') + 141810 
+otrzymano : ping + 141810 
+wysłano : ('msg_si', 'jakubping') + 141810 
+otrzymano : ping + 141810 
+wysłano : ('msg_hej', 'rafal') + 141810 
+otrzymano : ping + 141810 
+wysłano : ('msg_si', 'jakubping') + 141810 
+otrzymano : ping + 141810 
+wysłano : ('msg_hej', 'rafal') + 141810 
+otrzymano : ping + 141810 
+wysłano : ('msg_si', 'jakubping') + 141810 
+otrzymano : ping + 141810 
+wysłano : ('msg_hej', 'rafal') + 141810 
+otrzymano : ping + 141810 
+wysłano : ('msg_si', 'jakubping') + 141810 
+otrzymano : ping + 141810 
+wysłano : ('msg_hej', 'rafal') + 141810 
+otrzymano : ping + 141810 
+wysłano : ('msg_si', 'jakubping') + 141810 
+otrzymano : ping + 141811 
+wysłano : ('msg_hej', 'rafal') + 141811 
+otrzymano : ping + 141811 
+wysłano : ('msg_si', 'jakubping') + 141811 
+otrzymano : ping + 141811 
+wysłano : ('msg_hej', 'rafal') + 141811 
+otrzymano : ping + 141811 
+wysłano : ('msg_si', 'jakubping') + 141811 
+otrzymano : ping + 141811 
+wysłano : ('msg_hej', 'rafal') + 141811 
+otrzymano : ping + 141811 
+wysłano : ('msg_si', 'jakubping') + 141811 
+otrzymano : ping + 141811 
+wysłano : ('msg_hej', 'rafal') + 141811 
+otrzymano : ping + 141811 
+wysłano : ('msg_si', 'jakubping') + 141811 
+otrzymano : ping + 141811 
+wysłano : ('msg_hej', 'rafal') + 141811 
+otrzymano : ping + 141811 
+wysłano : ('msg_si', 'jakubping') + 141811 
+otrzymano : ping + 141812 
+wysłano : ('msg_hej', 'rafal') + 141812 
+otrzymano : ping + 141812 
+wysłano : ('msg_si', 'jakubping') + 141812 
+otrzymano : ping + 141812 
+wysłano : ('msg_hej', 'rafal') + 141812 
+otrzymano : ping + 141812 
+wysłano : ('msg_si', 'jakubping') + 141812 
+otrzymano : ping + 141812 
+wysłano : ('msg_hej', 'rafal') + 141812 
+otrzymano : ping + 141812 
+wysłano : ('msg_si', 'jakubping') + 141812 
+otrzymano : ping + 141812 
+wysłano : ('msg_hej', 'rafal') + 141812 
+otrzymano : ping + 141812 
+wysłano : ('msg_si', 'jakubping') + 141812 
+otrzymano : ping + 141812 
+wysłano : ('msg_hej', 'rafal') + 141812 
+otrzymano : ping + 141812 
+wysłano : ('msg_si', 'jakubping') + 141812 
+otrzymano : ping + 141813 
+wysłano : ('msg_hej', 'rafal') + 141813 
+otrzymano : ping + 141813 
+wysłano : ('msg_si', 'jakubping') + 141813 
+otrzymano : ping + 141813 
+wysłano : ('msg_hej', 'rafal') + 141813 
+otrzymano : ping + 141813 
+wysłano : ('msg_si', 'jakubping') + 141813 
+otrzymano : ping + 141813 
+wysłano : ('msg_hej', 'rafal') + 141813 
+otrzymano : ping + 141813 
+wysłano : ('msg_si', 'jakubping') + 141813 
+otrzymano : ping + 141813 
+wysłano : ('msg_hej', 'rafal') + 141813 
+otrzymano : ping + 141813 
+wysłano : ('msg_si', 'jakubping') + 141813 
+otrzymano : ping + 141813 
+wysłano : ('msg_hej', 'rafal') + 141813 
+otrzymano : ping + 141813 
+wysłano : ('msg_si', 'jakubping') + 141813 
+otrzymano : ping + 141814 
+wysłano : ('msg_hej', 'rafal') + 141814 
+otrzymano : ping + 141814 
+wysłano : ('msg_si', 'jakubping') + 141814 
+otrzymano : ping + 141814 
+wysłano : ('msg_hej', 'rafal') + 141814 
+otrzymano : ping + 141814 
+wysłano : ('msg_si', 'jakubping') + 141814 
+otrzymano : ping + 141814 
+wysłano : ('msg_hej', 'rafal') + 141814 
+otrzymano : ping + 141814 
+wysłano : ('msg_si', 'jakubping') + 141814 
+otrzymano : ping + 141814 
+wysłano : ('msg_hej', 'rafal') + 141814 
+otrzymano : ping + 141814 
+wysłano : ('msg_si', 'jakubping') + 141814 
+otrzymano : ping + 141814 
+wysłano : ('msg_hej', 'rafal') + 141814 
+otrzymano : ping + 141815 
+wysłano : ('msg_si', 'jakubping') + 141815 
+otrzymano : ping + 141815 
+wysłano : ('msg_hej', 'rafal') + 141815 
+otrzymano : ping + 141815 
+wysłano : ('msg_si', 'jakubping') + 141815 
+otrzymano : ping + 141815 
+wysłano : ('msg_hej', 'rafal') + 141815 
+otrzymano : ping + 141815 
+wysłano : ('msg_si', 'jakubping') + 141815 
+otrzymano : ping + 141815 
+wysłano : ('msg_hej', 'rafal') + 141815 
+otrzymano : ping + 141815 
+wysłano : ('msg_si', 'jakubping') + 141815 
+otrzymano : ping + 141815 
+wysłano : ('msg_hej', 'rafal') + 141815 
+otrzymano : ping + 141815 
+wysłano : ('msg_si', 'jakubping') + 141815 
+otrzymano : ping + 141815 
+wysłano : ('msg_hej', 'rafal') + 141815 
+otrzymano : ping + 141816 
+wysłano : ('msg_si', 'jakubping') + 141816 
+otrzymano : ping + 141816 
+wysłano : ('msg_hej', 'rafal') + 141816 
+otrzymano : ping + 141816 
+wysłano : ('msg_si', 'jakubping') + 141816 
+otrzymano : ping + 141816 
+wysłano : ('msg_hej', 'rafal') + 141816 
+otrzymano : ping + 141816 
+wysłano : ('msg_si', 'jakubping') + 141816 
+otrzymano : ping + 141816 
+wysłano : ('msg_hej', 'rafal') + 141816 
+otrzymano : ping + 141816 
+wysłano : ('msg_si', 'jakubping') + 141816 
+otrzymano : ping + 141816 
+wysłano : ('msg_hej', 'rafal') + 141816 
+otrzymano : ping + 141816 
+wysłano : ('msg_si', 'jakubping') + 141816 
+otrzymano : ping + 141817 
+wysłano : ('msg_hej', 'rafal') + 141817 
+otrzymano : ping + 141817 
+wysłano : ('msg_si', 'jakubping') + 141817 
+otrzymano : ping + 141817 
+wysłano : ('msg_hej', 'rafal') + 141817 
+otrzymano : ping + 141817 
+wysłano : ('msg_si', 'jakubping') + 141817 
+otrzymano : ping + 141817 
+wysłano : ('msg_hej', 'rafal') + 141817 
+otrzymano : ping + 141817 
+wysłano : ('msg_si', 'jakubping') + 141817 
+otrzymano : ping + 141817 
+wysłano : ('msg_hej', 'rafal') + 141817 
+otrzymano : ping + 141817 
+wysłano : ('msg_si', 'jakubping') + 141817 
+otrzymano : ping + 141817 
+wysłano : ('msg_hej', 'rafal') + 141817 
+otrzymano : ping + 141817 
+wysłano : ('msg_si', 'jakubping') + 141817 
+otrzymano : ping + 141818 
+wysłano : ('msg_hej', 'rafal') + 141818 
+otrzymano : ping + 141818 
+wysłano : ('msg_si', 'jakubping') + 141818 
+otrzymano : ping + 141818 
+wysłano : ('msg_hej', 'rafal') + 141818 
+otrzymano : ping + 141818 
+wysłano : ('msg_si', 'jakubping') + 141818 
+otrzymano : ping + 141818 
+wysłano : ('msg_hej', 'rafal') + 141818 
+otrzymano : ping + 141818 
+wysłano : ('msg_si', 'jakubping') + 141818 
+otrzymano : ping + 141818 
+wysłano : ('msg_hej', 'rafal') + 141818 
+otrzymano : ping + 141818 
+wysłano : ('msg_si', 'jakubping') + 141818 
+otrzymano : ping + 141818 
+wysłano : ('msg_hej', 'rafal') + 141818 
+otrzymano : ping + 141818 
+wysłano : ('msg_si', 'jakubping') + 141818 
+otrzymano : ping + 141819 
+wysłano : ('msg_hej', 'rafal') + 141819 
+otrzymano : ping + 141819 
+wysłano : ('msg_si', 'jakubping') + 141819 
+otrzymano : ping + 141819 
+wysłano : ('msg_hej', 'rafal') + 141819 
+otrzymano : ping + 141819 
+wysłano : ('msg_si', 'jakubping') + 141819 
+otrzymano : ping + 141819 
+wysłano : ('msg_hej', 'rafal') + 141819 
+otrzymano : ping + 141819 
+wysłano : ('msg_si', 'jakubping') + 141819 
+otrzymano : ping + 141819 
+wysłano : ('msg_hej', 'rafal') + 141819 
+otrzymano : ping + 141819 
+wysłano : ('msg_si', 'jakubping') + 141819 
+otrzymano : ping + 141819 
+wysłano : ('msg_hej', 'rafal') + 141819 
+otrzymano : ping + 141819 
+wysłano : ('msg_si', 'jakubping') + 141819 
+otrzymano : ping + 141820 
+wysłano : ('msg_hej', 'rafal') + 141820 
+otrzymano : ping + 141820 
+wysłano : ('msg_si', 'jakubping') + 141820 
+otrzymano : ping + 141820 
+wysłano : ('msg_hej', 'rafal') + 141820 
+otrzymano : ping + 141820 
+wysłano : ('msg_si', 'jakubping') + 141820 
+otrzymano : ping + 141820 
+wysłano : ('msg_hej', 'rafal') + 141820 
+otrzymano : ping + 141820 
+wysłano : ('msg_si', 'jakubping') + 141820 
+otrzymano : ping + 141820 
+wysłano : ('msg_hej', 'rafal') + 141820 
+otrzymano : ping + 141820 
+wysłano : ('msg_si', 'jakubping') + 141820 
+otrzymano : ping + 141820 
+wysłano : ('msg_hej', 'rafal') + 141820 
+otrzymano : ping + 141820 
+wysłano : ('msg_si', 'jakubping') + 141820 
+otrzymano : ping + 141821 
+wysłano : ('msg_hej', 'rafal') + 141821 
+otrzymano : ping + 141821 
+wysłano : ('msg_si', 'jakubping') + 141821 
+otrzymano : ping + 141821 
+wysłano : ('msg_hej', 'rafal') + 141821 
+otrzymano : ping + 141821 
+wysłano : ('msg_si', 'jakubping') + 141821 
+otrzymano : ping + 141821 
+wysłano : ('msg_hej', 'rafal') + 141821 
+otrzymano : ping + 141821 
+wysłano : ('msg_si', 'jakubping') + 141821 
+otrzymano : ping + 141821 
+wysłano : ('msg_hej', 'rafal') + 141821 
+otrzymano : ping + 141821 
+wysłano : ('msg_si', 'jakubping') + 141821 
+otrzymano : ping + 141821 
+wysłano : ('msg_hej', 'rafal') + 141821 
+otrzymano : ping + 141821 
+wysłano : ('msg_si', 'jakubping') + 141821 
+otrzymano : ping + 141822 
+wysłano : ('msg_hej', 'rafal') + 141822 
+otrzymano : ping + 141822 
+wysłano : ('msg_si', 'jakubping') + 141822 
+otrzymano : ping + 141822 
+wysłano : ('msg_hej', 'rafal') + 141822 
+otrzymano : ping + 141822 
+wysłano : ('msg_si', 'jakubping') + 141822 
+otrzymano : ping + 141822 
+wysłano : ('msg_hej', 'rafal') + 141822 
+otrzymano : ping + 141822 
+wysłano : ('msg_si', 'jakubping') + 141822 
+otrzymano : ping + 141822 
+wysłano : ('msg_hej', 'rafal') + 141822 
+otrzymano : ping + 141822 
+wysłano : ('msg_si', 'jakubping') + 141822 
+otrzymano : ping + 141822 
+wysłano : ('msg_hej', 'rafal') + 141822 
+otrzymano : ping + 141822 
+wysłano : ('msg_si', 'jakubping') + 141822 
+otrzymano : ping + 141823 
+wysłano : ('msg_hej', 'rafal') + 141823 
+otrzymano : ping + 141823 
+wysłano : ('msg_si', 'jakubping') + 141823 
+otrzymano : ping + 141823 
+wysłano : ('msg_hej', 'rafal') + 141823 
+otrzymano : ping + 141823 
+wysłano : ('msg_si', 'jakubping') + 141823 
+otrzymano : ping + 141823 
+wysłano : ('msg_hej', 'rafal') + 141823 
+otrzymano : ping + 141823 
+wysłano : ('msg_si', 'jakubping') + 141823 
+otrzymano : ping + 141823 
+wysłano : ('msg_hej', 'rafal') + 141823 
+otrzymano : ping + 141823 
+wysłano : ('msg_si', 'jakubping') + 141823 
+otrzymano : ping + 141823 
+wysłano : ('msg_hej', 'rafal') + 141823 
+otrzymano : ping + 141823 
+wysłano : ('msg_si', 'jakubping') + 141823 
+otrzymano : ping + 141824 
+wysłano : ('msg_hej', 'rafal') + 141824 
+otrzymano : ping + 141824 
+wysłano : ('msg_si', 'jakubping') + 141824 
+otrzymano : ping + 141824 
+wysłano : ('msg_hej', 'rafal') + 141824 
+otrzymano : ping + 141824 
+wysłano : ('msg_si', 'jakubping') + 141824 
+otrzymano : ping + 141824 
+wysłano : ('msg_hej', 'rafal') + 141824 
+otrzymano : ping + 141824 
+wysłano : ('msg_si', 'jakubping') + 141824 
+otrzymano : ping + 141824 
+wysłano : ('msg_hej', 'rafal') + 141824 
+otrzymano : ping + 141824 
+wysłano : ('msg_si', 'jakubping') + 141824 
+otrzymano : ping + 141824 
+wysłano : ('msg_hej', 'rafal') + 141824 
+otrzymano : ping + 141824 
+wysłano : ('msg_si', 'jakubping') + 141824 
+otrzymano : ping + 141825 
+wysłano : ('msg_hej', 'rafal') + 141825 
+otrzymano : ping + 141825 
+wysłano : ('msg_si', 'jakubping') + 141825 
+otrzymano : ping + 141825 
+wysłano : ('msg_hej', 'rafal') + 141825 
+otrzymano : ping + 141825 
+wysłano : ('msg_si', 'jakubping') + 141825 
+otrzymano : ping + 141825 
+wysłano : ('msg_hej', 'rafal') + 141825 
+otrzymano : ping + 141825 
+wysłano : ('msg_si', 'jakubping') + 141825 
+otrzymano : ping + 141825 
+wysłano : ('msg_hej', 'rafal') + 141825 
+otrzymano : ping + 141825 
+wysłano : ('msg_si', 'jakubping') + 141825 
+otrzymano : ping + 141825 
+wysłano : ('msg_hej', 'rafal') + 141825 
+otrzymano : ping + 141825 
+wysłano : ('msg_si', 'jakubping') + 141825 
+otrzymano : ping + 141826 
+wysłano : ('msg_hej', 'rafal') + 141826 
+otrzymano : ping + 141826 
+wysłano : ('msg_si', 'jakubping') + 141826 
+otrzymano : ping + 141826 
+wysłano : ('msg_hej', 'rafal') + 141826 
+otrzymano : ping + 141826 
+wysłano : ('msg_si', 'jakubping') + 141826 
+otrzymano : ping + 141826 
+wysłano : ('msg_hej', 'rafal') + 141826 
+otrzymano : ping + 141826 
+wysłano : ('msg_si', 'jakubping') + 141826 
+otrzymano : ping + 141826 
+wysłano : ('msg_hej', 'rafal') + 141826 
+otrzymano : ping + 141826 
+wysłano : ('msg_si', 'jakubping') + 141826 
+otrzymano : ping + 141826 
+wysłano : ('msg_hej', 'rafal') + 141826 
+otrzymano : ping + 141827 
+wysłano : ('msg_si', 'jakubping') + 141827 
+otrzymano : ping + 141827 
+wysłano : ('msg_hej', 'rafal') + 141827 
+otrzymano : ping + 141827 
+wysłano : ('msg_si', 'jakubping') + 141827 
+otrzymano : ping + 141827 
+wysłano : ('msg_hej', 'rafal') + 141827 
+otrzymano : ping + 141827 
+wysłano : ('msg_si', 'jakubping') + 141827 
+otrzymano : ping + 141827 
+wysłano : ('msg_hej', 'rafal') + 141827 
+otrzymano : ping + 141827 
+wysłano : ('msg_si', 'jakubping') + 141827 
+otrzymano : ping + 141827 
+wysłano : ('msg_hej', 'rafal') + 141827 
+otrzymano : ping + 141827 
+wysłano : ('msg_si', 'jakubping') + 141827 
+otrzymano : ping + 141828 
+wysłano : ('msg_hej', 'rafal') + 141828 
+otrzymano : ping + 141828 
+wysłano : ('msg_si', 'jakubping') + 141828 
+otrzymano : ping + 141828 
+wysłano : ('msg_hej', 'rafal') + 141828 
+otrzymano : ping + 141828 
+wysłano : ('msg_si', 'jakubping') + 141828 
+otrzymano : ping + 141828 
+wysłano : ('msg_hej', 'rafal') + 141828 
+otrzymano : ping + 141828 
+wysłano : ('msg_si', 'jakubping') + 141828 
+otrzymano : ping + 141828 
+wysłano : ('msg_hej', 'rafal') + 141828 
+otrzymano : ping + 141828 
+wysłano : ('msg_si', 'jakubping') + 141828 
+otrzymano : ping + 141828 
+wysłano : ('msg_hej', 'rafal') + 141828 
+otrzymano : ping + 141828 
+wysłano : ('msg_si', 'jakubping') + 141828 
+otrzymano : ping + 141829 
+wysłano : ('msg_hej', 'rafal') + 141829 
+otrzymano : ping + 141829 
+wysłano : ('msg_si', 'jakubping') + 141829 
+otrzymano : ping + 141829 
+wysłano : ('msg_hej', 'rafal') + 141829 
+otrzymano : ping + 141829 
+wysłano : ('msg_si', 'jakubping') + 141829 
+otrzymano : ping + 141829 
+wysłano : ('msg_hej', 'rafal') + 141829 
+otrzymano : ping + 141829 
+wysłano : ('msg_si', 'jakubping') + 141829 
+otrzymano : ping + 141829 
+wysłano : ('msg_hej', 'rafal') + 141829 
+otrzymano : ping + 141829 
+wysłano : ('msg_si', 'jakubping') + 141829 
+otrzymano : ping + 141829 
+wysłano : ('msg_hej', 'rafal') + 141829 
+otrzymano : ping + 141829 
+wysłano : ('msg_si', 'jakubping') + 141829 
+otrzymano : ping + 141830 
+wysłano : ('msg_hej', 'rafal') + 141830 
+otrzymano : ping + 141830 
+wysłano : ('msg_si', 'jakubping') + 141830 
+otrzymano : ping + 141830 
+wysłano : ('msg_hej', 'rafal') + 141830 
+otrzymano : ping + 141830 
+wysłano : ('msg_si', 'jakubping') + 141830 
+otrzymano : ping + 141830 
+wysłano : ('msg_hej', 'rafal') + 141830 
+otrzymano : ping + 141830 
+wysłano : ('msg_si', 'jakubping') + 141830 
+otrzymano : ping + 141830 
+wysłano : ('msg_hej', 'rafal') + 141830 
+otrzymano : ping + 141830 
+wysłano : ('msg_si', 'jakubping') + 141830 
+otrzymano : ping + 141830 
+wysłano : ('msg_hej', 'rafal') + 141830 
+otrzymano : ping + 141830 
+wysłano : ('msg_si', 'jakubping') + 141830 
+otrzymano : ping + 141831 
+wysłano : ('msg_hej', 'rafal') + 141831 
+otrzymano : ping + 141831 
+wysłano : ('msg_si', 'jakubping') + 141831 
+otrzymano : ping + 141831 
+wysłano : ('msg_hej', 'rafal') + 141831 
+otrzymano : ping + 141831 
+wysłano : ('msg_si', 'jakubping') + 141831 
+otrzymano : ping + 141831 
+wysłano : ('msg_hej', 'rafal') + 141831 
+otrzymano : ping + 141831 
+wysłano : ('msg_si', 'jakubping') + 141831 
+otrzymano : ping + 141831 
+wysłano : ('msg_hej', 'rafal') + 141831 
+otrzymano : ping + 141831 
+wysłano : ('msg_si', 'jakubping') + 141831 
+otrzymano : ping + 141831 
+wysłano : ('msg_hej', 'rafal') + 141831 
+otrzymano : ping + 141831 
+wysłano : ('msg_si', 'jakubping') + 141831 
+otrzymano : ping + 141832 
+wysłano : ('msg_hej', 'rafal') + 141832 
+otrzymano : ping + 141832 
+wysłano : ('msg_si', 'jakubping') + 141832 
+otrzymano : ping + 141832 
+wysłano : ('msg_hej', 'rafal') + 141832 
+otrzymano : ping + 141832 
+wysłano : ('msg_si', 'jakubping') + 141832 
+otrzymano : ping + 141832 
+wysłano : ('msg_hej', 'rafal') + 141832 
+otrzymano : ping + 141832 
+wysłano : ('msg_si', 'jakubping') + 141832 
+otrzymano : ping + 141832 
+wysłano : ('msg_hej', 'rafal') + 141832 
+otrzymano : ping + 141832 
+wysłano : ('msg_si', 'jakubping') + 141832 
+otrzymano : ping + 141832 
+wysłano : ('msg_hej', 'rafal') + 141832 
+otrzymano : ping + 141832 
+wysłano : ('msg_si', 'jakubping') + 141832 
+otrzymano : ping + 141833 
+wysłano : ('msg_hej', 'rafal') + 141833 
+otrzymano : ping + 141833 
+wysłano : ('msg_si', 'jakubping') + 141833 
+otrzymano : ping + 141833 
+wysłano : ('msg_hej', 'rafal') + 141833 
+otrzymano : ping + 141833 
+wysłano : ('msg_si', 'jakubping') + 141833 
+otrzymano : ping + 141833 
+wysłano : ('msg_hej', 'rafal') + 141833 
+otrzymano : ping + 141833 
+wysłano : ('msg_si', 'jakubping') + 141833 
+otrzymano : ping + 141833 
+wysłano : ('msg_hej', 'rafal') + 141833 
+otrzymano : ping + 141833 
+wysłano : ('msg_si', 'jakubping') + 141833 
+otrzymano : ping + 141833 
+wysłano : ('msg_hej', 'rafal') + 141833 
+otrzymano : ping + 141833 
+wysłano : ('msg_si', 'jakubping') + 141833 
+otrzymano : ping + 141834 
+wysłano : ('msg_hej', 'rafal') + 141834 
+otrzymano : ping + 141834 
+wysłano : ('msg_si', 'jakubping') + 141834 
+otrzymano : ping + 141834 
+wysłano : ('msg_hej', 'rafal') + 141834 
+otrzymano : ping + 141834 
+wysłano : ('msg_si', 'jakubping') + 141834 
+otrzymano : ping + 141834 
+wysłano : ('msg_hej', 'rafal') + 141834 
+otrzymano : ping + 141834 
+wysłano : ('msg_si', 'jakubping') + 141834 
+otrzymano : ping + 141834 
+wysłano : ('msg_hej', 'rafal') + 141834 
+otrzymano : ping + 141834 
+wysłano : ('msg_si', 'jakubping') + 141834 
+otrzymano : ping + 141834 
+wysłano : ('msg_hej', 'rafal') + 141834 
+otrzymano : ping + 141834 
+wysłano : ('msg_si', 'jakubping') + 141834 
+otrzymano : ping + 141835 
+wysłano : ('msg_hej', 'rafal') + 141835 
+otrzymano : ping + 141835 
+wysłano : ('msg_si', 'jakubping') + 141835 
+otrzymano : ping + 141835 
+wysłano : ('msg_hej', 'rafal') + 141835 
+otrzymano : ping + 141835 
+wysłano : ('msg_si', 'jakubping') + 141835 
+otrzymano : ping + 141835 
+wysłano : ('msg_hej', 'rafal') + 141835 
+otrzymano : ping + 141835 
+wysłano : ('msg_si', 'jakubping') + 141835 
+otrzymano : ping + 141835 
+wysłano : ('msg_hej', 'rafal') + 141835 
+otrzymano : ping + 141835 
+wysłano : ('msg_si', 'jakubping') + 141835 
+otrzymano : ping + 141835 
+wysłano : ('msg_hej', 'rafal') + 141835 
+otrzymano : ping + 141836 
+wysłano : ('msg_si', 'jakubping') + 141836 
+otrzymano : ping + 141836 
+wysłano : ('msg_hej', 'rafal') + 141836 
+otrzymano : ping + 141836 
+wysłano : ('msg_si', 'jakubping') + 141836 
+otrzymano : ping + 141836 
+wysłano : ('msg_hej', 'rafal') + 141836 
+otrzymano : ping + 141836 
+wysłano : ('msg_si', 'jakubping') + 141836 
+otrzymano : ping + 141836 
+wysłano : ('msg_hej', 'rafal') + 141836 
+otrzymano : ping + 141836 
+wysłano : ('msg_si', 'jakubping') + 141836 
+otrzymano : ping + 141836 
+wysłano : ('msg_hej', 'rafal') + 141836 
+otrzymano : ping + 141836 
+wysłano : ('msg_si', 'jakubping') + 141836 
+otrzymano : ping + 141837 
+wysłano : ('msg_hej', 'rafal') + 141837 
+otrzymano : ping + 141837 
+wysłano : ('msg_si', 'jakubping') + 141837 
+otrzymano : ping + 141837 
+wysłano : ('msg_hej', 'rafal') + 141837 
+otrzymano : ping + 141837 
+wysłano : ('msg_si', 'jakubping') + 141837 
+otrzymano : ping + 141837 
+wysłano : ('msg_hej', 'rafal') + 141837 
+otrzymano : ping + 141837 
+wysłano : ('msg_si', 'jakubping') + 141837 
+otrzymano : ping + 141837 
+wysłano : ('msg_hej', 'rafal') + 141837 
+otrzymano : ping + 141837 
+wysłano : ('msg_si', 'jakubping') + 141837 
+otrzymano : ping + 141837 
+wysłano : ('msg_hej', 'rafal') + 141837 
+otrzymano : ping + 141837 
+wysłano : ('msg_si', 'jakubping') + 141837 
+otrzymano : ping + 141838 
+wysłano : ('msg_hej', 'rafal') + 141838 
+otrzymano : ping + 141838 
+wysłano : ('msg_si', 'jakubping') + 141838 
+otrzymano : ping + 141838 
+wysłano : ('msg_hej', 'rafal') + 141838 
+otrzymano : ping + 141838 
+wysłano : ('msg_si', 'jakubping') + 141838 
+otrzymano : ping + 141838 
+wysłano : ('msg_hej', 'rafal') + 141838 
+otrzymano : ping + 141838 
+wysłano : ('msg_si', 'jakubping') + 141838 
+otrzymano : ping + 141838 
+wysłano : ('msg_hej', 'rafal') + 141838 
+otrzymano : ping + 141838 
+wysłano : ('msg_si', 'jakubping') + 141838 
+otrzymano : ping + 141838 
+wysłano : ('msg_hej', 'rafal') + 141838 
+otrzymano : ping + 141838 
+wysłano : ('msg_si', 'jakubping') + 141838 
+otrzymano : ping + 141839 
+wysłano : ('msg_hej', 'rafal') + 141839 
+otrzymano : ping + 141839 
+wysłano : ('msg_si', 'jakubping') + 141839 
+otrzymano : ping + 141839 
+wysłano : ('msg_hej', 'rafal') + 141839 
+otrzymano : ping + 141839 
+wysłano : ('msg_si', 'jakubping') + 141839 
+otrzymano : ping + 141839 
+wysłano : ('msg_hej', 'rafal') + 141839 
+otrzymano : ping + 141839 
+wysłano : ('msg_si', 'jakubping') + 141839 
+otrzymano : ping + 141839 
+wysłano : ('msg_hej', 'rafal') + 141839 
+otrzymano : ping + 141839 
+wysłano : ('msg_si', 'jakubping') + 141839 
+otrzymano : ping + 141839 
+wysłano : ('msg_hej', 'rafal') + 141839 
+otrzymano : ping + 141839 
+wysłano : ('msg_si', 'jakubping') + 141839 
+otrzymano : ping + 141840 
+wysłano : ('msg_hej', 'rafal') + 141840 
+otrzymano : ping + 141840 
+wysłano : ('msg_si', 'jakubping') + 141840 
+otrzymano : ping + 141840 
+wysłano : ('msg_hej', 'rafal') + 141840 
+otrzymano : ping + 141840 
+wysłano : ('msg_si', 'jakubping') + 141840 
+otrzymano : ping + 141840 
+wysłano : ('msg_hej', 'rafal') + 141840 
+otrzymano : ping + 141840 
+wysłano : ('msg_si', 'jakubping') + 141840 
+otrzymano : ping + 141840 
+wysłano : ('msg_hej', 'rafal') + 141840 
+otrzymano : ping + 141840 
+wysłano : ('msg_si', 'jakubping') + 141840 
+otrzymano : ping + 141840 
+wysłano : ('msg_hej', 'rafal') + 141840 
+otrzymano : ping + 141840 
+wysłano : ('msg_si', 'jakubping') + 141840 
+otrzymano : ping + 141841 
+wysłano : ('msg_hej', 'rafal') + 141841 
+otrzymano : ping + 141841 
+wysłano : ('msg_si', 'jakubping') + 141841 
+otrzymano : ping + 141841 
+wysłano : ('msg_hej', 'rafal') + 141841 
+otrzymano : ping + 141841 
+wysłano : ('msg_si', 'jakubping') + 141841 
+otrzymano : ping + 141841 
+wysłano : ('msg_hej', 'rafal') + 141841 
+otrzymano : ping + 141841 
+wysłano : ('msg_si', 'jakubping') + 141841 
+otrzymano : ping + 141841 
+wysłano : ('msg_hej', 'rafal') + 141841 
+otrzymano : ping + 141841 
+wysłano : ('msg_si', 'jakubping') + 141841 
+otrzymano : ping + 141841 
+wysłano : ('msg_hej', 'rafal') + 141841 
+otrzymano : ping + 141841 
+wysłano : ('msg_si', 'jakubping') + 141841 
+otrzymano : ping + 141842 
+wysłano : ('msg_hej', 'rafal') + 141842 
+otrzymano : ping + 141842 
+wysłano : ('msg_si', 'jakubping') + 141842 
+otrzymano : ping + 141842 
+wysłano : ('msg_hej', 'rafal') + 141842 
+otrzymano : ping + 141842 
+wysłano : ('msg_si', 'jakubping') + 141842 
+otrzymano : ping + 141842 
+wysłano : ('msg_hej', 'rafal') + 141842 
+otrzymano : ping + 141842 
+wysłano : ('msg_si', 'jakubping') + 141842 
+otrzymano : ping + 141842 
+wysłano : ('msg_hej', 'rafal') + 141842 
+otrzymano : ping + 141842 
+wysłano : ('msg_si', 'jakubping') + 141842 
+otrzymano : ping + 141842 
+wysłano : ('msg_hej', 'rafal') + 141842 
+otrzymano : ping + 141842 
+wysłano : ('msg_si', 'jakubping') + 141842 
+otrzymano : ping + 141843 
+wysłano : ('msg_hej', 'rafal') + 141843 
+otrzymano : ping + 141843 
+wysłano : ('msg_si', 'jakubping') + 141843 
+otrzymano : ping + 141843 
+wysłano : ('msg_hej', 'rafal') + 141843 
+otrzymano : ping + 141843 
+wysłano : ('msg_si', 'jakubping') + 141843 
+otrzymano : ping + 141843 
+wysłano : ('msg_hej', 'rafal') + 141843 
+otrzymano : ping + 141843 
+wysłano : ('msg_si', 'jakubping') + 141843 
+otrzymano : ping + 141843 
+wysłano : ('msg_hej', 'rafal') + 141843 
+otrzymano : ping + 141843 
+wysłano : ('msg_si', 'jakubping') + 141843 
+otrzymano : ping + 141843 
+wysłano : ('msg_hej', 'rafal') + 141843 
+otrzymano : ping + 141843 
+wysłano : ('msg_si', 'jakubping') + 141843 
+otrzymano : ping + 141844 
+wysłano : ('msg_hej', 'rafal') + 141844 
+otrzymano : ping + 141844 
+wysłano : ('msg_si', 'jakubping') + 141844 
+otrzymano : ping + 141844 
+wysłano : ('msg_hej', 'rafal') + 141844 
+otrzymano : ping + 141844 
+wysłano : ('msg_si', 'jakubping') + 141844 
+otrzymano : ping + 141844 
+wysłano : ('msg_hej', 'rafal') + 141844 
+otrzymano : ping + 141844 
+wysłano : ('msg_si', 'jakubping') + 141844 
+otrzymano : ping + 141844 
+wysłano : ('msg_hej', 'rafal') + 141844 
+otrzymano : ping + 141844 
+wysłano : ('msg_si', 'jakubping') + 141844 
+otrzymano : ping + 141844 
+wysłano : ('msg_hej', 'rafal') + 141844 
+otrzymano : ping + 141844 
+wysłano : ('msg_si', 'jakubping') + 141844 
+otrzymano : ping + 141845 
+wysłano : ('msg_hej', 'rafal') + 141845 
+otrzymano : ping + 141845 
+wysłano : ('msg_si', 'jakubping') + 141845 
+otrzymano : ping + 141845 
+wysłano : ('msg_hej', 'rafal') + 141845 
+otrzymano : ping + 141845 
+wysłano : ('msg_si', 'jakubping') + 141845 
+otrzymano : ping + 141845 
+wysłano : ('msg_hej', 'rafal') + 141845 
+otrzymano : ping + 141845 
+wysłano : ('msg_si', 'jakubping') + 141845 
+otrzymano : ping + 141845 
+wysłano : ('msg_hej', 'rafal') + 141845 
+otrzymano : ping + 141845 
+wysłano : ('msg_si', 'jakubping') + 141845 
+otrzymano : ping + 141845 
+wysłano : ('msg_hej', 'rafal') + 141845 
+otrzymano : ping + 141845 
+wysłano : ('msg_si', 'jakubping') + 141845 
+otrzymano : ping + 141846 
+wysłano : ('msg_hej', 'rafal') + 141846 
+otrzymano : ping + 141846 
+wysłano : ('msg_si', 'jakubping') + 141846 
+otrzymano : ping + 141846 
+wysłano : ('msg_hej', 'rafal') + 141846 
+otrzymano : ping + 141846 
+wysłano : ('msg_si', 'jakubping') + 141846 
+otrzymano : ping + 141846 
+wysłano : ('msg_hej', 'rafal') + 141846 
+otrzymano : ping + 141846 
+wysłano : ('msg_si', 'jakubping') + 141846 
+otrzymano : ping + 141846 
+wysłano : ('msg_hej', 'rafal') + 141846 
+otrzymano : ping + 141846 
+wysłano : ('msg_si', 'jakubping') + 141846 
+otrzymano : ping + 141846 
+wysłano : ('msg_hej', 'rafal') + 141846 
+otrzymano : ping + 141846 
+wysłano : ('msg_si', 'jakubping') + 141846 
+otrzymano : ping + 141847 
+wysłano : ('msg_hej', 'rafal') + 141847 
+otrzymano : ping + 141847 
+wysłano : ('msg_si', 'jakubping') + 141847 
+otrzymano : ping + 141847 
+wysłano : ('msg_hej', 'rafal') + 141847 
+otrzymano : ping + 141847 
+wysłano : ('msg_si', 'jakubping') + 141847 
+otrzymano : ping + 141847 
+wysłano : ('msg_hej', 'rafal') + 141847 
+otrzymano : ping + 141847 
+wysłano : ('msg_si', 'jakubping') + 141847 
+otrzymano : ping + 141847 
+wysłano : ('msg_hej', 'rafal') + 141847 
+otrzymano : ping + 141847 
+wysłano : ('msg_si', 'jakubping') + 141847 
+otrzymano : ping + 141847 
+wysłano : ('msg_hej', 'rafal') + 141847 
+otrzymano : ping + 141848 
+wysłano : ('msg_si', 'jakubping') + 141848 
+otrzymano : ping + 141848 
+wysłano : ('msg_hej', 'rafal') + 141848 
+otrzymano : ping + 141848 
+wysłano : ('msg_si', 'jakubping') + 141848 
+otrzymano : ping + 141848 
+wysłano : ('msg_hej', 'rafal') + 141848 
+otrzymano : ping + 141848 
+wysłano : ('msg_si', 'jakubping') + 141848 
+otrzymano : ping + 141848 
+wysłano : ('msg_hej', 'rafal') + 141848 
+otrzymano : ping + 141848 
+wysłano : ('msg_si', 'jakubping') + 141848 
+otrzymano : ping + 141848 
+wysłano : ('msg_hej', 'rafal') + 141848 
+otrzymano : ping + 141848 
+wysłano : ('msg_si', 'jakubping') + 141848 
+otrzymano : ping + 141848 
+wysłano : ('msg_hej', 'rafal') + 141848 
+otrzymano : ping + 141849 
+wysłano : ('msg_si', 'jakubping') + 141849 
+otrzymano : ping + 141849 
+wysłano : ('msg_hej', 'rafal') + 141849 
+otrzymano : ping + 141849 
+wysłano : ('msg_si', 'jakubping') + 141849 
+otrzymano : ping + 141849 
+wysłano : ('msg_hej', 'rafal') + 141849 
+otrzymano : ping + 141849 
+wysłano : ('msg_si', 'jakubping') + 141849 
+otrzymano : ping + 141849 
+wysłano : ('msg_hej', 'rafal') + 141849 
+otrzymano : ping + 141849 
+wysłano : ('msg_si', 'jakubping') + 141849 
+otrzymano : ping + 141849 
+wysłano : ('msg_hej', 'rafal') + 141849 
+otrzymano : ping + 141849 
+wysłano : ('msg_si', 'jakubping') + 141849 
+otrzymano : ping + 141850 
+wysłano : ('msg_hej', 'rafal') + 141850 
+otrzymano : ping + 141850 
+wysłano : ('msg_si', 'jakubping') + 141850 
+otrzymano : ping + 141850 
+wysłano : ('msg_hej', 'rafal') + 141850 
+otrzymano : ping + 141850 
+wysłano : ('msg_si', 'jakubping') + 141850 
+otrzymano : ping + 141850 
+wysłano : ('msg_hej', 'rafal') + 141850 
+otrzymano : ping + 141850 
+wysłano : ('msg_si', 'jakubping') + 141850 
+otrzymano : ping + 141850 
+wysłano : ('msg_hej', 'rafal') + 141850 
+otrzymano : ping + 141850 
+wysłano : ('msg_si', 'jakubping') + 141850 
+otrzymano : ping + 141850 
+wysłano : ('msg_hej', 'rafal') + 141850 
+otrzymano : ping + 141850 
+wysłano : ('msg_si', 'jakubping') + 141850 
+otrzymano : ping + 141851 
+wysłano : ('msg_hej', 'rafal') + 141851 
+otrzymano : ping + 141851 
+wysłano : ('msg_si', 'jakubping') + 141851 
+otrzymano : ping + 141851 
+wysłano : ('msg_hej', 'rafal') + 141851 
+otrzymano : ping + 141851 
+wysłano : ('msg_si', 'jakubping') + 141851 
+otrzymano : ping + 141851 
+wysłano : ('msg_hej', 'rafal') + 141851 
+otrzymano : ping + 141851 
+wysłano : ('msg_si', 'jakubping') + 141851 
+otrzymano : ping + 141851 
+wysłano : ('msg_hej', 'rafal') + 141851 
+otrzymano : ping + 141851 
+wysłano : ('msg_si', 'jakubping') + 141851 
+otrzymano : ping + 141851 
+wysłano : ('msg_hej', 'rafal') + 141851 
+otrzymano : ping + 141851 
+wysłano : ('msg_si', 'jakubping') + 141851 
+otrzymano : ping + 141852 
+wysłano : ('msg_hej', 'rafal') + 141852 
+otrzymano : ping + 141852 
+wysłano : ('msg_si', 'jakubping') + 141852 
+otrzymano : ping + 141852 
+wysłano : ('msg_hej', 'rafal') + 141852 
+otrzymano : ping + 141852 
+wysłano : ('msg_si', 'jakubping') + 141852 
+otrzymano : ping + 141852 
+wysłano : ('msg_hej', 'rafal') + 141852 
+otrzymano : ping + 141852 
+wysłano : ('msg_si', 'jakubping') + 141852 
+otrzymano : ping + 141852 
+wysłano : ('msg_hej', 'rafal') + 141852 
+otrzymano : ping + 141852 
+wysłano : ('msg_si', 'jakubping') + 141852 
+otrzymano : ping + 141852 
+wysłano : ('msg_hej', 'rafal') + 141852 
+otrzymano : ping + 141852 
+wysłano : ('msg_si', 'jakubping') + 141852 
+otrzymano : ping + 141853 
+wysłano : ('msg_hej', 'rafal') + 141853 
+otrzymano : ping + 141853 
+wysłano : ('msg_si', 'jakubping') + 141853 
+otrzymano : ping + 141853 
+wysłano : ('msg_hej', 'rafal') + 141853 
+otrzymano : ping + 141853 
+wysłano : ('msg_si', 'jakubping') + 141853 
+otrzymano : ping + 141853 
+wysłano : ('msg_hej', 'rafal') + 141853 
+otrzymano : ping + 141853 
+wysłano : ('msg_si', 'jakubping') + 141853 
+otrzymano : ping + 141853 
+wysłano : ('msg_hej', 'rafal') + 141853 
+otrzymano : ping + 141853 
+wysłano : ('msg_si', 'jakubping') + 141853 
+otrzymano : ping + 141853 
+wysłano : ('msg_hej', 'rafal') + 141853 
+otrzymano : ping + 141853 
+wysłano : ('msg_si', 'jakubping') + 141853 
+otrzymano : ping + 141854 
+wysłano : ('msg_hej', 'rafal') + 141854 
+otrzymano : ping + 141854 
+wysłano : ('msg_si', 'jakubping') + 141854 
+otrzymano : ping + 141854 
+wysłano : ('msg_hej', 'rafal') + 141854 
+otrzymano : ping + 141854 
+wysłano : ('msg_si', 'jakubping') + 141854 
+otrzymano : ping + 141854 
+wysłano : ('msg_hej', 'rafal') + 141854 
+otrzymano : ping + 141854 
+wysłano : ('msg_si', 'jakubping') + 141854 
+otrzymano : ping + 141854 
+wysłano : ('msg_hej', 'rafal') + 141854 
+otrzymano : ping + 141854 
+wysłano : ('msg_si', 'jakubping') + 141854 
+otrzymano : ping + 141854 
+wysłano : ('msg_hej', 'rafal') + 141854 
+otrzymano : ping + 141854 
+wysłano : ('msg_si', 'jakubping') + 141854 
+otrzymano : ping + 141855 
+wysłano : ('msg_hej', 'rafal') + 141855 
+otrzymano : ping + 141855 
+wysłano : ('msg_si', 'jakubping') + 141855 
+otrzymano : ping + 141855 
+wysłano : ('msg_hej', 'rafal') + 141855 
+otrzymano : ping + 141855 
+wysłano : ('msg_si', 'jakubping') + 141855 
+otrzymano : ping + 141855 
+wysłano : ('msg_hej', 'rafal') + 141855 
+otrzymano : ping + 141855 
+wysłano : ('msg_si', 'jakubping') + 141855 
+otrzymano : ping + 141855 
+wysłano : ('msg_hej', 'rafal') + 141855 
+otrzymano : ping + 141855 
+wysłano : ('msg_si', 'jakubping') + 141855 
+otrzymano : ping + 141855 
+wysłano : ('msg_hej', 'rafal') + 141855 
+otrzymano : ping + 141855 
+wysłano : ('msg_si', 'jakubping') + 141855 
+otrzymano : ping + 141856 
+wysłano : ('msg_hej', 'rafal') + 141856 
+otrzymano : ping + 141856 
+wysłano : ('msg_si', 'jakubping') + 141856 
+otrzymano : ping + 141856 
+wysłano : ('msg_hej', 'rafal') + 141856 
+otrzymano : ping + 141856 
+wysłano : ('msg_si', 'jakubping') + 141856 
+otrzymano : ping + 141856 
+wysłano : ('msg_hej', 'rafal') + 141856 
+otrzymano : ping + 141856 
+wysłano : ('msg_si', 'jakubping') + 141856 
+otrzymano : ping + 141856 
+wysłano : ('msg_hej', 'rafal') + 141856 
+otrzymano : ping + 141856 
+wysłano : ('msg_si', 'jakubping') + 141856 
+otrzymano : ping + 141856 
+wysłano : ('msg_hej', 'rafal') + 141856 
+otrzymano : ping + 141856 
+wysłano : ('msg_si', 'jakubping') + 141856 
+otrzymano : ping + 141857 
+wysłano : ('msg_hej', 'rafal') + 141857 
+otrzymano : ping + 141857 
+wysłano : ('msg_si', 'jakubping') + 141857 
+otrzymano : ping + 141857 
+wysłano : ('msg_hej', 'rafal') + 141857 
+otrzymano : ping + 141857 
+wysłano : ('msg_si', 'jakubping') + 141857 
+otrzymano : ping + 141857 
+wysłano : ('msg_hej', 'rafal') + 141857 
+otrzymano : ping + 141857 
+wysłano : ('msg_si', 'jakubping') + 141857 
+otrzymano : ping + 141857 
+wysłano : ('msg_hej', 'rafal') + 141857 
+otrzymano : ping + 141857 
+wysłano : ('msg_si', 'jakubping') + 141857 
+otrzymano : ping + 141857 
+wysłano : ('msg_hej', 'rafal') + 141857 
+otrzymano : ping + 141857 
+wysłano : ('msg_si', 'jakubping') + 141857 
+otrzymano : ping + 141858 
+wysłano : ('msg_hej', 'rafal') + 141858 
+otrzymano : ping + 141858 
+wysłano : ('msg_si', 'jakubping') + 141858 
+otrzymano : ping + 141858 
+wysłano : ('msg_hej', 'rafal') + 141858 
+otrzymano : ping + 141858 
+wysłano : ('msg_si', 'jakubping') + 141858 
+otrzymano : ping + 141858 
+wysłano : ('msg_hej', 'rafal') + 141858 
+otrzymano : ping + 141858 
+wysłano : ('msg_si', 'jakubping') + 141858 
+otrzymano : ping + 141858 
+wysłano : ('msg_hej', 'rafal') + 141858 
+otrzymano : ping + 141858 
+wysłano : ('msg_si', 'jakubping') + 141858 
+otrzymano : ping + 141858 
+wysłano : ('msg_hej', 'rafal') + 141858 
+otrzymano : ping + 141858 
+wysłano : ('msg_si', 'jakubping') + 141858 
+otrzymano : ping + 141859 
+wysłano : ('msg_hej', 'rafal') + 141859 
+otrzymano : ping + 141859 
+wysłano : ('msg_si', 'jakubping') + 141859 
+otrzymano : ping + 141859 
+wysłano : ('msg_hej', 'rafal') + 141859 
+otrzymano : ping + 141859 
+wysłano : ('msg_si', 'jakubping') + 141859 
+otrzymano : ping + 141859 
+wysłano : ('msg_hej', 'rafal') + 141859 
+otrzymano : ping + 141859 
+wysłano : ('msg_si', 'jakubping') + 141859 
+otrzymano : ping + 141859 
+wysłano : ('msg_hej', 'rafal') + 141859 
+otrzymano : ping + 141859 
+wysłano : ('msg_si', 'jakubping') + 141859 
+otrzymano : ping + 141859 
+wysłano : ('msg_hej', 'rafal') + 141859 
+otrzymano : ping + 141900 
+wysłano : ('msg_si', 'jakubping') + 141900 
+otrzymano : ping + 141900 
+wysłano : ('msg_hej', 'rafal') + 141900 
+otrzymano : ping + 141900 
+wysłano : ('msg_si', 'jakubping') + 141900 
+otrzymano : ping + 141900 
+wysłano : ('msg_hej', 'rafal') + 141900 
+otrzymano : ping + 141900 
+wysłano : ('msg_si', 'jakubping') + 141900 
+otrzymano : ping + 141900 
+wysłano : ('msg_hej', 'rafal') + 141900 
+otrzymano : ping + 141900 
+wysłano : ('msg_si', 'jakubping') + 141900 
+otrzymano : ping + 141900 
+wysłano : ('msg_hej', 'rafal') + 141900 
+otrzymano : ping + 141900 
+wysłano : ('msg_si', 'jakubping') + 141900 
+otrzymano : ping + 141900 
+wysłano : ('msg_hej', 'rafal') + 141900 
+otrzymano : ping + 141901 
+wysłano : ('msg_si', 'jakubping') + 141901 
+otrzymano : ping + 141901 
+wysłano : ('msg_hej', 'rafal') + 141901 
+otrzymano : ping + 141901 
+wysłano : ('msg_si', 'jakubping') + 141901 
+otrzymano : ping + 141901 
+wysłano : ('msg_hej', 'rafal') + 141901 
+otrzymano : ping + 141901 
+wysłano : ('msg_si', 'jakubping') + 141901 
+otrzymano : ping + 141901 
+wysłano : ('msg_hej', 'rafal') + 141901 
+otrzymano : ping + 141901 
+wysłano : ('msg_si', 'jakubping') + 141901 
+otrzymano : ping + 141901 
+wysłano : ('msg_hej', 'rafal') + 141901 
+otrzymano : ping + 141901 
+wysłano : ('msg_si', 'jakubping') + 141901 
+otrzymano : ping + 141901 
+wysłano : ('msg_hej', 'rafal') + 141901 
+otrzymano : ping + 141902 
+wysłano : ('msg_si', 'jakubping') + 141902 
+otrzymano : ping + 141902 
+wysłano : ('msg_hej', 'rafal') + 141902 
+otrzymano : ping + 141902 
+wysłano : ('msg_si', 'jakubping') + 141902 
+otrzymano : ping + 141902 
+wysłano : ('msg_hej', 'rafal') + 141902 
+otrzymano : ping + 141902 
+wysłano : ('msg_si', 'jakubping') + 141902 
+otrzymano : ping + 141902 
+wysłano : ('msg_hej', 'rafal') + 141902 
+otrzymano : ping + 141902 
+wysłano : ('msg_si', 'jakubping') + 141902 
+otrzymano : ping + 141902 
+wysłano : ('msg_hej', 'rafal') + 141902 
+otrzymano : ping + 141902 
+wysłano : ('msg_si', 'jakubping') + 141902 
+otrzymano : ping + 141903 
+wysłano : ('msg_hej', 'rafal') + 141903 
+otrzymano : ping + 141903 
+wysłano : ('msg_si', 'jakubping') + 141903 
+otrzymano : ping + 141903 
+wysłano : ('msg_hej', 'rafal') + 141903 
+otrzymano : ping + 141903 
+wysłano : ('msg_si', 'jakubping') + 141903 
+otrzymano : ping + 141903 
+wysłano : ('msg_hej', 'rafal') + 141903 
+otrzymano : ping + 141903 
+wysłano : ('msg_si', 'jakubping') + 141903 
+otrzymano : ping + 141903 
+wysłano : ('msg_hej', 'rafal') + 141903 
+otrzymano : ping + 141903 
+wysłano : ('msg_si', 'jakubping') + 141903 
+otrzymano : ping + 141903 
+wysłano : ('msg_hej', 'rafal') + 141903 
+otrzymano : ping + 141903 
+wysłano : ('msg_si', 'jakubping') + 141903 
+otrzymano : ping + 141904 
+wysłano : ('msg_hej', 'rafal') + 141904 
+otrzymano : ping + 141904 
+wysłano : ('msg_si', 'jakubping') + 141904 
+otrzymano : ping + 141904 
+wysłano : ('msg_hej', 'rafal') + 141904 
+otrzymano : ping + 141904 
+wysłano : ('msg_si', 'jakubping') + 141904 
+otrzymano : ping + 141904 
+wysłano : ('msg_hej', 'rafal') + 141904 
+otrzymano : ping + 141904 
+wysłano : ('msg_si', 'jakubping') + 141904 
+otrzymano : ping + 141904 
+wysłano : ('msg_hej', 'rafal') + 141904 
+otrzymano : ping + 141904 
+wysłano : ('msg_si', 'jakubping') + 141904 
+otrzymano : ping + 141904 
+wysłano : ('msg_hej', 'rafal') + 141904 
+otrzymano : ping + 141904 
+wysłano : ('msg_si', 'jakubping') + 141904 
+otrzymano : ping + 141905 
+wysłano : ('msg_hej', 'rafal') + 141905 
+otrzymano : ping + 141905 
+wysłano : ('msg_hej', 'rafal') + 141905 
+otrzymano : ping + 141910 
+wysłano : ('msg_si', 'jakubping') + 141910 
+otrzymano : pingping + 141911 
+wysłano : ('msg_si', 'jakubping') + 141911 
+otrzymano : ping + 141911 
+wysłano : ('msg_si', 'jakubping') + 141911 
+otrzymano : ping + 141911 
+wysłano : ('msg_si', 'jakubping') + 141911 
+otrzymano : ping + 141911 
+wysłano : ('msg_si', 'jakubping') + 141911 
+otrzymano : ping + 141911 
+wysłano : ('msg_si', 'jakubping') + 141911 
+otrzymano : ping + 141912 
+wysłano : ('msg_si', 'jakubping') + 141912 
+otrzymano : ping + 141912 
+wysłano : ('msg_si', 'jakubping') + 141912 
+otrzymano : ping + 141912 
+wysłano : ('msg_si', 'jakubping') + 141912 
+otrzymano : ping + 141912 
+wysłano : ('msg_si', 'jakubping') + 141912 
+otrzymano : ping + 141912 
+wysłano : ('msg_si', 'jakubping') + 141912 
+otrzymano : ping + 141913 
+wysłano : ('msg_si', 'jakubping') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('msg_si', 'jakubping') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('msg_si', 'jakubping') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('msg_si', 'jakubping') + 141913 
+otrzymano : ping + 141913 
+wysłano : ('msg_si', 'jakubping') + 141913 
+otrzymano : ping + 141914 
+wysłano : ('msg_si', 'jakubping') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('msg_si', 'jakubping') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('msg_si', 'jakubping') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('msg_si', 'jakubping') + 141914 
+otrzymano : ping + 141914 
+wysłano : ('msg_si', 'jakubping') + 141914 
+otrzymano : ping + 141915 
+wysłano : ('msg_si', 'jakubping') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_si', 'jakubping') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_si', 'jakubping') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_si', 'jakubping') + 141915 
+otrzymano : ping + 141915 
+wysłano : ('msg_si', 'jakubping') + 141915 
+otrzymano : ping + 141916 
+wysłano : ('msg_si', 'jakubping') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_si', 'jakubping') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_si', 'jakubping') + 141916 
+otrzymano : ping + 141916 
+wysłano : ('msg_si', 'jakubping') + 141916 
+otrzymano : ping + 141917 
+wysłano : ('msg_si', 'jakubping') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_si', 'jakubping') + 141917 
+otrzymano : ('msg_hej', 'jakub') + 141917 
+wysłano : ('0', '0') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_hej', 'jakub') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('0', '0') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_hej', 'jakub') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('0', '0') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('msg_hej', 'jakub') + 141917 
+otrzymano : ping + 141917 
+wysłano : ('0', '0') + 141917 
+otrzymano : ping + 141918 
+wysłano : ('msg_hej', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('0', '0') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_hej', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('0', '0') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_hej', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('0', '0') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_hej', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('0', '0') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('msg_hej', 'jakub') + 141918 
+otrzymano : ping + 141918 
+wysłano : ('0', '0') + 141918 
+otrzymano : ping + 141919 
+wysłano : ('msg_hej', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('0', '0') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_hej', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('0', '0') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_hej', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('0', '0') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_hej', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('0', '0') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('msg_hej', 'jakub') + 141919 
+otrzymano : ping + 141919 
+wysłano : ('0', '0') + 141919 
+otrzymano : ping + 141920 
+wysłano : ('msg_hej', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('0', '0') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_hej', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('0', '0') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_hej', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('0', '0') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_hej', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('0', '0') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('msg_hej', 'jakub') + 141920 
+otrzymano : ping + 141920 
+wysłano : ('0', '0') + 141920 
+otrzymano : ping + 141921 
+wysłano : ('msg_hej', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('0', '0') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_hej', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('0', '0') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_hej', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('0', '0') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_hej', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('0', '0') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('msg_hej', 'jakub') + 141921 
+otrzymano : ping + 141921 
+wysłano : ('0', '0') + 141921 
+otrzymano : ping + 141922 
+wysłano : ('msg_hej', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('0', '0') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_hej', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('0', '0') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_hej', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('0', '0') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_hej', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('0', '0') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('msg_hej', 'jakub') + 141922 
+otrzymano : ping + 141922 
+wysłano : ('0', '0') + 141922 
+otrzymano : ping + 141923 
+wysłano : ('msg_hej', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('0', '0') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_hej', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('0', '0') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_hej', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('0', '0') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_hej', 'jakub') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('0', '0') + 141923 
+otrzymano : ping + 141923 
+wysłano : ('msg_hej', 'jakub') + 141923 
+otrzymano : ping + 141924 
+wysłano : ('0', '0') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_hej', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('0', '0') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_hej', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('0', '0') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_hej', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('0', '0') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_hej', 'jakub') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('0', '0') + 141924 
+otrzymano : ping + 141924 
+wysłano : ('msg_hej', 'jakub') + 141924 
+otrzymano : ping + 141925 
+wysłano : ('0', '0') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_hej', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('0', '0') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_hej', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('0', '0') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_hej', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('0', '0') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_hej', 'jakub') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('0', '0') + 141925 
+otrzymano : ping + 141925 
+wysłano : ('msg_hej', 'jakub') + 141925 
+otrzymano : ping + 141926 
+wysłano : ('0', '0') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_hej', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('0', '0') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_hej', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('0', '0') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_hej', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('0', '0') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('msg_hej', 'jakub') + 141926 
+otrzymano : ping + 141926 
+wysłano : ('0', '0') + 141926 
+otrzymano : ping + 141927 
+wysłano : ('msg_hej', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('0', '0') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_hej', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('0', '0') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_hej', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('0', '0') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_hej', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('0', '0') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('msg_hej', 'jakub') + 141927 
+otrzymano : ping + 141927 
+wysłano : ('0', '0') + 141927 
+otrzymano : ping + 141928 
+wysłano : ('msg_hej', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('0', '0') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_hej', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('0', '0') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_hej', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('0', '0') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_hej', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('0', '0') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('msg_hej', 'jakub') + 141928 
+otrzymano : ping + 141928 
+wysłano : ('0', '0') + 141928 
+otrzymano : ping + 141929 
+wysłano : ('msg_hej', 'jakub') + 141929 
+otrzymano : ping + 141929 
+wysłano : ('0', '0') + 141929 
+otrzymano : ping + 141929 
+wysłano : ('msg_hej', 'jakub') + 141929 
+otrzymano : ping + 141929 
+wysłano : ('0', '0') + 141929 
+otrzymano : ping + 141929 
+wysłano : ('msg_hej', 'jakub') + 141929 
+otrzymano : ping + 141929 
+wysłano : ('0', '0') + 141929 
+otrzymano : ping + 141929 
+wysłano : ('msg_hej', 'jakub') + 141929 
+otrzymano : ping + 141929 
+wysłano : ('0', '0') + 141929 
+otrzymano : ping + 141929 
+wysłano : ('msg_hej', 'jakub') + 141929 
+otrzymano : ping + 141929 
+wysłano : ('0', '0') + 141929 
+otrzymano : ping + 141930 
+wysłano : ('msg_hej', 'jakub') + 141930 
+otrzymano : ping + 141930 
+wysłano : ('0', '0') + 141930 
+otrzymano : ping + 141930 
+wysłano : ('msg_hej', 'jakub') + 141930 
+otrzymano : ping + 141930 
+wysłano : ('0', '0') + 141930 
+otrzymano : ping + 141930 
+wysłano : ('msg_hej', 'jakub') + 141930 
+otrzymano : ping + 141930 
+wysłano : ('0', '0') + 141930 
+otrzymano : ping + 141930 
+wysłano : ('msg_hej', 'jakub') + 141930 
+otrzymano : ping + 141930 
+wysłano : ('0', '0') + 141930 
+otrzymano : ping + 141930 
+wysłano : ('msg_hej', 'jakub') + 141930 
+otrzymano : ping + 141930 
+wysłano : ('0', '0') + 141930 
+otrzymano : ping + 141931 
+wysłano : ('msg_hej', 'jakub') + 141931 
+otrzymano : ping + 141931 
+wysłano : ('0', '0') + 141931 
+otrzymano : ping + 141931 
+wysłano : ('msg_hej', 'jakub') + 141931 
+otrzymano : ping + 141931 
+wysłano : ('0', '0') + 141931 
+otrzymano : ping + 141931 
+wysłano : ('msg_hej', 'jakub') + 141931 
+otrzymano : ping + 141931 
+wysłano : ('0', '0') + 141931 
+otrzymano : ping + 141931 
+wysłano : ('msg_hej', 'jakub') + 141931 
+otrzymano : ping + 141931 
+wysłano : ('0', '0') + 141931 
+otrzymano : ping + 141931 
+wysłano : ('msg_hej', 'jakub') + 141931 
+otrzymano : ping + 141931 
+wysłano : ('0', '0') + 141931 
+otrzymano : ping + 141932 
+wysłano : ('msg_hej', 'jakub') + 141932 
+otrzymano : ping + 141932 
+wysłano : ('0', '0') + 141932 
+otrzymano : ping + 141932 
+wysłano : ('msg_hej', 'jakub') + 141932 
+otrzymano : ping + 141932 
+wysłano : ('0', '0') + 141932 
+otrzymano : ping + 141932 
+wysłano : ('msg_hej', 'jakub') + 141932 
+otrzymano : ping + 141932 
+wysłano : ('0', '0') + 141932 
+otrzymano : ping + 141932 
+wysłano : ('msg_hej', 'jakub') + 141932 
+otrzymano : ping + 141932 
+wysłano : ('0', '0') + 141932 
+otrzymano : ping + 141932 
+wysłano : ('msg_hej', 'jakub') + 141932 
+otrzymano : ping + 141932 
+wysłano : ('0', '0') + 141932 
+otrzymano : ping + 141933 
+wysłano : ('msg_hej', 'jakub') + 141933 
+otrzymano : ping + 141933 
+wysłano : ('0', '0') + 141933 
+otrzymano : ping + 141933 
+wysłano : ('msg_hej', 'jakub') + 141933 
+otrzymano : ping + 141933 
+wysłano : ('0', '0') + 141933 
+otrzymano : ping + 141933 
+wysłano : ('msg_hej', 'jakub') + 141933 
+otrzymano : ping + 141933 
+wysłano : ('0', '0') + 141933 
+otrzymano : ping + 141933 
+wysłano : ('msg_hej', 'jakub') + 141933 
+otrzymano : ping + 141933 
+wysłano : ('0', '0') + 141933 
+otrzymano : ping + 141933 
+wysłano : ('msg_hej', 'jakub') + 141933 
+otrzymano : ping + 141933 
+wysłano : ('0', '0') + 141933 
+otrzymano : ping + 141934 
+wysłano : ('msg_hej', 'jakub') + 141934 
+otrzymano : ping + 141934 
+wysłano : ('0', '0') + 141934 
+otrzymano : ping + 141934 
+wysłano : ('msg_hej', 'jakub') + 141934 
+otrzymano : ping + 141934 
+wysłano : ('0', '0') + 141934 
+otrzymano : ping + 141934 
+wysłano : ('msg_hej', 'jakub') + 141934 
+otrzymano : ping + 141934 
+wysłano : ('0', '0') + 141934 
+otrzymano : ping + 141934 
+wysłano : ('msg_hej', 'jakub') + 141934 
+otrzymano : ping + 141934 
+wysłano : ('0', '0') + 141934 
+otrzymano : ping + 141934 
+wysłano : ('msg_hej', 'jakub') + 141934 
+otrzymano : ping + 141934 
+wysłano : ('0', '0') + 141934 
+otrzymano : ping + 141935 
+wysłano : ('msg_hej', 'jakub') + 141935 
+otrzymano : ping + 141935 
+wysłano : ('0', '0') + 141935 
+otrzymano : ping + 141935 
+wysłano : ('msg_hej', 'jakub') + 141935 
+otrzymano : ping + 141935 
+wysłano : ('0', '0') + 141935 
+otrzymano : ping + 141935 
+wysłano : ('msg_hej', 'jakub') + 141935 
+otrzymano : ping + 141935 
+wysłano : ('0', '0') + 141935 
+otrzymano : ping + 141935 
+wysłano : ('msg_hej', 'jakub') + 141935 
+otrzymano : ping + 141935 
+wysłano : ('0', '0') + 141935 
+otrzymano : ping + 141935 
+wysłano : ('msg_hej', 'jakub') + 141935 
+otrzymano : ping + 141936 
+wysłano : ('0', '0') + 141936 
+otrzymano : ping + 141936 
+wysłano : ('msg_hej', 'jakub') + 141936 
+otrzymano : ping + 141936 
+wysłano : ('0', '0') + 141936 
+otrzymano : ping + 141936 
+wysłano : ('msg_hej', 'jakub') + 141936 
+otrzymano : ping + 141936 
+wysłano : ('0', '0') + 141936 
+otrzymano : ping + 141936 
+wysłano : ('msg_hej', 'jakub') + 141936 
+otrzymano : ping + 141936 
+wysłano : ('0', '0') + 141936 
+otrzymano : ping + 141936 
+wysłano : ('msg_hej', 'jakub') + 141936 
+otrzymano : ping + 141936 
+wysłano : ('0', '0') + 141936 
+otrzymano : ping + 141936 
+wysłano : ('msg_hej', 'jakub') + 141936 
+otrzymano : ping + 141937 
+wysłano : ('0', '0') + 141937 
+otrzymano : ping + 141937 
+wysłano : ('msg_hej', 'jakub') + 141937 
+otrzymano : ping + 141937 
+wysłano : ('0', '0') + 141937 
+otrzymano : ping + 141937 
+wysłano : ('msg_hej', 'jakub') + 141937 
+otrzymano : ping + 141937 
+wysłano : ('0', '0') + 141937 
+otrzymano : ping + 141937 
+wysłano : ('msg_hej', 'jakub') + 141937 
+otrzymano : ping + 141937 
+wysłano : ('0', '0') + 141937 
+otrzymano : ping + 141937 
+wysłano : ('msg_hej', 'jakub') + 141937 
+otrzymano : ping + 141937 
+wysłano : ('0', '0') + 141937 
+otrzymano : ping + 141937 
+wysłano : ('msg_hej', 'jakub') + 141937 
+otrzymano : ping + 141938 
+wysłano : ('0', '0') + 141938 
+otrzymano : ping + 141938 
+wysłano : ('msg_hej', 'jakub') + 141938 
+otrzymano : ping + 141938 
+wysłano : ('0', '0') + 141938 
+otrzymano : ping + 141938 
+wysłano : ('msg_hej', 'jakub') + 141938 
+otrzymano : ping + 141938 
+wysłano : ('0', '0') + 141938 
+otrzymano : ping + 141938 
+wysłano : ('msg_hej', 'jakub') + 141938 
+otrzymano : ping + 141938 
+wysłano : ('0', '0') + 141938 
+otrzymano : ping + 141938 
+wysłano : ('msg_hej', 'jakub') + 141938 
+otrzymano : ping + 141938 
+wysłano : ('0', '0') + 141938 
+otrzymano : ping + 141939 
+wysłano : ('msg_hej', 'jakub') + 141939 
+otrzymano : ping + 141939 
+wysłano : ('0', '0') + 141939 
+otrzymano : ping + 141939 
+wysłano : ('msg_hej', 'jakub') + 141939 
+otrzymano : ping + 141939 
+wysłano : ('0', '0') + 141939 
+otrzymano : ping + 141939 
+wysłano : ('msg_hej', 'jakub') + 141939 
+otrzymano : ping + 141939 
+wysłano : ('0', '0') + 141939 
+otrzymano : ping + 141939 
+wysłano : ('msg_hej', 'jakub') + 141939 
+otrzymano : ping + 141939 
+wysłano : ('0', '0') + 141939 
+otrzymano : ping + 141939 
+wysłano : ('msg_hej', 'jakub') + 141939 
+otrzymano : ping + 141939 
+wysłano : ('0', '0') + 141939 
+otrzymano : ping + 141940 
+wysłano : ('msg_hej', 'jakub') + 141940 
+otrzymano : ping + 141940 
+wysłano : ('0', '0') + 141940 
+otrzymano : ping + 141940 
+wysłano : ('msg_hej', 'jakub') + 141940 
+otrzymano : ping + 141940 
+wysłano : ('0', '0') + 141940 
+otrzymano : ping + 141940 
+wysłano : ('msg_hej', 'jakub') + 141940 
+otrzymano : ping + 141940 
+wysłano : ('0', '0') + 141940 
+otrzymano : ping + 141940 
+wysłano : ('msg_hej', 'jakub') + 141940 
+otrzymano : ping + 141940 
+wysłano : ('0', '0') + 141940 
+otrzymano : ping + 141940 
+wysłano : ('msg_hej', 'jakub') + 141940 
+otrzymano : ping + 141940 
+wysłano : ('0', '0') + 141940 
+otrzymano : ping + 141941 
+wysłano : ('msg_hej', 'jakub') + 141941 
+otrzymano : ping + 141941 
+wysłano : ('0', '0') + 141941 
+otrzymano : ping + 141941 
+wysłano : ('msg_hej', 'jakub') + 141941 
+otrzymano : ping + 141941 
+wysłano : ('0', '0') + 141941 
+otrzymano : ping + 141941 
+wysłano : ('msg_hej', 'jakub') + 141941 
+otrzymano : ping + 141941 
+wysłano : ('0', '0') + 141941 
+otrzymano : ping + 141941 
+wysłano : ('msg_hej', 'jakub') + 141941 
+otrzymano : ping + 141941 
+wysłano : ('0', '0') + 141941 
+otrzymano : ping + 141941 
+wysłano : ('msg_hej', 'jakub') + 141941 
+otrzymano : ping + 141941 
+wysłano : ('0', '0') + 141941 
+otrzymano : ping + 141942 
+wysłano : ('msg_hej', 'jakub') + 141942 
+otrzymano : ping + 141942 
+wysłano : ('0', '0') + 141942 
+otrzymano : ping + 141942 
+wysłano : ('msg_hej', 'jakub') + 141942 
+otrzymano : ping + 141942 
+wysłano : ('0', '0') + 141942 
+otrzymano : ping + 141942 
+wysłano : ('msg_hej', 'jakub') + 141942 
+otrzymano : ping + 141942 
+wysłano : ('0', '0') + 141942 
+otrzymano : ping + 141942 
+wysłano : ('msg_hej', 'jakub') + 141942 
+otrzymano : ping + 141942 
+wysłano : ('0', '0') + 141942 
+otrzymano : ping + 141942 
+wysłano : ('msg_hej', 'jakub') + 141942 
+otrzymano : ping + 141942 
+wysłano : ('0', '0') + 141942 
+otrzymano : ping + 141943 
+wysłano : ('msg_hej', 'jakub') + 141943 
+otrzymano : ping + 141943 
+wysłano : ('0', '0') + 141943 
+otrzymano : ping + 141943 
+wysłano : ('0', '0') + 141943 
+otrzymano : ping + 141946 
+wysłano : ('msg_hej', 'jakub') + 141946 
+otrzymano : pingping + 141946 
+wysłano : ('msg_hej', 'jakub') + 141946 
+otrzymano : ping + 141946 
+wysłano : ('msg_hej', 'jakub') + 141946 
+otrzymano : ping + 141946 
+wysłano : ('msg_hej', 'jakub') + 141946 
+otrzymano : ping + 141946 
+wysłano : ('msg_hej', 'jakub') + 141946 
+otrzymano : ping + 141947 
+wysłano : ('msg_hej', 'jakub') + 141947 
+otrzymano : ping + 141947 
+wysłano : ('msg_hej', 'jakub') + 141947 
+otrzymano : ping + 141947 
+wysłano : ('msg_hej', 'jakub') + 141947 
+otrzymano : ping + 141947 
+wysłano : ('msg_hej', 'jakub') + 141947 
+otrzymano : ping + 141947 
+wysłano : ('msg_hej', 'jakub') + 141947 
+otrzymano : ping + 141948 
+wysłano : ('msg_hej', 'jakub') + 141948 
+otrzymano : ping + 141948 
+wysłano : ('msg_hej', 'jakub') + 141948 
+otrzymano : ping + 141948 
+wysłano : ('msg_hej', 'jakub') + 141948 
+otrzymano : ping + 141948 
+wysłano : ('msg_hej', 'jakub') + 141948 
+otrzymano : ping + 141948 
+wysłano : ('msg_hej', 'jakub') + 141948 
+otrzymano : ping + 141949 
+wysłano : ('msg_hej', 'jakub') + 141949 
+otrzymano : ping + 141949 
+wysłano : ('msg_hej', 'jakub') + 141949 
+otrzymano : ping + 141949 
+wysłano : ('msg_hej', 'jakub') + 141949 
+otrzymano : ping + 141949 
+wysłano : ('msg_hej', 'jakub') + 141949 
+otrzymano : ping + 141949 
+wysłano : ('msg_hej', 'jakub') + 141949 
+otrzymano : ping + 141950 
+wysłano : ('msg_hej', 'jakub') + 141950 
+otrzymano : ping + 141950 
+wysłano : ('msg_hej', 'jakub') + 141950 
+otrzymano : ping + 141950 
+wysłano : ('msg_hej', 'jakub') + 141950 
+otrzymano : ping + 141950 
+wysłano : ('msg_hej', 'jakub') + 141950 
+otrzymano : ping + 141950 
+wysłano : ('msg_hej', 'jakub') + 141950 
+otrzymano : ping + 141951 
+wysłano : ('msg_hej', 'jakub') + 141951 
+otrzymano : ping + 141951 
+wysłano : ('msg_hej', 'jakub') + 141951 
+otrzymano : ping + 141951 
+wysłano : ('msg_hej', 'jakub') + 141951 
+otrzymano : ping + 141951 
+wysłano : ('msg_hej', 'jakub') + 141951 
+otrzymano : ping + 141951 
+wysłano : ('msg_hej', 'jakub') + 141951 
+otrzymano : ping + 141952 
+wysłano : ('msg_hej', 'jakub') + 141952 
+otrzymano : ping + 141952 
+wysłano : ('msg_hej', 'jakub') + 141952 
+otrzymano : ping + 141952 
+wysłano : ('msg_hej', 'jakub') + 141952 
+otrzymano : ping + 141952 
+wysłano : ('msg_hej', 'jakub') + 141952 
+otrzymano : ping + 141952 
+wysłano : ('msg_hej', 'jakub') + 141952 
+otrzymano : ping + 141953 
+wysłano : ('msg_hej', 'jakub') + 141953 
+otrzymano : ping + 141953 
+wysłano : ('msg_hej', 'jakub') + 141953 
+otrzymano : ping + 141953 
+wysłano : ('msg_hej', 'jakub') + 141953 
+otrzymano : ping + 141953 
+wysłano : ('msg_hej', 'jakub') + 141953 
+otrzymano : ping + 141953 
+wysłano : ('msg_hej', 'jakub') + 141953 
+otrzymano : ping + 141954 
+wysłano : ('msg_hej', 'jakub') + 141954 
+otrzymano : ping + 141954 
+wysłano : ('msg_hej', 'jakub') + 141954 
+otrzymano : ping + 141954 
+wysłano : ('msg_hej', 'jakub') + 141954 
+otrzymano : ping + 141954 
+wysłano : ('msg_hej', 'jakub') + 141954 
+otrzymano : ping + 141954 
+wysłano : ('msg_hej', 'jakub') + 141954 
+otrzymano : ping + 141955 
+wysłano : ('msg_hej', 'jakub') + 141955 
+otrzymano : ping + 141955 
+wysłano : ('msg_hej', 'jakub') + 141955 
+otrzymano : ping + 141955 
+wysłano : ('msg_hej', 'jakub') + 141955 
+otrzymano : ping + 141955 
+wysłano : ('msg_hej', 'jakub') + 141955 
+otrzymano : ping + 141955 
+wysłano : ('msg_hej', 'jakub') + 141955 
+otrzymano : ping + 141956 
+wysłano : ('msg_hej', 'jakub') + 141956 
+otrzymano : ping + 141956 
+wysłano : ('msg_hej', 'jakub') + 141956 
+otrzymano : ping + 141956 
+wysłano : ('msg_hej', 'jakub') + 141956 
+otrzymano : ping + 141956 
+wysłano : ('msg_hej', 'jakub') + 141956 
+otrzymano : ping + 141957 
+wysłano : ('msg_hej', 'jakub') + 141957 
+otrzymano : ping + 141957 
+wysłano : ('msg_hej', 'jakub') + 141957 
+otrzymano : ping + 141957 
+wysłano : ('msg_hej', 'jakub') + 141957 
+otrzymano : ping + 141957 
+wysłano : ('msg_hej', 'jakub') + 141957 
+otrzymano : ping + 141957 
+wysłano : ('msg_hej', 'jakub') + 141957 
+otrzymano : ping + 141958 
+wysłano : ('msg_hej', 'jakub') + 141958 
+otrzymano : ping + 141958 
+wysłano : ('msg_hej', 'jakub') + 141958 
+otrzymano : ping + 141958 
+wysłano : ('msg_hej', 'jakub') + 141958 
+otrzymano : ping + 141958 
+wysłano : ('msg_hej', 'jakub') + 141958 
+otrzymano : ping + 141958 
+wysłano : ('msg_hej', 'jakub') + 141958 
+otrzymano : ping + 141959 
+wysłano : ('msg_hej', 'jakub') + 141959 
+otrzymano : ping + 141959 
+wysłano : ('msg_hej', 'jakub') + 141959 
+otrzymano : ping + 141959 
+wysłano : ('msg_hej', 'jakub') + 141959 
+otrzymano : ping + 141959 
+wysłano : ('msg_hej', 'jakub') + 141959 
+otrzymano : ping + 141959 
+wysłano : ('msg_hej', 'jakub') + 141959 
+otrzymano : ping + 142000 
+wysłano : ('msg_hej', 'jakub') + 142000 
+otrzymano : ping + 142000 
+wysłano : ('msg_hej', 'jakub') + 142000 
+otrzymano : ping + 142000 
+wysłano : ('msg_hej', 'jakub') + 142000 
+otrzymano : ping + 142000 
+wysłano : ('msg_hej', 'jakub') + 142000 
+otrzymano : ping + 142000 
+wysłano : ('msg_hej', 'jakub') + 142000 
+otrzymano : ping + 142001 
+wysłano : ('msg_hej', 'jakub') + 142001 
+otrzymano : ping + 142001 
+wysłano : ('msg_hej', 'jakub') + 142001 
+otrzymano : ping + 142001 
+wysłano : ('msg_hej', 'jakub') + 142001 
+otrzymano : ping + 142001 
+wysłano : ('msg_hej', 'jakub') + 142001 
+otrzymano : ping + 142001 
+wysłano : ('msg_hej', 'jakub') + 142001 
+otrzymano : ping + 142002 
+wysłano : ('msg_hej', 'jakub') + 142002 
+otrzymano : ping + 142002 
+wysłano : ('msg_hej', 'jakub') + 142002 
+otrzymano : ping + 142002 
+wysłano : ('msg_hej', 'jakub') + 142002 
+otrzymano : ping + 142002 
+wysłano : ('msg_hej', 'jakub') + 142002 
+otrzymano : ping + 142002 
+wysłano : ('msg_hej', 'jakub') + 142002 
+otrzymano : ping + 142003 
+wysłano : ('msg_hej', 'jakub') + 142003 
+otrzymano : ping + 142003 
+wysłano : ('msg_hej', 'jakub') + 142003 
+otrzymano : ping + 142003 
+wysłano : ('msg_hej', 'jakub') + 142003 
+otrzymano : ping + 142003 
+wysłano : ('msg_hej', 'jakub') + 142003 
+otrzymano : ping + 142003 
+wysłano : ('msg_hej', 'jakub') + 142003 
+otrzymano : ping + 142004 
+wysłano : ('msg_hej', 'jakub') + 142004 
+otrzymano : ping + 142004 
+wysłano : ('msg_hej', 'jakub') + 142004 
+otrzymano : ping + 142004 
+wysłano : ('msg_hej', 'jakub') + 142004 
+otrzymano : ping + 142004 
+wysłano : ('msg_hej', 'jakub') + 142004 
+otrzymano : ping + 142004 
+wysłano : ('msg_hej', 'jakub') + 142004 
+otrzymano : ping + 142005 
+wysłano : ('msg_hej', 'jakub') + 142005 
+otrzymano : ping + 142005 
+wysłano : ('msg_hej', 'jakub') + 142005 
+otrzymano : ping + 142005 
+wysłano : ('msg_hej', 'jakub') + 142005 
+otrzymano : ping + 142005 
+wysłano : ('msg_hej', 'jakub') + 142005 
+otrzymano : ping + 142005 
+wysłano : ('msg_hej', 'jakub') + 142005 
+otrzymano : ping + 142006 
+wysłano : ('msg_hej', 'jakub') + 142006 
+otrzymano : ping + 142006 
+wysłano : ('msg_hej', 'jakub') + 142006 
+otrzymano : ping + 142006 
+wysłano : ('msg_hej', 'jakub') + 142006 
+otrzymano : ping + 142006 
+wysłano : ('msg_hej', 'jakub') + 142006 
+otrzymano : ping + 142006 
+wysłano : ('msg_hej', 'jakub') + 142006 
+otrzymano : ping + 142007 
+wysłano : ('msg_hej', 'jakub') + 142007 
+otrzymano : ping + 142007 
+wysłano : ('msg_hej', 'jakub') + 142007 
+otrzymano : ping + 142007 
+wysłano : ('msg_hej', 'jakub') + 142007 
+otrzymano : ping + 142007 
+wysłano : ('msg_hej', 'jakub') + 142007 
+otrzymano : ping + 142007 
+wysłano : ('msg_hej', 'jakub') + 142007 
+otrzymano : ping + 142008 
+wysłano : ('msg_hej', 'jakub') + 142008 
+otrzymano : ping + 142008 
+wysłano : ('msg_hej', 'jakub') + 142008 
+otrzymano : ping + 142008 
+wysłano : ('msg_hej', 'jakub') + 142008 
+otrzymano : ping + 142008 
+wysłano : ('msg_hej', 'jakub') + 142008 
+otrzymano : ping + 142009 
+wysłano : ('msg_hej', 'jakub') + 142009 
+otrzymano : ping + 142009 
+wysłano : ('msg_hej', 'jakub') + 142009 
+otrzymano : ping + 142009 
+wysłano : ('msg_hej', 'jakub') + 142009 
+otrzymano : ping + 142009 
+wysłano : ('msg_hej', 'jakub') + 142009 
+otrzymano : ping + 142009 
+wysłano : ('msg_hej', 'jakub') + 142009 
+otrzymano : ping + 142010 
+wysłano : ('msg_hej', 'jakub') + 142010 
+otrzymano : ping + 142010 
+wysłano : ('msg_hej', 'jakub') + 142010 
+otrzymano : ping + 142010 
+wysłano : ('msg_hej', 'jakub') + 142010 
+otrzymano : ping + 142010 
+wysłano : ('msg_hej', 'jakub') + 142010 
+otrzymano : ping + 142010 
+wysłano : ('msg_hej', 'jakub') + 142010 
+otrzymano : ping + 142011 
+wysłano : ('msg_hej', 'jakub') + 142011 
+otrzymano : ping + 142011 
+wysłano : ('msg_hej', 'jakub') + 142011 
+otrzymano : ping + 142011 
+wysłano : ('msg_hej', 'jakub') + 142011 
+otrzymano : ping + 142011 
+wysłano : ('msg_hej', 'jakub') + 142011 
+otrzymano : ping + 142011 
+wysłano : ('msg_hej', 'jakub') + 142011 
+otrzymano : ping + 142012 
+wysłano : ('msg_hej', 'jakub') + 142012 
+otrzymano : ping + 142012 
+wysłano : ('msg_hej', 'jakub') + 142012 
+otrzymano : ping + 142012 
+wysłano : ('msg_hej', 'jakub') + 142012 
+otrzymano : ping + 142012 
+wysłano : ('msg_hej', 'jakub') + 142012 
+otrzymano : ping + 142012 
+wysłano : ('msg_hej', 'jakub') + 142012 
+otrzymano : ping + 142013 
+wysłano : ('msg_hej', 'jakub') + 142013 
+otrzymano : ping + 142013 
+wysłano : ('msg_hej', 'jakub') + 142013 
+otrzymano : ping + 142020 
+wysłano : ('msg_hej', 'jakub') + 142020 
+otrzymano : ping + 142020 
+wysłano : ('msg_hej', 'jakub') + 142020 
+otrzymano : ping + 142233 
+wysłano : ('msg_hej', 'jakub') + 142233 
+otrzymano : pingping + 142234 
+wysłano : ('msg_hej', 'jakub') + 142234 
+otrzymano : ping + 142234 
+wysłano : ('msg_hej', 'jakub') + 142234 
+otrzymano : ping + 142234 
+wysłano : ('msg_hej', 'jakub') + 142234 
+otrzymano : ('msg_gej', 'jakub') + 142234 
+wysłano : ('0', '0') + 142234 
+otrzymano : ping + 142234 
+wysłano : ('msg_gej', 'jakub') + 142234 
+otrzymano : ping + 142234 
+wysłano : ('0', '0') + 142234 
+otrzymano : ping + 142234 
+wysłano : ('msg_gej', 'jakub') + 142234 
+otrzymano : ping + 142234 
+wysłano : ('0', '0') + 142234 
+otrzymano : ping + 142235 
+wysłano : ('msg_gej', 'jakub') + 142235 
+otrzymano : ping + 142235 
+wysłano : ('0', '0') + 142235 
+otrzymano : ping + 142235 
+wysłano : ('msg_gej', 'jakub') + 142235 
+otrzymano : ping + 142235 
+wysłano : ('0', '0') + 142235 
+otrzymano : ping + 142235 
+wysłano : ('msg_gej', 'jakub') + 142235 
+otrzymano : ping + 142235 
+wysłano : ('0', '0') + 142235 
+otrzymano : ping + 142235 
+wysłano : ('msg_gej', 'jakub') + 142235 
+otrzymano : ping + 142235 
+wysłano : ('0', '0') + 142235 
+otrzymano : ping + 142235 
+wysłano : ('msg_gej', 'jakub') + 142235 
+otrzymano : ping + 142235 
+wysłano : ('0', '0') + 142235 
+otrzymano : ping + 142236 
+wysłano : ('msg_gej', 'jakub') + 142236 
+otrzymano : ping + 142236 
+wysłano : ('0', '0') + 142236 
+otrzymano : ping + 142236 
+wysłano : ('msg_gej', 'jakub') + 142236 
+otrzymano : ping + 142236 
+wysłano : ('0', '0') + 142236 
+otrzymano : ping + 142236 
+wysłano : ('msg_gej', 'jakub') + 142236 
+otrzymano : ping + 142236 
+wysłano : ('0', '0') + 142236 
+otrzymano : ping + 142236 
+wysłano : ('msg_gej', 'jakub') + 142236 
+otrzymano : ping + 142236 
+wysłano : ('0', '0') + 142236 
+otrzymano : ('msg_eg', 'rafal') + 142236 
+wysłano : ('msg_gej', 'jakub') + 142236 
+otrzymano : ping + 142236 
+wysłano : ('msg_eg', 'rafal') + 142236 
+otrzymano : ping + 142237 
+wysłano : ('msg_gej', 'jakub') + 142237 
+otrzymano : ping + 142237 
+wysłano : ('msg_eg', 'rafal') + 142237 
+otrzymano : ping + 142237 
+wysłano : ('msg_gej', 'jakub') + 142237 
+otrzymano : ping + 142237 
+wysłano : ('msg_eg', 'rafal') + 142237 
+otrzymano : ping + 142237 
+wysłano : ('msg_gej', 'jakub') + 142237 
+otrzymano : ping + 142237 
+wysłano : ('msg_eg', 'rafal') + 142237 
+otrzymano : ('msg_saf', 'rafalping') + 142237 
+wysłano : ('msg_gej', 'jakub') + 142237 
+otrzymano : ping + 142237 
+wysłano : ('msg_saf', 'rafalping') + 142237 
+otrzymano : ('msg_asf', 'rafalping') + 142237 
+wysłano : ('msg_gej', 'jakub') + 142237 
+otrzymano : ping + 142237 
+wysłano : ('msg_asf', 'rafalping') + 142237 
+otrzymano : ('msg_asf', 'rafalping') + 142238 
+wysłano : ('msg_gej', 'jakub') + 142238 
+otrzymano : ping + 142238 
+wysłano : ('msg_asf', 'rafalping') + 142238 
+otrzymano : ping + 142238 
+wysłano : ('msg_gej', 'jakub') + 142238 
+otrzymano : ping + 142238 
+wysłano : ('msg_asf', 'rafalping') + 142238 
+otrzymano : ping + 142238 
+wysłano : ('msg_gej', 'jakub') + 142238 
+otrzymano : ping + 142238 
+wysłano : ('msg_asf', 'rafalping') + 142238 
+otrzymano : ping + 142238 
+wysłano : ('msg_gej', 'jakub') + 142238 
+otrzymano : ping + 142238 
+wysłano : ('msg_asf', 'rafalping') + 142238 
+otrzymano : ping + 142238 
+wysłano : ('msg_gej', 'jakub') + 142238 
+otrzymano : ping + 142238 
+wysłano : ('msg_asf', 'rafalping') + 142238 
+otrzymano : ping + 142239 
+wysłano : ('msg_gej', 'jakub') + 142239 
+otrzymano : ping + 142239 
+wysłano : ('msg_asf', 'rafalping') + 142239 
+otrzymano : ping + 142239 
+wysłano : ('msg_gej', 'jakub') + 142239 
+otrzymano : ping + 142239 
+wysłano : ('msg_asf', 'rafalping') + 142239 
+otrzymano : ping + 142239 
+wysłano : ('msg_gej', 'jakub') + 142239 
+otrzymano : ping + 142239 
+wysłano : ('msg_asf', 'rafalping') + 142239 
+otrzymano : ping + 142239 
+wysłano : ('msg_gej', 'jakub') + 142239 
+otrzymano : ping + 142239 
+wysłano : ('msg_asf', 'rafalping') + 142239 
+otrzymano : ping + 142239 
+wysłano : ('msg_gej', 'jakub') + 142239 
+otrzymano : ping + 142239 
+wysłano : ('msg_asf', 'rafalping') + 142239 
+otrzymano : ping + 142240 
+wysłano : ('msg_gej', 'jakub') + 142240 
+otrzymano : ping + 142240 
+wysłano : ('msg_asf', 'rafalping') + 142240 
+otrzymano : ping + 142240 
+wysłano : ('msg_gej', 'jakub') + 142240 
+otrzymano : ping + 142240 
+wysłano : ('msg_asf', 'rafalping') + 142240 
+otrzymano : ping + 142240 
+wysłano : ('msg_gej', 'jakub') + 142240 
+otrzymano : ping + 142240 
+wysłano : ('msg_asf', 'rafalping') + 142240 
+otrzymano : ping + 142240 
+wysłano : ('msg_gej', 'jakub') + 142240 
+otrzymano : ping + 142240 
+wysłano : ('msg_asf', 'rafalping') + 142240 
+otrzymano : ping + 142240 
+wysłano : ('msg_gej', 'jakub') + 142240 
+otrzymano : ping + 142240 
+wysłano : ('msg_asf', 'rafalping') + 142240 
+otrzymano : ping + 142241 
+wysłano : ('msg_gej', 'jakub') + 142241 
+otrzymano : ping + 142241 
+wysłano : ('msg_asf', 'rafalping') + 142241 
+otrzymano : ping + 142241 
+wysłano : ('msg_gej', 'jakub') + 142241 
+otrzymano : ping + 142241 
+wysłano : ('msg_asf', 'rafalping') + 142241 
+otrzymano : ping + 142241 
+wysłano : ('msg_gej', 'jakub') + 142241 
+otrzymano : ping + 142241 
+wysłano : ('msg_asf', 'rafalping') + 142241 
+otrzymano : ping + 142241 
+wysłano : ('msg_gej', 'jakub') + 142241 
+otrzymano : ping + 142241 
+wysłano : ('msg_asf', 'rafalping') + 142241 
+otrzymano : ping + 142241 
+wysłano : ('msg_gej', 'jakub') + 142241 
+otrzymano : ping + 142242 
+wysłano : ('msg_asf', 'rafalping') + 142242 
+otrzymano : ping + 142242 
+wysłano : ('msg_gej', 'jakub') + 142242 
+otrzymano : ping + 142242 
+wysłano : ('msg_asf', 'rafalping') + 142242 
+otrzymano : ping + 142242 
+wysłano : ('msg_gej', 'jakub') + 142242 
+otrzymano : ping + 142242 
+wysłano : ('msg_asf', 'rafalping') + 142242 
+otrzymano : ping + 142242 
+wysłano : ('msg_gej', 'jakub') + 142242 
+otrzymano : ping + 142242 
+wysłano : ('msg_asf', 'rafalping') + 142242 
+otrzymano : ping + 142242 
+wysłano : ('msg_gej', 'jakub') + 142242 
+otrzymano : ping + 142242 
+wysłano : ('msg_asf', 'rafalping') + 142242 
+otrzymano : ping + 142242 
+wysłano : ('msg_gej', 'jakub') + 142242 
+otrzymano : ping + 142243 
+wysłano : ('msg_asf', 'rafalping') + 142243 
+otrzymano : ping + 142243 
+wysłano : ('msg_gej', 'jakub') + 142243 
+otrzymano : ping + 142243 
+wysłano : ('msg_asf', 'rafalping') + 142243 
+otrzymano : ping + 142243 
+wysłano : ('msg_gej', 'jakub') + 142243 
+otrzymano : ping + 142243 
+wysłano : ('msg_asf', 'rafalping') + 142243 
+otrzymano : ping + 142243 
+wysłano : ('msg_gej', 'jakub') + 142243 
+otrzymano : ping + 142243 
+wysłano : ('msg_asf', 'rafalping') + 142243 
+otrzymano : ping + 142243 
+wysłano : ('msg_gej', 'jakub') + 142243 
+otrzymano : ping + 142243 
+wysłano : ('msg_asf', 'rafalping') + 142243 
+otrzymano : ping + 142243 
+wysłano : ('msg_gej', 'jakub') + 142243 
+otrzymano : ping + 142244 
+wysłano : ('msg_asf', 'rafalping') + 142244 
+otrzymano : ping + 142244 
+wysłano : ('msg_gej', 'jakub') + 142244 
+otrzymano : ping + 142244 
+wysłano : ('msg_asf', 'rafalping') + 142244 
+otrzymano : ping + 142244 
+wysłano : ('msg_gej', 'jakub') + 142244 
+otrzymano : ping + 142244 
+wysłano : ('msg_asf', 'rafalping') + 142244 
+otrzymano : ping + 142244 
+wysłano : ('msg_gej', 'jakub') + 142244 
+otrzymano : ping + 142244 
+wysłano : ('msg_asf', 'rafalping') + 142244 
+otrzymano : ping + 142244 
+wysłano : ('msg_gej', 'jakub') + 142244 
+otrzymano : ping + 142244 
+wysłano : ('msg_asf', 'rafalping') + 142244 
+otrzymano : ping + 142245 
+wysłano : ('msg_gej', 'jakub') + 142245 
+otrzymano : ping + 142245 
+wysłano : ('msg_asf', 'rafalping') + 142245 
+otrzymano : ping + 142245 
+wysłano : ('msg_gej', 'jakub') + 142245 
+otrzymano : ping + 142245 
+wysłano : ('msg_asf', 'rafalping') + 142245 
+otrzymano : ping + 142245 
+wysłano : ('msg_gej', 'jakub') + 142245 
+otrzymano : ping + 142245 
+wysłano : ('msg_asf', 'rafalping') + 142245 
+otrzymano : ping + 142245 
+wysłano : ('msg_gej', 'jakub') + 142245 
+otrzymano : ping + 142245 
+wysłano : ('msg_asf', 'rafalping') + 142245 
+otrzymano : ping + 142245 
+wysłano : ('msg_gej', 'jakub') + 142245 
+otrzymano : ping + 142245 
+wysłano : ('msg_asf', 'rafalping') + 142245 
+otrzymano : ping + 142246 
+wysłano : ('msg_gej', 'jakub') + 142246 
+otrzymano : ping + 142246 
+wysłano : ('msg_asf', 'rafalping') + 142246 
+otrzymano : ping + 142246 
+wysłano : ('msg_gej', 'jakub') + 142246 
+otrzymano : ping + 142246 
+wysłano : ('msg_asf', 'rafalping') + 142246 
+otrzymano : ping + 142246 
+wysłano : ('msg_gej', 'jakub') + 142246 
+otrzymano : ping + 142246 
+wysłano : ('msg_asf', 'rafalping') + 142246 
+otrzymano : ping + 142246 
+wysłano : ('msg_gej', 'jakub') + 142246 
+otrzymano : ping + 142246 
+wysłano : ('msg_asf', 'rafalping') + 142246 
+otrzymano : ping + 142246 
+wysłano : ('msg_gej', 'jakub') + 142246 
+otrzymano : ping + 142246 
+wysłano : ('msg_asf', 'rafalping') + 142246 
+otrzymano : ping + 142247 
+wysłano : ('msg_gej', 'jakub') + 142247 
+otrzymano : ping + 142247 
+wysłano : ('msg_asf', 'rafalping') + 142247 
+otrzymano : ping + 142247 
+wysłano : ('msg_gej', 'jakub') + 142247 
+otrzymano : ping + 142247 
+wysłano : ('msg_asf', 'rafalping') + 142247 
+otrzymano : ping + 142247 
+wysłano : ('msg_gej', 'jakub') + 142247 
+otrzymano : ping + 142247 
+wysłano : ('msg_asf', 'rafalping') + 142247 
+otrzymano : ping + 142247 
+wysłano : ('msg_gej', 'jakub') + 142247 
+otrzymano : ping + 142247 
+wysłano : ('msg_asf', 'rafalping') + 142247 
+otrzymano : ping + 142247 
+wysłano : ('msg_gej', 'jakub') + 142247 
+otrzymano : ping + 142247 
+wysłano : ('msg_asf', 'rafalping') + 142247 
+otrzymano : ping + 142248 
+wysłano : ('msg_gej', 'jakub') + 142248 
+otrzymano : ping + 142248 
+wysłano : ('msg_asf', 'rafalping') + 142248 
+otrzymano : ping + 142248 
+wysłano : ('msg_gej', 'jakub') + 142248 
+otrzymano : ping + 142248 
+wysłano : ('msg_asf', 'rafalping') + 142248 
+otrzymano : ping + 142248 
+wysłano : ('msg_gej', 'jakub') + 142248 
+otrzymano : ping + 142248 
+wysłano : ('msg_asf', 'rafalping') + 142248 
+otrzymano : ping + 142248 
+wysłano : ('msg_gej', 'jakub') + 142248 
+otrzymano : ping + 142248 
+wysłano : ('msg_asf', 'rafalping') + 142248 
+otrzymano : ping + 142248 
+wysłano : ('msg_gej', 'jakub') + 142248 
+otrzymano : ping + 142248 
+wysłano : ('msg_asf', 'rafalping') + 142248 
+otrzymano : ping + 142249 
+wysłano : ('msg_gej', 'jakub') + 142249 
+otrzymano : ping + 142249 
+wysłano : ('msg_asf', 'rafalping') + 142249 
+otrzymano : ping + 142249 
+wysłano : ('msg_gej', 'jakub') + 142249 
+otrzymano : ping + 142249 
+wysłano : ('msg_asf', 'rafalping') + 142249 
+otrzymano : ping + 142249 
+wysłano : ('msg_gej', 'jakub') + 142249 
+otrzymano : ping + 142249 
+wysłano : ('msg_asf', 'rafalping') + 142249 
+otrzymano : ping + 142249 
+wysłano : ('msg_gej', 'jakub') + 142249 
+otrzymano : ping + 142249 
+wysłano : ('msg_asf', 'rafalping') + 142249 
+otrzymano : ping + 142249 
+wysłano : ('msg_gej', 'jakub') + 142249 
+otrzymano : ping + 142249 
+wysłano : ('msg_asf', 'rafalping') + 142249 
+otrzymano : ping + 142250 
+wysłano : ('msg_gej', 'jakub') + 142250 
+otrzymano : ping + 142250 
+wysłano : ('msg_asf', 'rafalping') + 142250 
+otrzymano : ping + 142250 
+wysłano : ('msg_gej', 'jakub') + 142250 
+otrzymano : ping + 142250 
+wysłano : ('msg_asf', 'rafalping') + 142250 
+otrzymano : ping + 142250 
+wysłano : ('msg_gej', 'jakub') + 142250 
+otrzymano : ping + 142250 
+wysłano : ('msg_asf', 'rafalping') + 142250 
+otrzymano : ping + 142250 
+wysłano : ('msg_gej', 'jakub') + 142250 
+otrzymano : ping + 142250 
+wysłano : ('msg_asf', 'rafalping') + 142250 
+otrzymano : ping + 142250 
+wysłano : ('msg_gej', 'jakub') + 142250 
+otrzymano : ping + 142250 
+wysłano : ('msg_asf', 'rafalping') + 142250 
+otrzymano : ping + 142251 
+wysłano : ('msg_gej', 'jakub') + 142251 
+otrzymano : ping + 142251 
+wysłano : ('msg_asf', 'rafalping') + 142251 
+otrzymano : ping + 142251 
+wysłano : ('msg_gej', 'jakub') + 142251 
+otrzymano : ping + 142251 
+wysłano : ('msg_asf', 'rafalping') + 142251 
+otrzymano : ping + 142251 
+wysłano : ('msg_gej', 'jakub') + 142251 
+otrzymano : ping + 142251 
+wysłano : ('msg_asf', 'rafalping') + 142251 
+otrzymano : ping + 142251 
+wysłano : ('msg_gej', 'jakub') + 142251 
+otrzymano : ping + 142251 
+wysłano : ('msg_asf', 'rafalping') + 142251 
+otrzymano : ping + 142251 
+wysłano : ('msg_gej', 'jakub') + 142251 
+otrzymano : ping + 142252 
+wysłano : ('msg_asf', 'rafalping') + 142252 
+otrzymano : ping + 142252 
+wysłano : ('msg_gej', 'jakub') + 142252 
+otrzymano : ping + 142252 
+wysłano : ('msg_asf', 'rafalping') + 142252 
+otrzymano : ping + 142252 
+wysłano : ('msg_gej', 'jakub') + 142252 
+otrzymano : ping + 142252 
+wysłano : ('msg_asf', 'rafalping') + 142252 
+otrzymano : ping + 142252 
+wysłano : ('msg_gej', 'jakub') + 142252 
+otrzymano : ping + 142252 
+wysłano : ('msg_asf', 'rafalping') + 142252 
+otrzymano : ping + 142252 
+wysłano : ('msg_gej', 'jakub') + 142252 
+otrzymano : ping + 142252 
+wysłano : ('msg_asf', 'rafalping') + 142252 
+otrzymano : ping + 142252 
+wysłano : ('msg_gej', 'jakub') + 142252 
+otrzymano : ping + 142253 
+wysłano : ('msg_asf', 'rafalping') + 142253 
+otrzymano : ping + 142253 
+wysłano : ('msg_gej', 'jakub') + 142253 
+otrzymano : ping + 142253 
+wysłano : ('msg_asf', 'rafalping') + 142253 
+otrzymano : ping + 142253 
+wysłano : ('msg_gej', 'jakub') + 142253 
+otrzymano : ping + 142253 
+wysłano : ('msg_asf', 'rafalping') + 142253 
+otrzymano : ping + 142253 
+wysłano : ('msg_gej', 'jakub') + 142253 
+otrzymano : ping + 142253 
+wysłano : ('msg_asf', 'rafalping') + 142253 
+otrzymano : ping + 142253 
+wysłano : ('msg_gej', 'jakub') + 142253 
+otrzymano : ping + 142253 
+wysłano : ('msg_asf', 'rafalping') + 142253 
+otrzymano : ping + 142253 
+wysłano : ('msg_gej', 'jakub') + 142253 
+otrzymano : ping + 142254 
+wysłano : ('msg_asf', 'rafalping') + 142254 
+otrzymano : ping + 142254 
+wysłano : ('msg_gej', 'jakub') + 142254 
+otrzymano : ping + 142254 
+wysłano : ('msg_asf', 'rafalping') + 142254 
+otrzymano : ping + 142254 
+wysłano : ('msg_gej', 'jakub') + 142254 
+otrzymano : ping + 142254 
+wysłano : ('msg_asf', 'rafalping') + 142254 
+otrzymano : ping + 142254 
+wysłano : ('msg_gej', 'jakub') + 142254 
+otrzymano : ping + 142254 
+wysłano : ('msg_asf', 'rafalping') + 142254 
+otrzymano : ping + 142254 
+wysłano : ('msg_gej', 'jakub') + 142254 
+otrzymano : ping + 142254 
+wysłano : ('msg_asf', 'rafalping') + 142254 
+otrzymano : ping + 142254 
+wysłano : ('msg_gej', 'jakub') + 142254 
+otrzymano : ping + 142255 
+wysłano : ('msg_asf', 'rafalping') + 142255 
+otrzymano : ping + 142255 
+wysłano : ('msg_gej', 'jakub') + 142255 
+otrzymano : ping + 142255 
+wysłano : ('msg_asf', 'rafalping') + 142255 
+otrzymano : ping + 142255 
+wysłano : ('msg_gej', 'jakub') + 142255 
+otrzymano : ping + 142255 
+wysłano : ('msg_asf', 'rafalping') + 142255 
+otrzymano : ping + 142255 
+wysłano : ('msg_gej', 'jakub') + 142255 
+otrzymano : ping + 142255 
+wysłano : ('msg_asf', 'rafalping') + 142255 
+otrzymano : ping + 142255 
+wysłano : ('msg_gej', 'jakub') + 142255 
+otrzymano : ping + 142255 
+wysłano : ('msg_asf', 'rafalping') + 142255 
+otrzymano : ping + 142256 
+wysłano : ('msg_gej', 'jakub') + 142256 
+otrzymano : ping + 142256 
+wysłano : ('msg_asf', 'rafalping') + 142256 
+otrzymano : ping + 142256 
+wysłano : ('msg_gej', 'jakub') + 142256 
+otrzymano : ping + 142256 
+wysłano : ('msg_asf', 'rafalping') + 142256 
+otrzymano : ping + 142256 
+wysłano : ('msg_gej', 'jakub') + 142256 
+otrzymano : ping + 142256 
+wysłano : ('msg_asf', 'rafalping') + 142256 
+otrzymano : ping + 142256 
+wysłano : ('msg_gej', 'jakub') + 142256 
+otrzymano : ping + 142256 
+wysłano : ('msg_asf', 'rafalping') + 142256 
+otrzymano : ping + 142256 
+wysłano : ('msg_gej', 'jakub') + 142256 
+otrzymano : ping + 142256 
+wysłano : ('msg_asf', 'rafalping') + 142256 
+otrzymano : ping + 142257 
+wysłano : ('msg_gej', 'jakub') + 142257 
+otrzymano : ping + 142257 
+wysłano : ('msg_asf', 'rafalping') + 142257 
+otrzymano : ping + 142257 
+wysłano : ('msg_gej', 'jakub') + 142257 
+otrzymano : ping + 142257 
+wysłano : ('msg_asf', 'rafalping') + 142257 
+otrzymano : ping + 142257 
+wysłano : ('msg_gej', 'jakub') + 142257 
+otrzymano : ping + 142257 
+wysłano : ('msg_asf', 'rafalping') + 142257 
+otrzymano : ping + 142257 
+wysłano : ('msg_gej', 'jakub') + 142257 
+otrzymano : ping + 142257 
+wysłano : ('msg_asf', 'rafalping') + 142257 
+otrzymano : ping + 142257 
+wysłano : ('msg_gej', 'jakub') + 142257 
+otrzymano : ping + 142257 
+wysłano : ('msg_asf', 'rafalping') + 142257 
+otrzymano : ping + 142258 
+wysłano : ('msg_gej', 'jakub') + 142258 
+otrzymano : ping + 142258 
+wysłano : ('msg_asf', 'rafalping') + 142258 
+otrzymano : ping + 142258 
+wysłano : ('msg_gej', 'jakub') + 142258 
+otrzymano : ping + 142258 
+wysłano : ('msg_asf', 'rafalping') + 142258 
+otrzymano : ping + 142258 
+wysłano : ('msg_gej', 'jakub') + 142258 
+otrzymano : ping + 142258 
+wysłano : ('msg_asf', 'rafalping') + 142258 
+otrzymano : ping + 142258 
+wysłano : ('msg_gej', 'jakub') + 142258 
+otrzymano : ping + 142258 
+wysłano : ('msg_asf', 'rafalping') + 142258 
+otrzymano : ping + 142258 
+wysłano : ('msg_gej', 'jakub') + 142258 
+otrzymano : ping + 142258 
+wysłano : ('msg_asf', 'rafalping') + 142258 
+otrzymano : ping + 142259 
+wysłano : ('msg_gej', 'jakub') + 142259 
+otrzymano : ping + 142259 
+wysłano : ('msg_asf', 'rafalping') + 142259 
+otrzymano : ping + 142259 
+wysłano : ('msg_gej', 'jakub') + 142259 
+otrzymano : ping + 142259 
+wysłano : ('msg_asf', 'rafalping') + 142259 
+otrzymano : ping + 142259 
+wysłano : ('msg_gej', 'jakub') + 142259 
+otrzymano : ping + 142259 
+wysłano : ('msg_asf', 'rafalping') + 142259 
+otrzymano : ping + 142259 
+wysłano : ('msg_gej', 'jakub') + 142259 
+otrzymano : ping + 142259 
+wysłano : ('msg_asf', 'rafalping') + 142259 
+otrzymano : ping + 142259 
+wysłano : ('msg_gej', 'jakub') + 142259 
+otrzymano : ping + 142259 
+wysłano : ('msg_asf', 'rafalping') + 142259 
+otrzymano : ping + 142300 
+wysłano : ('msg_gej', 'jakub') + 142300 
+otrzymano : ping + 142300 
+wysłano : ('msg_asf', 'rafalping') + 142300 
+otrzymano : ping + 142300 
+wysłano : ('msg_gej', 'jakub') + 142300 
+otrzymano : ping + 142300 
+wysłano : ('msg_asf', 'rafalping') + 142300 
+otrzymano : ping + 142300 
+wysłano : ('msg_gej', 'jakub') + 142300 
+otrzymano : ping + 142300 
+wysłano : ('msg_asf', 'rafalping') + 142300 
+otrzymano : ping + 142300 
+wysłano : ('msg_gej', 'jakub') + 142300 
+otrzymano : ping + 142300 
+wysłano : ('msg_asf', 'rafalping') + 142300 
+otrzymano : ping + 142300 
+wysłano : ('msg_gej', 'jakub') + 142300 
+otrzymano : ping + 142300 
+wysłano : ('msg_asf', 'rafalping') + 142300 
+otrzymano : ping + 142301 
+wysłano : ('msg_gej', 'jakub') + 142301 
+otrzymano : ping + 142301 
+wysłano : ('msg_asf', 'rafalping') + 142301 
+otrzymano : ping + 142301 
+wysłano : ('msg_gej', 'jakub') + 142301 
+otrzymano : ping + 142301 
+wysłano : ('msg_asf', 'rafalping') + 142301 
+otrzymano : ping + 142301 
+wysłano : ('msg_gej', 'jakub') + 142301 
+otrzymano : ping + 142301 
+wysłano : ('msg_asf', 'rafalping') + 142301 
+otrzymano : ping + 142301 
+wysłano : ('msg_gej', 'jakub') + 142301 
+otrzymano : ping + 142301 
+wysłano : ('msg_asf', 'rafalping') + 142301 
+otrzymano : ping + 142301 
+wysłano : ('msg_gej', 'jakub') + 142301 
+otrzymano : ping + 142301 
+wysłano : ('msg_asf', 'rafalping') + 142301 
+otrzymano : ping + 142302 
+wysłano : ('msg_gej', 'jakub') + 142302 
+otrzymano : ping + 142302 
+wysłano : ('msg_asf', 'rafalping') + 142302 
+otrzymano : ping + 142302 
+wysłano : ('msg_gej', 'jakub') + 142302 
+otrzymano : ping + 142302 
+wysłano : ('msg_asf', 'rafalping') + 142302 
+otrzymano : ping + 142302 
+wysłano : ('msg_gej', 'jakub') + 142302 
+otrzymano : ping + 142302 
+wysłano : ('msg_asf', 'rafalping') + 142302 
+otrzymano : ping + 142302 
+wysłano : ('msg_gej', 'jakub') + 142302 
+otrzymano : ping + 142302 
+wysłano : ('msg_asf', 'rafalping') + 142302 
+otrzymano : ping + 142302 
+wysłano : ('msg_gej', 'jakub') + 142302 
+otrzymano : ping + 142302 
+wysłano : ('msg_asf', 'rafalping') + 142302 
+otrzymano : ping + 142303 
+wysłano : ('msg_gej', 'jakub') + 142303 
+otrzymano : ping + 142303 
+wysłano : ('msg_asf', 'rafalping') + 142303 
+otrzymano : ping + 142303 
+wysłano : ('msg_gej', 'jakub') + 142303 
+otrzymano : ping + 142303 
+wysłano : ('msg_asf', 'rafalping') + 142303 
+otrzymano : ping + 142303 
+wysłano : ('msg_gej', 'jakub') + 142303 
+otrzymano : ping + 142303 
+wysłano : ('msg_asf', 'rafalping') + 142303 
+otrzymano : ping + 142303 
+wysłano : ('msg_gej', 'jakub') + 142303 
+otrzymano : ping + 142303 
+wysłano : ('msg_asf', 'rafalping') + 142303 
+otrzymano : ping + 142303 
+wysłano : ('msg_gej', 'jakub') + 142303 
+otrzymano : ping + 142303 
+wysłano : ('msg_asf', 'rafalping') + 142303 
+otrzymano : ping + 142304 
+wysłano : ('msg_gej', 'jakub') + 142304 
+otrzymano : ping + 142304 
+wysłano : ('msg_asf', 'rafalping') + 142304 
+otrzymano : ping + 142304 
+wysłano : ('msg_gej', 'jakub') + 142304 
+otrzymano : ping + 142304 
+wysłano : ('msg_asf', 'rafalping') + 142304 
+otrzymano : ping + 142304 
+wysłano : ('msg_gej', 'jakub') + 142304 
+otrzymano : ping + 142304 
+wysłano : ('msg_asf', 'rafalping') + 142304 
+otrzymano : ping + 142304 
+wysłano : ('msg_gej', 'jakub') + 142304 
+otrzymano : ping + 142304 
+wysłano : ('msg_asf', 'rafalping') + 142304 
+otrzymano : ping + 142304 
+wysłano : ('msg_gej', 'jakub') + 142304 
+otrzymano : ping + 142305 
+wysłano : ('msg_asf', 'rafalping') + 142305 
+otrzymano : ping + 142305 
+wysłano : ('msg_gej', 'jakub') + 142305 
+otrzymano : ping + 142305 
+wysłano : ('msg_asf', 'rafalping') + 142305 
+otrzymano : ping + 142305 
+wysłano : ('msg_gej', 'jakub') + 142305 
+otrzymano : ping + 142305 
+wysłano : ('msg_asf', 'rafalping') + 142305 
+otrzymano : ping + 142305 
+wysłano : ('msg_gej', 'jakub') + 142305 
+otrzymano : ping + 142305 
+wysłano : ('msg_asf', 'rafalping') + 142305 
+otrzymano : ping + 142305 
+wysłano : ('msg_gej', 'jakub') + 142305 
+otrzymano : ping + 142305 
+wysłano : ('msg_asf', 'rafalping') + 142305 
+otrzymano : ping + 142305 
+wysłano : ('msg_gej', 'jakub') + 142305 
+otrzymano : ping + 142306 
+wysłano : ('msg_asf', 'rafalping') + 142306 
+otrzymano : ping + 142306 
+wysłano : ('msg_gej', 'jakub') + 142306 
+otrzymano : ping + 142306 
+wysłano : ('msg_asf', 'rafalping') + 142306 
+otrzymano : ping + 142306 
+wysłano : ('msg_gej', 'jakub') + 142306 
+otrzymano : ping + 142306 
+wysłano : ('msg_asf', 'rafalping') + 142306 
+otrzymano : ping + 142306 
+wysłano : ('msg_gej', 'jakub') + 142306 
+otrzymano : ping + 142306 
+wysłano : ('msg_asf', 'rafalping') + 142306 
+otrzymano : ping + 142306 
+wysłano : ('msg_gej', 'jakub') + 142306 
+otrzymano : ping + 142306 
+wysłano : ('msg_asf', 'rafalping') + 142306 
+otrzymano : ping + 142306 
+wysłano : ('msg_gej', 'jakub') + 142306 
+otrzymano : ping + 142307 
+wysłano : ('msg_asf', 'rafalping') + 142307 
+otrzymano : ping + 142307 
+wysłano : ('msg_gej', 'jakub') + 142307 
+otrzymano : ping + 142307 
+wysłano : ('msg_asf', 'rafalping') + 142307 
+otrzymano : ping + 142307 
+wysłano : ('msg_gej', 'jakub') + 142307 
+otrzymano : ping + 142307 
+wysłano : ('msg_asf', 'rafalping') + 142307 
+otrzymano : ping + 142307 
+wysłano : ('msg_gej', 'jakub') + 142307 
+otrzymano : ping + 142307 
+wysłano : ('msg_asf', 'rafalping') + 142307 
+otrzymano : ping + 142307 
+wysłano : ('msg_gej', 'jakub') + 142307 
+otrzymano : ping + 142307 
+wysłano : ('msg_asf', 'rafalping') + 142307 
+otrzymano : ping + 142308 
+wysłano : ('msg_gej', 'jakub') + 142308 
+otrzymano : ping + 142308 
+wysłano : ('msg_asf', 'rafalping') + 142308 
+otrzymano : ping + 142308 
+wysłano : ('msg_gej', 'jakub') + 142308 
+otrzymano : ping + 142308 
+wysłano : ('msg_asf', 'rafalping') + 142308 
+otrzymano : ping + 142308 
+wysłano : ('msg_gej', 'jakub') + 142308 
+otrzymano : ping + 142308 
+wysłano : ('msg_asf', 'rafalping') + 142308 
+otrzymano : ping + 142308 
+wysłano : ('msg_gej', 'jakub') + 142308 
+otrzymano : ping + 142308 
+wysłano : ('msg_asf', 'rafalping') + 142308 
+otrzymano : ping + 142308 
+wysłano : ('msg_gej', 'jakub') + 142308 
+otrzymano : ping + 142308 
+wysłano : ('msg_asf', 'rafalping') + 142308 
+otrzymano : ping + 142309 
+wysłano : ('msg_gej', 'jakub') + 142309 
+otrzymano : ping + 142309 
+wysłano : ('msg_asf', 'rafalping') + 142309 
+otrzymano : ping + 142309 
+wysłano : ('msg_gej', 'jakub') + 142309 
+otrzymano : ping + 142309 
+wysłano : ('msg_asf', 'rafalping') + 142309 
+otrzymano : ping + 142309 
+wysłano : ('msg_gej', 'jakub') + 142309 
+otrzymano : ping + 142309 
+wysłano : ('msg_asf', 'rafalping') + 142309 
+otrzymano : ping + 142309 
+wysłano : ('msg_gej', 'jakub') + 142309 
+otrzymano : ping + 142309 
+wysłano : ('msg_asf', 'rafalping') + 142309 
+otrzymano : ping + 142309 
+wysłano : ('msg_gej', 'jakub') + 142309 
+otrzymano : ping + 142309 
+wysłano : ('msg_asf', 'rafalping') + 142309 
+otrzymano : ping + 142310 
+wysłano : ('msg_gej', 'jakub') + 142310 
+otrzymano : ping + 142310 
+wysłano : ('msg_asf', 'rafalping') + 142310 
+otrzymano : ping + 142310 
+wysłano : ('msg_gej', 'jakub') + 142310 
+otrzymano : ping + 142310 
+wysłano : ('msg_asf', 'rafalping') + 142310 
+otrzymano : ping + 142310 
+wysłano : ('msg_gej', 'jakub') + 142310 
+otrzymano : ping + 142310 
+wysłano : ('msg_asf', 'rafalping') + 142310 
+otrzymano : ping + 142310 
+wysłano : ('msg_gej', 'jakub') + 142310 
+otrzymano : ping + 142310 
+wysłano : ('msg_asf', 'rafalping') + 142310 
+otrzymano : ping + 142310 
+wysłano : ('msg_gej', 'jakub') + 142310 
+otrzymano : ping + 142310 
+wysłano : ('msg_asf', 'rafalping') + 142310 
+otrzymano : ping + 142311 
+wysłano : ('msg_gej', 'jakub') + 142311 
+otrzymano : ping + 142311 
+wysłano : ('msg_asf', 'rafalping') + 142311 
+otrzymano : ping + 142311 
+wysłano : ('msg_gej', 'jakub') + 142311 
+otrzymano : ping + 142311 
+wysłano : ('msg_asf', 'rafalping') + 142311 
+otrzymano : ping + 142311 
+wysłano : ('msg_gej', 'jakub') + 142311 
+otrzymano : ping + 142311 
+wysłano : ('msg_asf', 'rafalping') + 142311 
+otrzymano : ping + 142311 
+wysłano : ('msg_gej', 'jakub') + 142311 
+otrzymano : ping + 142311 
+wysłano : ('msg_asf', 'rafalping') + 142311 
+otrzymano : ping + 142311 
+wysłano : ('msg_gej', 'jakub') + 142311 
+otrzymano : ping + 142311 
+wysłano : ('msg_asf', 'rafalping') + 142311 
+otrzymano : ping + 142312 
+wysłano : ('msg_gej', 'jakub') + 142312 
+otrzymano : ping + 142312 
+wysłano : ('msg_asf', 'rafalping') + 142312 
+otrzymano : ping + 142312 
+wysłano : ('msg_gej', 'jakub') + 142312 
+otrzymano : ping + 142312 
+wysłano : ('msg_asf', 'rafalping') + 142312 
+otrzymano : ping + 142312 
+wysłano : ('msg_gej', 'jakub') + 142312 
+otrzymano : ping + 142312 
+wysłano : ('msg_asf', 'rafalping') + 142312 
+otrzymano : ping + 142312 
+wysłano : ('msg_gej', 'jakub') + 142312 
+otrzymano : ping + 142312 
+wysłano : ('msg_asf', 'rafalping') + 142312 
+otrzymano : ping + 142312 
+wysłano : ('msg_gej', 'jakub') + 142312 
+otrzymano : ping + 142312 
+wysłano : ('msg_asf', 'rafalping') + 142312 
+otrzymano : ping + 142313 
+wysłano : ('msg_gej', 'jakub') + 142313 
+otrzymano : ping + 142313 
+wysłano : ('msg_asf', 'rafalping') + 142313 
+otrzymano : ping + 142313 
+wysłano : ('msg_gej', 'jakub') + 142313 
+otrzymano : ping + 142313 
+wysłano : ('msg_asf', 'rafalping') + 142313 
+otrzymano : ping + 142313 
+wysłano : ('msg_gej', 'jakub') + 142313 
+otrzymano : ping + 142313 
+wysłano : ('msg_asf', 'rafalping') + 142313 
+otrzymano : ping + 142313 
+wysłano : ('msg_gej', 'jakub') + 142313 
+otrzymano : ping + 142313 
+wysłano : ('msg_asf', 'rafalping') + 142313 
+otrzymano : ping + 142313 
+wysłano : ('msg_gej', 'jakub') + 142313 
+otrzymano : ping + 142313 
+wysłano : ('msg_asf', 'rafalping') + 142313 
+otrzymano : ping + 142314 
+wysłano : ('msg_gej', 'jakub') + 142314 
+otrzymano : ping + 142314 
+wysłano : ('msg_asf', 'rafalping') + 142314 
+otrzymano : ping + 142314 
+wysłano : ('msg_gej', 'jakub') + 142314 
+otrzymano : ping + 142314 
+wysłano : ('msg_asf', 'rafalping') + 142314 
+otrzymano : ping + 142314 
+wysłano : ('msg_gej', 'jakub') + 142314 
+otrzymano : ping + 142314 
+wysłano : ('msg_asf', 'rafalping') + 142314 
+otrzymano : ping + 142314 
+wysłano : ('msg_gej', 'jakub') + 142314 
+otrzymano : ping + 142314 
+wysłano : ('msg_asf', 'rafalping') + 142314 
+otrzymano : ping + 142314 
+wysłano : ('msg_gej', 'jakub') + 142314 
+otrzymano : ping + 142315 
+wysłano : ('msg_asf', 'rafalping') + 142315 
+otrzymano : ping + 142315 
+wysłano : ('msg_gej', 'jakub') + 142315 
+otrzymano : ping + 142315 
+wysłano : ('msg_asf', 'rafalping') + 142315 
+otrzymano : ping + 142315 
+wysłano : ('msg_gej', 'jakub') + 142315 
+otrzymano : ping + 142315 
+wysłano : ('msg_asf', 'rafalping') + 142315 
+otrzymano : ping + 142315 
+wysłano : ('msg_gej', 'jakub') + 142315 
+otrzymano : ping + 142315 
+wysłano : ('msg_asf', 'rafalping') + 142315 
+otrzymano : ping + 142315 
+wysłano : ('msg_gej', 'jakub') + 142315 
+otrzymano : ping + 142315 
+wysłano : ('msg_asf', 'rafalping') + 142315 
+otrzymano : ping + 142315 
+wysłano : ('msg_gej', 'jakub') + 142315 
+otrzymano : ping + 142316 
+wysłano : ('msg_asf', 'rafalping') + 142316 
+otrzymano : ping + 142316 
+wysłano : ('msg_gej', 'jakub') + 142316 
+otrzymano : ping + 142316 
+wysłano : ('msg_asf', 'rafalping') + 142316 
+otrzymano : ping + 142316 
+wysłano : ('msg_gej', 'jakub') + 142316 
+otrzymano : ping + 142316 
+wysłano : ('msg_asf', 'rafalping') + 142316 
+otrzymano : ping + 142316 
+wysłano : ('msg_gej', 'jakub') + 142316 
+otrzymano : ping + 142316 
+wysłano : ('msg_asf', 'rafalping') + 142316 
+otrzymano : ping + 142316 
+wysłano : ('msg_gej', 'jakub') + 142316 
+otrzymano : ping + 142316 
+wysłano : ('msg_asf', 'rafalping') + 142316 
+otrzymano : ping + 142316 
+wysłano : ('msg_asf', 'rafalping') + 142316 
+otrzymano : ping + 142319 
+wysłano : ('msg_gej', 'jakub') + 142319 
+otrzymano : ping + 142320 
+wysłano : ('msg_gej', 'jakub') + 142320 
+otrzymano : pingping + 142320 
+wysłano : ('msg_gej', 'jakub') + 142320 
+otrzymano : ping + 142320 
+wysłano : ('msg_gej', 'jakub') + 142320 
+otrzymano : ping + 142320 
+wysłano : ('msg_gej', 'jakub') + 142320 
+otrzymano : ping + 142320 
+wysłano : ('msg_gej', 'jakub') + 142320 
+otrzymano : ping + 142321 
+wysłano : ('msg_gej', 'jakub') + 142321 
+otrzymano : ping + 142321 
+wysłano : ('msg_gej', 'jakub') + 142321 
+otrzymano : ping + 142321 
+wysłano : ('msg_gej', 'jakub') + 142321 
+otrzymano : ping + 142321 
+wysłano : ('msg_gej', 'jakub') + 142321 
+otrzymano : ping + 142321 
+wysłano : ('msg_gej', 'jakub') + 142321 
+otrzymano : ping + 142322 
+wysłano : ('msg_gej', 'jakub') + 142322 
+otrzymano : ping + 142322 
+wysłano : ('msg_gej', 'jakub') + 142322 
+otrzymano : ping + 142322 
+wysłano : ('msg_gej', 'jakub') + 142322 
+otrzymano : ping + 142322 
+wysłano : ('msg_gej', 'jakub') + 142322 
+otrzymano : ping + 142322 
+wysłano : ('msg_gej', 'jakub') + 142322 
+otrzymano : ping + 142323 
+wysłano : ('msg_gej', 'jakub') + 142323 
+otrzymano : ping + 142323 
+wysłano : ('msg_gej', 'jakub') + 142323 
+otrzymano : ping + 142323 
+wysłano : ('msg_gej', 'jakub') + 142323 
+otrzymano : ping + 142323 
+wysłano : ('msg_gej', 'jakub') + 142323 
+otrzymano : ping + 142323 
+wysłano : ('msg_gej', 'jakub') + 142323 
+otrzymano : ping + 142324 
+wysłano : ('msg_gej', 'jakub') + 142324 
+otrzymano : ping + 142324 
+wysłano : ('msg_gej', 'jakub') + 142324 
+otrzymano : ping + 142324 
+wysłano : ('msg_gej', 'jakub') + 142324 
+otrzymano : ping + 142324 
+wysłano : ('msg_gej', 'jakub') + 142324 
+otrzymano : ping + 142324 
+wysłano : ('msg_gej', 'jakub') + 142324 
+otrzymano : ping + 142325 
+wysłano : ('msg_gej', 'jakub') + 142325 
+otrzymano : ping + 142325 
+wysłano : ('msg_gej', 'jakub') + 142325 
+otrzymano : ping + 142325 
+wysłano : ('msg_gej', 'jakub') + 142325 
+otrzymano : ping + 142325 
+wysłano : ('msg_gej', 'jakub') + 142325 
+otrzymano : ping + 142326 
+wysłano : ('msg_gej', 'jakub') + 142326 
+otrzymano : ping + 142326 
+wysłano : ('msg_gej', 'jakub') + 142326 
+otrzymano : ping + 142326 
+wysłano : ('msg_gej', 'jakub') + 142326 
+otrzymano : ping + 142326 
+wysłano : ('msg_gej', 'jakub') + 142326 
+otrzymano : ping + 142326 
+wysłano : ('msg_gej', 'jakub') + 142326 
+otrzymano : ping + 142327 
+wysłano : ('msg_gej', 'jakub') + 142327 
+otrzymano : ping + 142327 
+wysłano : ('msg_gej', 'jakub') + 142327 
+otrzymano : ping + 142327 
+wysłano : ('msg_gej', 'jakub') + 142327 
+otrzymano : ping + 142327 
+wysłano : ('msg_gej', 'jakub') + 142327 
+otrzymano : ping + 142327 
+wysłano : ('msg_gej', 'jakub') + 142327 
+otrzymano : ping + 142328 
+wysłano : ('msg_gej', 'jakub') + 142328 
+otrzymano : ping + 142328 
+wysłano : ('msg_gej', 'jakub') + 142328 
+otrzymano : ping + 142328 
+wysłano : ('msg_gej', 'jakub') + 142328 
+otrzymano : ping + 142328 
+wysłano : ('msg_gej', 'jakub') + 142328 
+otrzymano : ping + 142328 
+wysłano : ('msg_gej', 'jakub') + 142328 
+otrzymano : ping + 142329 
+wysłano : ('msg_gej', 'jakub') + 142329 
+otrzymano : ping + 142329 
+wysłano : ('msg_gej', 'jakub') + 142329 
+otrzymano : ping + 142329 
+wysłano : ('msg_gej', 'jakub') + 142329 
+otrzymano : ping + 142329 
+wysłano : ('msg_gej', 'jakub') + 142329 
+otrzymano : ping + 142329 
+wysłano : ('msg_gej', 'jakub') + 142329 
+otrzymano : ping + 142330 
+wysłano : ('msg_gej', 'jakub') + 142330 
+otrzymano : ping + 142330 
+wysłano : ('msg_gej', 'jakub') + 142330 
+otrzymano : ping + 142330 
+wysłano : ('msg_gej', 'jakub') + 142330 
+otrzymano : ping + 142330 
+wysłano : ('msg_gej', 'jakub') + 142330 
+otrzymano : ping + 142330 
+wysłano : ('msg_gej', 'jakub') + 142330 
+otrzymano : ping + 142331 
+wysłano : ('msg_gej', 'jakub') + 142331 
+otrzymano : ping + 142331 
+wysłano : ('msg_gej', 'jakub') + 142331 
+otrzymano : ping + 142331 
+wysłano : ('msg_gej', 'jakub') + 142331 
+otrzymano : ping + 142331 
+wysłano : ('msg_gej', 'jakub') + 142331 
+otrzymano : ping + 142331 
+wysłano : ('msg_gej', 'jakub') + 142331 
+otrzymano : ping + 142332 
+wysłano : ('msg_gej', 'jakub') + 142332 
+otrzymano : ping + 142332 
+wysłano : ('msg_gej', 'jakub') + 142332 
+otrzymano : ping + 142332 
+wysłano : ('msg_gej', 'jakub') + 142332 
+otrzymano : ping + 142332 
+wysłano : ('msg_gej', 'jakub') + 142332 
+otrzymano : ping + 142332 
+wysłano : ('msg_gej', 'jakub') + 142332 
+otrzymano : ping + 142333 
+wysłano : ('msg_gej', 'jakub') + 142333 
+otrzymano : ping + 142333 
+wysłano : ('msg_gej', 'jakub') + 142333 
+otrzymano : ping + 142333 
+wysłano : ('msg_gej', 'jakub') + 142333 
+otrzymano : ping + 142333 
+wysłano : ('msg_gej', 'jakub') + 142333 
+otrzymano : ping + 142333 
+wysłano : ('msg_gej', 'jakub') + 142333 
+otrzymano : ping + 142334 
+wysłano : ('msg_gej', 'jakub') + 142334 
+otrzymano : ping + 142334 
+wysłano : ('msg_gej', 'jakub') + 142334 
+otrzymano : ping + 142334 
+wysłano : ('msg_gej', 'jakub') + 142334 
+otrzymano : ping + 142334 
+wysłano : ('msg_gej', 'jakub') + 142334 
+otrzymano : ping + 142334 
+wysłano : ('msg_gej', 'jakub') + 142334 
+otrzymano : ping + 142335 
+wysłano : ('msg_gej', 'jakub') + 142335 
+otrzymano : ping + 142335 
+wysłano : ('msg_gej', 'jakub') + 142335 
+otrzymano : ping + 142335 
+wysłano : ('msg_gej', 'jakub') + 142335 
+otrzymano : ping + 142335 
+wysłano : ('msg_gej', 'jakub') + 142335 
+otrzymano : ping + 142336 
+wysłano : ('msg_gej', 'jakub') + 142336 
+otrzymano : ping + 142336 
+wysłano : ('msg_gej', 'jakub') + 142336 
+otrzymano : ping + 142336 
+wysłano : ('msg_gej', 'jakub') + 142336 
+otrzymano : ping + 142336 
+wysłano : ('msg_gej', 'jakub') + 142336 
+otrzymano : ping + 142336 
+wysłano : ('msg_gej', 'jakub') + 142336 
+otrzymano : ping + 142337 
+wysłano : ('msg_gej', 'jakub') + 142337 
+otrzymano : ping + 142337 
+wysłano : ('msg_gej', 'jakub') + 142337 
+otrzymano : ping + 142337 
+wysłano : ('msg_gej', 'jakub') + 142337 
+otrzymano : ping + 142337 
+wysłano : ('msg_gej', 'jakub') + 142337 
+otrzymano : ping + 142337 
+wysłano : ('msg_gej', 'jakub') + 142337 
+otrzymano : ping + 142338 
+wysłano : ('msg_gej', 'jakub') + 142338 
+otrzymano : ping + 142338 
+wysłano : ('msg_gej', 'jakub') + 142338 
+otrzymano : ping + 142338 
+wysłano : ('msg_gej', 'jakub') + 142338 
+otrzymano : ping + 142338 
+wysłano : ('msg_gej', 'jakub') + 142338 
+otrzymano : ping + 142338 
+wysłano : ('msg_gej', 'jakub') + 142338 
+otrzymano : ping + 142339 
+wysłano : ('msg_gej', 'jakub') + 142339 
+otrzymano : ping + 142339 
+wysłano : ('msg_gej', 'jakub') + 142339 
+otrzymano : ping + 142339 
+wysłano : ('msg_gej', 'jakub') + 142339 
+otrzymano : ping + 142339 
+wysłano : ('msg_gej', 'jakub') + 142339 
+otrzymano : ping + 142339 
+wysłano : ('msg_gej', 'jakub') + 142339 
+otrzymano : ping + 142340 
+wysłano : ('msg_gej', 'jakub') + 142340 
+otrzymano : ping + 142340 
+wysłano : ('msg_gej', 'jakub') + 142340 
+otrzymano : ping + 142340 
+wysłano : ('msg_gej', 'jakub') + 142340 
+otrzymano : ping + 142340 
+wysłano : ('msg_gej', 'jakub') + 142340 
+otrzymano : ping + 142340 
+wysłano : ('msg_gej', 'jakub') + 142340 
+otrzymano : ping + 142341 
+wysłano : ('msg_gej', 'jakub') + 142341 
+otrzymano : ping + 142341 
+wysłano : ('msg_gej', 'jakub') + 142341 
+otrzymano : ping + 142341 
+wysłano : ('msg_gej', 'jakub') + 142341 
+otrzymano : ping + 142341 
+wysłano : ('msg_gej', 'jakub') + 142341 
+otrzymano : ping + 142341 
+wysłano : ('msg_gej', 'jakub') + 142341 
+otrzymano : ping + 142342 
+wysłano : ('msg_gej', 'jakub') + 142342 
+otrzymano : ping + 142342 
+wysłano : ('msg_gej', 'jakub') + 142342 
+otrzymano : ping + 142342 
+wysłano : ('msg_gej', 'jakub') + 142342 
+otrzymano : ping + 142342 
+wysłano : ('msg_gej', 'jakub') + 142342 
+otrzymano : ping + 142342 
+wysłano : ('msg_gej', 'jakub') + 142342 
+otrzymano : ping + 142343 
+wysłano : ('msg_gej', 'jakub') + 142343 
+otrzymano : ping + 142343 
+wysłano : ('msg_gej', 'jakub') + 142343 
+otrzymano : ping + 142343 
+wysłano : ('msg_gej', 'jakub') + 142343 
+otrzymano : ping + 142343 
+wysłano : ('msg_gej', 'jakub') + 142343 
+otrzymano : ping + 142343 
+wysłano : ('msg_gej', 'jakub') + 142343 
+otrzymano : ping + 142344 
+wysłano : ('msg_gej', 'jakub') + 142344 
+otrzymano : ping + 142344 
+wysłano : ('msg_gej', 'jakub') + 142344 
+otrzymano : ping + 142344 
+wysłano : ('msg_gej', 'jakub') + 142344 
+otrzymano : ping + 142344 
+wysłano : ('msg_gej', 'jakub') + 142344 
+otrzymano : ping + 142344 
+wysłano : ('msg_gej', 'jakub') + 142344 
+otrzymano : ping + 142345 
+wysłano : ('msg_gej', 'jakub') + 142345 
+otrzymano : ping + 142345 
+wysłano : ('msg_gej', 'jakub') + 142345 
+otrzymano : ping + 142345 
+wysłano : ('msg_gej', 'jakub') + 142345 
+otrzymano : ping + 142345 
+wysłano : ('msg_gej', 'jakub') + 142345 
+otrzymano : ping + 142345 
+wysłano : ('msg_gej', 'jakub') + 142345 
+otrzymano : ping + 142346 
+wysłano : ('msg_gej', 'jakub') + 142346 
+otrzymano : ping + 142346 
+wysłano : ('msg_gej', 'jakub') + 142346 
+otrzymano : ping + 142346 
+wysłano : ('msg_gej', 'jakub') + 142346 
+otrzymano : ping + 142346 
+wysłano : ('msg_gej', 'jakub') + 142346 
+otrzymano : ping + 142346 
+wysłano : ('msg_gej', 'jakub') + 142346 
+otrzymano : ping + 142347 
+wysłano : ('msg_gej', 'jakub') + 142347 
+otrzymano : ping + 142347 
+wysłano : ('msg_gej', 'jakub') + 142347 
+otrzymano : ping + 142347 
+wysłano : ('msg_gej', 'jakub') + 142347 
+otrzymano : ping + 142347 
+wysłano : ('msg_gej', 'jakub') + 142347 
+otrzymano : ping + 142348 
+wysłano : ('msg_gej', 'jakub') + 142348 
+otrzymano : ping + 142348 
+wysłano : ('msg_gej', 'jakub') + 142348 
+otrzymano : ping + 142348 
+wysłano : ('msg_gej', 'jakub') + 142348 
+otrzymano : ping + 142348 
+wysłano : ('msg_gej', 'jakub') + 142348 
+otrzymano : ping + 142348 
+wysłano : ('msg_gej', 'jakub') + 142348 
+otrzymano : ping + 142349 
+wysłano : ('msg_gej', 'jakub') + 142349 
+otrzymano : ping + 142349 
+wysłano : ('msg_gej', 'jakub') + 142349 
+otrzymano : ping + 142349 
+wysłano : ('msg_gej', 'jakub') + 142349 
+otrzymano : ping + 142349 
+wysłano : ('msg_gej', 'jakub') + 142349 
+otrzymano : ping + 142349 
+wysłano : ('msg_gej', 'jakub') + 142349 
+otrzymano : ping + 142350 
+wysłano : ('msg_gej', 'jakub') + 142350 
+otrzymano : ping + 142350 
+wysłano : ('msg_gej', 'jakub') + 142350 
+otrzymano : ping + 142350 
+wysłano : ('msg_gej', 'jakub') + 142350 
+otrzymano : ping + 142350 
+wysłano : ('msg_gej', 'jakub') + 142350 
+otrzymano : ping + 142350 
+wysłano : ('msg_gej', 'jakub') + 142350 
+otrzymano : ping + 142351 
+wysłano : ('msg_gej', 'jakub') + 142351 
+otrzymano : ping + 142351 
+wysłano : ('msg_gej', 'jakub') + 142351 
+otrzymano : ping + 142351 
+wysłano : ('msg_gej', 'jakub') + 142351 
+otrzymano : ping + 142351 
+wysłano : ('msg_gej', 'jakub') + 142351 
+otrzymano : ping + 142351 
+wysłano : ('msg_gej', 'jakub') + 142351 
+otrzymano : ping + 142352 
+wysłano : ('msg_gej', 'jakub') + 142352 
+otrzymano : ping + 142352 
+wysłano : ('msg_gej', 'jakub') + 142352 
+otrzymano : ping + 142352 
+wysłano : ('msg_gej', 'jakub') + 142352 
+otrzymano : ping + 142352 
+wysłano : ('msg_gej', 'jakub') + 142352 
+otrzymano : ping + 142352 
+wysłano : ('msg_gej', 'jakub') + 142352 
+otrzymano : ping + 142353 
+wysłano : ('msg_gej', 'jakub') + 142353 
+otrzymano : ping + 142353 
+wysłano : ('msg_gej', 'jakub') + 142353 
+otrzymano : ping + 142353 
+wysłano : ('msg_gej', 'jakub') + 142353 
+otrzymano : ping + 142353 
+wysłano : ('msg_gej', 'jakub') + 142353 
+otrzymano : ping + 142353 
+wysłano : ('msg_gej', 'jakub') + 142353 
+otrzymano : ping + 142354 
+wysłano : ('msg_gej', 'jakub') + 142354 
+otrzymano : ping + 142354 
+wysłano : ('msg_gej', 'jakub') + 142354 
+otrzymano : ping + 142354 
+wysłano : ('msg_gej', 'jakub') + 142354 
+otrzymano : ping + 142354 
+wysłano : ('msg_gej', 'jakub') + 142354 
+otrzymano : ping + 142354 
+wysłano : ('msg_gej', 'jakub') + 142354 
+otrzymano : ping + 142355 
+wysłano : ('msg_gej', 'jakub') + 142355 
+otrzymano : ping + 142355 
+wysłano : ('msg_gej', 'jakub') + 142355 
+otrzymano : ping + 142355 
+wysłano : ('msg_gej', 'jakub') + 142355 
+otrzymano : ping + 142355 
+wysłano : ('msg_gej', 'jakub') + 142355 
+otrzymano : ping + 142355 
+wysłano : ('msg_gej', 'jakub') + 142355 
+otrzymano : ping + 142356 
+wysłano : ('msg_gej', 'jakub') + 142356 
+otrzymano : ping + 142356 
+wysłano : ('msg_gej', 'jakub') + 142356 
+otrzymano : ping + 142356 
+wysłano : ('msg_gej', 'jakub') + 142356 
+otrzymano : ping + 142356 
+wysłano : ('msg_gej', 'jakub') + 142356 
+otrzymano : ping + 142357 
+wysłano : ('msg_gej', 'jakub') + 142357 
+otrzymano : ping + 142357 
+wysłano : ('msg_gej', 'jakub') + 142357 
+otrzymano : ping + 142357 
+wysłano : ('msg_gej', 'jakub') + 142357 
+otrzymano : ping + 142357 
+wysłano : ('msg_gej', 'jakub') + 142357 
+otrzymano : ping + 142357 
+wysłano : ('msg_gej', 'jakub') + 142357 
+otrzymano : ping + 142358 
+wysłano : ('msg_gej', 'jakub') + 142358 
+otrzymano : ping + 142358 
+wysłano : ('msg_gej', 'jakub') + 142358 
+otrzymano : ping + 142358 
+wysłano : ('msg_gej', 'jakub') + 142358 
+otrzymano : ping + 142358 
+wysłano : ('msg_gej', 'jakub') + 142358 
+otrzymano : ping + 142358 
+wysłano : ('msg_gej', 'jakub') + 142358 
+otrzymano : ping + 142359 
+wysłano : ('msg_gej', 'jakub') + 142359 
+otrzymano : ping + 142359 
+wysłano : ('msg_gej', 'jakub') + 142359 
+otrzymano : ping + 142359 
+wysłano : ('msg_gej', 'jakub') + 142359 
+otrzymano : ping + 142359 
+wysłano : ('msg_gej', 'jakub') + 142359 
+otrzymano : ping + 142359 
+wysłano : ('msg_gej', 'jakub') + 142359 
+otrzymano : ping + 142400 
+wysłano : ('msg_gej', 'jakub') + 142400 
+otrzymano : ping + 142400 
+wysłano : ('msg_gej', 'jakub') + 142400 
+otrzymano : ping + 142400 
+wysłano : ('msg_gej', 'jakub') + 142400 
+otrzymano : ping + 142400 
+wysłano : ('msg_gej', 'jakub') + 142400 
+otrzymano : ping + 142400 
+wysłano : ('msg_gej', 'jakub') + 142400 
+otrzymano : ping + 142401 
+wysłano : ('msg_gej', 'jakub') + 142401 
+otrzymano : ping + 142401 
+wysłano : ('msg_gej', 'jakub') + 142401 
+otrzymano : ping + 142401 
+wysłano : ('msg_gej', 'jakub') + 142401 
+otrzymano : ping + 142401 
+wysłano : ('msg_gej', 'jakub') + 142401 
+otrzymano : ping + 142401 
+wysłano : ('msg_gej', 'jakub') + 142401 
+otrzymano : ping + 142402 
+wysłano : ('msg_gej', 'jakub') + 142402 
+otrzymano : ping + 142402 
+wysłano : ('msg_gej', 'jakub') + 142402 
+otrzymano : ping + 142402 
+wysłano : ('msg_gej', 'jakub') + 142402 
+otrzymano : ping + 142402 
+wysłano : ('msg_gej', 'jakub') + 142402 
+otrzymano : ping + 142402 
+wysłano : ('msg_gej', 'jakub') + 142402 
+otrzymano : ping + 142403 
+wysłano : ('msg_gej', 'jakub') + 142403 
+otrzymano : ping + 142403 
+wysłano : ('msg_gej', 'jakub') + 142403 
+otrzymano : ping + 142403 
+wysłano : ('msg_gej', 'jakub') + 142403 
+otrzymano : ping + 142403 
+wysłano : ('msg_gej', 'jakub') + 142403 
+otrzymano : ping + 142403 
+wysłano : ('msg_gej', 'jakub') + 142403 
+otrzymano : ping + 142404 
+wysłano : ('msg_gej', 'jakub') + 142404 
+otrzymano : ping + 142404 
+wysłano : ('msg_gej', 'jakub') + 142404 
+otrzymano : ping + 142404 
+wysłano : ('msg_gej', 'jakub') + 142404 
+otrzymano : ping + 142404 
+wysłano : ('msg_gej', 'jakub') + 142404 
+otrzymano : ping + 142404 
+wysłano : ('msg_gej', 'jakub') + 142404 
+otrzymano : ping + 142405 
+wysłano : ('msg_gej', 'jakub') + 142405 
+otrzymano : ping + 142405 
+wysłano : ('msg_gej', 'jakub') + 142405 
+otrzymano : ping + 142405 
+wysłano : ('msg_gej', 'jakub') + 142405 
+otrzymano : ping + 142405 
+wysłano : ('msg_gej', 'jakub') + 142405 
+otrzymano : ping + 142405 
+wysłano : ('msg_gej', 'jakub') + 142405 
+otrzymano : ping + 142406 
+wysłano : ('msg_gej', 'jakub') + 142406 
+otrzymano : ping + 142406 
+wysłano : ('msg_gej', 'jakub') + 142406 
+otrzymano : ping + 142406 
+wysłano : ('msg_gej', 'jakub') + 142406 
+otrzymano : ping + 142406 
+wysłano : ('msg_gej', 'jakub') + 142406 
+otrzymano : ping + 142406 
+wysłano : ('msg_gej', 'jakub') + 142406 
+otrzymano : ping + 142407 
+wysłano : ('msg_gej', 'jakub') + 142407 
+otrzymano : ping + 142407 
+wysłano : ('msg_gej', 'jakub') + 142407 
+otrzymano : ping + 142407 
+wysłano : ('msg_gej', 'jakub') + 142407 
+otrzymano : ping + 142407 
+wysłano : ('msg_gej', 'jakub') + 142407 
+otrzymano : ping + 142408 
+wysłano : ('msg_gej', 'jakub') + 142408 
+otrzymano : ping + 142408 
+wysłano : ('msg_gej', 'jakub') + 142408 
+otrzymano : ping + 142408 
+wysłano : ('msg_gej', 'jakub') + 142408 
+otrzymano : ping + 142408 
+wysłano : ('msg_gej', 'jakub') + 142408 
+otrzymano : ping + 142408 
+wysłano : ('msg_gej', 'jakub') + 142408 
+otrzymano : ping + 142409 
+wysłano : ('msg_gej', 'jakub') + 142409 
+otrzymano : ping + 142409 
+wysłano : ('msg_gej', 'jakub') + 142409 
+otrzymano : ping + 142409 
+wysłano : ('msg_gej', 'jakub') + 142409 
+otrzymano : ping + 142409 
+wysłano : ('msg_gej', 'jakub') + 142409 
+otrzymano : ping + 142409 
+wysłano : ('msg_gej', 'jakub') + 142409 
+otrzymano : ping + 142415 
+wysłano : ('msg_gej', 'jakub') + 142415 
+otrzymano : ping + 142415 
+wysłano : ('msg_gej', 'jakub') + 142415 
+otrzymano : ping + 142415 
+wysłano : ('msg_gej', 'jakub') + 142415 
+otrzymano : pingping + 142416 
+wysłano : ('msg_gej', 'jakub') + 142416 
+otrzymano : ping + 142416 
+wysłano : ('msg_gej', 'jakub') + 142416 
+otrzymano : ping + 142416 
+wysłano : ('msg_gej', 'jakub') + 142416 
+otrzymano : ping + 142416 
+wysłano : ('msg_gej', 'jakub') + 142416 
+otrzymano : ping + 142416 
+wysłano : ('msg_gej', 'jakub') + 142416 
+otrzymano : ping + 142417 
+wysłano : ('msg_gej', 'jakub') + 142417 
+otrzymano : ping + 142417 
+wysłano : ('msg_gej', 'jakub') + 142417 
+otrzymano : ping + 142417 
+wysłano : ('msg_gej', 'jakub') + 142417 
+otrzymano : ping + 142417 
+wysłano : ('msg_gej', 'jakub') + 142417 
+otrzymano : ping + 142417 
+wysłano : ('msg_gej', 'jakub') + 142417 
+otrzymano : ping + 142418 
+wysłano : ('msg_gej', 'jakub') + 142418 
+otrzymano : ping + 142418 
+wysłano : ('msg_gej', 'jakub') + 142418 
+otrzymano : ping + 142418 
+wysłano : ('msg_gej', 'jakub') + 142418 
+otrzymano : ping + 142418 
+wysłano : ('msg_gej', 'jakub') + 142418 
+otrzymano : ping + 142418 
+wysłano : ('msg_gej', 'jakub') + 142418 
+otrzymano : ping + 142419 
+wysłano : ('msg_gej', 'jakub') + 142419 
+otrzymano : ping + 142419 
+wysłano : ('msg_gej', 'jakub') + 142419 
+otrzymano : ping + 142419 
+wysłano : ('msg_gej', 'jakub') + 142419 
+otrzymano : ping + 142419 
+wysłano : ('msg_gej', 'jakub') + 142419 
+otrzymano : ping + 142419 
+wysłano : ('msg_gej', 'jakub') + 142419 
+otrzymano : ping + 142420 
+wysłano : ('msg_gej', 'jakub') + 142420 
+otrzymano : ping + 142420 
+wysłano : ('msg_gej', 'jakub') + 142420 
+otrzymano : ping + 142420 
+wysłano : ('msg_gej', 'jakub') + 142420 
+otrzymano : ping + 142420 
+wysłano : ('msg_gej', 'jakub') + 142420 
+otrzymano : ping + 142420 
+wysłano : ('msg_gej', 'jakub') + 142420 
+otrzymano : ping + 142421 
+wysłano : ('msg_gej', 'jakub') + 142421 
+otrzymano : ping + 142421 
+wysłano : ('msg_gej', 'jakub') + 142421 
+otrzymano : ping + 142421 
+wysłano : ('msg_gej', 'jakub') + 142421 
+otrzymano : ping + 142421 
+wysłano : ('msg_gej', 'jakub') + 142421 
+otrzymano : ping + 142421 
+wysłano : ('msg_gej', 'jakub') + 142421 
+otrzymano : ping + 142422 
+wysłano : ('msg_gej', 'jakub') + 142422 
+otrzymano : ping + 142422 
+wysłano : ('msg_gej', 'jakub') + 142422 
+otrzymano : ping + 142422 
+wysłano : ('msg_gej', 'jakub') + 142422 
+otrzymano : ping + 142422 
+wysłano : ('msg_gej', 'jakub') + 142422 
+otrzymano : ping + 142422 
+wysłano : ('msg_gej', 'jakub') + 142422 
+otrzymano : ping + 142423 
+wysłano : ('msg_gej', 'jakub') + 142423 
+otrzymano : ping + 142423 
+wysłano : ('msg_gej', 'jakub') + 142423 
+otrzymano : ping + 142423 
+wysłano : ('msg_gej', 'jakub') + 142423 
+otrzymano : ping + 142423 
+wysłano : ('msg_gej', 'jakub') + 142423 
+otrzymano : ping + 142424 
+wysłano : ('msg_gej', 'jakub') + 142424 
+otrzymano : ping + 142424 
+wysłano : ('msg_gej', 'jakub') + 142424 
+otrzymano : ping + 142424 
+wysłano : ('msg_gej', 'jakub') + 142424 
+otrzymano : ping + 142424 
+wysłano : ('msg_gej', 'jakub') + 142424 
+otrzymano : ping + 142424 
+wysłano : ('msg_gej', 'jakub') + 142424 
+otrzymano : ping + 142425 
+wysłano : ('msg_gej', 'jakub') + 142425 
+otrzymano : ping + 142425 
+wysłano : ('msg_gej', 'jakub') + 142425 
+otrzymano : ping + 142425 
+wysłano : ('msg_gej', 'jakub') + 142425 
+otrzymano : ping + 142425 
+wysłano : ('msg_gej', 'jakub') + 142425 
+otrzymano : ping + 142425 
+wysłano : ('msg_gej', 'jakub') + 142425 
+otrzymano : ping + 142426 
+wysłano : ('msg_gej', 'jakub') + 142426 
+otrzymano : ping + 142426 
+wysłano : ('msg_gej', 'jakub') + 142426 
+otrzymano : ping + 142426 
+wysłano : ('msg_gej', 'jakub') + 142426 
+otrzymano : ping + 142426 
+wysłano : ('msg_gej', 'jakub') + 142426 
+otrzymano : ping + 142426 
+wysłano : ('msg_gej', 'jakub') + 142426 
+otrzymano : ping + 142427 
+wysłano : ('msg_gej', 'jakub') + 142427 
+otrzymano : ping + 142427 
+wysłano : ('msg_gej', 'jakub') + 142427 
+otrzymano : ping + 142427 
+wysłano : ('msg_gej', 'jakub') + 142427 
+otrzymano : ping + 142427 
+wysłano : ('msg_gej', 'jakub') + 142427 
+otrzymano : ping + 142427 
+wysłano : ('msg_gej', 'jakub') + 142427 
+otrzymano : ping + 142428 
+wysłano : ('msg_gej', 'jakub') + 142428 
+otrzymano : ping + 142428 
+wysłano : ('msg_gej', 'jakub') + 142428 
+otrzymano : ping + 142428 
+wysłano : ('msg_gej', 'jakub') + 142428 
+otrzymano : ping + 142428 
+wysłano : ('msg_gej', 'jakub') + 142428 
+otrzymano : ping + 142428 
+wysłano : ('msg_gej', 'jakub') + 142428 
+otrzymano : ping + 142429 
+wysłano : ('msg_gej', 'jakub') + 142429 
+otrzymano : ping + 142429 
+wysłano : ('msg_gej', 'jakub') + 142429 
+otrzymano : ping + 142429 
+wysłano : ('msg_gej', 'jakub') + 142429 
+otrzymano : ping + 142429 
+wysłano : ('msg_gej', 'jakub') + 142429 
+otrzymano : ping + 142429 
+wysłano : ('msg_gej', 'jakub') + 142429 
+otrzymano : ping + 142430 
+wysłano : ('msg_gej', 'jakub') + 142430 
+otrzymano : ping + 142430 
+wysłano : ('msg_gej', 'jakub') + 142430 
+otrzymano : ping + 142430 
+wysłano : ('msg_gej', 'jakub') + 142430 
+otrzymano : ping + 142430 
+wysłano : ('msg_gej', 'jakub') + 142430 
+otrzymano : ping + 142430 
+wysłano : ('msg_gej', 'jakub') + 142430 
+otrzymano : ping + 142431 
+wysłano : ('msg_gej', 'jakub') + 142431 
+otrzymano : ping + 142431 
+wysłano : ('msg_gej', 'jakub') + 142431 
+otrzymano : ping + 142431 
+wysłano : ('msg_gej', 'jakub') + 142431 
+otrzymano : ping + 142431 
+wysłano : ('msg_gej', 'jakub') + 142431 
+otrzymano : ping + 142431 
+wysłano : ('msg_gej', 'jakub') + 142431 
+otrzymano : ping + 142432 
+wysłano : ('msg_gej', 'jakub') + 142432 
+otrzymano : ping + 142432 
+wysłano : ('msg_gej', 'jakub') + 142432 
+otrzymano : ping + 142432 
+wysłano : ('msg_gej', 'jakub') + 142432 
+otrzymano : ping + 142432 
+wysłano : ('msg_gej', 'jakub') + 142432 
+otrzymano : ping + 142432 
+wysłano : ('msg_gej', 'jakub') + 142432 
+otrzymano : ping + 142433 
+wysłano : ('msg_gej', 'jakub') + 142433 
+otrzymano : ping + 142433 
+wysłano : ('msg_gej', 'jakub') + 142433 
+otrzymano : ping + 142433 
+wysłano : ('msg_gej', 'jakub') + 142433 
+otrzymano : ping + 142433 
+wysłano : ('msg_gej', 'jakub') + 142433 
+otrzymano : ping + 142433 
+wysłano : ('msg_gej', 'jakub') + 142433 
+otrzymano : ping + 142434 
+wysłano : ('msg_gej', 'jakub') + 142434 
+otrzymano : ping + 142434 
+wysłano : ('msg_gej', 'jakub') + 142434 
+otrzymano : ping + 142434 
+wysłano : ('msg_gej', 'jakub') + 142434 
+otrzymano : ping + 142434 
+wysłano : ('msg_gej', 'jakub') + 142434 
+otrzymano : ping + 142434 
+wysłano : ('msg_gej', 'jakub') + 142434 
+otrzymano : ping + 142435 
+wysłano : ('msg_gej', 'jakub') + 142435 
+otrzymano : ping + 142435 
+wysłano : ('msg_gej', 'jakub') + 142435 
+otrzymano : ping + 142435 
+wysłano : ('msg_gej', 'jakub') + 142435 
+otrzymano : ping + 142435 
+wysłano : ('msg_gej', 'jakub') + 142435 
+otrzymano : ping + 142435 
+wysłano : ('msg_gej', 'jakub') + 142435 
+otrzymano : ping + 142436 
+wysłano : ('msg_gej', 'jakub') + 142436 
+otrzymano : ping + 142436 
+wysłano : ('msg_gej', 'jakub') + 142436 
+otrzymano : ping + 142436 
+wysłano : ('msg_gej', 'jakub') + 142436 
+otrzymano : ping + 142436 
+wysłano : ('msg_gej', 'jakub') + 142436 
+otrzymano : ping + 142437 
+wysłano : ('msg_gej', 'jakub') + 142437 
+otrzymano : ping + 142437 
+wysłano : ('msg_gej', 'jakub') + 142437 
+otrzymano : ping + 142437 
+wysłano : ('msg_gej', 'jakub') + 142437 
+otrzymano : ping + 142437 
+wysłano : ('msg_gej', 'jakub') + 142437 
+otrzymano : ping + 142437 
+wysłano : ('msg_gej', 'jakub') + 142437 
+otrzymano : ping + 142438 
+wysłano : ('msg_gej', 'jakub') + 142438 
+otrzymano : ping + 142438 
+wysłano : ('msg_gej', 'jakub') + 142438 
+otrzymano : ping + 142438 
+wysłano : ('msg_gej', 'jakub') + 142438 
+otrzymano : ping + 142438 
+wysłano : ('msg_gej', 'jakub') + 142438 
+otrzymano : ping + 142438 
+wysłano : ('msg_gej', 'jakub') + 142438 
+otrzymano : ping + 142439 
+wysłano : ('msg_gej', 'jakub') + 142439 
+otrzymano : ping + 142439 
+wysłano : ('msg_gej', 'jakub') + 142439 
+otrzymano : ping + 142439 
+wysłano : ('msg_gej', 'jakub') + 142439 
+otrzymano : ping + 142439 
+wysłano : ('msg_gej', 'jakub') + 142439 
+otrzymano : ping + 142439 
+wysłano : ('msg_gej', 'jakub') + 142439 
+otrzymano : ping + 142440 
+wysłano : ('msg_gej', 'jakub') + 142440 
+otrzymano : ping + 142440 
+wysłano : ('msg_gej', 'jakub') + 142440 
+otrzymano : ping + 142440 
+wysłano : ('msg_gej', 'jakub') + 142440 
+otrzymano : ping + 142440 
+wysłano : ('msg_gej', 'jakub') + 142440 
+otrzymano : ping + 142440 
+wysłano : ('msg_gej', 'jakub') + 142440 
+otrzymano : ping + 142441 
+wysłano : ('msg_gej', 'jakub') + 142441 
+otrzymano : ping + 142441 
+wysłano : ('msg_gej', 'jakub') + 142441 
+otrzymano : ping + 142441 
+wysłano : ('msg_gej', 'jakub') + 142441 
+otrzymano : ping + 142441 
+wysłano : ('msg_gej', 'jakub') + 142441 
+otrzymano : ping + 142441 
+wysłano : ('msg_gej', 'jakub') + 142441 
+otrzymano : ping + 142442 
+wysłano : ('msg_gej', 'jakub') + 142442 
+otrzymano : ping + 142442 
+wysłano : ('msg_gej', 'jakub') + 142442 
+otrzymano : ping + 142442 
+wysłano : ('msg_gej', 'jakub') + 142442 
+otrzymano : ping + 142442 
+wysłano : ('msg_gej', 'jakub') + 142442 
+otrzymano : ping + 142442 
+wysłano : ('msg_gej', 'jakub') + 142442 
+otrzymano : ping + 142443 
+wysłano : ('msg_gej', 'jakub') + 142443 
+otrzymano : ping + 142443 
+wysłano : ('msg_gej', 'jakub') + 142443 
+otrzymano : ping + 142443 
+wysłano : ('msg_gej', 'jakub') + 142443 
+otrzymano : ping + 142443 
+wysłano : ('msg_gej', 'jakub') + 142443 
+otrzymano : ping + 142443 
+wysłano : ('msg_gej', 'jakub') + 142443 
+otrzymano : ping + 142444 
+wysłano : ('msg_gej', 'jakub') + 142444 
+otrzymano : ping + 142444 
+wysłano : ('msg_gej', 'jakub') + 142444 
+otrzymano : ping + 142444 
+wysłano : ('msg_gej', 'jakub') + 142444 
+otrzymano : ping + 142444 
+wysłano : ('msg_gej', 'jakub') + 142444 
+otrzymano : ping + 142444 
+wysłano : ('msg_gej', 'jakub') + 142444 
+otrzymano : ping + 142445 
+wysłano : ('msg_gej', 'jakub') + 142445 
+otrzymano : ping + 142445 
+wysłano : ('msg_gej', 'jakub') + 142445 
+otrzymano : ping + 142445 
+wysłano : ('msg_gej', 'jakub') + 142445 
+otrzymano : ping + 142445 
+wysłano : ('msg_gej', 'jakub') + 142445 
+otrzymano : ping + 142445 
+wysłano : ('msg_gej', 'jakub') + 142445 
+otrzymano : ping + 142446 
+wysłano : ('msg_gej', 'jakub') + 142446 
+otrzymano : ping + 142446 
+wysłano : ('msg_gej', 'jakub') + 142446 
+otrzymano : ping + 142446 
+wysłano : ('msg_gej', 'jakub') + 142446 
+otrzymano : ping + 142446 
+wysłano : ('msg_gej', 'jakub') + 142446 
+otrzymano : ping + 142446 
+wysłano : ('msg_gej', 'jakub') + 142446 
+otrzymano : ping + 142447 
+wysłano : ('msg_gej', 'jakub') + 142447 
+otrzymano : ping + 142447 
+wysłano : ('msg_gej', 'jakub') + 142447 
+otrzymano : ping + 142447 
+wysłano : ('msg_gej', 'jakub') + 142447 
+otrzymano : ping + 142447 
+wysłano : ('msg_gej', 'jakub') + 142447 
+otrzymano : ping + 142447 
+wysłano : ('msg_gej', 'jakub') + 142447 
+otrzymano : ping + 142448 
+wysłano : ('msg_gej', 'jakub') + 142448 
+otrzymano : ping + 142448 
+wysłano : ('msg_gej', 'jakub') + 142448 
+otrzymano : ping + 142448 
+wysłano : ('msg_gej', 'jakub') + 142448 
+otrzymano : ping + 142448 
+wysłano : ('msg_gej', 'jakub') + 142448 
+otrzymano : ping + 142448 
+wysłano : ('msg_gej', 'jakub') + 142448 
+otrzymano : ping + 142449 
+wysłano : ('msg_gej', 'jakub') + 142449 
+otrzymano : ping + 142449 
+wysłano : ('msg_gej', 'jakub') + 142449 
+otrzymano : ping + 142449 
+wysłano : ('msg_gej', 'jakub') + 142449 
+otrzymano : ping + 142449 
+wysłano : ('msg_gej', 'jakub') + 142449 
+otrzymano : ping + 142450 
+wysłano : ('msg_gej', 'jakub') + 142450 
+otrzymano : ping + 142450 
+wysłano : ('msg_gej', 'jakub') + 142450 
+otrzymano : ping + 142450 
+wysłano : ('msg_gej', 'jakub') + 142450 
+otrzymano : ping + 142450 
+wysłano : ('msg_gej', 'jakub') + 142450 
+otrzymano : ping + 142450 
+wysłano : ('msg_gej', 'jakub') + 142450 
+otrzymano : ping + 142451 
+wysłano : ('msg_gej', 'jakub') + 142451 
+otrzymano : ping + 142451 
+wysłano : ('msg_gej', 'jakub') + 142451 
+otrzymano : ping + 142451 
+wysłano : ('msg_gej', 'jakub') + 142451 
+otrzymano : ping + 142451 
+wysłano : ('msg_gej', 'jakub') + 142451 
+otrzymano : ping + 142451 
+wysłano : ('msg_gej', 'jakub') + 142451 
+otrzymano : ping + 142452 
+wysłano : ('msg_gej', 'jakub') + 142452 
+otrzymano : ping + 142452 
+wysłano : ('msg_gej', 'jakub') + 142452 
+otrzymano : ping + 142452 
+wysłano : ('msg_gej', 'jakub') + 142452 
+otrzymano : ping + 142452 
+wysłano : ('msg_gej', 'jakub') + 142452 
+otrzymano : ping + 142452 
+wysłano : ('msg_gej', 'jakub') + 142452 
+otrzymano : ping + 142453 
+wysłano : ('msg_gej', 'jakub') + 142453 
+otrzymano : ping + 142453 
+wysłano : ('msg_gej', 'jakub') + 142453 
+otrzymano : ping + 142453 
+wysłano : ('msg_gej', 'jakub') + 142453 
+otrzymano : ping + 142453 
+wysłano : ('msg_gej', 'jakub') + 142453 
+otrzymano : ping + 142453 
+wysłano : ('msg_gej', 'jakub') + 142453 
+otrzymano : ping + 142454 
+wysłano : ('msg_gej', 'jakub') + 142454 
+otrzymano : ping + 142454 
+wysłano : ('msg_gej', 'jakub') + 142454 
+otrzymano : ping + 142454 
+wysłano : ('msg_gej', 'jakub') + 142454 
+otrzymano : ping + 142454 
+wysłano : ('msg_gej', 'jakub') + 142454 
+otrzymano : ping + 142454 
+wysłano : ('msg_gej', 'jakub') + 142454 
+otrzymano : ping + 142455 
+wysłano : ('msg_gej', 'jakub') + 142455 
+otrzymano : ping + 142455 
+wysłano : ('msg_gej', 'jakub') + 142455 
+otrzymano : ping + 142455 
+wysłano : ('msg_gej', 'jakub') + 142455 
+otrzymano : ping + 142455 
+wysłano : ('msg_gej', 'jakub') + 142455 
+otrzymano : ping + 142455 
+wysłano : ('msg_gej', 'jakub') + 142455 
+otrzymano : ping + 142456 
+wysłano : ('msg_gej', 'jakub') + 142456 
+otrzymano : ping + 142456 
+wysłano : ('msg_gej', 'jakub') + 142456 
+otrzymano : ping + 142456 
+wysłano : ('msg_gej', 'jakub') + 142456 
+otrzymano : ping + 142456 
+wysłano : ('msg_gej', 'jakub') + 142456 
+otrzymano : ping + 142456 
+wysłano : ('msg_gej', 'jakub') + 142456 
+otrzymano : ping + 142457 
+wysłano : ('msg_gej', 'jakub') + 142457 
+otrzymano : ping + 142457 
+wysłano : ('msg_gej', 'jakub') + 142457 
+otrzymano : ping + 142457 
+wysłano : ('msg_gej', 'jakub') + 142457 
+otrzymano : ping + 142457 
+wysłano : ('msg_gej', 'jakub') + 142457 
+otrzymano : ping + 142457 
+wysłano : ('msg_gej', 'jakub') + 142457 
+otrzymano : ping + 142458 
+wysłano : ('msg_gej', 'jakub') + 142458 
+otrzymano : ping + 142458 
+wysłano : ('msg_gej', 'jakub') + 142458 
+otrzymano : ping + 142458 
+wysłano : ('msg_gej', 'jakub') + 142458 
+otrzymano : ping + 142458 
+wysłano : ('msg_gej', 'jakub') + 142458 
+otrzymano : ping + 142458 
+wysłano : ('msg_gej', 'jakub') + 142458 
+otrzymano : ping + 142459 
+wysłano : ('msg_gej', 'jakub') + 142459 
+otrzymano : ping + 142459 
+wysłano : ('msg_gej', 'jakub') + 142459 
+otrzymano : ping + 142459 
+wysłano : ('msg_gej', 'jakub') + 142459 
+otrzymano : ping + 142459 
+wysłano : ('msg_gej', 'jakub') + 142459 
+otrzymano : ping + 142459 
+wysłano : ('msg_gej', 'jakub') + 142459 
+otrzymano : ping + 142500 
+wysłano : ('msg_gej', 'jakub') + 142500 
+otrzymano : ping + 142545 
+wysłano : ('msg_gej', 'jakub') + 142545 
+otrzymano : pingping + 142546 
+wysłano : ('msg_gej', 'jakub') + 142546 
+otrzymano : ping + 142546 
+wysłano : ('msg_gej', 'jakub') + 142546 
+otrzymano : ping + 142546 
+wysłano : ('msg_gej', 'jakub') + 142546 
+otrzymano : ping + 142546 
+wysłano : ('msg_gej', 'jakub') + 142546 
+otrzymano : ping + 142546 
+wysłano : ('msg_gej', 'jakub') + 142546 
+otrzymano : ping + 142547 
+wysłano : ('msg_gej', 'jakub') + 142547 
+otrzymano : ping + 142547 
+wysłano : ('msg_gej', 'jakub') + 142547 
+otrzymano : ping + 142547 
+wysłano : ('msg_gej', 'jakub') + 142547 
+otrzymano : ping + 142547 
+wysłano : ('msg_gej', 'jakub') + 142547 
+otrzymano : ping + 142547 
+wysłano : ('msg_gej', 'jakub') + 142547 
+otrzymano : ping + 142548 
+wysłano : ('msg_gej', 'jakub') + 142548 
+otrzymano : ping + 142548 
+wysłano : ('msg_gej', 'jakub') + 142548 
+otrzymano : ping + 142548 
+wysłano : ('msg_gej', 'jakub') + 142548 
+otrzymano : ping + 142548 
+wysłano : ('msg_gej', 'jakub') + 142548 
+otrzymano : ping + 142548 
+wysłano : ('msg_gej', 'jakub') + 142548 
+otrzymano : ping + 142549 
+wysłano : ('msg_gej', 'jakub') + 142549 
+otrzymano : ping + 142549 
+wysłano : ('msg_gej', 'jakub') + 142549 
+otrzymano : ping + 142549 
+wysłano : ('msg_gej', 'jakub') + 142549 
+otrzymano : ping + 142549 
+wysłano : ('msg_gej', 'jakub') + 142549 
+otrzymano : ping + 142549 
+wysłano : ('msg_gej', 'jakub') + 142549 
+otrzymano : ping + 142550 
+wysłano : ('msg_gej', 'jakub') + 142550 
+otrzymano : ping + 142550 
+wysłano : ('msg_gej', 'jakub') + 142550 
+otrzymano : ping + 142550 
+wysłano : ('msg_gej', 'jakub') + 142550 
+otrzymano : ping + 142550 
+wysłano : ('msg_gej', 'jakub') + 142550 
+otrzymano : ping + 142550 
+wysłano : ('msg_gej', 'jakub') + 142550 
+otrzymano : ping + 142551 
+wysłano : ('msg_gej', 'jakub') + 142551 
+otrzymano : ('msg_hi', 'jakub') + 142551 
+wysłano : ('0', '0') + 142551 
+otrzymano : ping + 142551 
+wysłano : ('msg_hi', 'jakub') + 142551 
+otrzymano : ping + 142551 
+wysłano : ('0', '0') + 142551 
+otrzymano : ping + 142551 
+wysłano : ('msg_hi', 'jakub') + 142551 
+otrzymano : ping + 142551 
+wysłano : ('0', '0') + 142551 
+otrzymano : ping + 142551 
+wysłano : ('msg_hi', 'jakub') + 142551 
+otrzymano : ping + 142551 
+wysłano : ('0', '0') + 142551 
+otrzymano : ping + 142551 
+wysłano : ('msg_hi', 'jakub') + 142551 
+otrzymano : ping + 142552 
+wysłano : ('0', '0') + 142552 
+otrzymano : ping + 142552 
+wysłano : ('msg_hi', 'jakub') + 142552 
+otrzymano : ping + 142552 
+wysłano : ('0', '0') + 142552 
+otrzymano : ping + 142552 
+wysłano : ('msg_hi', 'jakub') + 142552 
+otrzymano : ping + 142552 
+wysłano : ('0', '0') + 142552 
+otrzymano : ping + 142552 
+wysłano : ('msg_hi', 'jakub') + 142552 
+otrzymano : ping + 142552 
+wysłano : ('0', '0') + 142552 
+otrzymano : ping + 142552 
+wysłano : ('msg_hi', 'jakub') + 142552 
+otrzymano : ping + 142552 
+wysłano : ('0', '0') + 142552 
+otrzymano : ping + 142552 
+wysłano : ('msg_hi', 'jakub') + 142552 
+otrzymano : ping + 142553 
+wysłano : ('0', '0') + 142553 
+otrzymano : ping + 142553 
+wysłano : ('msg_hi', 'jakub') + 142553 
+otrzymano : ping + 142553 
+wysłano : ('0', '0') + 142553 
+otrzymano : ping + 142553 
+wysłano : ('msg_hi', 'jakub') + 142553 
+otrzymano : ping + 142553 
+wysłano : ('0', '0') + 142553 
+otrzymano : ping + 142553 
+wysłano : ('msg_hi', 'jakub') + 142553 
+otrzymano : ping + 142553 
+wysłano : ('0', '0') + 142553 
+otrzymano : ping + 142553 
+wysłano : ('msg_hi', 'jakub') + 142553 
+otrzymano : ping + 142553 
+wysłano : ('0', '0') + 142553 
+otrzymano : ping + 142553 
+wysłano : ('msg_hi', 'jakub') + 142553 
+otrzymano : ping + 142554 
+wysłano : ('0', '0') + 142554 
+otrzymano : ping + 142554 
+wysłano : ('msg_hi', 'jakub') + 142554 
+otrzymano : ('msg_hu', 'jakubping') + 142554 
+wysłano : ('0', '0') + 142554 
+otrzymano : ping + 142554 
+wysłano : ('msg_hu', 'jakubping') + 142554 
+otrzymano : ping + 142554 
+wysłano : ('0', '0') + 142554 
+otrzymano : ping + 142554 
+wysłano : ('msg_hu', 'jakubping') + 142554 
+otrzymano : ping + 142554 
+wysłano : ('0', '0') + 142554 
+otrzymano : ping + 142554 
+wysłano : ('msg_hu', 'jakubping') + 142554 
+otrzymano : ping + 142554 
+wysłano : ('0', '0') + 142554 
+otrzymano : ping + 142554 
+wysłano : ('msg_hu', 'jakubping') + 142554 
+otrzymano : ping + 142555 
+wysłano : ('0', '0') + 142555 
+otrzymano : ping + 142555 
+wysłano : ('msg_hu', 'jakubping') + 142555 
+otrzymano : ping + 142555 
+wysłano : ('0', '0') + 142555 
+otrzymano : ping + 142555 
+wysłano : ('msg_hu', 'jakubping') + 142555 
+otrzymano : ('msg_hoj', 'jakub') + 142555 
+wysłano : ('0', '0') + 142555 
+otrzymano : ping + 142555 
+wysłano : ('msg_hoj', 'jakub') + 142555 
+otrzymano : ping + 142555 
+wysłano : ('0', '0') + 142555 
+otrzymano : ping + 142555 
+wysłano : ('msg_hoj', 'jakub') + 142555 
+otrzymano : ping + 142555 
+wysłano : ('0', '0') + 142555 
+otrzymano : ping + 142555 
+wysłano : ('msg_hoj', 'jakub') + 142555 
+otrzymano : ping + 142556 
+wysłano : ('0', '0') + 142556 
+otrzymano : ping + 142556 
+wysłano : ('msg_hoj', 'jakub') + 142556 
+otrzymano : ping + 142556 
+wysłano : ('0', '0') + 142556 
+otrzymano : ping + 142556 
+wysłano : ('msg_hoj', 'jakub') + 142556 
+otrzymano : ping + 142556 
+wysłano : ('0', '0') + 142556 
+otrzymano : ping + 142556 
+wysłano : ('msg_hoj', 'jakub') + 142556 
+otrzymano : ping + 142556 
+wysłano : ('0', '0') + 142556 
+otrzymano : ping + 142556 
+wysłano : ('msg_hoj', 'jakub') + 142556 
+otrzymano : ping + 142556 
+wysłano : ('0', '0') + 142556 
+otrzymano : ping + 142557 
+wysłano : ('msg_hoj', 'jakub') + 142557 
+otrzymano : ping + 142557 
+wysłano : ('0', '0') + 142557 
+otrzymano : ping + 142557 
+wysłano : ('msg_hoj', 'jakub') + 142557 
+otrzymano : ping + 142557 
+wysłano : ('0', '0') + 142557 
+otrzymano : ping + 142557 
+wysłano : ('msg_hoj', 'jakub') + 142557 
+otrzymano : ping + 142557 
+wysłano : ('0', '0') + 142557 
+otrzymano : ping + 142557 
+wysłano : ('msg_hoj', 'jakub') + 142557 
+otrzymano : ping + 142557 
+wysłano : ('0', '0') + 142557 
+otrzymano : ping + 142557 
+wysłano : ('msg_hoj', 'jakub') + 142557 
+otrzymano : ping + 142558 
+wysłano : ('0', '0') + 142558 
+otrzymano : ping + 142558 
+wysłano : ('msg_hoj', 'jakub') + 142558 
+otrzymano : ping + 142558 
+wysłano : ('0', '0') + 142558 
+otrzymano : ping + 142558 
+wysłano : ('msg_hoj', 'jakub') + 142558 
+otrzymano : ping + 142558 
+wysłano : ('0', '0') + 142558 
+otrzymano : ping + 142558 
+wysłano : ('msg_hoj', 'jakub') + 142558 
+otrzymano : ping + 142558 
+wysłano : ('0', '0') + 142558 
+otrzymano : ping + 142558 
+wysłano : ('msg_hoj', 'jakub') + 142558 
+otrzymano : ping + 142558 
+wysłano : ('0', '0') + 142558 
+otrzymano : ping + 142558 
+wysłano : ('msg_hoj', 'jakub') + 142558 
+otrzymano : ping + 142559 
+wysłano : ('0', '0') + 142559 
+otrzymano : ping + 142559 
+wysłano : ('msg_hoj', 'jakub') + 142559 
+otrzymano : ping + 142559 
+wysłano : ('0', '0') + 142559 
+otrzymano : ping + 142559 
+wysłano : ('msg_hoj', 'jakub') + 142559 
+otrzymano : ping + 142559 
+wysłano : ('0', '0') + 142559 
+otrzymano : ping + 142559 
+wysłano : ('msg_hoj', 'jakub') + 142559 
+otrzymano : ping + 142559 
+wysłano : ('0', '0') + 142559 
+otrzymano : ping + 142559 
+wysłano : ('msg_hoj', 'jakub') + 142559 
+otrzymano : ping + 142559 
+wysłano : ('0', '0') + 142559 
+otrzymano : ping + 142559 
+wysłano : ('msg_hoj', 'jakub') + 142559 
+otrzymano : ping + 142600 
+wysłano : ('0', '0') + 142600 
+otrzymano : ping + 142600 
+wysłano : ('msg_hoj', 'jakub') + 142600 
+otrzymano : ping + 142600 
+wysłano : ('0', '0') + 142600 
+otrzymano : ping + 142600 
+wysłano : ('msg_hoj', 'jakub') + 142600 
+otrzymano : ping + 142600 
+wysłano : ('0', '0') + 142600 
+otrzymano : ping + 142600 
+wysłano : ('msg_hoj', 'jakub') + 142600 
+otrzymano : ping + 142600 
+wysłano : ('0', '0') + 142600 
+otrzymano : ping + 142600 
+wysłano : ('msg_hoj', 'jakub') + 142600 
+otrzymano : ping + 142600 
+wysłano : ('0', '0') + 142600 
+otrzymano : ping + 142600 
+wysłano : ('msg_hoj', 'jakub') + 142600 
+otrzymano : ping + 142601 
+wysłano : ('0', '0') + 142601 
+otrzymano : ping + 142601 
+wysłano : ('msg_hoj', 'jakub') + 142601 
+otrzymano : ping + 142601 
+wysłano : ('0', '0') + 142601 
+otrzymano : ping + 142601 
+wysłano : ('msg_hoj', 'jakub') + 142601 
+otrzymano : ping + 142601 
+wysłano : ('0', '0') + 142601 
+otrzymano : ping + 142601 
+wysłano : ('msg_hoj', 'jakub') + 142601 
+otrzymano : ping + 142601 
+wysłano : ('0', '0') + 142601 
+otrzymano : ping + 142601 
+wysłano : ('msg_hoj', 'jakub') + 142601 
+otrzymano : ping + 142601 
+wysłano : ('0', '0') + 142601 
+otrzymano : ping + 142601 
+wysłano : ('msg_hoj', 'jakub') + 142601 
+otrzymano : ping + 142602 
+wysłano : ('0', '0') + 142602 
+otrzymano : ping + 142602 
+wysłano : ('msg_hoj', 'jakub') + 142602 
+otrzymano : ping + 142602 
+wysłano : ('0', '0') + 142602 
+otrzymano : ping + 142602 
+wysłano : ('msg_hoj', 'jakub') + 142602 
+otrzymano : ping + 142602 
+wysłano : ('0', '0') + 142602 
+otrzymano : ping + 142602 
+wysłano : ('msg_hoj', 'jakub') + 142602 
+otrzymano : ping + 142602 
+wysłano : ('0', '0') + 142602 
+otrzymano : ping + 142602 
+wysłano : ('msg_hoj', 'jakub') + 142602 
+otrzymano : ping + 142602 
+wysłano : ('0', '0') + 142602 
+otrzymano : ping + 142602 
+wysłano : ('msg_hoj', 'jakub') + 142602 
+otrzymano : ping + 142603 
+wysłano : ('0', '0') + 142603 
+otrzymano : ping + 142603 
+wysłano : ('msg_hoj', 'jakub') + 142603 
+otrzymano : ping + 142603 
+wysłano : ('0', '0') + 142603 
+otrzymano : ping + 142603 
+wysłano : ('msg_hoj', 'jakub') + 142603 
+otrzymano : ping + 142603 
+wysłano : ('0', '0') + 142603 
+otrzymano : ping + 142603 
+wysłano : ('msg_hoj', 'jakub') + 142603 
+otrzymano : ping + 142603 
+wysłano : ('0', '0') + 142603 
+otrzymano : ping + 142603 
+wysłano : ('msg_hoj', 'jakub') + 142603 
+otrzymano : ping + 142603 
+wysłano : ('0', '0') + 142603 
+otrzymano : ping + 142603 
+wysłano : ('msg_hoj', 'jakub') + 142603 
+otrzymano : ping + 142604 
+wysłano : ('0', '0') + 142604 
+otrzymano : ping + 142604 
+wysłano : ('msg_hoj', 'jakub') + 142604 
+otrzymano : ping + 142604 
+wysłano : ('0', '0') + 142604 
+otrzymano : ping + 142604 
+wysłano : ('msg_hoj', 'jakub') + 142604 
+otrzymano : ping + 142604 
+wysłano : ('0', '0') + 142604 
+otrzymano : ping + 142604 
+wysłano : ('msg_hoj', 'jakub') + 142604 
+otrzymano : ping + 142604 
+wysłano : ('0', '0') + 142604 
+otrzymano : ping + 142604 
+wysłano : ('msg_hoj', 'jakub') + 142604 
+otrzymano : ping + 142604 
+wysłano : ('0', '0') + 142604 
+otrzymano : ping + 142604 
+wysłano : ('msg_hoj', 'jakub') + 142604 
+otrzymano : ping + 142605 
+wysłano : ('0', '0') + 142605 
+otrzymano : ping + 142605 
+wysłano : ('msg_hoj', 'jakub') + 142605 
+otrzymano : ping + 142605 
+wysłano : ('0', '0') + 142605 
+otrzymano : ping + 142605 
+wysłano : ('msg_hoj', 'jakub') + 142605 
+otrzymano : ping + 142605 
+wysłano : ('0', '0') + 142605 
+otrzymano : ping + 142605 
+wysłano : ('msg_hoj', 'jakub') + 142605 
+otrzymano : ping + 142605 
+wysłano : ('0', '0') + 142605 
+otrzymano : ping + 142605 
+wysłano : ('msg_hoj', 'jakub') + 142605 
+otrzymano : ping + 142605 
+wysłano : ('0', '0') + 142605 
+otrzymano : ping + 142605 
+wysłano : ('msg_hoj', 'jakub') + 142605 
+otrzymano : ping + 142606 
+wysłano : ('0', '0') + 142606 
+otrzymano : ping + 142606 
+wysłano : ('msg_hoj', 'jakub') + 142606 
+otrzymano : ping + 142606 
+wysłano : ('0', '0') + 142606 
+otrzymano : ping + 142606 
+wysłano : ('msg_hoj', 'jakub') + 142606 
+otrzymano : ping + 142606 
+wysłano : ('0', '0') + 142606 
+otrzymano : ping + 142606 
+wysłano : ('msg_hoj', 'jakub') + 142606 
+otrzymano : ping + 142606 
+wysłano : ('0', '0') + 142606 
+otrzymano : ping + 142606 
+wysłano : ('0', '0') + 142606 
+otrzymano : ping + 142607 
+wysłano : ('0', '0') + 142607 
+otrzymano : pingping + 142607 
+wysłano : ('0', '0') + 142607 
+otrzymano : pingping + 142607 
+wysłano : ('0', '0') + 142607 
+otrzymano : pingping + 142607 
+wysłano : ('0', '0') + 142607 
+otrzymano : pingping + 142607 
+wysłano : ('0', '0') + 142607 
+otrzymano : pingping + 142608 
+wysłano : ('0', '0') + 142608 
+otrzymano : pingping + 142608 
+wysłano : ('0', '0') + 142608 
+otrzymano : pingping + 142608 
+wysłano : ('0', '0') + 142608 
+otrzymano : pingping + 142608 
+wysłano : ('0', '0') + 142608 
+otrzymano : pingping + 142608 
+wysłano : ('0', '0') + 142608 
