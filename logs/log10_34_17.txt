@@ -1,0 +1,630 @@
+otrzymano : dawid + 103428 
+wysłano :  + 103428 
+otrzymano : ping + 103428 
+wysłano :  + 103428 
+otrzymano : ping + 103429 
+wysłano :  + 103429 
+otrzymano : xyz + 103437 
+wysłano : ('1', '0') + 103437 
+otrzymano : pingping + 103438 
+wysłano : ('1', '0') + 103438 
+otrzymano : ping + 103438 
+wysłano : ('1', '0') + 103438 
+otrzymano : ping + 103438 
+wysłano : ('1', '0') + 103438 
+otrzymano : ping + 103438 
+wysłano : ('1', '0') + 103438 
+otrzymano : ping + 103438 
+wysłano : ('1', '0') + 103438 
+otrzymano : ping + 103439 
+wysłano : ('1', '0') + 103439 
+otrzymano : ping + 103439 
+wysłano : ('1', '0') + 103439 
+otrzymano : ping + 103439 
+wysłano : ('1', '0') + 103439 
+otrzymano : ping + 103439 
+wysłano : ('1', '0') + 103439 
+otrzymano : ping + 103439 
+wysłano : ('1', '0') + 103439 
+otrzymano : ping + 103440 
+wysłano : ('1', '0') + 103440 
+otrzymano : ping + 103440 
+wysłano : ('1', '0') + 103440 
+otrzymano : ping + 103440 
+wysłano : ('1', '0') + 103440 
+otrzymano : ('msg_hao', 'dawid') + 103440 
+wysłano : ('1', '0') + 103440 
+otrzymano : ping + 103440 
+wysłano : ('msg_hao', 'dawid') + 103440 
+otrzymano : ping + 103440 
+wysłano : ('1', '0') + 103440 
+otrzymano : ping + 103440 
+wysłano : ('msg_hao', 'dawid') + 103440 
+otrzymano : ping + 103441 
+wysłano : ('1', '0') + 103441 
+otrzymano : ping + 103441 
+wysłano : ('msg_hao', 'dawid') + 103441 
+otrzymano : ping + 103441 
+wysłano : ('1', '0') + 103441 
+otrzymano : ping + 103441 
+wysłano : ('msg_hao', 'dawid') + 103441 
+otrzymano : ping + 103441 
+wysłano : ('1', '0') + 103441 
+otrzymano : ping + 103441 
+wysłano : ('msg_hao', 'dawid') + 103441 
+otrzymano : ping + 103441 
+wysłano : ('1', '0') + 103441 
+otrzymano : ping + 103441 
+wysłano : ('msg_hao', 'dawid') + 103441 
+otrzymano : ping + 103441 
+wysłano : ('1', '0') + 103441 
+otrzymano : ping + 103442 
+wysłano : ('msg_hao', 'dawid') + 103442 
+otrzymano : ping + 103442 
+wysłano : ('1', '0') + 103442 
+otrzymano : ping + 103442 
+wysłano : ('msg_hao', 'dawid') + 103442 
+otrzymano : ping + 103442 
+wysłano : ('1', '0') + 103442 
+otrzymano : ping + 103442 
+wysłano : ('msg_hao', 'dawid') + 103442 
+otrzymano : ping + 103442 
+wysłano : ('1', '0') + 103442 
+otrzymano : ping + 103442 
+wysłano : ('msg_hao', 'dawid') + 103442 
+otrzymano : ping + 103442 
+wysłano : ('1', '0') + 103442 
+otrzymano : ping + 103442 
+wysłano : ('msg_hao', 'dawid') + 103442 
+otrzymano : ('msg_siema', 'dawid') + 103442 
+wysłano : ('1', '0') + 103442 
+otrzymano : ping + 103443 
+wysłano : ('msg_siema', 'dawid') + 103443 
+otrzymano : ping + 103443 
+wysłano : ('1', '0') + 103443 
+otrzymano : ping + 103443 
+wysłano : ('msg_siema', 'dawid') + 103443 
+otrzymano : ping + 103443 
+wysłano : ('1', '0') + 103443 
+otrzymano : ping + 103443 
+wysłano : ('msg_siema', 'dawid') + 103443 
+otrzymano : ping + 103443 
+wysłano : ('1', '0') + 103443 
+otrzymano : ping + 103443 
+wysłano : ('msg_siema', 'dawid') + 103443 
+otrzymano : ping + 103443 
+wysłano : ('1', '0') + 103443 
+otrzymano : ping + 103443 
+wysłano : ('msg_siema', 'dawid') + 103443 
+otrzymano : ping + 103443 
+wysłano : ('1', '0') + 103443 
+otrzymano : ping + 103444 
+wysłano : ('msg_siema', 'dawid') + 103444 
+otrzymano : ping + 103444 
+wysłano : ('1', '0') + 103444 
+otrzymano : ping + 103444 
+wysłano : ('msg_siema', 'dawid') + 103444 
+otrzymano : ping + 103444 
+wysłano : ('1', '0') + 103444 
+otrzymano : ping + 103444 
+wysłano : ('msg_siema', 'dawid') + 103444 
+otrzymano : ping + 103444 
+wysłano : ('1', '0') + 103444 
+otrzymano : ping + 103444 
+wysłano : ('msg_siema', 'dawid') + 103444 
+otrzymano : ping + 103444 
+wysłano : ('1', '0') + 103444 
+otrzymano : ping + 103444 
+wysłano : ('msg_siema', 'dawid') + 103444 
+otrzymano : ping + 103444 
+wysłano : ('1', '0') + 103444 
+otrzymano : ping + 103445 
+wysłano : ('msg_siema', 'dawid') + 103445 
+otrzymano : ping + 103445 
+wysłano : ('1', '0') + 103445 
+otrzymano : ping + 103445 
+wysłano : ('msg_siema', 'dawid') + 103445 
+otrzymano : ping + 103445 
+wysłano : ('1', '0') + 103445 
+otrzymano : ping + 103445 
+wysłano : ('msg_siema', 'dawid') + 103445 
+otrzymano : ping + 103445 
+wysłano : ('1', '0') + 103445 
+otrzymano : ping + 103445 
+wysłano : ('msg_siema', 'dawid') + 103445 
+otrzymano : ping + 103445 
+wysłano : ('1', '0') + 103445 
+otrzymano : ping + 103445 
+wysłano : ('msg_siema', 'dawid') + 103445 
+otrzymano : ping + 103445 
+wysłano : ('1', '0') + 103445 
+otrzymano : ping + 103446 
+wysłano : ('msg_siema', 'dawid') + 103446 
+otrzymano : ping + 103446 
+wysłano : ('1', '0') + 103446 
+otrzymano : ping + 103446 
+wysłano : ('msg_siema', 'dawid') + 103446 
+otrzymano : ping + 103446 
+wysłano : ('1', '0') + 103446 
+otrzymano : ping + 103446 
+wysłano : ('msg_siema', 'dawid') + 103446 
+otrzymano : ping + 103446 
+wysłano : ('1', '0') + 103446 
+otrzymano : ('msg_czesc', 'xyz') + 103446 
+wysłano : ('msg_siema', 'dawid') + 103446 
+otrzymano : ping + 103446 
+wysłano : ('msg_czesc', 'xyz') + 103446 
+otrzymano : ping + 103446 
+wysłano : ('msg_siema', 'dawid') + 103446 
+otrzymano : ping + 103446 
+wysłano : ('msg_czesc', 'xyz') + 103446 
+otrzymano : ping + 103447 
+wysłano : ('msg_siema', 'dawid') + 103447 
+otrzymano : ping + 103447 
+wysłano : ('msg_czesc', 'xyz') + 103447 
+otrzymano : ping + 103447 
+wysłano : ('msg_siema', 'dawid') + 103447 
+otrzymano : ping + 103447 
+wysłano : ('msg_czesc', 'xyz') + 103447 
+otrzymano : ping + 103447 
+wysłano : ('msg_siema', 'dawid') + 103447 
+otrzymano : ping + 103447 
+wysłano : ('msg_czesc', 'xyz') + 103447 
+otrzymano : ping + 103447 
+wysłano : ('msg_siema', 'dawid') + 103447 
+otrzymano : ping + 103447 
+wysłano : ('msg_czesc', 'xyz') + 103447 
+otrzymano : ping + 103447 
+wysłano : ('msg_siema', 'dawid') + 103447 
+otrzymano : ping + 103447 
+wysłano : ('msg_czesc', 'xyz') + 103447 
+otrzymano : ping + 103448 
+wysłano : ('msg_siema', 'dawid') + 103448 
+otrzymano : ping + 103448 
+wysłano : ('msg_czesc', 'xyz') + 103448 
+otrzymano : ping + 103448 
+wysłano : ('msg_siema', 'dawid') + 103448 
+otrzymano : ping + 103448 
+wysłano : ('msg_czesc', 'xyz') + 103448 
+otrzymano : ping + 103448 
+wysłano : ('msg_siema', 'dawid') + 103448 
+otrzymano : ping + 103448 
+wysłano : ('msg_czesc', 'xyz') + 103448 
+otrzymano : ping + 103448 
+wysłano : ('msg_siema', 'dawid') + 103448 
+otrzymano : ping + 103448 
+wysłano : ('msg_czesc', 'xyz') + 103448 
+otrzymano : ping + 103448 
+wysłano : ('msg_siema', 'dawid') + 103448 
+otrzymano : ping + 103448 
+wysłano : ('msg_czesc', 'xyz') + 103448 
+otrzymano : ping + 103449 
+wysłano : ('msg_siema', 'dawid') + 103449 
+otrzymano : ping + 103449 
+wysłano : ('msg_czesc', 'xyz') + 103449 
+otrzymano : ping + 103449 
+wysłano : ('msg_siema', 'dawid') + 103449 
+otrzymano : ping + 103449 
+wysłano : ('msg_czesc', 'xyz') + 103449 
+otrzymano : ping + 103449 
+wysłano : ('msg_siema', 'dawid') + 103449 
+otrzymano : ping + 103449 
+wysłano : ('msg_czesc', 'xyz') + 103449 
+otrzymano : ping + 103449 
+wysłano : ('msg_siema', 'dawid') + 103449 
+otrzymano : ping + 103449 
+wysłano : ('msg_czesc', 'xyz') + 103449 
+otrzymano : ping + 103449 
+wysłano : ('msg_siema', 'dawid') + 103449 
+otrzymano : ping + 103450 
+wysłano : ('msg_czesc', 'xyz') + 103450 
+otrzymano : ping + 103450 
+wysłano : ('msg_siema', 'dawid') + 103450 
+otrzymano : ping + 103450 
+wysłano : ('msg_czesc', 'xyz') + 103450 
+otrzymano : ping + 103450 
+wysłano : ('msg_siema', 'dawid') + 103450 
+otrzymano : ping + 103450 
+wysłano : ('msg_czesc', 'xyz') + 103450 
+otrzymano : ping + 103450 
+wysłano : ('msg_siema', 'dawid') + 103450 
+otrzymano : ping + 103450 
+wysłano : ('msg_czesc', 'xyz') + 103450 
+otrzymano : ping + 103450 
+wysłano : ('msg_siema', 'dawid') + 103450 
+otrzymano : ping + 103450 
+wysłano : ('msg_czesc', 'xyz') + 103450 
+otrzymano : ping + 103450 
+wysłano : ('msg_siema', 'dawid') + 103450 
+otrzymano : ping + 103451 
+wysłano : ('msg_czesc', 'xyz') + 103451 
+otrzymano : ping + 103451 
+wysłano : ('msg_siema', 'dawid') + 103451 
+otrzymano : ping + 103451 
+wysłano : ('msg_czesc', 'xyz') + 103451 
+otrzymano : ping + 103451 
+wysłano : ('msg_siema', 'dawid') + 103451 
+otrzymano : ping + 103451 
+wysłano : ('msg_czesc', 'xyz') + 103451 
+otrzymano : ping + 103451 
+wysłano : ('msg_siema', 'dawid') + 103451 
+otrzymano : ping + 103451 
+wysłano : ('msg_czesc', 'xyz') + 103451 
+otrzymano : ping + 103451 
+wysłano : ('msg_siema', 'dawid') + 103451 
+otrzymano : ping + 103451 
+wysłano : ('msg_czesc', 'xyz') + 103451 
+otrzymano : ping + 103451 
+wysłano : ('msg_siema', 'dawid') + 103451 
+otrzymano : ping + 103452 
+wysłano : ('msg_czesc', 'xyz') + 103452 
+otrzymano : ping + 103452 
+wysłano : ('msg_siema', 'dawid') + 103452 
+otrzymano : ping + 103452 
+wysłano : ('msg_czesc', 'xyz') + 103452 
+otrzymano : ping + 103452 
+wysłano : ('msg_siema', 'dawid') + 103452 
+otrzymano : ping + 103452 
+wysłano : ('msg_czesc', 'xyz') + 103452 
+otrzymano : ping + 103452 
+wysłano : ('msg_siema', 'dawid') + 103452 
+otrzymano : ping + 103452 
+wysłano : ('msg_czesc', 'xyz') + 103452 
+otrzymano : ping + 103452 
+wysłano : ('msg_siema', 'dawid') + 103452 
+otrzymano : ping + 103452 
+wysłano : ('msg_czesc', 'xyz') + 103452 
+otrzymano : ping + 103452 
+wysłano : ('msg_siema', 'dawid') + 103452 
+otrzymano : ping + 103453 
+wysłano : ('msg_czesc', 'xyz') + 103453 
+otrzymano : ping + 103453 
+wysłano : ('msg_siema', 'dawid') + 103453 
+otrzymano : ping + 103453 
+wysłano : ('msg_czesc', 'xyz') + 103453 
+otrzymano : ping + 103453 
+wysłano : ('msg_siema', 'dawid') + 103453 
+otrzymano : ping + 103453 
+wysłano : ('msg_czesc', 'xyz') + 103453 
+otrzymano : ping + 103453 
+wysłano : ('msg_siema', 'dawid') + 103453 
+otrzymano : ping + 103453 
+wysłano : ('msg_czesc', 'xyz') + 103453 
+otrzymano : ping + 103453 
+wysłano : ('msg_siema', 'dawid') + 103453 
+otrzymano : ping + 103453 
+wysłano : ('msg_czesc', 'xyz') + 103453 
+otrzymano : ping + 103453 
+wysłano : ('msg_siema', 'dawid') + 103453 
+otrzymano : ping + 103454 
+wysłano : ('msg_czesc', 'xyz') + 103454 
+otrzymano : ping + 103454 
+wysłano : ('msg_siema', 'dawid') + 103454 
+otrzymano : ping + 103454 
+wysłano : ('msg_czesc', 'xyz') + 103454 
+otrzymano : ping + 103454 
+wysłano : ('msg_siema', 'dawid') + 103454 
+otrzymano : ping + 103454 
+wysłano : ('msg_czesc', 'xyz') + 103454 
+otrzymano : ping + 103454 
+wysłano : ('msg_siema', 'dawid') + 103454 
+otrzymano : ping + 103454 
+wysłano : ('msg_czesc', 'xyz') + 103454 
+otrzymano : ping + 103454 
+wysłano : ('msg_siema', 'dawid') + 103454 
+otrzymano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103454 
+wysłano : ('msg_czesc', 'xyz') + 103454 
+otrzymano : ping + 103454 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103454 
+otrzymano : ping + 103455 
+wysłano : ('msg_czesc', 'xyz') + 103455 
+otrzymano : ping + 103455 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103455 
+otrzymano : ping + 103455 
+wysłano : ('msg_czesc', 'xyz') + 103455 
+otrzymano : ping + 103455 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103455 
+otrzymano : ping + 103455 
+wysłano : ('msg_czesc', 'xyz') + 103455 
+otrzymano : ping + 103455 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103455 
+otrzymano : ping + 103455 
+wysłano : ('msg_czesc', 'xyz') + 103455 
+otrzymano : ping + 103455 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103455 
+otrzymano : ping + 103455 
+wysłano : ('msg_czesc', 'xyz') + 103455 
+otrzymano : ping + 103456 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103456 
+otrzymano : ping + 103456 
+wysłano : ('msg_czesc', 'xyz') + 103456 
+otrzymano : ping + 103456 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103456 
+otrzymano : ping + 103456 
+wysłano : ('msg_czesc', 'xyz') + 103456 
+otrzymano : ping + 103456 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103456 
+otrzymano : ping + 103456 
+wysłano : ('msg_czesc', 'xyz') + 103456 
+otrzymano : ping + 103456 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103456 
+otrzymano : ping + 103456 
+wysłano : ('msg_czesc', 'xyz') + 103456 
+otrzymano : ping + 103456 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103456 
+otrzymano : ping + 103456 
+wysłano : ('msg_czesc', 'xyz') + 103456 
+otrzymano : ping + 103457 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103457 
+otrzymano : ping + 103457 
+wysłano : ('msg_czesc', 'xyz') + 103457 
+otrzymano : ping + 103457 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103457 
+otrzymano : ping + 103457 
+wysłano : ('msg_czesc', 'xyz') + 103457 
+otrzymano : ping + 103457 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103457 
+otrzymano : ping + 103457 
+wysłano : ('msg_czesc', 'xyz') + 103457 
+otrzymano : ping + 103457 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103457 
+otrzymano : ping + 103457 
+wysłano : ('msg_czesc', 'xyz') + 103457 
+otrzymano : ping + 103457 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103457 
+otrzymano : ping + 103457 
+wysłano : ('msg_czesc', 'xyz') + 103457 
+otrzymano : ping + 103458 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103458 
+otrzymano : ping + 103458 
+wysłano : ('msg_czesc', 'xyz') + 103458 
+otrzymano : ping + 103458 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103458 
+otrzymano : ping + 103458 
+wysłano : ('msg_czesc', 'xyz') + 103458 
+otrzymano : ping + 103458 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103458 
+otrzymano : ping + 103458 
+wysłano : ('msg_czesc', 'xyz') + 103458 
+otrzymano : ping + 103458 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103458 
+otrzymano : ping + 103458 
+wysłano : ('msg_czesc', 'xyz') + 103458 
+otrzymano : ping + 103458 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103458 
+otrzymano : ping + 103458 
+wysłano : ('msg_czesc', 'xyz') + 103458 
+otrzymano : ping + 103459 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103459 
+otrzymano : ping + 103459 
+wysłano : ('msg_czesc', 'xyz') + 103459 
+otrzymano : ping + 103459 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103459 
+otrzymano : ping + 103459 
+wysłano : ('msg_czesc', 'xyz') + 103459 
+otrzymano : ping + 103459 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103459 
+otrzymano : ping + 103459 
+wysłano : ('msg_czesc', 'xyz') + 103459 
+otrzymano : ping + 103459 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103459 
+otrzymano : ping + 103459 
+wysłano : ('msg_czesc', 'xyz') + 103459 
+otrzymano : ping + 103459 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103459 
+otrzymano : ping + 103459 
+wysłano : ('msg_czesc', 'xyz') + 103459 
+otrzymano : ping + 103500 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103500 
+otrzymano : ping + 103500 
+wysłano : ('msg_czesc', 'xyz') + 103500 
+otrzymano : ping + 103500 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103500 
+otrzymano : ping + 103500 
+wysłano : ('msg_czesc', 'xyz') + 103500 
+otrzymano : ping + 103500 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103500 
+otrzymano : ping + 103500 
+wysłano : ('msg_czesc', 'xyz') + 103500 
+otrzymano : ping + 103500 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103500 
+otrzymano : ping + 103500 
+wysłano : ('msg_czesc', 'xyz') + 103500 
+otrzymano : ping + 103500 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103500 
+otrzymano : ping + 103500 
+wysłano : ('msg_czesc', 'xyz') + 103500 
+otrzymano : ping + 103501 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103501 
+otrzymano : ping + 103501 
+wysłano : ('msg_czesc', 'xyz') + 103501 
+otrzymano : ping + 103501 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103501 
+otrzymano : ping + 103501 
+wysłano : ('msg_czesc', 'xyz') + 103501 
+otrzymano : ping + 103501 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103501 
+otrzymano : ping + 103501 
+wysłano : ('msg_czesc', 'xyz') + 103501 
+otrzymano : ping + 103501 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103501 
+otrzymano : ping + 103501 
+wysłano : ('msg_czesc', 'xyz') + 103501 
+otrzymano : ping + 103501 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103501 
+otrzymano : ping + 103502 
+wysłano : ('msg_czesc', 'xyz') + 103502 
+otrzymano : ping + 103502 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103502 
+otrzymano : ping + 103502 
+wysłano : ('msg_czesc', 'xyz') + 103502 
+otrzymano : ping + 103502 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103502 
+otrzymano : ping + 103502 
+wysłano : ('msg_czesc', 'xyz') + 103502 
+otrzymano : ping + 103502 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103502 
+otrzymano : ping + 103502 
+wysłano : ('msg_czesc', 'xyz') + 103502 
+otrzymano : ping + 103502 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103502 
+otrzymano : ping + 103502 
+wysłano : ('msg_czesc', 'xyz') + 103502 
+otrzymano : ping + 103502 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103502 
+otrzymano : ping + 103503 
+wysłano : ('msg_czesc', 'xyz') + 103503 
+otrzymano : ping + 103503 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103503 
+otrzymano : ping + 103503 
+wysłano : ('msg_czesc', 'xyz') + 103503 
+otrzymano : ping + 103503 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103503 
+otrzymano : ping + 103503 
+wysłano : ('msg_czesc', 'xyz') + 103503 
+otrzymano : ('msg_jak§kupiemkarnet', 'xyzping') + 103503 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103503 
+otrzymano : ping + 103503 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103503 
+otrzymano : ping + 103503 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103503 
+otrzymano : ping + 103503 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103503 
+otrzymano : ping + 103503 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103503 
+otrzymano : ping + 103504 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103504 
+otrzymano : ping + 103504 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103504 
+otrzymano : ping + 103504 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103504 
+otrzymano : ping + 103504 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103504 
+otrzymano : ping + 103504 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103504 
+otrzymano : ping + 103504 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103504 
+otrzymano : ping + 103504 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103504 
+otrzymano : ping + 103504 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103504 
+otrzymano : ping + 103504 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103504 
+otrzymano : ping + 103504 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103504 
+otrzymano : ping + 103505 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103505 
+otrzymano : ping + 103505 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103505 
+otrzymano : ping + 103505 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103505 
+otrzymano : ping + 103505 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103505 
+otrzymano : ping + 103505 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103505 
+otrzymano : ping + 103505 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103505 
+otrzymano : ping + 103505 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103505 
+otrzymano : ping + 103505 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103505 
+otrzymano : ping + 103505 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103505 
+otrzymano : ping + 103505 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103505 
+otrzymano : ping + 103506 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103506 
+otrzymano : ping + 103506 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103506 
+otrzymano : ping + 103506 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103506 
+otrzymano : ping + 103506 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103506 
+otrzymano : ping + 103506 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103506 
+otrzymano : ping + 103506 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103506 
+otrzymano : ping + 103506 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103506 
+otrzymano : ping + 103506 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103506 
+otrzymano : ping + 103506 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103506 
+otrzymano : ping + 103507 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103507 
+otrzymano : ping + 103507 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103507 
+otrzymano : ping + 103507 
+wysłano : ('msg_kiedy§idziemy§na§silownie', 'dawidping') + 103507 
+otrzymano : ('msg_:(', 'dawidping') + 103507 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103507 
+otrzymano : ping + 103507 
+wysłano : ('msg_:(', 'dawidping') + 103507 
+otrzymano : ping + 103507 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103507 
+otrzymano : ping + 103507 
+wysłano : ('msg_:(', 'dawidping') + 103507 
+otrzymano : ping + 103507 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103507 
+otrzymano : ping + 103507 
+wysłano : ('msg_:(', 'dawidping') + 103507 
+otrzymano : ping + 103507 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103507 
+otrzymano : ping + 103508 
+wysłano : ('msg_:(', 'dawidping') + 103508 
+otrzymano : ping + 103508 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103508 
+otrzymano : ping + 103508 
+wysłano : ('msg_:(', 'dawidping') + 103508 
+otrzymano : ping + 103508 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103508 
+otrzymano : ping + 103508 
+wysłano : ('msg_:(', 'dawidping') + 103508 
+otrzymano : ping + 103508 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103508 
+otrzymano : ping + 103508 
+wysłano : ('msg_:(', 'dawidping') + 103508 
+otrzymano : ping + 103508 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103508 
+otrzymano : ping + 103508 
+wysłano : ('msg_:(', 'dawidping') + 103508 
+otrzymano : ping + 103508 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103508 
+otrzymano : ping + 103509 
+wysłano : ('msg_:(', 'dawidping') + 103509 
+otrzymano : ping + 103509 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103509 
+otrzymano : ping + 103509 
+wysłano : ('msg_:(', 'dawidping') + 103509 
+otrzymano : ping + 103509 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103509 
+otrzymano : ping + 103509 
+wysłano : ('msg_:(', 'dawidping') + 103509 
+otrzymano : ping + 103509 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103509 
+otrzymano : ping + 103509 
+wysłano : ('msg_:(', 'dawidping') + 103509 
+otrzymano : ping + 103509 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103509 
+otrzymano : ping + 103509 
+wysłano : ('msg_:(', 'dawidping') + 103509 
+otrzymano : ping + 103509 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103509 
+otrzymano : ping + 103510 
+wysłano : ('msg_:(', 'dawidping') + 103510 
+otrzymano : ping + 103510 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103510 
+otrzymano : ping + 103510 
+wysłano : ('msg_:(', 'dawidping') + 103510 
+otrzymano : ping + 103510 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103510 
+otrzymano : ping + 103510 
+wysłano : ('msg_:(', 'dawidping') + 103510 
+otrzymano : ping + 103510 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103510 
+otrzymano : ping + 103510 
+wysłano : ('msg_:(', 'dawidping') + 103510 
+otrzymano : ping + 103510 
+wysłano : ('msg_jak§kupiemkarnet', 'xyzping') + 103510 
+otrzymano : ping + 103510 
+wysłano : ('msg_:(', 'dawidping') + 103510 
