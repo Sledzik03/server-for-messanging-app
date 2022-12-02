@@ -1,31 +1,25 @@
 import socket, datetime
 import time
 from _thread import *
-# import base64
-# import hashlib
-# from Crypto import Random
-# from Crypto.Cipher import AES
-import tkinter as tk
 
-# server = socket.gethostbyname(socket.gethostname())
-server = '192.168.1.101'
+server = "192.168.1.101"
 port = 5555
+
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 teraz = datetime.datetime.now()
 godzina = int(teraz.strftime("%H"))
 minuta = int(teraz.strftime("%M"))
 sekunda = int(teraz.strftime(("%S")))
-log = open(f"logs\log{godzina}_{minuta}_{sekunda}.txt", "w", encoding='utf-8')
+log = open(f"logs\\log{godzina}_{minuta}_{sekunda}.txt", "w", encoding='utf-8')
 
+try:
+    s.bind((server, port))
+    s.listen(25)
 
-def start_server():
-    try:
-        s.bind((server, port))
-        s.listen(25)
-    except socket.error as e:
-        str(e)
+except socket.error as e:
+    str(e)
 
-    print("Czekanie na połączenie. Server działa")
+print("Czekanie na połączenie. Server działa")
 
 
 def to_int(str):
@@ -66,6 +60,7 @@ def threaded_client(conn, player):
                 data = read_pos(data)
 
                 pozycje_graczy[player] = data
+                print(pozycje_graczy)
 
             if not data:
                 print("rozłączono")
@@ -75,6 +70,7 @@ def threaded_client(conn, player):
                 for i in range(0, 25):
                     if player != i and busy_userplace[i] == 1:
                         reply = pozycje_graczy[i]
+                        print("wysła", reply)
                         conn.send(str.encode(make_pos(reply)))
                         time.sleep(0.2)
                 # print(type(reply[0]), type(reply[1]))
@@ -98,9 +94,11 @@ def threaded_client(conn, player):
             break
     conn.close()
 
-start_server()
 
 while True:
+
+    #
+
     conn, addr = s.accept()
     for i in range(0, 25):
         if busy_userplace[i] == 0:
